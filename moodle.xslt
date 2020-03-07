@@ -2,7 +2,7 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:import href="afup2moodle.xslt"/>
-  <xsl:output method="xml"/>
+  <xsl:output method="xml" cdata-section-elements="text"/>
 
   <xsl:variable name="book" select="'E'"/>
   <xsl:variable name="chapter" select="'E04'"/>
