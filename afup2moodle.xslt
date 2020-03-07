@@ -15,13 +15,20 @@
     <question type="multichoice">
       <name><text><xsl:value-of select="./@name"/></text></name>
       <questiontext>
-        <text><xsl:apply-templates select="text"/></text>
+        <xsl:apply-templates select="text"/>
       </questiontext>
       <xsl:apply-templates select="answer"/>
     </question>
   </xsl:template>
 
-  <xsl:template match="text"> <xsl:apply-templates select="p"/><xsl:apply-templates select="img"/></xsl:template>
+  <xsl:template match="text">
+    <text>
+      <xsl:text disable-output-escaping="yes">&lt;![CDATA[</xsl:text>
+      <xsl:apply-templates select="p"/><br/>
+      <xsl:apply-templates select="img"/>
+      <xsl:text disable-output-escaping="yes">]]&gt;</xsl:text>
+    </text>
+  </xsl:template>
 
   <xsl:template match="img">
     <xsl:variable name="imgid" select="@src"/>
@@ -35,10 +42,18 @@
     <answer>
       <xsl:if test="@correct='yes'"><xsl:attribute name="fraction">100</xsl:attribute></xsl:if>
       <xsl:if test="@correct='no'"><xsl:attribute name="fraction">0</xsl:attribute></xsl:if>
-      <text><xsl:apply-templates /></text>
+      <text>
+        <xsl:text disable-output-escaping="yes">&lt;![CDATA[</xsl:text>
+        <xsl:apply-templates />
+        <xsl:text disable-output-escaping="yes">]]&gt;</xsl:text>
+      </text>
       <xsl:if test="@correct='yes'"><feedback><text><![CDATA[Korrekt!]]></text></feedback></xsl:if>
       <xsl:if test="@correct='no'"><feedback><text><![CDATA[Leider falsch.]]></text></feedback></xsl:if>
     </answer>
+  </xsl:template>
+
+  <xsl:template match="p">
+    <xsl:apply-templates/>
   </xsl:template>
 
   <xsl:template match="*">
