@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
+
   <xsl:template match="catalog">
     <xsl:apply-templates select="catalog"/>
     <xsl:apply-templates select="q"/>
@@ -14,9 +15,11 @@
   <xsl:template match="question">
     <h3><xsl:value-of select="./@name"/></h3>
     <xsl:apply-templates select="text"/>
-    <ol>
-      <xsl:apply-templates select="answer"/>
-    </ol>
+    <table>
+      <tbody class="#shuffle">
+        <xsl:apply-templates select="answer"/>
+      </tbody>
+    </table>
   </xsl:template>
 
   <xsl:template match="text">
@@ -33,7 +36,11 @@
   </xsl:template>
 
   <xsl:template match="answer">
-    <li><xsl:apply-templates /></li>
+    <tr>
+      <td width="70"><xsl:if test="@correct='yes'"><input value="--?--" onclick="value='Richtig'" type="button"/></xsl:if>
+      <xsl:if test="@correct='no'"><input value="--?--" onclick="value='Falsch'" type="button"/></xsl:if></td>
+      <td><xsl:apply-templates /></td>
+    </tr>
   </xsl:template>
 
   <xsl:template match="*">
