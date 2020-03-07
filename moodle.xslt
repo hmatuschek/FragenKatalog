@@ -1,10 +1,16 @@
 <?xml version="1.0"?>
 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:import href="afup2moodle.xslt"/>
   <xsl:output method="xml"/>
 
+  <xsl:variable name="book" select="'E'"/>
+  <xsl:variable name="chapter" select="'E04'"/>
+
   <xsl:template match="/">
-    <xsl:apply-templates select="/AfuP/catalog[@id='moltrecht']/catalog[@id='E01']"/>
+  <quiz>
+    <question type="category"><category><text><xsl:copy-of select="$chapter"/></text></category></question>
+    <xsl:apply-templates select="/AfuP/catalog[@id='moltrecht']/catalog[@id=$book]/catalog[@id=$chapter]"/>
+  </quiz>
   </xsl:template>
 </xsl:stylesheet>

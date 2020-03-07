@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
   <xsl:template match="catalog">
     <xsl:apply-templates select="catalog"/>
     <xsl:apply-templates select="q"/>
@@ -12,17 +12,16 @@
   </xsl:template>
 
   <xsl:template match="question">
-    <h3><xsl:value-of select="./@name"/></h3>
-    <xsl:apply-templates select="text"/>
-    <ol>
+    <question type="multichoice">
+      <name><text><xsl:value-of select="./@name"/></text></name>
+      <questiontext>
+        <text><xsl:apply-templates select="text"/></text>
+      </questiontext>
       <xsl:apply-templates select="answer"/>
-    </ol>
+    </question>
   </xsl:template>
 
-  <xsl:template match="text">
-    <p><xsl:apply-templates select="p"/></p>
-    <p><xsl:apply-templates select="img"/></p>
-  </xsl:template>
+  <xsl:template match="text"> <xsl:apply-templates select="p"/><xsl:apply-templates select="img"/></xsl:template>
 
   <xsl:template match="img">
     <xsl:variable name="imgid" select="@src"/>
@@ -33,7 +32,13 @@
   </xsl:template>
 
   <xsl:template match="answer">
-    <li><xsl:apply-templates /></li>
+    <answer>
+      <xsl:if test="@correct='yes'"><xsl:attribute name="fraction">100</xsl:attribute></xsl:if>
+      <xsl:if test="@correct='no'"><xsl:attribute name="fraction">0</xsl:attribute></xsl:if>
+      <text><xsl:apply-templates /></text>
+      <xsl:if test="@correct='yes'"><feedback><text><![CDATA[Korrekt!]]></text></feedback></xsl:if>
+      <xsl:if test="@correct='no'"><feedback><text><![CDATA[Leider falsch.]]></text></feedback></xsl:if>
+    </answer>
   </xsl:template>
 
   <xsl:template match="*">
