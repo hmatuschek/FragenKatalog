@@ -1,0 +1,104 @@
+<html encoding="utf-8">
+  <head>
+    <style media="screen">
+    </style>
+    <script type="text/javascript">
+      function shuffle(a) {
+        for (let i = a.length - 1; i > 0; i--) {
+          const j = Math.floor(Math.random() * (i + 1));
+          [a[i], a[j]] = [a[j], a[i]];
+        }
+        return a;
+      }
+
+      function genFrage(frage) {
+        shuffle(frage.answer);
+        html = '<table><tr><th valign="top">' + frage.name + '</th><th valign="top">'+frage.text + '</th></tr>';
+        frage.answer.forEach((ans, i) => {
+          if (ans.correct) html += '<tr><td><input class="#CI" name="' + frage.id +'" type="radio" value="1"/></td>';
+          else html += '<tr><td><input name="' + frage.id + '"type="radio" value="0"/></td>';
+          html += '<td>' + ans.text + '</td></tr>';
+        });
+        html += '</table><hr/>'
+        document.body.innerHTML = html + document.body.innerHTML;
+      }
+
+      function genFragen(fragen) {
+        fragen.forEach((frage, i) => { genFrage(frage); });
+      }
+
+      function check() {
+        radios = document.getElementsByClassName('#CI');
+        for (var i=0; i<radios.length; i++) {
+          if (radios[i].checked) { radios[i].parentElement.parentElement.style.backgroundColor = "green"; }
+          else { radios[i].parentElement.parentElement.style.backgroundColor = "red"; }
+        }
+      }
+      fragen = [
+      {
+           "name":"E/TA101",
+           "id":"ETA101",
+           "text":"<p>0,042 A entspricht</p><br/>",
+           "answer":[
+          {"correct":true, "text":"42·10<sup>-3</sup> A."}
+        ,
+          {"correct":false, "text":"42·10<sup>3</sup> A."}
+        ,
+          {"correct":false, "text":"42·10<sup>-2</sup> A."}
+        ,
+          {"correct":false, "text":"42·10<sup>-1</sup> A."}
+        ]
+          }
+        ,
+          {
+           "name":"E/TA102",
+           "id":"ETA102",
+           "text":"<p>0,00042 A entspricht</p><br/>",
+           "answer":[
+          {"correct":true, "text":"420·10<sup>-6</sup> A."}
+        ,
+          {"correct":false, "text":"420·10<sup>6</sup> A."}
+        ,
+          {"correct":false, "text":"420·10<sup>-5</sup> A."}
+        ,
+          {"correct":false, "text":"42·10<sup>-6</sup> A."}
+        ]
+          }
+        ,
+          {
+           "name":"E/TA103",
+           "id":"ETA103",
+           "text":"<p>100 mW entspricht</p><br/>",
+           "answer":[
+          {"correct":true, "text":"10<sup>-1</sup> W."}
+        ,
+          {"correct":false, "text":"0,001 W."}
+        ,
+          {"correct":false, "text":"0,01 W."}
+        ,
+          {"correct":false, "text":"10<sup>-2</sup> W."}
+        ]
+          }
+        ,
+          {
+           "name":"E/TA104",
+           "id":"ETA104",
+           "text":"<p>4 200 000 Hz entspricht</p><br/>",
+           "answer":[
+          {"correct":true, "text":"4,2·10<sup>6</sup> Hz."}
+        ,
+          {"correct":false, "text":"4,2·10<sup>5</sup> Hz."}
+        ,
+          {"correct":false, "text":"42·10<sup>6</sup> Hz."}
+        ,
+          {"correct":false, "text":"42·10<sup>-5</sup> Hz."}
+        ]
+          }
+        ];
+    </script>
+  </head>
+
+  <body onload="genFragen(fragen)">
+    <input type="button" value="Prüfen" onclick="check()"/>
+  </body>
+</html>

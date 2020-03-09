@@ -30,7 +30,7 @@
   <xsl:template match="img">
     <xsl:variable name="imgid" select="@src"/>
     <img>
-      <xsl:attribute name="src">data:image/gif;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/></xsl:attribute>
+      <xsl:attribute name="src">data:image/<xsl:value-of select="/AfuP/pool/img[@id=$imgid]/@type"/>;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/></xsl:attribute>
       <xsl:attribute name="alt"><xsl:value-of select="$imgid"/></xsl:attribute>
     </img>
   </xsl:template>
@@ -38,7 +38,7 @@
   <xsl:template match="answer">
     <tr>
       <td width="70"><xsl:if test="@correct='yes'"><input value="--?--" onclick="value='Richtig'" type="button"/></xsl:if>
-      <xsl:if test="@correct='no'"><input value="--?--" onclick="value='Falsch'" type="button"/></xsl:if></td>
+       <xsl:if test="@correct='no'"><input value="--?--" onclick="value='Falsch'" type="button"/></xsl:if></td>
       <td><xsl:apply-templates /></td>
     </tr>
   </xsl:template>
