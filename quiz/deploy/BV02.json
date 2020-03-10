@@ -1,0 +1,170 @@
+
+    [
+      
+    {
+     "name":"B/BA101",
+     "id":"BBA101",
+     "text":"<p>Wie soll im Telefoniefunkverkehr verhindert werden, dass ähnlich lautende Rufzeichen verwechselt oder missverstanden werden können? Dies wird verhindert durch</p>",
+     "answer":[
+    {"correct":true,"text":"die Verwendung der internationalen Buchstabiertafel nach den Radio Regulations (VO Funk)."}
+  ,
+    {"correct":false,"text":"die Überprüfung des Rufzeichens in einer Liste."}
+  ,
+    {"correct":false,"text":"Beachtung der Vorschriften zur AFuV."}
+  ,
+    {"correct":false,"text":"mehrmalige Wiederholungen."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA102",
+     "id":"BBA102",
+     "text":"<p>Wie ist das Wort \"München\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Mike Uniform Echo November Charlie Hotel Echo November"}
+  ,
+    {"correct":false,"text":"Mike United Echo Nancy Charlie Hotel Echo Nancy"}
+  ,
+    {"correct":false,"text":"Mike Uniform Emil Nevada Charlie Hotel Emil November"}
+  ,
+    {"correct":false,"text":"Michigan Union Echo November Charlie Hotel Echo Nancy"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA103",
+     "id":"BBA103",
+     "text":"<p>Wie ist das Wort \"Travemünde\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Tango Romeo Alpha Viktor Echo, Mike, Uniform, Echo, November, Delta, Echo"}
+  ,
+    {"correct":false,"text":"Tango Romeo Alpha Viktor Echo, Mike, Übel, November, Delta, Echo"}
+  ,
+    {"correct":false,"text":"Tango Romeo Alpha Viktor Echo, Mike, Ülzen, Echo, November, Delta, Echo"}
+  ,
+    {"correct":false,"text":"Tango Romeo Alpha Viktor Echo, Mike, Uniform, Echo, Nancy, Delta, Echo"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA104",
+     "id":"BBA104",
+     "text":"<p>Wie ist das Rufzeichen DO9XYZ unter Zuhilfenahme des Internationalen Buchstabieralphabetes richtig buchstabiert?</p>",
+     "answer":[
+    {"correct":true,"text":"Delta Oscar 9 X-Ray Yankee Zulu"}
+  ,
+    {"correct":false,"text":"Dora Otto 9 Xantippe Ypsilon Zeppelin"}
+  ,
+    {"correct":false,"text":"Delta Oscar 9 X-Ray Yankee Zansibar"}
+  ,
+    {"correct":false,"text":"Denmark Ontario 9 Xylophon Yokohama Zansibar"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA105",
+     "id":"BBA105",
+     "text":"<p>Wie ist das Rufzeichen DH8DAP unter Zuhilfenahme des Internationalen Buchstabieralphabetes richtig buchstabiert?</p>",
+     "answer":[
+    {"correct":true,"text":"Delta Hotel acht Delta Alpha Papa"}
+  ,
+    {"correct":false,"text":"Dora Heinrich acht Dora Anton Paula"}
+  ,
+    {"correct":false,"text":"Delta Hotel acht Delta Alpha Portugal"}
+  ,
+    {"correct":false,"text":"Denmark Honolulu acht Delta Alpha Papa"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA106",
+     "id":"BBA106",
+     "text":"<p>Wie wird das Rufzeichen DL2KCI mit dem internationalen Buchstabieralphabet richtig buchstabiert?</p>",
+     "answer":[
+    {"correct":true,"text":"Delta Lima zwo Kilo Charlie India"}
+  ,
+    {"correct":false,"text":"Dora Ludwig zwei Kaufmann Cäsar Ida"}
+  ,
+    {"correct":false,"text":"Delta Lima zwo Kilo Charlie Italy"}
+  ,
+    {"correct":false,"text":"Deutschland London zwo Kilo Charlie India"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA107",
+     "id":"BBA107",
+     "text":"<p>Wie ist das Rufzeichen DF3DCB mit dem internationalen Buchstabieralphabet zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Delta Foxtrott drei Delta Charlie Bravo"}
+  ,
+    {"correct":false,"text":"Dora Friedrich drei Dora Cäsar Berta"}
+  ,
+    {"correct":false,"text":"Delta Fox drei Delta Charlie Baltimore"}
+  ,
+    {"correct":false,"text":"Da Fangen drei Dänen Charlie Braun"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA108",
+     "id":"BBA108",
+     "text":"<p>Wie ist das Rufzeichen \"EA5/DJ4UF\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Echo Alpha fünf Strich Delta Juliett vier Uniform Foxtrott"}
+  ,
+    {"correct":false,"text":"Echo Alpha fünf Strich Delta Juliett vier United Fox"}
+  ,
+    {"correct":false,"text":"England Amerika fünf Strich Dänemark Japan vier Uruguay Frankreich"}
+  ,
+    {"correct":false,"text":"Emil Anton fünf Strich Dora Japan vier Ullrich Friedrich"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA109",
+     "id":"BBA109",
+     "text":"<p>Wie ist das Rufzeichen \"PY8JW\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Papa Yankee 8 Juliett Whiskey"}
+  ,
+    {"correct":false,"text":"Papa Yankee 8 Japan Whiskey"}
+  ,
+    {"correct":false,"text":"Paraguay Yankee 8 Juliett Whiskey"}
+  ,
+    {"correct":false,"text":"Pacific Yankee 8 Juliett Wilhelm"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA110",
+     "id":"BBA110",
+     "text":"<p>Wie ist das Rufzeichen \"YO9XH\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Yankee Oskar 9 X-Ray Hotel"}
+  ,
+    {"correct":false,"text":"Ypsilon Ontario 9 X-Ray Hotel"}
+  ,
+    {"correct":false,"text":"Yankee Oskar 9 X-Ray Honolulu"}
+  ,
+    {"correct":false,"text":"Yuliett Ontario 9 Xanthippe Hotel"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BA111",
+     "id":"BBA111",
+     "text":"<p>Wie ist das Rufzeichen \"HB0/DK1DN/p\" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Hotel Bravo null Strich Delta Kilo eins Delta November Strich portabel"}
+  ,
+    {"correct":false,"text":"Heinrich Berta null Strich Dora Kaufmann eins Dora Nordpol Strich portabel"}
+  ,
+    {"correct":false,"text":"Honolulu Baltimore null Strich Dänemark Kanada eins Dänemark Norwegen Strich portabel"}
+  ,
+    {"correct":false,"text":"Hotel Bravo null Strich Delta Kilo eins Delta Norway Strich portabel"}
+  ]
+    }
+  
+    ]
+  

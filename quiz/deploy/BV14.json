@@ -1,0 +1,545 @@
+
+    [
+      
+    {
+     "name":"V/VC132",
+     "id":"VVC132",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Funkamateur kann die Störfestigkeit der Geräte seiner Amateurfunkstelle selbst bestimmen."}
+  ,
+    {"correct":false,"text":"Der Zulassungsinhaber braucht vor Betriebsaufnahme für seine Amateurfunkstelle eine Standortbescheinigung."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC133",
+     "id":"VVC133",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Funkamateur muss die grundlegenden Anforderungen zum Schutz von Personen einhalten."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf erst mit dem Erhalt des Amateurfunkzeugnisses betrieben werden."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC134",
+     "id":"VVC134",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Beim Betrieb einer Amateurfunkstelle sind die Schutzanforderungen zur Gewährleistung der elektromagnetischen Verträglichkeit im Sinne des EMVG einzuhalten."}
+  ,
+    {"correct":false,"text":"Der Zulassungsinhaber braucht vor Betriebsaufnahme für seine Amateurfunkstelle eine Standortbescheinigung."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC135",
+     "id":"VVC135",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Zulassungsinhaber muss für eine Amateurfunkstelle mit einer Strahlungsleistung von mehr als 10 Watt EIRP vor der Betriebsaufnahme Berechnungsunterlagen und ergänzende Messprotokolle in Bezug auf die EMVU vorlegen."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf erst mit dem Erhalt des Amateurfunkzeugnisses betrieben werden."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC136",
+     "id":"VVC136",
+     "text":"<p>Aus welcher Vorschrift ergibt sich die Pflicht, die Einhaltung der Personenschutzgrenzwerte zu dokumentieren?</p>",
+     "answer":[
+    {"correct":true,"text":"Aus dem Amateurfunkgesetz (AFuG)."}
+  ,
+    {"correct":false,"text":"Aus der Amateurfunkverordnung (AFuV)."}
+  ,
+    {"correct":false,"text":"Aus den Radio Regulations (VO Funk)."}
+  ,
+    {"correct":false,"text":"Aus dem Gesetz über die elektromagnetische Verträglichkeit von Geräten (EMVG)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC137",
+     "id":"VVC137",
+     "text":"<p>Kann der Funkamateur eine Standortbescheinigung erhalten?</p>",
+     "answer":[
+    {"correct":true,"text":"Ja, die Bundesnetzagentur stellt auf Antrag eine Standortbescheinigung aus."}
+  ,
+    {"correct":false,"text":"Nein, der Funkamateur kann keine Bescheinigung erhalten."}
+  ,
+    {"correct":false,"text":"Nein, der Funkamateur bekommt keine Standortbescheinigung, da er auf Grund seiner nachgewiesenen technischen Kenntnisse die Berechnung selber anstellen kann."}
+  ,
+    {"correct":false,"text":"Ja, die Bundesnetzagentur stellt auf Antrag eine Standortbescheinigung aus. Sie tut dies aber ausschließlich, wenn der Funkamateur dazu selbst nicht in der Lage ist."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG101",
+     "id":"VVG101",
+     "text":"<p>Was hat der Funkamateur zu veranlassen, wenn bei ihm der Empfang auf Grund mangelnder Empfängerstörfestigkeit stark beeinträchtigt wird?</p>",
+     "answer":[
+    {"correct":true,"text":"Er hat die Störungen hinzunehmen, wenn die störenden Geräte den Anforderungen des EMVG oder FTEG genügen."}
+  ,
+    {"correct":false,"text":"Er braucht Störungen grundsätzlich nicht hinzunehmen."}
+  ,
+    {"correct":false,"text":"Er hat die Störungen in jedem Fall hinzunehmen."}
+  ,
+    {"correct":false,"text":"Er hat die Störungen nur dann hinzunehmen, wenn das störende Gerät von erheblicher Bedeutung für den Betreiber ist (z.B. von einer Alarmanlage)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG102",
+     "id":"VVG102",
+     "text":"<p>Darf der Funkamateur von den grundlegenden Anforderungen zur Störfestigkeit im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Geräten abweichen?</p>",
+     "answer":[
+    {"correct":true,"text":"Ja, er kann den Grad der Störfestigkeit seiner Geräte selbst bestimmen."}
+  ,
+    {"correct":false,"text":"Ja, aber nur in Richtung Verbesserung der Störfestigkeit."}
+  ,
+    {"correct":false,"text":"Nein, die Störfestigkeit ist vorgegeben und muss eingehalten werden."}
+  ,
+    {"correct":false,"text":"Nein, die Störfestigkeit spielt bei Amateurfunkgeräten keine Rolle."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG105",
+     "id":"VVG105",
+     "text":"<p>Eine Zusatzeinrichtung eines Funkamateurs verursacht eine elektromagnetische Störung im Sinne des EMVG bei einer Betriebsfunkanlage in der Nachbarschaft. Welche Maßnahmen sind entsprechend den Regelungen des EMVG zu treffen?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Zusatzeinrichtung muss im Störungsfall die Grenzwerte der europäischen Normen einhalten und die Schutzziele des EMVG erfüllen."}
+  ,
+    {"correct":false,"text":"Die Zusatzeinrichtung muss die Grenzwerte der europäischen Normen nur dann einhalten, wenn es ein kommerziell gefertigtes Gerät ist."}
+  ,
+    {"correct":false,"text":"Die Zusatzeinrichtung ist unabhängig von der Einhaltung irgendwelcher Grenzwerte so zu verändern, dass es nicht mehr zu Störungen kommt."}
+  ,
+    {"correct":false,"text":"Die Betriebsfunkanlage ist so zu verändern, dass es zu keinen Störungen mehr kommt (z.B. Rauschsperre unempfindlicher einstellen, Veränderung des Antennenstandortes)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG108",
+     "id":"VVG108",
+     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der UKW-Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass die Amateurfunkstelle und die Rundfunkempfangsanlage vorschriftsmäßig betrieben werden. Das gestörte Rundfunkgerät hält die nach Norm empfohlene Störfestigkeit ein, der Funkamateur erzeugt jedoch am Ort des gestörten Empfängers eine höhere Feldstärke. Womit muss der Funkamateur rechnen, wenn er seinen Funkbetrieb uneingeschränkt fortsetzt?</p>",
+     "answer":[
+    {"correct":true,"text":"Mit der Durchführung behördlicher Maßnahmen nach AFuV und EMVG (Überprüfung der Amateurfunkstelle und möglicherweise Betriebseinschränkungen)."}
+  ,
+    {"correct":false,"text":"Mit einer gebührenpflichtigen Betriebseinschränkung oder einem vollständigen Betriebsverbot für seine Amateurfunkstelle."}
+  ,
+    {"correct":false,"text":"Mit der Durchführung behördlicher Maßnahmen nach dem AFuG, wobei dem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst entzogen werden kann."}
+  ,
+    {"correct":false,"text":"Mit einem Ordnungswidrigkeitenverfahren mit Betriebsverbot und Bußgeld auf der Grundlage der §§ 9 und 11 des AFuG."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG109",
+     "id":"VVG109",
+     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der Rundfunkempfänger eines Nachbarn auf 100,6 MHz durch Direkteinstrahlung gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort des gestörten Empfängers eine Feldstärke erzeugt, die den in der Norm empfohlenen Grenzwert für die Störfestigkeit von Geräten nicht erreicht. Was hat der Funkamateur zu tun?</p>",
+     "answer":[
+    {"correct":true,"text":"Er kann seinen Funkbetrieb fortsetzen."}
+  ,
+    {"correct":false,"text":"Er hat seine Sendeleistung so einzurichten, dass der Empfang nicht mehr gestört wird."}
+  ,
+    {"correct":false,"text":"Er kann seine Sendeleistung uneingeschränkt erhöhen."}
+  ,
+    {"correct":false,"text":"Er hat den Betrieb seiner Amateurfunkstelle einzustellen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG110",
+     "id":"VVG110",
+     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 144,250 MHz wird der Fernsehempfang eines Nachbarn im Sonderkanal S6 gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort der gestörten Empfangsanlage eine Feldstärke erzeugt, die den, in der Norm empfohlenen Grenzwert für die Störfestigkeit von Kabelverteilanlagen, nicht erreicht. Was hat der Funkamateur zu tun?</p>",
+     "answer":[
+    {"correct":true,"text":"Er kann seinen Funkbetrieb fortsetzen."}
+  ,
+    {"correct":false,"text":"Er hat den Betrieb seiner Amateurfunkstelle einzustellen."}
+  ,
+    {"correct":false,"text":"Er hat seine Sendeleistung so einzurichten, dass der Empfang nicht mehr gestört wird."}
+  ,
+    {"correct":false,"text":"Er kann seine Sendeleistung uneingeschränkt erhöhen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG111",
+     "id":"VVG111",
+     "text":"<p>Durch den Betrieb einer Amateurfunkstelle wird der Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Rundfunkgerät, wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was hat der Funkamateur in diesem Fall zu tun?</p>",
+     "answer":[
+    {"correct":true,"text":"Er sollte seinen Funkbetrieb so einzurichten, dass der Empfang nicht mehr gestört wird."}
+  ,
+    {"correct":false,"text":"Er hat seinen Betrieb auf die Nutzung von Frequenzen unterhalb 144 MHz zu beschränken."}
+  ,
+    {"correct":false,"text":"Er hat den Betrieb seiner Amateurfunkstelle einzustellen."}
+  ,
+    {"correct":false,"text":"Er kann seinen Funkbetrieb wie bisher fortsetzen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VG112",
+     "id":"VVG112",
+     "text":"<p>Durch den Betrieb einer Amateurfunkstelle wird der Fernsehempfang im TV Kanal 10 eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Fernsehgerät wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was kann der Funkamateur erwarten, wenn er den störenden Betrieb fortsetzt?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Anordnung von Betriebseinschränkungen für die Amateurfunkstelle."}
+  ,
+    {"correct":false,"text":"Nichts."}
+  ,
+    {"correct":false,"text":"Den sofortigen Widerruf seiner Zulassung zum Amateurfunkdienst."}
+  ,
+    {"correct":false,"text":"Die Verhängung eines Bußgeldes."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI101",
+     "id":"VVI101",
+     "text":"<p>Wer ist für die Sicherstellung der elektromagnetischen Umweltverträglichkeit verantwortlich?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Betreiber der ortsfesten Amateurfunkstelle."}
+  ,
+    {"correct":false,"text":"Die Bundesnetzagentur."}
+  ,
+    {"correct":false,"text":"Die Verfügung 306/97."}
+  ,
+    {"correct":false,"text":"Die BEMFV (Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI102",
+     "id":"VVI102",
+     "text":"<p>Was müssen Zulassungsinhaber in Bezug auf den Personenschutz einhalten?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Personenschutzgrenzwerte."}
+  ,
+    {"correct":false,"text":"Nichts."}
+  ,
+    {"correct":false,"text":"Eine Strahlungsleistung von kleiner 10 Watt EIRP."}
+  ,
+    {"correct":false,"text":"Die EMV-Schutzanforderungen für Funkgeräte."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI103",
+     "id":"VVI103",
+     "text":"<p>Was bedeutet die Abkürzung EMVU?</p>",
+     "answer":[
+    {"correct":true,"text":"Elektromagnetische Verträglichkeit in der Umwelt."}
+  ,
+    {"correct":false,"text":"Elektromagnetische Verträglichkeit von Geräten."}
+  ,
+    {"correct":false,"text":"Elektronische Messung von elektromagnetischen Unverträglichkeiten."}
+  ,
+    {"correct":false,"text":"Eine Bürgerinitiative zum Schutz vor elektromagnetischen Unverträglichkeiten."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI104",
+     "id":"VVI104",
+     "text":"<p>In welchem Regelungswerk ist der Schutz von Personen bei der Einwirkung elektromagnetischer Felder auch ausführlich für den Amateurfunk geregelt?</p>",
+     "answer":[
+    {"correct":true,"text":"In der BEMFV."}
+  ,
+    {"correct":false,"text":"In der VO Funk."}
+  ,
+    {"correct":false,"text":"Im EMVG."}
+  ,
+    {"correct":false,"text":"In der AFuV."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI105",
+     "id":"VVI105",
+     "text":"<p>In welcher gesetzlichen Regelung ist das Verfahren zum Schutz von Personen in elektromagnetischen Feldern ortsfester Amateurfunkstellen festgelegt?</p>",
+     "answer":[
+    {"correct":true,"text":"In der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV)."}
+  ,
+    {"correct":false,"text":"In der 26. Verordnung zum Bundesimmissionsschutzgesetz."}
+  ,
+    {"correct":false,"text":"In der VO Funk."}
+  ,
+    {"correct":false,"text":"Im Bundesimmissionsschutzgesetz."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI106",
+     "id":"VVI106",
+     "text":"<p>Die Feldstärkegrenzwerte für den Schutz von Personen in elektromagnetischen Feldern sind von der Frequenz abhängig, weil</p>",
+     "answer":[
+    {"correct":true,"text":"die Fähigkeit des Körpers, hochfrequente Strahlung zu absorbieren, frequenzabhängig ist."}
+  ,
+    {"correct":false,"text":"niederfrequente elektromagnetische Felder energiereicher sind als hochfrequente."}
+  ,
+    {"correct":false,"text":"hochfrequente elektromagnetische Felder energiereicher sind als niederfrequente."}
+  ,
+    {"correct":false,"text":"die spezifische Absorptionsrate bei einigen Frequenzen nicht messbar ist."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI107",
+     "id":"VVI107",
+     "text":"<p>Was versteht man nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV) unter dem \"Anzeigeverfahren ortsfester Amateurfunkanlagen\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Verfahren, das es dem Funkamateur ermöglicht, eigenständig sicherzustellen und zu dokumentieren, dass von seiner ortsfesten Amateurfunkstelle keine Gefährdung für Personen ausgeht."}
+  ,
+    {"correct":false,"text":"Ein Verfahren zur Berechnung des Abstandes zum nächstgelegenen Nachbarn."}
+  ,
+    {"correct":false,"text":"Die Erklärung des Funkamateurs, dass er den Grenzwert von 10 Watt ERP einhält."}
+  ,
+    {"correct":false,"text":"Die Erklärung des Funkamateurs, dass er den Grenzwert von 10 Watt EIRP einhält."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI108",
+     "id":"VVI108",
+     "text":"<p>Welchen Status hat im Rahmen der EMVU die Anzeige einer ortsfesten Amateurfunkanlage?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Anzeige ist die verbindliche Erklärung eines Funkamateurs über die eigenverantwortliche Einhaltung der gesetzlichen Grenzwerte zum Schutz von Personen in elektromagnetischen Feldern."}
+  ,
+    {"correct":false,"text":"Die Anzeige ist eine unverbindliche Erklärung darüber, dass Funkamateure eigenverantwortlich handeln."}
+  ,
+    {"correct":false,"text":"Die Anzeige hat den gleichen rechtlichen Status wie eine Standortbescheinigung, gilt aber nur für nichtkommerzielle Anlagen."}
+  ,
+    {"correct":false,"text":"Die Anzeige ist die verbindliche Erklärung eines Funkamateurs über die eigenverantwortliche Einhaltung des Bundesimmissionsschutzgesetzes."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI109",
+     "id":"VVI109",
+     "text":"<p>Für welche Amateurfunkstellen muss der Schutz von Personen in elektromagnetischen Feldern vom Funkamateur dokumentiert werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Für alle ortsfesten Amateurfunkstellen ab einer äquivalenten Strahlungsleistung von 10 Watt EIRP."}
+  ,
+    {"correct":false,"text":"Für alle Amateurfunkstellen."}
+  ,
+    {"correct":false,"text":"Für alle ortsfesten Amateurfunkstellen."}
+  ,
+    {"correct":false,"text":"Für alle Amateurfunkstellen ab einer äquivalenten Strahlungsleistung von 10 Watt EIRP."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI110",
+     "id":"VVI110",
+     "text":"<p>Kann die Bundesnetzagentur für den Betrieb einer ortsfesten Amateurfunkstelle eine Standortbescheinigung fordern?</p>",
+     "answer":[
+    {"correct":true,"text":"Nur wenn sich am Standort der vorgesehenen ortsfesten Amateurfunkstelle bereits ortsfeste Funkanlagen befinden, die selbst eine Standortbescheinigung benötigen."}
+  ,
+    {"correct":false,"text":"Nein, für Amateurfunkanlagen gilt das Anzeigeverfahren."}
+  ,
+    {"correct":false,"text":"Nur wenn die Amateurfunkstelle gewerblich genutzt wird."}
+  ,
+    {"correct":false,"text":"Ja, wenn die effektive Strahlungsleistung der Amateurfunkstelle 750 Watt überschreitet."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI112",
+     "id":"VVI112",
+     "text":"<p>Welche physikalischen Größen werden für die Angabe der Konfiguration im Rahmen des Anzeigeverfahrens benötigt?</p>",
+     "answer":[
+    {"correct":true,"text":"Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Antennenhöhe, Abstrahlrichtung, Frequenz, Modulationsverfahren, standortbezogener Sicherheitsabstand."}
+  ,
+    {"correct":false,"text":"Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Funkgerätetyp, Frequenz, Modulationsverfahren, Korrekturabschläge, Sicherheitsabstände."}
+  ,
+    {"correct":false,"text":"Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Frequenz, Modulationsverfahren, Antennenwirkungsgrad, Korrekturabschläge, Sicherheitsabstände."}
+  ,
+    {"correct":false,"text":"Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Frequenz, Modulationsverfahren, Impedanz des Antennenkabels, Korrekturabschläge, Sicherheitsabstände."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI116",
+     "id":"VVI116",
+     "text":"<p>Wo und wann ist die Anzeige einer ortsfesten Amateurfunkstelle mit einer EIRP von mehr als 10 Watt einzureichen?</p>",
+     "answer":[
+    {"correct":true,"text":"Sie ist der zuständigen Außenstelle der Bundesnetzagentur vor der Betriebsaufnahme vorzulegen."}
+  ,
+    {"correct":false,"text":"Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur nach Aufforderung vorzulegen."}
+  ,
+    {"correct":false,"text":"Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur vorzulegen; ein Doppel ist dem zuständigen Gewerbeaufsichtsamt zuzuschicken."}
+  ,
+    {"correct":false,"text":"Sie ist entsprechend der 26.Verordung zum Bundesimmissionsschutzgesetz der dafür zuständigen Behörde zuzuschicken."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI117",
+     "id":"VVI117",
+     "text":"<p>Was hat ein Funkamateur zu beachten, nachdem er seine ortsfeste Amateurfunkstelle bei der Bundesnetzagentur gemäß BEMFV angezeigt hat?</p>",
+     "answer":[
+    {"correct":true,"text":"Er hat eine Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen bereitzuhalten und fortlaufend zu prüfen, ob die Bedingungen unter denen die Anzeige durchgeführt wurde noch zutreffend sind. Bei Änderungen, die einen größeren Sicherheitsabstand erforderlich machen oder bei der Aufnahme des Sendebetriebs bei zusätzlichen Frequenzen, ist die Amateurfunkstelle erneut anzuzeigen."}
+  ,
+    {"correct":false,"text":"Mit der Anzeige seiner ortsfesten Amateurfunkstelle ist ein Funkamateur seinen Verpflichtungen zum Schutz von Personen in elektromagnetischen Feldern nachgekommen und muss diesbezüglich nichts weiter beachten."}
+  ,
+    {"correct":false,"text":"Das Anzeigeverfahren ist jedes Jahr erneut durchzuführen, um die Aktualität zu gewährleisten."}
+  ,
+    {"correct":false,"text":"Nachdem die ortsfeste Amateurfunkstelle in Betrieb genommen wurde, ist die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen der zuständigen Außenstelle der Bundesnetzagentur vorzulegen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI118",
+     "id":"VVI118",
+     "text":"<p>Wo und wann hat der Funkamateur die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen gemäß BEMFV einzureichen?</p>",
+     "answer":[
+    {"correct":true,"text":"Sie ist der Bundesnetzagentur nach Aufforderung vorzulegen."}
+  ,
+    {"correct":false,"text":"Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur vorzulegen; ein Doppel ist dem zuständigen Gewerbeaufsichtsamt zuzusenden."}
+  ,
+    {"correct":false,"text":"Sie ist entsprechend der 26.Verordung zum Bundesimmissionsschutzgesetz der dafür zuständigen Behörde zuzusenden."}
+  ,
+    {"correct":false,"text":"Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur vor der Betriebsaufnahme oder einer Änderung mit Leistungszunahme vorzulegen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI119",
+     "id":"VVI119",
+     "text":"<p>Welche Aussendungen von Amateurfunkanlagen müssen bei der Ermittlung des standortbezogenen Sicherheitsabstandes berücksichtigt werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Alle Aussendungen der ortsfesten Amateurfunkstelle, die ein Funkamateur zeitgleich durchzuführen beabsichtigt."}
+  ,
+    {"correct":false,"text":"Ausschließlich Aussendungen von ortsfest betriebenen Amateurfunkstellen mit einer Strahlungsleistung (EIRP) größer 10 Watt."}
+  ,
+    {"correct":false,"text":"Nur die Aussendungen bei der maximalen Sendeleistung."}
+  ,
+    {"correct":false,"text":"Alle Aussendungen mit einer Strahlungsleistung (EIRP) größer 10 Watt, auch Aussendungen im Mobilbetrieb."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI120",
+     "id":"VVI120",
+     "text":"<p>Für die Berechnung des Sicherheitsabstandes wird in der Regel der Antennengewinnfaktor (G) verwendet. Der Antennengewinnfaktor G ist</p>",
+     "answer":[
+    {"correct":true,"text":"der lineare Faktor, aus dem sich durch Multiplikation mit der Antenneneingangsleistung die effektiv abgestrahlte Leistung errechnen lässt."}
+  ,
+    {"correct":false,"text":"gleich dem Antennengewinn g (in dB)."}
+  ,
+    {"correct":false,"text":"das logarithmische Verhältnis der benutzten Antenne zu einer Referenzantenne."}
+  ,
+    {"correct":false,"text":"der Kehrwert des Antennengewinns g (in dB)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VI121",
+     "id":"VVI121",
+     "text":"<p>Wer muss seine Amateurfunkstelle bei der Bundesnetzagentur anzeigen?</p>",
+     "answer":[
+    {"correct":true,"text":"Alle Funkamateure, die ortsfeste Amateurfunkstellen mit Strahlungsleistungen oberhalb der in der BEMFV genannten Grenze betreiben möchten."}
+  ,
+    {"correct":false,"text":"Alle Funkamateure."}
+  ,
+    {"correct":false,"text":"Alle Funkamateure der Zeugnisklasse A."}
+  ,
+    {"correct":false,"text":"Alle Funkamateure, die auf der Kurzwelle aktiv sind."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VJ101",
+     "id":"VVJ101",
+     "text":"<p>Nach welchen Vorschriften müssen Außenantennenanlagen errichtet werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Nach den geltenden Bauordnungen des jeweiligen Bundeslandes."}
+  ,
+    {"correct":false,"text":"Nach den Bestimmungen des AFuG."}
+  ,
+    {"correct":false,"text":"Nach den Empfehlungen der Amateurfunkvereine."}
+  ,
+    {"correct":false,"text":"Es müssen keine besonderen Vorschriften beachtet werden, da es sich um eine Amateurfunkanlage handelt."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VJ102",
+     "id":"VVJ102",
+     "text":"<p>Welche Vorschriften bezüglich Blitzschutz gelten für Amateurfunkantennenanlagen?</p>",
+     "answer":[
+    {"correct":true,"text":"Die VDE-Vorschriften."}
+  ,
+    {"correct":false,"text":"Die Bestimmungen des AFuG."}
+  ,
+    {"correct":false,"text":"Die Blitzschutzvorschriften der Rundfunkanstalten."}
+  ,
+    {"correct":false,"text":"Keine. Der Funkamateur kann den Blitzschutz selbst bestimmen, da er sachkundig ist."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VJ103",
+     "id":"VVJ103",
+     "text":"<p>Wie ist die Stromversorgung von Eigenbaugeräten elektrotechnisch sicher aufzubauen?</p>",
+     "answer":[
+    {"correct":true,"text":"Nach den VDE-Vorschriften."}
+  ,
+    {"correct":false,"text":"Nach keinen besonderen Vorschriften, da ein Funkamateur als sachkundige Person gilt."}
+  ,
+    {"correct":false,"text":"Nach den Vorschriften der örtlichen Stromversorger."}
+  ,
+    {"correct":false,"text":"Nach den CEPT-Empfehlungen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VK101",
+     "id":"VVK101",
+     "text":"<p>Wer haftet für Schäden, die durch die Antennenanlage einer Amateurfunkstelle entstehen können?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Eigner und Betreiber der Antennenanlage."}
+  ,
+    {"correct":false,"text":"Die Amateurfunkvereinigung, wenn der Betreiber der Amateurfunkstelle Mitglied einer solchen Vereinigung ist."}
+  ,
+    {"correct":false,"text":"Die Bundesnetzagentur, da in den monatlichen Beiträgen auch ein Anteil für eine Gruppenversicherung für Antennenanlagen von Funkamateuren enthalten ist."}
+  ,
+    {"correct":false,"text":"Der Grundstückseigentümer. Er hat eine Antennenhaftpflichtversicherung abzuschließen, selbst wenn er nicht Betreiber der Amateurfunkstelle ist."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VK105",
+     "id":"VVK105",
+     "text":"<p>Darf eine Amateurfunkstelle auch an Bord eines Luftfahrzeuges betrieben werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Ja, beispielsweise mit der Zustimmung des verantwortlichen Luftfahrzeugführers oder der zuständigen Luftfahrtbehörde."}
+  ,
+    {"correct":false,"text":"Ja, die Zulassung zur Teilnahme am Amateurfunkdienst gilt für alle portablen und mobilen Einsätze von Amateurfunkstellen."}
+  ,
+    {"correct":false,"text":"Ja, mit einer entsprechenden Sondergenehmigung der Bundesnetzagentur."}
+  ,
+    {"correct":false,"text":"Ja, aber nur von Zulassungsinhabern der Klasse A, wenn für den Funkverkehr eine schon in das Luftfahrzeug installierte Funkstelle verwendet wird."}
+  ]
+    }
+  
+    ]
+  

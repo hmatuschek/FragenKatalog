@@ -1,0 +1,425 @@
+
+    [
+      
+    {
+     "name":"V/VA301",
+     "id":"VVA301",
+     "text":"<p>Was ist in den Radio Regulations (VO Funk) bezüglich der Morsequalifikation für Funkamateure festgelegt?</p>",
+     "answer":[
+    {"correct":true,"text":"Die nationalen Verwaltungen bestimmen selbst, ob bei ihnen für eine Amateurfunkgenehmigung Morsekenntnisse nachgewiesen werden müssen."}
+  ,
+    {"correct":false,"text":"Nur wer eine Morseprüfung mit mindestens Tempo 60 BpM bestanden hat, darf mehr als 500 Watt Sendeleistung anwenden."}
+  ,
+    {"correct":false,"text":"Wer Frequenzen unter 30 MHz nutzen will, muss eine Morseprüfung ablegen."}
+  ,
+    {"correct":false,"text":"Wer Frequenzbereiche unterhalb des 10-m-Bandes benutzen möchte, muss eine Morse-Hörprüfung ablegen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA302",
+     "id":"VVA302",
+     "text":"<p>Was ist in den Radio Regulations (VO Funk) hinsichtlich dem Amateurfunkverkehr festgelegt?</p>",
+     "answer":[
+    {"correct":true,"text":"Funkverkehr zwischen Amateurfunkstellen verschiedener Länder muss auf Mitteilungen im Zusammenhang mit dem definitionsgemäßen Zweck des Amateurfunkdienstes und auf Bemerkungen persönlicher Art beschränkt werden."}
+  ,
+    {"correct":false,"text":"Amateurfunkstellen ist die Teilnahme am Funkverkehr von Not- und Katastrophenfunkübungen nicht gestattet."}
+  ,
+    {"correct":false,"text":"Funkverkehr zwischen Amateurfunkstellen darf für die Übertragung nicht verschlüsselt werden."}
+  ,
+    {"correct":false,"text":"Der Funkamateur darf Nachrichten, die nicht den Amateurfunkdienst betreffen, für und an Dritte nicht übermitteln."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA304",
+     "id":"VVA304",
+     "text":"<p>Was gilt hinsichtlich der Anwendung von Kodes und Verschlüsselungen im internationalen Amateurfunkverkehr zwischen Funkamateuren?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Funkverkehr zwischen Amateurfunkstellen verschiedener Länder darf nicht zur Verschleierung des Inhalts verschlüsselt werden."}
+  ,
+    {"correct":false,"text":"Beim Funkverkehr zwischen Amateurfunkstellen dürfen keine Kodes oder Verschlüsselungen verwendet werden."}
+  ,
+    {"correct":false,"text":"Der Austausch von Steuersignalen zwischen Erd- und Weltraumfunkstellen des Amateurfunkdienstes über Satelliten darf nicht zur Verschleierung des Inhalts verschlüsselt werden."}
+  ,
+    {"correct":false,"text":"Beim Funkverkehr zwischen Amateurfunkstellen dürfen alle bekannten und geheimen Kodes oder Verschlüsselungen verwendet werden."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC104",
+     "id":"VVC104",
+     "text":"<p>Wie ist der Begriff \"Funkamateur\" nach dem AFuG zu verstehen?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Funkamateur ist der Inhaber eines Amateurfunkzeugnisses oder einer harmonisierten Prüfungsbescheinigung, der sich mit dem Amateurfunkdienst aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichem Interesse befasst."}
+  ,
+    {"correct":false,"text":"Funkamateur ist jede natürliche Person, die Funkanlagen zu experimentellen und technischwissenschaftlichen Studien, zur eigenen Weiterbildung, aber nicht zu gewerblichwirtschaftlichen Zwecken betreibt."}
+  ,
+    {"correct":false,"text":"Funkamateur ist jeder, der Amateurfunkgeräte besitzt und Amateurfunkaussendungen aus persönlicher Neigung empfängt."}
+  ,
+    {"correct":false,"text":"Im Sinne des AFuG sind Funkamateure nur die Inhaber einer Zulassung zum Amateurfunkdienst mit mindestens einem zugeteilten, personengebundenen Rufzeichen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC106",
+     "id":"VVC106",
+     "text":"<p>Nach dem Amateurfunkgesetz ist eine Amateurfunkstelle eine Funkstelle,</p>",
+     "answer":[
+    {"correct":true,"text":"die aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der Antennenanlagen und der zu ihrem Betrieb erforderlichen Zusatzeinrichtungen besteht, und die auf mindestens einer der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann."}
+  ,
+    {"correct":false,"text":"die aus mehreren Sende- und Empfangsfunkanlagen besteht und die auf mindestens drei der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen oberhalb von 30 MHz betrieben werden kann."}
+  ,
+    {"correct":false,"text":"die aus mehreren Sende- und Empfangsfunkanlagen besteht und die auf mindestens drei der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen unterhalb von 30 MHz betrieben werden kann."}
+  ,
+    {"correct":false,"text":"die aus einer oder mehreren Sendefunkanlagen, Empfangsfunkanlagen, Antennenanlagen und der zu ihrem Betrieb erforderlichen Zusatzeinrichtungen besteht und die auf jeweils einer der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen oberhalb und unterhalb von 30 MHz betrieben werden kann."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC107",
+     "id":"VVC107",
+     "text":"<p>Mit welchen anderen Funkstellen darf der Funkamateur Funkverkehr abwickeln?</p>",
+     "answer":[
+    {"correct":true,"text":"Nur mit anderen Funkstellen des Amateurfunkdienstes."}
+  ,
+    {"correct":false,"text":"Mit allen Funkstellen, die auf den Amateurfunkbändern tätig sind."}
+  ,
+    {"correct":false,"text":"Mit anderen Amateurfunkstellen und Funkstellen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS)."}
+  ,
+    {"correct":false,"text":"Mit anderen Amateurfunkstellen und Funkstellen des Flug- und/oder Seefunkdienstes."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC108",
+     "id":"VVC108",
+     "text":"<p>Darf der Funkamateur mit anderen Funkstellen, die keine Amateurfunkstellen sind, Funkverkehr abwickeln?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein."}
+  ,
+    {"correct":false,"text":"Ja, beispielsweise mit allen Betreibern von LPD-Funkgeräten im Amateurfunkbereich sowie mit CB-Funkteilnehmern mit verminderter Sendeleistung."}
+  ,
+    {"correct":false,"text":"Ja, aber nur mit Versuchsfunkstellen, die ein Rufzeichen mit dem Präfix DI benutzen."}
+  ,
+    {"correct":false,"text":"Nein, mit Ausnahme von Funkstellen der Sekundärnutzer auf den Amateurfunkbändern."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC109",
+     "id":"VVC109",
+     "text":"<p>Dürfen Sie mit Ihrem Amateurfunktransceiver im 70-cm-Band am LPD-Funkverkehr (LPD = Low Power Devices) teilnehmen?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein."}
+  ,
+    {"correct":false,"text":"Ja, weil die LPDs auch innerhalb des Amateurfunkbandes arbeiten."}
+  ,
+    {"correct":false,"text":"Ja, wenn ich meine Sendeleistung auf 10 mW begrenze."}
+  ,
+    {"correct":false,"text":"Ja, aber ohne Anwendung meines Rufzeichens."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC110",
+     "id":"VVC110",
+     "text":"<p>Darf ein Funkamateur Nachrichten, die nicht den Amateurfunkdienst betreffen, für und an Dritte übermitteln?</p>",
+     "answer":[
+    {"correct":true,"text":"Nur in Not- und Katastrophenfällen."}
+  ,
+    {"correct":false,"text":"Nein, unter keinen Umständen."}
+  ,
+    {"correct":false,"text":"Ja, jederzeit."}
+  ,
+    {"correct":false,"text":"Nur nach Aufforderung durch die zuständige Außenstelle der Bundesnetzagentur."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC117",
+     "id":"VVC117",
+     "text":"<p>Was ist erforderlich, um den Amateurfunkbetrieb ausüben zu dürfen?</p>",
+     "answer":[
+    {"correct":true,"text":"Eine Zulassung zur Teilnahme am Amateurfunkdienst."}
+  ,
+    {"correct":false,"text":"Ein schriftlicher Nachweis darüber, dass die Amateurfunkstelle keine Störungen verursacht."}
+  ,
+    {"correct":false,"text":"Ein Amateurfunkzeugnis."}
+  ,
+    {"correct":false,"text":"Eine EMVU-Bescheinigung."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC118",
+     "id":"VVC118",
+     "text":"<p>Ab wann dürfen Sie eine Amateurfunkstelle betreiben?</p>",
+     "answer":[
+    {"correct":true,"text":"Mit dem Besitz einer Zulassung zum Amateurfunkdienst."}
+  ,
+    {"correct":false,"text":"Mit dem Besitz eines Amateurfunkzeugnisses oder einer harmonisierten Prüfungsbescheinigung."}
+  ,
+    {"correct":false,"text":"Nach Teilnahme an einer fachlichen Prüfung für Funkamateure."}
+  ,
+    {"correct":false,"text":"Nach einer Frequenzzuteilung aufgrund der Frequenzzuteilungsverordnung."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC119",
+     "id":"VVC119",
+     "text":"<p>Ist die Erteilung einer Amateurfunkzulassung von einem Mindestalter abhängig?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, das AFuG sieht kein Mindestalter vor."}
+  ,
+    {"correct":false,"text":"Ja, die Bewerber müssen mindestens 18 Jahre alt sein."}
+  ,
+    {"correct":false,"text":"Ja, die Bewerber können ab dem 15. Lebensjahr eine Zulassung erhalten."}
+  ,
+    {"correct":false,"text":"Ja, für Klasse A müssen die Bewerber mindestens 10 Jahre alt sein."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC124",
+     "id":"VVC124",
+     "text":"<p>Darf ein Funkamateur seine Amateurfunkzulassung oder das damit zugeteilte Rufzeichen unter besonderen Umständen vorübergehend einer anderen Person übertragen?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, die Amateurfunkzulassung und das damit zugeteilte Rufzeichen sind an die in der Zulassungsurkunde angegebene Person gebunden."}
+  ,
+    {"correct":false,"text":"Ja, aber nur an unmittelbare Familienangehörige, wenn diese die Station des Funkamateurs unter dessen Aufsicht benutzen."}
+  ,
+    {"correct":false,"text":"Ja, wenn es sich bei der anderen Person um einen Funkamateur mit erfolgreich abgelegter Prüfung handelt, dieser aber selbst keine Zulassung (Rufzeichen) besitzt."}
+  ,
+    {"correct":false,"text":"Nein, es sei denn an einen ihm bekannten ausländischen Funkamateur, der sich nur vorübergehend zu Besuch in Deutschland aufhält."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC126",
+     "id":"VVC126",
+     "text":"<p>Darf die Amateurfunkstelle zu gewerblichwirtschaftlichen Zwecken in kleinem Rahmen mitbenutzt werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, alle gewerblich-wirtschaftlichen Zwecke sind nach dem AFuG ausgeschlossen."}
+  ,
+    {"correct":false,"text":"Ja, aber nur wenn es sich dabei um den Bereich des Amateurfunks selbst handelt wie z. B. Angebote über preisgünstige Amateurfunkausrüstung, Amateurfunkkurse von Fernschulen, organisierte Fachreisen für Funkamateure usw."}
+  ,
+    {"correct":false,"text":"Ja, wenn alle an der Maßnahme Beteiligten selbst Funkamateure sind."}
+  ,
+    {"correct":false,"text":"Ja, wenn die Maßnahme mit öffentlichen Mitteln gefördert wird (z. B. auch im Rahmen von ABM)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC127",
+     "id":"VVC127",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Funkamateur darf nur ein ihm von der Bundesnetzagentur zugeteiltes Rufzeichen benutzen."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf erst mit dem Erhalt des Amateurfunkzeugnisses betrieben werden."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC128",
+     "id":"VVC128",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Zulassungsinhaber ist berechtigt, selbstgefertigte oder umgebaute Sendeanlagen auf Amateurfunkfrequenzen zu betreiben."}
+  ,
+    {"correct":false,"text":"Der Zulassungsinhaber braucht vor Betriebsaufnahme für seine Amateurfunkstelle eine Standortbescheinigung."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC129",
+     "id":"VVC129",
+     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle nur auf den für den Amateurfunkdienst ausgewiesenen Frequenzen senden."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf erst mit dem Erhalt des Amateurfunkzeugnisses betrieben werden."}
+  ,
+    {"correct":false,"text":"Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen."}
+  ,
+    {"correct":false,"text":"Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC139",
+     "id":"VVC139",
+     "text":"<p>Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Bundesnetzagentur kann eine Einschränkung des Betriebes oder die Außerbetriebnahme der Amateurfunkstelle anordnen."}
+  ,
+    {"correct":false,"text":"Der Funkamateur hat mit Entzug des Amateurfunkzeugnisses und einer Geldstrafe zu rechnen."}
+  ,
+    {"correct":false,"text":"Der Funkamateur hat mit einer Geldstrafe und mit dem Einzug der Sendefunkanlage zu rechnen."}
+  ,
+    {"correct":false,"text":"Die Bundesnetzagentur kann die verwendete Funkanlage einziehen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC140",
+     "id":"VVC140",
+     "text":"<p>Unter welchen Voraussetzungen kann einem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst widerrufen werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Bei fortgesetztem Verstoß gegen das Amateurfunkgesetz oder gegen die Amateurfunkverordnung."}
+  ,
+    {"correct":false,"text":"Bei festgestellten Eintragungen in das Strafregister."}
+  ,
+    {"correct":false,"text":"Bei Überschreitung des zulässigen Personenschutzabstandes."}
+  ,
+    {"correct":false,"text":"Bei verspätet gestelltem Verlängerungsantrag für eine Relaisfunkstelle."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC141",
+     "id":"VVC141",
+     "text":"<p>Was hat ein Funkamateur mit zugeteiltem Rufzeichen zu erwarten, wenn er fortgesetzt gegen AFuG oder AFuV verstößt?</p>",
+     "answer":[
+    {"correct":true,"text":"Den Widerruf der Amateurfunkzulassung."}
+  ,
+    {"correct":false,"text":"Eine Gefängnisstrafe von bis zu 2 Jahren."}
+  ,
+    {"correct":false,"text":"Eine kostenpflichtige Nachprüfung."}
+  ,
+    {"correct":false,"text":"Eine Geldstrafe."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC142",
+     "id":"VVC142",
+     "text":"<p>Wann handelt ein Funkamateur ordnungswidrig im Sinne des Amateurfunkgesetzes?</p>",
+     "answer":[
+    {"correct":true,"text":"Beim Betrieb zum geschäftsmäßigen Erbringen von Telekommunikationsdiensten."}
+  ,
+    {"correct":false,"text":"Bei dauerhafter Verlegung seiner Amateurfunkstelle an einen anderen Standort."}
+  ,
+    {"correct":false,"text":"Bei unzureichender Rufzeichennennung."}
+  ,
+    {"correct":false,"text":"Bei der Abwicklung von Funkbetrieb mit anderen als Amateurfunkstellen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC143",
+     "id":"VVC143",
+     "text":"<p>Welche der nachfolgenden Handlungen stellt eine Ordnungswidrigkeit im Sinne des Amateurfunkgesetzes dar?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Betrieb einer Amateurfunkstelle ohne Amateurfunkzulassung."}
+  ,
+    {"correct":false,"text":"Die Nachrichtenübermittlung in Not- und Katastrophenfällen an Dritte."}
+  ,
+    {"correct":false,"text":"Die Verletzung der Pflicht zur Führung eines Stationstagebuches."}
+  ,
+    {"correct":false,"text":"Die Nichteinhaltung der Personenschutzgrenzwerte."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC146",
+     "id":"VVC146",
+     "text":"<p>Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Bundesnetzagentur kann dies - wenn ein entsprechender Verstoß begangen wurde - mit einer Geldbuße ahnden."}
+  ,
+    {"correct":false,"text":"Der Funkamateur hat mit Entzug des Amateurfunkzeugnisses und einer Geldstrafe zu rechnen."}
+  ,
+    {"correct":false,"text":"Der Funkamateur hat mit einer Geldstrafe und mit dem Einzug der Sendefunkanlage zu rechnen."}
+  ,
+    {"correct":false,"text":"Die Bundesnetzagentur kann die verwendete Funkanlage einziehen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD107",
+     "id":"VVD107",
+     "text":"<p>Hat ein Funkamateur Anspruch auf Zuteilung eines bestimmten Rufzeichens?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, es besteht kein Anspruch darauf."}
+  ,
+    {"correct":false,"text":"Ja, aber nur in besonders zu begründenden Fällen."}
+  ,
+    {"correct":false,"text":"Nein, es sei denn, er kann besondere persönliche Gründe geltend machen und das Rufzeichen frei ist."}
+  ,
+    {"correct":false,"text":"Ja, wenn es ihm schon einmal zugeteilt war."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD109",
+     "id":"VVD109",
+     "text":"<p>Welche Pflichten hat der Inhaber einer Amateurfunkzulassung im Fall der Änderung seiner Anschrift oder bei der Neuerrichtung einer ortsfesten Amateurfunkstelle?</p>",
+     "answer":[
+    {"correct":true,"text":"Er muss die Änderung der Anschrift unverzüglich und die Neuerrichtung einer ortsfesten Amateurfunkstelle vor deren Inbetriebnahme bei der Bundesnetzagentur in schriftlicher oder elektronischer Form anzeigen."}
+  ,
+    {"correct":false,"text":"Er muss die Änderung der Anschrift oder die Neuerrichtung einer ortsfesten Amateurfunkstelle 14 Tage vorher bei der Bundesnetzagentur in schriftlicher oder elektronischer Form anzeigen."}
+  ,
+    {"correct":false,"text":"Er muss die Änderung der Anschrift oder die Neuerrichtung einer ortsfesten Amateurfunkstelle innerhalb von 4 Wochen bei der Bundesnetzagentur in schriftlicher oder elektronischer Form anzeigen und die Bestätigung abwarten, bevor er den Funkbetrieb wieder aufnehmen darf."}
+  ,
+    {"correct":false,"text":"Er muss die Änderung oder Neuerrichtung 14 Tage vor der Aufnahme des Funkbetriebs am neuen Wohnsitz bzw. Standort bei der Bundesnetzagentur in schriftlicher oder elektronischer Form anzeigen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD110",
+     "id":"VVD110",
+     "text":"<p>Was muss der Inhaber einer Amateurfunkzulassung bei der Änderung seines Namens oder seiner Anschrift veranlassen?</p>",
+     "answer":[
+    {"correct":true,"text":"Er muss die Änderungen der Bundesnetzagentur unverzüglich in schriftlicher oder elektronischer Form mitteilen."}
+  ,
+    {"correct":false,"text":"Er muss die Änderungen der Bundesnetzagentur im Fall der weiteren Teilnahme am Amateurfunkdienst innerhalb von 4 Wochen in schriftlicher oder elektronischer Form mitteilen."}
+  ,
+    {"correct":false,"text":"Er muss die Änderungen der Bundesnetzagentur nur beim Umzug ins Ausland oder in den Zuständigkeitsbereich einer anderen Bundesnetzagentur-Außenstelle mitteilen."}
+  ,
+    {"correct":false,"text":"Er muss die Änderungen 14 Tage vor deren Eintreten der Bundesnetzagentur in schriftlicher oder elektronischer Form mitteilen und seine Funkanlage solange stilllegen, bis er von der Bundesnetzagentur eine entsprechend geänderte Amateurfunkzulassung erhalten hat."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD111",
+     "id":"VVD111",
+     "text":"<p>Ein Funkamateur verzichtet auf seine Zulassung und damit auf die Zuteilung seines personengebundenen Rufzeichens. Kann er damit rechnen, dass er auf Antrag dieses Rufzeichen nach 2 Jahren erneut zugeteilt bekommt?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, der Funkamateur kann nur mit der Zuteilung dieses Rufzeichens rechnen, wenn er den Antrag auf erneute Zuteilung innerhalb eines Jahres nach Verzicht stellt."}
+  ,
+    {"correct":false,"text":"Ja, freigewordene Rufzeichen werden erst nach Ablauf von 10 Jahren an einen anderen Funkamateur neu vergeben."}
+  ,
+    {"correct":false,"text":"Ja, Rufzeichen sind personengebunden und können daher sowieso nicht an andere Personen vergeben werden."}
+  ,
+    {"correct":false,"text":"Nein, durch Verzicht frei gewordene Rufzeichen dürfen generell für 10 Jahre nicht vergeben werden."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VK103",
+     "id":"VVK103",
+     "text":"<p>Mit welchen Folgen muss der Funkamateur rechnen, wenn er die zu entrichtenden Gebühren und Beiträge nicht zahlt?</p>",
+     "answer":[
+    {"correct":true,"text":"Er muss mit Maßnahmen nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes rechnen."}
+  ,
+    {"correct":false,"text":"Er muss mit dem Entzug seines Amateurfunkzeugnisses rechnen."}
+  ,
+    {"correct":false,"text":"Er muss mit dem Entzug der Amateurfunkzuteilung sowie einem Bußgeld rechnen."}
+  ,
+    {"correct":false,"text":"Er muss mit einer gebührenpflichtigen Nachprüfung rechnen."}
+  ]
+    }
+  
+    ]
+  

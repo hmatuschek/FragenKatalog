@@ -4,15 +4,15 @@
     {
      "name":"E/TD601",
      "id":"ETD601",
-     "text":"<p>Was verstehen Sie unter einem "Oszillator"?</p>",
+     "text":"<p>Was verstehen Sie unter einem \"Oszillator\"?</p>",
      "answer":[
-    {"correct":true, "text":"Es ist ein Schwingungserzeuger."}
+    {"correct":true,"text":"Es ist ein Schwingungserzeuger."}
   ,
-    {"correct":false, "text":"Es ist ein sehr schmales Filter."}
+    {"correct":false,"text":"Es ist ein sehr schmales Filter."}
   ,
-    {"correct":false, "text":"Es ist ein Messgerät zur Anzeige von Schwingungen."}
+    {"correct":false,"text":"Es ist ein Messgerät zur Anzeige von Schwingungen."}
   ,
-    {"correct":false, "text":"Es ist ein FM-Modulator."}
+    {"correct":false,"text":"Es ist ein FM-Modulator."}
   ]
     }
   ,
@@ -21,13 +21,13 @@
      "id":"ETD602",
      "text":"<p>Was ist ein LC-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>",
      "answer":[
-    {"correct":true, "text":"von einer Spule und einem Kondensator (LC-Schwingkreis) bestimmt wird."}
+    {"correct":true,"text":"von einer Spule und einem Kondensator (LC-Schwingkreis) bestimmt wird."}
   ,
-    {"correct":false, "text":"durch einen hochstabilen Quarz bestimmt wird."}
+    {"correct":false,"text":"durch einen hochstabilen Quarz bestimmt wird."}
   ,
-    {"correct":false, "text":"mittels LC-Tiefpass gefiltert wird."}
+    {"correct":false,"text":"mittels LC-Tiefpass gefiltert wird."}
   ,
-    {"correct":false, "text":"mittels LC-Hochpass gefiltert wird."}
+    {"correct":false,"text":"mittels LC-Hochpass gefiltert wird."}
   ]
     }
   ,
@@ -36,13 +36,13 @@
      "id":"ETD603",
      "text":"<p>Was ist ein Quarz-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>",
      "answer":[
-    {"correct":true, "text":"durch einen hochstabilen Quarz bestimmt wird."}
+    {"correct":true,"text":"durch einen hochstabilen Quarz bestimmt wird."}
   ,
-    {"correct":false, "text":"allein durch einen Quarz erzeugt wird."}
+    {"correct":false,"text":"allein durch einen Quarz erzeugt wird."}
   ,
-    {"correct":false, "text":"mittels Quarz-Tiefpass gefiltert wird."}
+    {"correct":false,"text":"mittels Quarz-Tiefpass gefiltert wird."}
   ,
-    {"correct":false, "text":"mittels Quarz-Hochpass gefiltert wird."}
+    {"correct":false,"text":"mittels Quarz-Hochpass gefiltert wird."}
   ]
     }
   ,
@@ -51,13 +51,13 @@
      "id":"ETD604",
      "text":"<p>Wie verhält sich die Frequenz eines LC-Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg geringer wird?</p>",
      "answer":[
-    {"correct":true, "text":"Die Frequenz wird erhöht."}
+    {"correct":true,"text":"Die Frequenz wird erhöht."}
   ,
-    {"correct":false, "text":"Die Schwingungen reißen ab (Aussetzer)."}
+    {"correct":false,"text":"Die Schwingungen reißen ab (Aussetzer)."}
   ,
-    {"correct":false, "text":"Die Frequenz wird niedriger."}
+    {"correct":false,"text":"Die Frequenz wird niedriger."}
   ,
-    {"correct":false, "text":"Die Frequenz bleibt stabil."}
+    {"correct":false,"text":"Die Frequenz bleibt stabil."}
   ]
     }
   ,
@@ -66,13 +66,13 @@
      "id":"ETD605",
      "text":"<p>Im VFO eines Senders steigt die Induktivität der Oszillatorspule mit der Temperatur. Der Kondensator bleibt sehr stabil. Welche Auswirkungen hat dies bei steigender Temperatur?</p>",
      "answer":[
-    {"correct":true, "text":"Die VFO-Frequenz wandert nach unten."}
+    {"correct":true,"text":"Die VFO-Frequenz wandert nach unten."}
   ,
-    {"correct":false, "text":"Die VFO-Frequenz wandert nach oben."}
+    {"correct":false,"text":"Die VFO-Frequenz wandert nach oben."}
   ,
-    {"correct":false, "text":"Die VFO-Ausgangsspannung nimmt zu."}
+    {"correct":false,"text":"Die VFO-Ausgangsspannung nimmt zu."}
   ,
-    {"correct":false, "text":"Die VFO-Ausgangsspannung nimmt ab."}
+    {"correct":false,"text":"Die VFO-Ausgangsspannung nimmt ab."}
   ]
     }
   ,
@@ -81,13 +81,13 @@
      "id":"ETD606",
      "text":"<p>Der Vorteil von Quarzoszillatoren gegenüber LC-Oszillatoren liegt darin, dass sie</p>",
      "answer":[
-    {"correct":true, "text":"eine bessere Frequenzstabilität aufweisen."}
+    {"correct":true,"text":"eine bessere Frequenzstabilität aufweisen."}
   ,
-    {"correct":false, "text":"eine breitere Resonanzkurve haben."}
+    {"correct":false,"text":"eine breitere Resonanzkurve haben."}
   ,
-    {"correct":false, "text":"einen geringeren Anteil an Oberwellen erzeugen."}
+    {"correct":false,"text":"einen geringeren Anteil an Oberwellen erzeugen."}
   ,
-    {"correct":false, "text":"ein sehr viel geringes Seitenbandrauschen erzeugen."}
+    {"correct":false,"text":"ein sehr viel geringes Seitenbandrauschen erzeugen."}
   ]
     }
   ,
@@ -96,13 +96,13 @@
      "id":"ETF101",
      "text":"<p>Eine hohe erste ZF vereinfacht die Filterung zur Vermeidung von</p>",
      "answer":[
-    {"correct":true, "text":"Spiegelfrequenzstörungen."}
+    {"correct":true,"text":"Spiegelfrequenzstörungen."}
   ,
-    {"correct":false, "text":"Beeinflussung des lokalen Oszillators."}
+    {"correct":false,"text":"Beeinflussung des lokalen Oszillators."}
   ,
-    {"correct":false, "text":"Nebenaussendungen."}
+    {"correct":false,"text":"Nebenaussendungen."}
   ,
-    {"correct":false, "text":"Störungen der zweiten ZF."}
+    {"correct":false,"text":"Störungen der zweiten ZF."}
   ]
     }
   ,
@@ -111,13 +111,13 @@
      "id":"ETF102",
      "text":"<p>Eine hohe erste Zwischenfrequenz</p>",
      "answer":[
-    {"correct":true, "text":"ermöglicht bei großem Abstand zur Empfangsfrequenz eine hohe Spiegelfrequenzunterdrückung."}
+    {"correct":true,"text":"ermöglicht bei großem Abstand zur Empfangsfrequenz eine hohe Spiegelfrequenzunterdrückung."}
   ,
-    {"correct":false, "text":"trägt dazu bei, mögliche Beeinflussungen des lokalen Oszillators durch Empfangssignale zu reduzieren."}
+    {"correct":false,"text":"trägt dazu bei, mögliche Beeinflussungen des lokalen Oszillators durch Empfangssignale zu reduzieren."}
   ,
-    {"correct":false, "text":"sollte möglichst nahe an der Empfangsfrequenz liegen, um eine gute Spiegelfrequenzunterdrückung zu erreichen."}
+    {"correct":false,"text":"sollte möglichst nahe an der Empfangsfrequenz liegen, um eine gute Spiegelfrequenzunterdrückung zu erreichen."}
   ,
-    {"correct":false, "text":"verhindert auf Grund ihrer Höhe, dass durch die Umsetzung auf die zweite Zwischenfrequenz Spiegelfrequenzen auftreten."}
+    {"correct":false,"text":"verhindert auf Grund ihrer Höhe, dass durch die Umsetzung auf die zweite Zwischenfrequenz Spiegelfrequenzen auftreten."}
   ]
     }
   ,
@@ -126,13 +126,13 @@
      "id":"ETF103",
      "text":"<p>Welche Aussage ist für einen Doppelsuper richtig?</p>",
      "answer":[
-    {"correct":true, "text":"Mit einer niedrigen zweiten ZF erreicht man leicht eine gute Trennschärfe."}
+    {"correct":true,"text":"Mit einer niedrigen zweiten ZF erreicht man leicht eine gute Trennschärfe."}
   ,
-    {"correct":false, "text":"Das von der Antenne aufgenommene Signal bleibt bis zum Demodulator in seiner Frequenz erhalten."}
+    {"correct":false,"text":"Das von der Antenne aufgenommene Signal bleibt bis zum Demodulator in seiner Frequenz erhalten."}
   ,
-    {"correct":false, "text":"Durch eine hohe erste ZF erreicht man leicht eine gute Trennschärfe."}
+    {"correct":false,"text":"Durch eine hohe erste ZF erreicht man leicht eine gute Trennschärfe."}
   ,
-    {"correct":false, "text":"Durch eine niedrige zweite ZF erreicht man leicht eine gute Spiegelselektion."}
+    {"correct":false,"text":"Durch eine niedrige zweite ZF erreicht man leicht eine gute Spiegelselektion."}
   ]
     }
   ,
@@ -141,13 +141,13 @@
      "id":"ETF104",
      "text":"<p>Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszillator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welche Frequenz hat die Spielfrequenz?</p>",
      "answer":[
-    {"correct":true, "text":"49,9 MHz"}
+    {"correct":true,"text":"49,9 MHz"}
   ,
-    {"correct":false, "text":"48,9 MHz"}
+    {"correct":false,"text":"48,9 MHz"}
   ,
-    {"correct":false, "text":"39,2 MHz"}
+    {"correct":false,"text":"39,2 MHz"}
   ,
-    {"correct":false, "text":"17,8 MHz"}
+    {"correct":false,"text":"17,8 MHz"}
   ]
     }
   ,
@@ -156,13 +156,13 @@
      "id":"ETF105",
      "text":"<p>Wodurch wird beim Überlagerungsempfänger die Spiegelfrequenzdämpfung bestimmt? Sie wird vor allem bestimmt durch</p>",
      "answer":[
-    {"correct":true, "text":"die Höhe der ersten ZF."}
+    {"correct":true,"text":"die Höhe der ersten ZF."}
   ,
-    {"correct":false, "text":"die Höhe der zweiten ZF bei einem Doppelüberlagerungsempfänger."}
+    {"correct":false,"text":"die Höhe der zweiten ZF bei einem Doppelüberlagerungsempfänger."}
   ,
-    {"correct":false, "text":"die Bandbreite der ZF-Stufen."}
+    {"correct":false,"text":"die Bandbreite der ZF-Stufen."}
   ,
-    {"correct":false, "text":"die NF-Bandbreite."}
+    {"correct":false,"text":"die NF-Bandbreite."}
   ]
     }
   ,
@@ -171,13 +171,13 @@
      "id":"ETF106",
      "text":"<p>Einem Mischer werden die Frequenzen 136 MHz und 145 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>",
      "answer":[
-    {"correct":true, "text":"9 MHz und 281 MHz"}
+    {"correct":true,"text":"9 MHz und 281 MHz"}
   ,
-    {"correct":false, "text":"127 MHz und 154 MHz"}
+    {"correct":false,"text":"127 MHz und 154 MHz"}
   ,
-    {"correct":false, "text":"272 MHz und 290 MHz"}
+    {"correct":false,"text":"272 MHz und 290 MHz"}
   ,
-    {"correct":false, "text":"140,5 MHz und 281 MHz"}
+    {"correct":false,"text":"140,5 MHz und 281 MHz"}
   ]
     }
   ,
@@ -186,13 +186,13 @@
      "id":"ETF107",
      "text":"<p>Einem Mischer werden die Frequenzen 28 MHz und 38,7 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>",
      "answer":[
-    {"correct":true, "text":"10,7 MHz und 66,7 MHz"}
+    {"correct":true,"text":"10,7 MHz und 66,7 MHz"}
   ,
-    {"correct":false, "text":"nur 10,7 MHz"}
+    {"correct":false,"text":"nur 10,7 MHz"}
   ,
-    {"correct":false, "text":"56 MHz und 66,7 MHz"}
+    {"correct":false,"text":"56 MHz und 66,7 MHz"}
   ,
-    {"correct":false, "text":"10,7 MHz und 56 MHz"}
+    {"correct":false,"text":"10,7 MHz und 56 MHz"}
   ]
     }
   ,
@@ -201,13 +201,13 @@
      "id":"ETF108",
      "text":"<p>Eine schmale Empfängerbandbreite führt im allgemeinen zu einer</p>",
      "answer":[
-    {"correct":true, "text":"hohen Trennschärfe."}
+    {"correct":true,"text":"hohen Trennschärfe."}
   ,
-    {"correct":false, "text":"fehlenden Trennschärfe."}
+    {"correct":false,"text":"fehlenden Trennschärfe."}
   ,
-    {"correct":false, "text":"unzulänglichen Trennschärfe."}
+    {"correct":false,"text":"unzulänglichen Trennschärfe."}
   ,
-    {"correct":false, "text":"schlechten Demodulation."}
+    {"correct":false,"text":"schlechten Demodulation."}
   ]
     }
   ,
@@ -216,13 +216,13 @@
      "id":"ETF109",
      "text":"<p>Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal entspricht</p>",
      "answer":[
-    {"correct":true, "text":"dem zweifachen der ersten ZF."}
+    {"correct":true,"text":"dem zweifachen der ersten ZF."}
   ,
-    {"correct":false, "text":"der Frequenz des lokalen Oszillators."}
+    {"correct":false,"text":"der Frequenz des lokalen Oszillators."}
   ,
-    {"correct":false, "text":"der HF-Eingangsfrequenz."}
+    {"correct":false,"text":"der HF-Eingangsfrequenz."}
   ,
-    {"correct":false, "text":"der Frequenz des Preselektors."}
+    {"correct":false,"text":"der Frequenz des Preselektors."}
   ]
     }
   ,
@@ -231,13 +231,13 @@
      "id":"ETF110",
      "text":"<p>Durch welchen Vorgang setzt ein Konverter einen Frequenzbereich für einen vorhandenen Empfänger um?</p>",
      "answer":[
-    {"correct":true, "text":"Durch Mischung."}
+    {"correct":true,"text":"Durch Mischung."}
   ,
-    {"correct":false, "text":"Durch Vervielfachung."}
+    {"correct":false,"text":"Durch Vervielfachung."}
   ,
-    {"correct":false, "text":"Durch Frequenzteilung."}
+    {"correct":false,"text":"Durch Frequenzteilung."}
   ,
-    {"correct":false, "text":"Durch Rückkopplung."}
+    {"correct":false,"text":"Durch Rückkopplung."}
   ]
     }
   ,
@@ -246,13 +246,13 @@
      "id":"ETF201",
      "text":"<p>Um Schwankungen des NF-Ausgangssignals durch Schwankungen des HF-Eingangssignals zu verringern, wird ein Empfänger mit</p>",
      "answer":[
-    {"correct":true, "text":"einer automatischen Verstärkungsregelung ausgestattet."}
+    {"correct":true,"text":"einer automatischen Verstärkungsregelung ausgestattet."}
   ,
-    {"correct":false, "text":"einer NF-Pegelbegrenzung ausgestattet."}
+    {"correct":false,"text":"einer NF-Pegelbegrenzung ausgestattet."}
   ,
-    {"correct":false, "text":"NF-Filtern ausgestattet."}
+    {"correct":false,"text":"NF-Filtern ausgestattet."}
   ,
-    {"correct":false, "text":"einer NF-Vorspannungsregelung ausgestattet."}
+    {"correct":false,"text":"einer NF-Vorspannungsregelung ausgestattet."}
   ]
     }
   ,
@@ -261,13 +261,13 @@
      "id":"ETF202",
      "text":"<p>Bei Empfang eines sehr starken Signals verringert die AGC (automatic gain control)</p>",
      "answer":[
-    {"correct":true, "text":"die Verstärkung der HF- und ZF-Stufen."}
+    {"correct":true,"text":"die Verstärkung der HF- und ZF-Stufen."}
   ,
-    {"correct":false, "text":"die Versorgungsspannung des VFO."}
+    {"correct":false,"text":"die Versorgungsspannung des VFO."}
   ,
-    {"correct":false, "text":"eine Verstärkung der NF-Stufen."}
+    {"correct":false,"text":"eine Verstärkung der NF-Stufen."}
   ,
-    {"correct":false, "text":"eine Filterreaktion."}
+    {"correct":false,"text":"eine Filterreaktion."}
   ]
     }
   ,
@@ -276,13 +276,13 @@
      "id":"ETF203",
      "text":"<p>Was bewirkt die AGC (automatic gain control) bei einem starken Eingangssignal?</p>",
      "answer":[
-    {"correct":true, "text":"Sie reduziert die Verstärkung der HF- und ZFStufen."}
+    {"correct":true,"text":"Sie reduziert die Verstärkung der HF- und ZFStufen."}
   ,
-    {"correct":false, "text":"Sie reduziert die Amplitude des VFO."}
+    {"correct":false,"text":"Sie reduziert die Amplitude des VFO."}
   ,
-    {"correct":false, "text":"Sie reduziert die Amplitude des BFO."}
+    {"correct":false,"text":"Sie reduziert die Amplitude des BFO."}
   ,
-    {"correct":false, "text":"Sie reduziert die Höhe der Versorgungsspannungen."}
+    {"correct":false,"text":"Sie reduziert die Höhe der Versorgungsspannungen."}
   ]
     }
   ,
@@ -291,13 +291,13 @@
      "id":"ETF204",
      "text":"<p>Ein Doppelsuper hat eine erste ZF von 10,7 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 28 MHz sein.<br></p><br/><img src='data:image/png;base64,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' alt='ETF204'/>",
      "answer":[
-    {"correct":true, "text":"Der VFO muss bei 38,70 MHz und der CO bei 11,16 MHz schwingen."}
+    {"correct":true,"text":"Der VFO muss bei 38,70 MHz und der CO bei 11,16 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 10,26 MHz und der CO bei 17,30 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 10,26 MHz und der CO bei 17,30 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 11,16 MHz und der CO bei 38,70 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 11,16 MHz und der CO bei 38,70 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 28,460 MHz und der CO bei 38,26 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 28,460 MHz und der CO bei 38,26 MHz schwingen."}
   ]
     }
   ,
@@ -306,13 +306,13 @@
      "id":"ETF205",
      "text":"<p>Ein Doppelsuper hat eine erste ZF von 9 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 21,1 MHz sein. Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?</p><br/><img src='data:image/png;base64,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' alt='ETF204'/>",
      "answer":[
-    {"correct":true, "text":"Der VFO muss bei 30,1 MHz und der CO bei 9,46 MHz schwingen."}
+    {"correct":true,"text":"Der VFO muss bei 30,1 MHz und der CO bei 9,46 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 9,46 MHz und der CO bei 8,54 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 9,46 MHz und der CO bei 8,54 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 30,1 MHz und der CO bei 8,54 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 30,1 MHz und der CO bei 8,54 MHz schwingen."}
   ,
-    {"correct":false, "text":"Der VFO muss bei 21,56 MHz und der CO bei 12,1 MHz schwingen."}
+    {"correct":false,"text":"Der VFO muss bei 21,56 MHz und der CO bei 12,1 MHz schwingen."}
   ]
     }
   ,
@@ -321,13 +321,13 @@
      "id":"ETF301",
      "text":"<p>In der folgenden Schaltung können bei einer Empfangsfrequenz von 28,3 MHz und einer Oszillatorfrequenz von 39 MHz Spiegelfrequenzstörungen bei</p><br/><img src='data:image/png;base64,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' alt='ETF301'/>",
      "answer":[
-    {"correct":true, "text":"49,7 MHz auftreten."}
+    {"correct":true,"text":"49,7 MHz auftreten."}
   ,
-    {"correct":false, "text":"39 MHz auftreten."}
+    {"correct":false,"text":"39 MHz auftreten."}
   ,
-    {"correct":false, "text":"67,3 MHz auftreten."}
+    {"correct":false,"text":"67,3 MHz auftreten."}
   ,
-    {"correct":false, "text":"17,6 MHz auftreten."}
+    {"correct":false,"text":"17,6 MHz auftreten."}
   ]
     }
   ,
@@ -336,13 +336,13 @@
      "id":"ETF303",
      "text":"<p>Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?</p>",
      "answer":[
-    {"correct":true, "text":"Ein Quarzkristall"}
+    {"correct":true,"text":"Ein Quarzkristall"}
   ,
-    {"correct":false, "text":"Ein LC-Bandpass"}
+    {"correct":false,"text":"Ein LC-Bandpass"}
   ,
-    {"correct":false, "text":"Ein Keramikresonator"}
+    {"correct":false,"text":"Ein Keramikresonator"}
   ,
-    {"correct":false, "text":"Ein RC-Bandpass"}
+    {"correct":false,"text":"Ein RC-Bandpass"}
   ]
     }
   ,
@@ -351,13 +351,13 @@
      "id":"ETF401",
      "text":"<p>Die Empfindlichkeit eines Empfängers bezieht sich auf die</p>",
      "answer":[
-    {"correct":true, "text":"Fähigkeit des Empfängers, schwache Signale zu empfangen."}
+    {"correct":true,"text":"Fähigkeit des Empfängers, schwache Signale zu empfangen."}
   ,
-    {"correct":false, "text":"Stabilität des VFO."}
+    {"correct":false,"text":"Stabilität des VFO."}
   ,
-    {"correct":false, "text":"Bandbreite des HF-Vorverstärkers."}
+    {"correct":false,"text":"Bandbreite des HF-Vorverstärkers."}
   ,
-    {"correct":false, "text":"Fähigkeit des Empfängers, starke Signale zu unterdrücken."}
+    {"correct":false,"text":"Fähigkeit des Empfängers, starke Signale zu unterdrücken."}
   ]
     }
   ,
@@ -366,13 +366,13 @@
      "id":"ETF402",
      "text":"<p>Welchen Vorteil bietet ein Überlagerungsempfänger gegenüber einem Geradeaus-Empfänger?</p>",
      "answer":[
-    {"correct":true, "text":"Bessere Trennschärfe"}
+    {"correct":true,"text":"Bessere Trennschärfe"}
   ,
-    {"correct":false, "text":"Höhere Bandbreiten"}
+    {"correct":false,"text":"Höhere Bandbreiten"}
   ,
-    {"correct":false, "text":"Geringere Anforderungen an die VFO-Stabilität"}
+    {"correct":false,"text":"Geringere Anforderungen an die VFO-Stabilität"}
   ,
-    {"correct":false, "text":"Wesentlich einfachere Konstruktion"}
+    {"correct":false,"text":"Wesentlich einfachere Konstruktion"}
   ]
     }
   ,
@@ -381,13 +381,13 @@
      "id":"ETF407",
      "text":"<p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?</p>",
      "answer":[
-    {"correct":true, "text":"Notchfilter"}
+    {"correct":true,"text":"Notchfilter"}
   ,
-    {"correct":false, "text":"Noise Filter"}
+    {"correct":false,"text":"Noise Filter"}
   ,
-    {"correct":false, "text":"Störaustaster"}
+    {"correct":false,"text":"Störaustaster"}
   ,
-    {"correct":false, "text":"Die AGC"}
+    {"correct":false,"text":"Die AGC"}
   ]
     }
   ,
@@ -396,13 +396,13 @@
      "id":"ETF408",
      "text":"<p>Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC?</p>",
      "answer":[
-    {"correct":true, "text":"Automatische Verstärkungsregelung"}
+    {"correct":true,"text":"Automatische Verstärkungsregelung"}
   ,
-    {"correct":false, "text":"Automatische Frequenzregelung"}
+    {"correct":false,"text":"Automatische Frequenzregelung"}
   ,
-    {"correct":false, "text":"Automatische Gleichlaufsteuerung"}
+    {"correct":false,"text":"Automatische Gleichlaufsteuerung"}
   ,
-    {"correct":false, "text":"Automatische Antennenabstimmung"}
+    {"correct":false,"text":"Automatische Antennenabstimmung"}
   ]
     }
   ,
@@ -411,13 +411,13 @@
      "id":"ETF409",
      "text":"<p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, impulsförmige Störungen auszublenden?</p>",
      "answer":[
-    {"correct":true, "text":"Noise Blanker"}
+    {"correct":true,"text":"Noise Blanker"}
   ,
-    {"correct":false, "text":"Notchfilter"}
+    {"correct":false,"text":"Notchfilter"}
   ,
-    {"correct":false, "text":"Passband-Tuning"}
+    {"correct":false,"text":"Passband-Tuning"}
   ,
-    {"correct":false, "text":"Die AGC"}
+    {"correct":false,"text":"Die AGC"}
   ]
     }
   ,
@@ -426,13 +426,13 @@
      "id":"ETG101",
      "text":"<p>Wie kann die hochfrequente Ausgangsleistung eines SSB-Senders vermindert werden?</p>",
      "answer":[
-    {"correct":true, "text":"Durch die Verringerung der NF-Ansteuerung und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
+    {"correct":true,"text":"Durch die Verringerung der NF-Ansteuerung und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
   ,
-    {"correct":false, "text":"Durch die Veränderung des Arbeitspunktes der Endstufe."}
+    {"correct":false,"text":"Durch die Veränderung des Arbeitspunktes der Endstufe."}
   ,
-    {"correct":false, "text":"Durch die Verringerung des Hubes und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
+    {"correct":false,"text":"Durch die Verringerung des Hubes und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
   ,
-    {"correct":false, "text":"Nur durch Verringerung des Hubes allein."}
+    {"correct":false,"text":"Nur durch Verringerung des Hubes allein."}
   ]
     }
   ,
@@ -441,13 +441,13 @@
      "id":"ETG102",
      "text":"<p>Welche der nachfolgenden Antworten trifft für die Wirkungsweise eines Transverters zu?</p>",
      "answer":[
-    {"correct":true, "text":"Ein Transverter setzt beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band und beim Senden das 10-m-Sendesignal auf das 70-cm-Band um."}
+    {"correct":true,"text":"Ein Transverter setzt beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band und beim Senden das 10-m-Sendesignal auf das 70-cm-Band um."}
   ,
-    {"correct":false, "text":"Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band um."}
+    {"correct":false,"text":"Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band um."}
   ,
-    {"correct":false, "text":"Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein frequenzmoduliertes Signal in ein amplitudenmoduliertes Signal um."}
+    {"correct":false,"text":"Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein frequenzmoduliertes Signal in ein amplitudenmoduliertes Signal um."}
   ,
-    {"correct":false, "text":"Ein Transverter setzt nur den zu empfangenden Frequenzbereich in einen anderen Frequenzbereich um, z.B. das 70-cm-Band in das 10-m-Band."}
+    {"correct":false,"text":"Ein Transverter setzt nur den zu empfangenden Frequenzbereich in einen anderen Frequenzbereich um, z.B. das 70-cm-Band in das 10-m-Band."}
   ]
     }
   ,
@@ -456,13 +456,13 @@
      "id":"ETG103",
      "text":"<p>Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist?</p>",
      "answer":[
-    {"correct":true, "text":"Leiser ins Mikrofon sprechen."}
+    {"correct":true,"text":"Leiser ins Mikrofon sprechen."}
   ,
-    {"correct":false, "text":"Lauter ins Mikrofon sprechen."}
+    {"correct":false,"text":"Lauter ins Mikrofon sprechen."}
   ,
-    {"correct":false, "text":"Weniger Leistung verwenden."}
+    {"correct":false,"text":"Weniger Leistung verwenden."}
   ,
-    {"correct":false, "text":"Mehr Leistung verwenden."}
+    {"correct":false,"text":"Mehr Leistung verwenden."}
   ]
     }
   ,
@@ -471,13 +471,13 @@
      "id":"ETG104",
      "text":"<p>Was bewirkt in der Regel eine zu hohe Mikrofonverstärkung bei einem SSB-Transceiver?</p>",
      "answer":[
-    {"correct":true, "text":"Splatter bei Stationen, die auf dem Nachbarkanal arbeiten."}
+    {"correct":true,"text":"Splatter bei Stationen, die auf dem Nachbarkanal arbeiten."}
   ,
-    {"correct":false, "text":"Störungen von Stationen, die auf einem anderen Frequenzband arbeiten."}
+    {"correct":false,"text":"Störungen von Stationen, die auf einem anderen Frequenzband arbeiten."}
   ,
-    {"correct":false, "text":"Störungen der Stromversorgung des Transceivers."}
+    {"correct":false,"text":"Störungen der Stromversorgung des Transceivers."}
   ,
-    {"correct":false, "text":"Störungen von Computern."}
+    {"correct":false,"text":"Störungen von Computern."}
   ]
     }
   ,
@@ -486,13 +486,13 @@
      "id":"ETG105",
      "text":"<p>Was bewirkt eine zu geringe Mikrofonverstärkung bei einem SSB-Transceiver?</p>",
      "answer":[
-    {"correct":true, "text":"geringe Ausgangsleistung"}
+    {"correct":true,"text":"geringe Ausgangsleistung"}
   ,
-    {"correct":false, "text":"Störungen von Stationen, die auf einem anderen Frequenzband arbeiten"}
+    {"correct":false,"text":"Störungen von Stationen, die auf einem anderen Frequenzband arbeiten"}
   ,
-    {"correct":false, "text":"Verringerung der Modulationsqualität"}
+    {"correct":false,"text":"Verringerung der Modulationsqualität"}
   ,
-    {"correct":false, "text":"Splatter bei Stationen, die auf dem Nachbarkanal arbeiten"}
+    {"correct":false,"text":"Splatter bei Stationen, die auf dem Nachbarkanal arbeiten"}
   ]
     }
   ,
@@ -501,13 +501,13 @@
      "id":"ETG201",
      "text":"<p>Wie heißt die Stufe in einem Sender, welche die Eigenschaft hat, leise Sprachsignale gegenüber den lauten etwas anzuheben?</p>",
      "answer":[
-    {"correct":true, "text":"Speech Processor"}
+    {"correct":true,"text":"Speech Processor"}
   ,
-    {"correct":false, "text":"Noise Blanker"}
+    {"correct":false,"text":"Noise Blanker"}
   ,
-    {"correct":false, "text":"Clarifier"}
+    {"correct":false,"text":"Clarifier"}
   ,
-    {"correct":false, "text":"Notchfilter"}
+    {"correct":false,"text":"Notchfilter"}
   ]
     }
   ,
@@ -516,13 +516,13 @@
      "id":"ETG202",
      "text":"<p>Welche Schaltung in einem Sender bewirkt, dass der Transceiver allein durch die Stimme auf Sendung geschaltet werden kann?</p>",
      "answer":[
-    {"correct":true, "text":"VOX"}
+    {"correct":true,"text":"VOX"}
   ,
-    {"correct":false, "text":"PTT"}
+    {"correct":false,"text":"PTT"}
   ,
-    {"correct":false, "text":"RIT"}
+    {"correct":false,"text":"RIT"}
   ,
-    {"correct":false, "text":"PSK"}
+    {"correct":false,"text":"PSK"}
   ]
     }
   ,
@@ -531,13 +531,13 @@
      "id":"ETG203",
      "text":"<p>Welche Anforderungen muss ein FM-Funkgerät erfüllen, damit es für die Übertragung von Packet Radio mit 9600 Baud geeignet ist?</p>",
      "answer":[
-    {"correct":true, "text":"Es muss sende- und empfangsseitig den Frequenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein z.B. < 10...100 ms."}
+    {"correct":true,"text":"Es muss sende- und empfangsseitig den Frequenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein z.B. < 10...100 ms."}
   ,
-    {"correct":false, "text":"Es muss sende- und empfangsseitig den Frequenzbereich von 300 Hz bis 3,4 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss zwischen 100...300 ms liegen."}
+    {"correct":false,"text":"Es muss sende- und empfangsseitig den Frequenzbereich von 300 Hz bis 3,4 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss zwischen 100...300 ms liegen."}
   ,
-    {"correct":false, "text":"Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein TNC oder Modem angeschlossen werden kann."}
+    {"correct":false,"text":"Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein TNC oder Modem angeschlossen werden kann."}
   ,
-    {"correct":false, "text":"Es muss den Frequenzbereich von 300 Hz bis 10 kHz linear übertragen können und ein TX-Delay von kleiner 1 ms haben."}
+    {"correct":false,"text":"Es muss den Frequenzbereich von 300 Hz bis 10 kHz linear übertragen können und ein TX-Delay von kleiner 1 ms haben."}
   ]
     }
   ,
@@ -546,13 +546,13 @@
      "id":"ETG403",
      "text":"<p>Wenn man beim Funkbetrieb mit einem Transceiver die Empfangsfrequenz gegenüber der Senderfrequenz geringfügig verstellen möchte, muss man</p>",
      "answer":[
-    {"correct":true, "text":"die RIT bedienen."}
+    {"correct":true,"text":"die RIT bedienen."}
   ,
-    {"correct":false, "text":"das Notchfilter einschalten."}
+    {"correct":false,"text":"das Notchfilter einschalten."}
   ,
-    {"correct":false, "text":"die Passband-Tuning verstellen."}
+    {"correct":false,"text":"die Passband-Tuning verstellen."}
   ,
-    {"correct":false, "text":"die PTT einschalten."}
+    {"correct":false,"text":"die PTT einschalten."}
   ]
     }
   ,
@@ -561,13 +561,13 @@
      "id":"ETG404",
      "text":"<p>Wie wird die Taste am Mikrofon bezeichnet, mit der man einen Transceiver auf Sendung schalten kann?</p>",
      "answer":[
-    {"correct":true, "text":"PTT"}
+    {"correct":true,"text":"PTT"}
   ,
-    {"correct":false, "text":"VOX"}
+    {"correct":false,"text":"VOX"}
   ,
-    {"correct":false, "text":"RIT"}
+    {"correct":false,"text":"RIT"}
   ,
-    {"correct":false, "text":"SSB"}
+    {"correct":false,"text":"SSB"}
   ]
     }
   ,
@@ -576,13 +576,13 @@
      "id":"ETG405",
      "text":"<p>Wie wird der Funkbetrieb bezeichnet, bei dem man einen Transceiver allein durch die Stimme auf Sendung schalten kann?</p>",
      "answer":[
-    {"correct":true, "text":"VOX-Betrieb"}
+    {"correct":true,"text":"VOX-Betrieb"}
   ,
-    {"correct":false, "text":"PTT-Betrieb"}
+    {"correct":false,"text":"PTT-Betrieb"}
   ,
-    {"correct":false, "text":"RIT-Betrieb"}
+    {"correct":false,"text":"RIT-Betrieb"}
   ,
-    {"correct":false, "text":"SSB-Betrieb"}
+    {"correct":false,"text":"SSB-Betrieb"}
   ]
     }
   ,
@@ -591,13 +591,13 @@
      "id":"ETG501",
      "text":"<p>Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen?</p>",
      "answer":[
-    {"correct":true, "text":"Durch zu steile Flanken der Tastimpulse"}
+    {"correct":true,"text":"Durch zu steile Flanken der Tastimpulse"}
   ,
-    {"correct":false, "text":"Durch prellende Kontakte der verwendeten Taste"}
+    {"correct":false,"text":"Durch prellende Kontakte der verwendeten Taste"}
   ,
-    {"correct":false, "text":"Durch direkte Tastung der Oszillatorstufe"}
+    {"correct":false,"text":"Durch direkte Tastung der Oszillatorstufe"}
   ,
-    {"correct":false, "text":"Durch ein unterdimensioniertes Netzteil, dessen Spannung beim Auftasten kurzzeitig zusammenbricht"}
+    {"correct":false,"text":"Durch ein unterdimensioniertes Netzteil, dessen Spannung beim Auftasten kurzzeitig zusammenbricht"}
   ]
     }
   ,
@@ -606,13 +606,13 @@
      "id":"ETG502",
      "text":"<p>Welches Filter wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>",
      "answer":[
-    {"correct":true, "text":"Ein Tiefpassfilter"}
+    {"correct":true,"text":"Ein Tiefpassfilter"}
   ,
-    {"correct":false, "text":"Ein Hochpassfilter"}
+    {"correct":false,"text":"Ein Hochpassfilter"}
   ,
-    {"correct":false, "text":"Ein Antennenfilter"}
+    {"correct":false,"text":"Ein Antennenfilter"}
   ,
-    {"correct":false, "text":"Ein Sperrkreisfilter"}
+    {"correct":false,"text":"Ein Sperrkreisfilter"}
   ]
     }
   ,
@@ -621,13 +621,13 @@
      "id":"ETG503",
      "text":"<p>Um Nachbarkanalstörungen zu minimieren, sollte die Übertragungsbandbreite bei SSB</p>",
      "answer":[
-    {"correct":true, "text":"höchstens 3 kHz betragen."}
+    {"correct":true,"text":"höchstens 3 kHz betragen."}
   ,
-    {"correct":false, "text":"höchstens 5 kHz betragen."}
+    {"correct":false,"text":"höchstens 5 kHz betragen."}
   ,
-    {"correct":false, "text":"höchstens 10 kHz betragen."}
+    {"correct":false,"text":"höchstens 10 kHz betragen."}
   ,
-    {"correct":false, "text":"höchstens 15 kHz betragen."}
+    {"correct":false,"text":"höchstens 15 kHz betragen."}
   ]
     }
   ,
@@ -636,13 +636,13 @@
      "id":"ETG504",
      "text":"<p>Welche Schaltung wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>",
      "answer":[
-    {"correct":true, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACDklEQVRYw+2YsW7TUBSGv0YsqFuRcpF4gKgRIMFksXSyYGf0GomZoeYVcHgCixExRV2jSp0sFjYGpEZ5AlwP2Sq2Xx3uTWIHJ7GrEiDcs1z7+j/n8/Gxr6/Ogfj91tkBw0M85A9ApvOxWJmo07ixmK4JhuosBkwujQDGkgwwqGoCDIHTkksZQFobrgTJB3MJRlKCEiRNSEUsqW+1WW41A0kBMkZSSj4mk0TkQqSDvA6SEGAkSSM7mc7ThMSOqZS7lMJAkhQ6zQjycjxD4Jwk6WCxdnUEnfDZjKNhcmpnzA8AHl9a0cc3MUOA6BHDSQ+geBi/r2hffI1nHH27kA24WhMk9Stz8diOWTyXLK3vpkL3VJKRHSfLy9XQ7ihSWv8aVMvN/MlsMlJFdRAZyLZ6K4TRdlWGq+9KTRp/WdGnu/oYN9j91h77v3Z5iId4iId4yC4gLf6MK/czfvXPZnJ720km95pLv1TOrp93G3vupPAtMjEAPLi0B1eHzT1vsblzW+w2Lm0dYNbaY3+WFQ/xEA/xEA/5ryDnRSOXn01ExXn5rNzYWTT31ltOpf+zziLKLaflbuVk0qPz9Mn1xhvsngBXL99uVh1+/yymx7927nJsM+tuLJS07L0tMuly9rq4mPQ216X74R2QnG5RTY+L7hnLLWappUepAbrW4nXN34ollcj7s6v3EA/xkL8EcgO82+LSDNTtMQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504a'/>"}
+    {"correct":true,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACDklEQVRYw+2YsW7TUBSGv0YsqFuRcpF4gKgRIMFksXSyYGf0GomZoeYVcHgCixExRV2jSp0sFjYGpEZ5AlwP2Sq2Xx3uTWIHJ7GrEiDcs1z7+j/n8/Gxr6/Ogfj91tkBw0M85A9ApvOxWJmo07ixmK4JhuosBkwujQDGkgwwqGoCDIHTkksZQFobrgTJB3MJRlKCEiRNSEUsqW+1WW41A0kBMkZSSj4mk0TkQqSDvA6SEGAkSSM7mc7ThMSOqZS7lMJAkhQ6zQjycjxD4Jwk6WCxdnUEnfDZjKNhcmpnzA8AHl9a0cc3MUOA6BHDSQ+geBi/r2hffI1nHH27kA24WhMk9Stz8diOWTyXLK3vpkL3VJKRHSfLy9XQ7ihSWv8aVMvN/MlsMlJFdRAZyLZ6K4TRdlWGq+9KTRp/WdGnu/oYN9j91h77v3Z5iId4iId4yC4gLf6MK/czfvXPZnJ720km95pLv1TOrp93G3vupPAtMjEAPLi0B1eHzT1vsblzW+w2Lm0dYNbaY3+WFQ/xEA/xEA/5ryDnRSOXn01ExXn5rNzYWTT31ltOpf+zziLKLaflbuVk0qPz9Mn1xhvsngBXL99uVh1+/yymx7927nJsM+tuLJS07L0tMuly9rq4mPQ216X74R2QnG5RTY+L7hnLLWappUepAbrW4nXN34ollcj7s6v3EA/xkL8EcgO82+LSDNTtMQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504a'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACdElEQVRYw+2YP2jbQBTGvxwZPai0gzi6dDGiS0sHobmL8exNmC5ZPQaTuVMxnru6lJAleGkHoyWzMFm6CS2FUsRtLSHzo4MTSWerkt7JEib4G/T3nX73TvedTndCaF+iA8YRskfIev24KVO8VkBcGkUlAhKi8hAicjElAsL/R+yhuZ7hRZPm2pe6hqjJok6Jyo4AAFhMVBFkLm/PZHVp6Xlb2T/f7Cwt6uxWztOz0/RoSoAYvrnPInsP+4vsWu+rAiA/5KNuNvuPL9OLvR+KAHGexmT9lYic7XonVGcAne1EOQ8P3OnCYyyibZ/o9SCiEAB8LcpP65MpWmCcY2Y37B1DFZnxGnD1qMEmE61sCNiFZkyI3OqmGU0RVke5REl2xvfJb3aJp+n49nRadpPSTU7WdtSqKErTCXe2oiTYExxucw3lIGEWqWiuXc0Dk3kas7mE0VyQ11y1PiVNIVYXkL5ZLszeFXqKV8AE4oZSLNuG4A9wx4YwfRIME5vNYPvEhMH2iQmjm6H+AIcVzIwyZxY698U4bhuCOa6+sSFMn8TOasBmsF/89YjPYEKU7KB3/TLy4kH6ZFrjX6wx5BPEBf+zxZ7cCfiXXAjTJxB8BDsT+d6AcYi9a/10fOJOOsgEwvlS4xe5WSagd95rNoTrE1xan1vPxEh8yN8uIFYzSFBrfL2p9VwV5M+0RSZ9jalQNrZWnQrlI79slPUuL+pDvH1VXsHedwVAru7Lw35eEWIns+AjLQERGUx3ijUgoizhNBMby5EKon75e7GVBGAnFVGxo+xl7g9AWwycVb+TaLPAWKGZ9mT259dEB+r4I+QIOUJa0T/XcElBjlEJQAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504b'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACdElEQVRYw+2YP2jbQBTGvxwZPai0gzi6dDGiS0sHobmL8exNmC5ZPQaTuVMxnru6lJAleGkHoyWzMFm6CS2FUsRtLSHzo4MTSWerkt7JEib4G/T3nX73TvedTndCaF+iA8YRskfIev24KVO8VkBcGkUlAhKi8hAicjElAsL/R+yhuZ7hRZPm2pe6hqjJok6Jyo4AAFhMVBFkLm/PZHVp6Xlb2T/f7Cwt6uxWztOz0/RoSoAYvrnPInsP+4vsWu+rAiA/5KNuNvuPL9OLvR+KAHGexmT9lYic7XonVGcAne1EOQ8P3OnCYyyibZ/o9SCiEAB8LcpP65MpWmCcY2Y37B1DFZnxGnD1qMEmE61sCNiFZkyI3OqmGU0RVke5REl2xvfJb3aJp+n49nRadpPSTU7WdtSqKErTCXe2oiTYExxucw3lIGEWqWiuXc0Dk3kas7mE0VyQ11y1PiVNIVYXkL5ZLszeFXqKV8AE4oZSLNuG4A9wx4YwfRIME5vNYPvEhMH2iQmjm6H+AIcVzIwyZxY698U4bhuCOa6+sSFMn8TOasBmsF/89YjPYEKU7KB3/TLy4kH6ZFrjX6wx5BPEBf+zxZ7cCfiXXAjTJxB8BDsT+d6AcYi9a/10fOJOOsgEwvlS4xe5WSagd95rNoTrE1xan1vPxEh8yN8uIFYzSFBrfL2p9VwV5M+0RSZ9jalQNrZWnQrlI79slPUuL+pDvH1VXsHedwVAru7Lw35eEWIns+AjLQERGUx3ijUgoizhNBMby5EKon75e7GVBGAnFVGxo+xl7g9AWwycVb+TaLPAWKGZ9mT259dEB+r4I+QIOUJa0T/XcElBjlEJQAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504b'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADB0lEQVRYw+1Zv2vbQBT+cu3SWhBKQUooZEpMnCylYAzGq1vaTIUswWshQ/BUgsnUP8BjB5G9pWBEh0IIJUOXYBCGgofERnTKoiiEQMCGTo8O8g+lfi+2DsUtwd/i4z7d+/zd3bPenecIdw81BY2ZSDw8jPd4A1kEZ/Ppu3Ti5XLAp9zbmE40psvAk7sXiY9piwRlp99sNLSCecNhTjmIENRHFXmYYTMT7Y/CB4hsFFmSKgDaYdNEHtUBMdzCuwSoVy86ML61AKhKZ/SrXoUfzT2Gw9UXAKuVDmD8vCBAvR91gp6FMSCyJ5i4TC9giMialLDf6un1HhtF+KQwXZEv3dpHiVsTMgE3bLnor85faIdO8ryIbwI+FyHi5JwoG7ayNs41NpfVhGv1IhBFIvB50pkgJIMzof9eZvy0RQzh6TQRsE3HAj0v9M+x1crChVYRU6j71qROymrZ1ZBw1K8aq8E5OdzQq8UUb4N3suFraazbkgbnRGkakYf9qy1s7mtF2inIHPf6c0kHqIgM95ONyKszjgq2eIJbk2vgUmfCTHFYgtMl2ue28MFrHR8lfJaoe50n8LQi5fdEKrkfyGCxLR1bHnwY6VoxCt7Ss9gixpvn9UdrkzoBFHY+anhRyJwIBNNnk5ZGkU4EZrRrvbKtIYE987tEJZgn/n15aZmOSDHn+JqeleaiOIzJk7Wjd5fLT2OLGL9feo9XWErIE2HD345CHbwZNk/ypKOxUPeFCWPWpJQ5hgYcubRNcAu72SmITOWlJd9iMCK3VWm34CAnUtwWVtAqJRYuapsCxZUwFeFqZQxq0jC+29YSobZQsSV6jr8W+v/D0+8YzAvn36jI4eCy7aueyI/hhAWHUWKwOi4GpX8R0Cm6q0D/jLJ1I8IwT1Q7DVVd6yJ1ugsAB92YPlIbAGAvdZE63SV4q8MU7Kv56FlIBEUi6t99Re4gLTibwVE7HQCWAgAKYga21lsAfCuA5a0GloNh9RLJy8EpzjeFm7sxyAxu7qo3Is/N/gmaicxEZiLJ4g9g5j+ThDjxbQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504c'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADB0lEQVRYw+1Zv2vbQBT+cu3SWhBKQUooZEpMnCylYAzGq1vaTIUswWshQ/BUgsnUP8BjB5G9pWBEh0IIJUOXYBCGgofERnTKoiiEQMCGTo8O8g+lfi+2DsUtwd/i4z7d+/zd3bPenecIdw81BY2ZSDw8jPd4A1kEZ/Ppu3Ti5XLAp9zbmE40psvAk7sXiY9piwRlp99sNLSCecNhTjmIENRHFXmYYTMT7Y/CB4hsFFmSKgDaYdNEHtUBMdzCuwSoVy86ML61AKhKZ/SrXoUfzT2Gw9UXAKuVDmD8vCBAvR91gp6FMSCyJ5i4TC9giMialLDf6un1HhtF+KQwXZEv3dpHiVsTMgE3bLnor85faIdO8ryIbwI+FyHi5JwoG7ayNs41NpfVhGv1IhBFIvB50pkgJIMzof9eZvy0RQzh6TQRsE3HAj0v9M+x1crChVYRU6j71qROymrZ1ZBw1K8aq8E5OdzQq8UUb4N3suFraazbkgbnRGkakYf9qy1s7mtF2inIHPf6c0kHqIgM95ONyKszjgq2eIJbk2vgUmfCTHFYgtMl2ue28MFrHR8lfJaoe50n8LQi5fdEKrkfyGCxLR1bHnwY6VoxCt7Ss9gixpvn9UdrkzoBFHY+anhRyJwIBNNnk5ZGkU4EZrRrvbKtIYE987tEJZgn/n15aZmOSDHn+JqeleaiOIzJk7Wjd5fLT2OLGL9feo9XWErIE2HD345CHbwZNk/ypKOxUPeFCWPWpJQ5hgYcubRNcAu72SmITOWlJd9iMCK3VWm34CAnUtwWVtAqJRYuapsCxZUwFeFqZQxq0jC+29YSobZQsSV6jr8W+v/D0+8YzAvn36jI4eCy7aueyI/hhAWHUWKwOi4GpX8R0Cm6q0D/jLJ1I8IwT1Q7DVVd6yJ1ugsAB92YPlIbAGAvdZE63SV4q8MU7Kv56FlIBEUi6t99Re4gLTibwVE7HQCWAgAKYga21lsAfCuA5a0GloNh9RLJy8EpzjeFm7sxyAxu7qo3Is/N/gmaicxEZiLJ4g9g5j+ThDjxbQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504c'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACNUlEQVRYw+2YMWvbQBTHfzkyxFAIHYSNZ1PjQqGrSTBkMB06ehHZi4dsIiUfoJM/QRFeSymYLAVP2YS/QaFCJXOIEYQWCu706OCLTnIjW05l0yb3X06nO73fvXenu+PtCJuX2gLDQkqCxJMYoklcCkVy5OKKwEhKUK4nT6lDg72NhquAooUyjnI63h9yoI7UAXCqWkrFMFHVlhqugsQnw6VW40nmw5dyJSjqH0XEr8bjTiAi/WPdPDxJL5lkdga0qZnJ8vBEGgTJixHgJ7Vue15oAyOYioiItlejzSDpvJvQzgTUqxezea3yeV6+0y8qs/dAP2IGUOEiBOBD1QOgR80BoK28GZUv1wLq7Z+eICKNdEC8hXpGjVuPpjoOeq2HpjlrWj+54qf+Gh2u0LRnhrRC+OKaziZcUlcEZqg6bJfNpP3ZJWHRpRd0+jVziBgIVys+/Kb8JgV1mDmmHsEuDMDPbUCelAPZWeMiofw3m/CkJFmIhViIhZSsQhvkwkimzn/ryd9qK57sFuk03k/XfrxeF7KViS/kCTUArnWxriPrnfGj3tr274rEct3cj/GAthULsRALsRALeVSQ8fL8bMT34nbjcbqW5IsCwF2SXQqAbtFUlAuppJ+5SKiwiRo8/5UztGoHwDvKa09r7+uZELXMHeWWNmWeUixHXRHRWcl0Us3hvBdfhM28eXGOPwHBYZG8uhO1YucccwdMpfRIJUDvjnMgBTXIWH44t3oLsRAL+UcgvwH1qmHiYJ9U0wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504d'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABNCAAAAAB1Kp52AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAACNUlEQVRYw+2YMWvbQBTHfzkyxFAIHYSNZ1PjQqGrSTBkMB06ehHZi4dsIiUfoJM/QRFeSymYLAVP2YS/QaFCJXOIEYQWCu706OCLTnIjW05l0yb3X06nO73fvXenu+PtCJuX2gLDQkqCxJMYoklcCkVy5OKKwEhKUK4nT6lDg72NhquAooUyjnI63h9yoI7UAXCqWkrFMFHVlhqugsQnw6VW40nmw5dyJSjqH0XEr8bjTiAi/WPdPDxJL5lkdga0qZnJ8vBEGgTJixHgJ7Vue15oAyOYioiItlejzSDpvJvQzgTUqxezea3yeV6+0y8qs/dAP2IGUOEiBOBD1QOgR80BoK28GZUv1wLq7Z+eICKNdEC8hXpGjVuPpjoOeq2HpjlrWj+54qf+Gh2u0LRnhrRC+OKaziZcUlcEZqg6bJfNpP3ZJWHRpRd0+jVziBgIVys+/Kb8JgV1mDmmHsEuDMDPbUCelAPZWeMiofw3m/CkJFmIhViIhZSsQhvkwkimzn/ryd9qK57sFuk03k/XfrxeF7KViS/kCTUArnWxriPrnfGj3tr274rEct3cj/GAthULsRALsRALeVSQ8fL8bMT34nbjcbqW5IsCwF2SXQqAbtFUlAuppJ+5SKiwiRo8/5UztGoHwDvKa09r7+uZELXMHeWWNmWeUixHXRHRWcl0Us3hvBdfhM28eXGOPwHBYZG8uhO1YucccwdMpfRIJUDvjnMgBTXIWH44t3oLsRAL+UcgvwH1qmHiYJ9U0wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETG504d'/>"}
   ]
     }
   ,
@@ -651,13 +651,13 @@
      "id":"ETG505",
      "text":"<p>Bei der erstmaligen Prüfung eines Senders sollten die Signale zunächst</p>",
      "answer":[
-    {"correct":true, "text":"in eine künstliche 50-Ω-Antenne eingespeist werden."}
+    {"correct":true,"text":"in eine künstliche 50-Ω-Antenne eingespeist werden."}
   ,
-    {"correct":false, "text":"in eine Antenne eingespeist werden."}
+    {"correct":false,"text":"in eine Antenne eingespeist werden."}
   ,
-    {"correct":false, "text":"in einen Kondensator mit einem Blindwiderstand von 50 Ω eingespeist werden."}
+    {"correct":false,"text":"in einen Kondensator mit einem Blindwiderstand von 50 Ω eingespeist werden."}
   ,
-    {"correct":false, "text":"in einen 50-Ω-Drahtwiderstand eingespeist werden."}
+    {"correct":false,"text":"in einen 50-Ω-Drahtwiderstand eingespeist werden."}
   ]
     }
   ,
@@ -666,13 +666,13 @@
      "id":"ETG506",
      "text":"<p>Welche Filtercharakteristik würde sich am besten für einen KW-Mehrband-Sender eignen?</p>",
      "answer":[
-    {"correct":true, "text":"<br/><img src='data:image/png;base64,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' alt='ETG506a'/>"}
+    {"correct":true,"text":"<br/><img src='data:image/png;base64,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' alt='ETG506a'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETG506b'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,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' alt='ETG506b'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETG506c'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,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' alt='ETG506c'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETG506d'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,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' alt='ETG506d'/>"}
   ]
     }
   

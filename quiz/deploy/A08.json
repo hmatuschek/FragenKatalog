@@ -1,0 +1,1580 @@
+
+    [
+      
+    {
+     "name":"A/TA119",
+     "id":"ATA119",
+     "text":"<p>Die Ausbreitungsgeschwindigkeit freier elektromagnetischer Wellen beträgt etwa</p>",
+     "answer":[
+    {"correct":true,"text":"300000 km/s."}
+  ,
+    {"correct":false,"text":"3000000 km/s."}
+  ,
+    {"correct":false,"text":"30000 km/s."}
+  ,
+    {"correct":false,"text":"3000 km/s."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA120",
+     "id":"ATA120",
+     "text":"<p>Welche Frequenz entspricht einer Wellenlänge von 30 mm im Freiraum?</p>",
+     "answer":[
+    {"correct":true,"text":"10 GHz"}
+  ,
+    {"correct":false,"text":"100 MHz"}
+  ,
+    {"correct":false,"text":"1 MHz"}
+  ,
+    {"correct":false,"text":"100 kHz"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA121",
+     "id":"ATA121",
+     "text":"<p>Eine Wellenlänge von 10 cm im Freiraum entspricht einer Frequenz von</p>",
+     "answer":[
+    {"correct":true,"text":"3 GHz."}
+  ,
+    {"correct":false,"text":"1,9 GHz."}
+  ,
+    {"correct":false,"text":"3 MHz."}
+  ,
+    {"correct":false,"text":"10 GHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA122",
+     "id":"ATA122",
+     "text":"<p>Welcher Wellenlänge λ entspricht die Frequenz f = 22 MHz?</p>",
+     "answer":[
+    {"correct":true,"text":"λ = 13,64 m"}
+  ,
+    {"correct":false,"text":"λ = 14,33 m"}
+  ,
+    {"correct":false,"text":"λ = 12,93 m"}
+  ,
+    {"correct":false,"text":"λ = 136,3 m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA123",
+     "id":"ATA123",
+     "text":"<p>Eine Wellenlänge von 2,06 m entspricht einer Frequenz von</p>",
+     "answer":[
+    {"correct":true,"text":"145,631 MHz."}
+  ,
+    {"correct":false,"text":"150,247 MHz."}
+  ,
+    {"correct":false,"text":"148,927 MHz."}
+  ,
+    {"correct":false,"text":"135,754 MHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA124",
+     "id":"ATA124",
+     "text":"<p>Eine Wellenlänge von 69 cm entspricht einer Frequenz von</p>",
+     "answer":[
+    {"correct":true,"text":"434,783 MHz."}
+  ,
+    {"correct":false,"text":"430,162 MHz."}
+  ,
+    {"correct":false,"text":"435,574 MHz."}
+  ,
+    {"correct":false,"text":"440,317 MHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB301",
+     "id":"ATB301",
+     "text":"<p>An den Metallbelägen eines Wickelkondensators mit 0,15 mm starkem Kunststoff-Dielektrikum liegt eine Spannung von 300 V. Wie hoch ist die elektrische Feldstärke zwischen den Metallbelägen?</p><br/><img src='data:image/png;base64,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' alt='Atb301'/>",
+     "answer":[
+    {"correct":true,"text":"2000 kV/m"}
+  ,
+    {"correct":false,"text":"200 V/m"}
+  ,
+    {"correct":false,"text":"2000 V/m"}
+  ,
+    {"correct":false,"text":"200 kV/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB302",
+     "id":"ATB302",
+     "text":"<p>Eine Blockbatterie hat eine Klemmenspannung von 9 V (EMK). Wie groß ist die elektrische Feldstärke zwischen den beiden Polen der Batterie bei einem Polabstand von 0,6 cm?</p>",
+     "answer":[
+    {"correct":true,"text":"Zirka 1500 V/m"}
+  ,
+    {"correct":false,"text":"Zirka 150 V/m"}
+  ,
+    {"correct":false,"text":"Zirka 15 V/m"}
+  ,
+    {"correct":false,"text":"Zirka 5,4 V/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB303",
+     "id":"ATB303",
+     "text":"<p>Die elektrische Feldstärke um einen einzelnen Leiter ist proportional</p>",
+     "answer":[
+    {"correct":true,"text":"zur Spannung am Leiter."}
+  ,
+    {"correct":false,"text":"zum Strom durch den Leiter."}
+  ,
+    {"correct":false,"text":"zum Querschnitt des Leiters."}
+  ,
+    {"correct":false,"text":"zur Länge des Leiters."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB304",
+     "id":"ATB304",
+     "text":"<p>Ein HF-Abklatschkondensator am Anodenkreis einer Senderendstufe hat eine 0,15 mm starke PTFE-Folie als Dielektrikum. Die Durchschlagsfestigkeit von PTFE beträgt ca. 400 kV/cm. Wie groß wäre die maximale Spannung, die an den Kondensator angelegt werden kann, ohne dass die Folie durchschlagen wird?</p>",
+     "answer":[
+    {"correct":true,"text":"6 kV"}
+  ,
+    {"correct":false,"text":"60 kV"}
+  ,
+    {"correct":false,"text":"600 V"}
+  ,
+    {"correct":false,"text":"2,6 kV"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB305",
+     "id":"ATB305",
+     "text":"<p>Wie nennt man das Feld zwischen zwei parallelen Kondensatorplatten bei Anschluss einer Gleichspannung?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAL4AAACMBAAAAAAiXaHmAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAC3ElEQVRo3u2aPUwTYRjHL3FQF1MHP+Jguhk3XRETJ6nBaBeqFkg6SJnaoNbqRGh1wMUysOCCgw7iQAeNiR3q4mSTTj01gdxECUp7m9CPu7N42ITm+i7v+wu5pP+tHX65PPd/3vd5nns0h5U24B+QXmb5rRET5TuNaF9+7fO7JWmtZEbXDW9+UDs7L60XmYB23Jsf0G7Lx6d577V2jOO37xh5kl8pOii/I5Svw8/fjrDxF/vnwhNpzT/Q+vOHVqT1PhtE49MYR+PfDJmsPw1/51dlmeXbU2U2Pu3phf7803FpTYvya/hbQVal7CU0PpsTaPwbN1j//DBhf9L59RJ+/tQqm19Weg7Nr7gov66uyyt7DY2PnvhC8ndGWf9swf63YP5GEr5/F5fh/Ho8059/akxaEVF+3apLq/Yohsbn4yyaX9UJ1j+/Yf9vw3w6Ps4H0ful/Unnl4L42KLzQQF/MYfmF30+12D//4L5m/D97lSSebi+Ch9efaggPnZ8DuXD9fnGLOufOuz/73v9Xc/8drv0T2tK6udQh390zSUaLn9G+y95vlO9me/izrv8WPcPFfOBh8Eu7kTv8yuab/TwYyrj076+0Mv/5E4u0yr41v1iXjuyPwvNuXxr/2RSUv8M7fmn5gJN9f7/6eF/lXx6vjHovw69/wqz/VcSrQ//DPovoaqTcH69ybH9l5Xyef+VYvuvt3D/lfC3/33ff30VnZ8q+q9nYX/nV5rtv56z9QPdf9HzjS34+9ou/H3QqSYE/OGSvETfZxX1X2h9K/o+Ls+3p4psfsH7CQ59v8D7Ic0QHJ8d0X7OFenxRqEg2i9SsB/1FM6v1l10P9CKsPszlVV/55deZvmtEXZ/zGlEBf65KL9/u5QJoPxXIr6C+DSjaH7R75f2p0PvL8HngzUG798KzufL2hkl98vJc958W37631Fmsm5685Vod/zAT9X8Tn2C8nWD5fdqwBfrL+gcna8J4l8pAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atb305'/>",
+     "answer":[
+    {"correct":true,"text":"Homogenes elektrisches Feld"}
+  ,
+    {"correct":false,"text":"Homogenes magnetisches Feld"}
+  ,
+    {"correct":false,"text":"Polarisiertes elektrisches Feld"}
+  ,
+    {"correct":false,"text":"Polarisiertes magnetisches Feld"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB306",
+     "id":"ATB306",
+     "text":"<p>Wie werden die mit X gekennzeichneten Feldlinien einer Vertikalantenne bezeichnet?</p><br/><img src='data:image/png;base64,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' alt='Atb306'/>",
+     "answer":[
+    {"correct":true,"text":"Elektrische Feldlinien"}
+  ,
+    {"correct":false,"text":"Magnetische Feldlinien"}
+  ,
+    {"correct":false,"text":"Polarisierte Feldlinien"}
+  ,
+    {"correct":false,"text":"Horizontale Feldlinien"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB401",
+     "id":"ATB401",
+     "text":"<p>Ein Ringkern hat einen mittleren Durchmesser von 2,6 cm und trägt 6 Windungen Kupferdraht. Wie groß ist die mittlere magnetische Feldstärke im Ringkern, wenn der Strom 2,5 A beträgt?</p><br/><img src='data:image/png;base64,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' alt='Atb401'/>",
+     "answer":[
+    {"correct":true,"text":"184 A/m"}
+  ,
+    {"correct":false,"text":"1,8 A/m"}
+  ,
+    {"correct":false,"text":"577 A/m"}
+  ,
+    {"correct":false,"text":"5,8 A/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB403",
+     "id":"ATB403",
+     "text":"<p>Welcher Effekt verringert die Induktivität einer von hochfrequentem Strom durchflossenen Spule beim Einführen eines Kupferoder Aluminiumkerns?</p>",
+     "answer":[
+    {"correct":true,"text":"Das hochfrequente Magnetfeld kann nicht in den Kern eindringen, was den Querschnitt des Feldes verringert."}
+  ,
+    {"correct":false,"text":"Kupfer und Aluminium sind diamagnetisch und schwächen das Feld ab."}
+  ,
+    {"correct":false,"text":"Das leitfähige Metall schließt das Feld kurz."}
+  ,
+    {"correct":false,"text":"Kupfer und Aluminium sind unmagnetisch und haben keinen Einfluss auf das Feld."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB404",
+     "id":"ATB404",
+     "text":"<p>Dauermagnete finden Anwendung in</p>",
+     "answer":[
+    {"correct":true,"text":"Drehspulmesswerken."}
+  ,
+    {"correct":false,"text":"Dreheisenmesswerken."}
+  ,
+    {"correct":false,"text":"Transformatorenkernen."}
+  ,
+    {"correct":false,"text":"Spulenkernen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB405",
+     "id":"ATB405",
+     "text":"<p>Wie nennt man das Feld im Innern einer langen Zylinderspule beim Fließen eines Gleichstroms?</p><br/><img src='data:image/png;base64,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' alt='Atb405'/>",
+     "answer":[
+    {"correct":true,"text":"Homogenes magnetisches Feld"}
+  ,
+    {"correct":false,"text":"Homogenes elektrisches Feld"}
+  ,
+    {"correct":false,"text":"Konzentrisches magnetisches Feld"}
+  ,
+    {"correct":false,"text":"Zentriertes magnetisches Feld"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB406",
+     "id":"ATB406",
+     "text":"<p>Wenn Strom durch einen gestreckten Leiter fließt, entsteht ein</p>",
+     "answer":[
+    {"correct":true,"text":"Magnetfeld aus konzentrischen Kreisen um den Leiter."}
+  ,
+    {"correct":false,"text":"elektrisches Feld aus konzentrischen Kreisen um den Leiter."}
+  ,
+    {"correct":false,"text":"homogenes Magnetfeld um den Leiter."}
+  ,
+    {"correct":false,"text":"homogenes elektrisches Feld um den Leiter."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB407",
+     "id":"ATB407",
+     "text":"<p>Wie werden die mit X gekennzeichneten Feldlinien einer Vertikalantenne bezeichnet?</p><br/><img src='data:image/png;base64,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' alt='Atb407'/>",
+     "answer":[
+    {"correct":true,"text":"Magnetische Feldlinien"}
+  ,
+    {"correct":false,"text":"Elektrische Feldlinien"}
+  ,
+    {"correct":false,"text":"Radiale Feldlinien"}
+  ,
+    {"correct":false,"text":"Vertikale Feldlinien"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB408",
+     "id":"ATB408",
+     "text":"<p>Welches sind die richtigen Einheiten der elektrischen und der magnetischen Feldstärke?</p>",
+     "answer":[
+    {"correct":true,"text":"Elektrische Feldstärke: Volt pro Meter<br>Magnetische Feldstärke: Ampere pro Meter"}
+  ,
+    {"correct":false,"text":"Elektrische Feldstärke: Ampere pro Meter<br>Magnetische Feldstärke: Volt pro Meter"}
+  ,
+    {"correct":false,"text":"Elektrische Feldstärke: Volt mal Meter<br>Magnetische Feldstärke: Ampere mal Meter"}
+  ,
+    {"correct":false,"text":"Elektrische Feldstärke: Ampere mal Meter<br>Magnetische Feldstärke: Volt mal Meter"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB501",
+     "id":"ATB501",
+     "text":"<p>Wodurch entsteht ein elektromagnetisches Feld und woraus besteht es?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein elektromagnetisches Feld entsteht, wenn durch einen elektrischen Leiter ein zeitlich schnell veränderlicher Strom fließt. Es besteht aus der elektrischen und aus der magnetischen Feldkomponente (E-Feld und H-Feld)."}
+  ,
+    {"correct":false,"text":"Ein elektromagnetisches Feld entsteht, wenn durch einen elektrischen Leiter ein konstanter Strom fließt. Es besteht aus dem magnetischen Feld (H-Feld), das wiederum ein elektrisches Feld (E-Feld) induziert."}
+  ,
+    {"correct":false,"text":"Ein elektromagnetisches Feld entsteht, wenn sich elektrische Ladungen in einem Leiter befinden. Es besteht aus dem elektrischen Feld (E-Feld), das wiederum ein magnetisches Feld (H-Feld) induziert."}
+  ,
+    {"correct":false,"text":"Ein elektromagnetisches Feld entsteht, wenn an einem elektrischen Leiter eine konstante Spannung angelegt wird. Es besteht aus dem elektrischen Feld (E-Feld), das wiederum ein magnetisches Feld (H-Feld) induziert."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB502",
+     "id":"ATB502",
+     "text":"<p>Wie erfolgt die Ausbreitung einer elektromagnetischen Welle? (Im folgenden Text ist H-Feld die magnetische Feldkomponente und E-Feld die elektrische Feldkomponente.)</p>",
+     "answer":[
+    {"correct":true,"text":"Sie erfolgt durch eine sich ausbreitende Wechselwirkung zwischen E-Feld und H-Feld."}
+  ,
+    {"correct":false,"text":"Die Ausbreitung erfolgt nur über das E-Feld. Das H-Feld ist nur im Nahfeld vorhanden."}
+  ,
+    {"correct":false,"text":"Die Ausbreitung erfolgt nur über das H-Feld. Das E-Feld ist nur im Nahfeld vorhanden."}
+  ,
+    {"correct":false,"text":"E-Feld und H-Feld breiten sich unabhängig voneinander aus und stehen senkrecht zueinander und zur Ausbreitungsrichtung."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB503",
+     "id":"ATB503",
+     "text":"<p>Die Polarisation einer elektromagnetischen Welle wird durch</p>",
+     "answer":[
+    {"correct":true,"text":"die Richtung des elektrischen Feldes (Vektor des E-Feldes) angegeben."}
+  ,
+    {"correct":false,"text":"die Richtung des magnetischen Feldes (Vektor des H-Feldes) angegeben."}
+  ,
+    {"correct":false,"text":"die Richtung der Ausbreitung (S-Vektor Poyntingscher Vektor) angegeben."}
+  ,
+    {"correct":false,"text":"die Leistungsflussdichte im Speisepunkt der Antenne bestimmt."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB504",
+     "id":"ATB504",
+     "text":"<p>Das folgende Bild zeigt die Feldlinien eines elektromagnetischen Feldes. Welche Polarisation hat die skizzierte Wellenfront?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOkAAACxBAAAAADBcSikAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADYUlEQVR42u3ZTW7TQBQA4Bc3CaXQqitgBZXYgJBQwGxQ+ekaIaUXQJwAqScgN2i4QbkBPQASqUBCSIb0Bm7hAG5J0jYkTrCdHwVnJrFn/N4UeG9hReOMP9kznnkzhr6BOAJWWWWVVVbTqZ4JtXfdhNoqmlBr4BpQN6BMr/ZWIdOGTaaeAmTasMnUfYBMGzaZuhmoZWq1G6BwmVo9DdUL0+Xu+IChHoQqePHi70vBoW15Ca6gom5G6st48VYuukAVR/Vtu5Sz7btTqhUcjmEH6V77/eaioBBdbfz3KthBi1OovcqkGgWBejYxRNHd6+Sj3so5jrNHob6dGKLoetMqVOjVM4BlevUQIE+v7gLk6NVS8H5WRoVvFsIz8A5b/RWOCiujwnY5PD5Lj6ZUD0O1oMBoqYMxsE6srkVqlVbtBMOuZdtPie81eFEuaZOsnmfVr5pQWyuJKmas1nQWtMpqSWdBq6r2lHJDXbUFOjsVqmpNuKDFVjdEC1pstSNc0GKr0Z7BDWp1X7JTgatGewY5j1btAGg1rJrqO87ukuO4tGpY0cjof7CcqCKrrLLKKqvnQHXCoFa7dhhVHLX70BNXjtIduIijduCKK6xcg5t49xqkNflvYjVekq0KuVdC1VNTmwkymOhrXsFVUE9scYRfkQY/rOGPNSv+n/tRp1mop3/CDdCOgjetBr3pgSdXfUccH4vDH3uLwx9hZvpnfJHfa/xTSMa9SdKu7x3n64wnrK2K+/CcdtVUrW1RZeU3J5lqfRBWxlUFHWmoxksyVHuupPJgHH6Mo0pj8OZMrrEp1JYRdZBL1JHVXn3e5TDUM2vHhArXPBMqFOrkajtMKrZnXU6m+ulnunF8jt6UFwrqsf70vm5ELaZX9Z9w3k2vxiJ1b4KrM1CsNwduz7wckro++3I4qmx+R1VFiSK6Kk0qUNX5wWpGql83obYkaTmueiJZgmCrklEKXRVmbnPVbvqZbhyfoi9crxXUI/3p/Xl6tZF4N2Q67imrg0iy8yNuV7UnPLxj5d4EtzwD6h3RCWz1kfAE7ogoS8Vx1aJrQPU9yYl/cH5lNbn6c7RvQ6r6o88IpOo4WGWVVVZZZZXV7NXmKJknVbujpIJUHQerrLLKKqusspq9+uOJCVUrWGWV1b9I/Q1evUB/cCxyGQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atb504'/>",
+     "answer":[
+    {"correct":true,"text":"Horizontale Polarisation"}
+  ,
+    {"correct":false,"text":"Vertikale Polarisation"}
+  ,
+    {"correct":false,"text":"Rechtsdrehende Polarisation"}
+  ,
+    {"correct":false,"text":"Zirkulare Polarisation"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB505",
+     "id":"ATB505",
+     "text":"<p>Die Polarisation einer elektromagnetischen Welle wird definiert durch</p>",
+     "answer":[
+    {"correct":true,"text":"die Richtung des elektrischen Feldes (E-Vektor)."}
+  ,
+    {"correct":false,"text":"die Richtung des magnetischen Feldes (H-Vektor)."}
+  ,
+    {"correct":false,"text":"die Richtung der Ausbreitung (S-Vektor Poyntingscher Vektor)."}
+  ,
+    {"correct":false,"text":"die räumliche Anordnung der Empfangsantenne."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB505",
+     "id":"ATB505",
+     "text":"<p>Die Polarisation einer elektromagnetischen Welle wird definiert durch</p>",
+     "answer":[
+    {"correct":true,"text":"die Richtung des elektrischen Feldes (E-Vektor)."}
+  ,
+    {"correct":false,"text":"die Richtung des magnetischen Feldes (H-Vektor)."}
+  ,
+    {"correct":false,"text":"die Richtung der Ausbreitung (S-Vektor Poyntingscher Vektor)."}
+  ,
+    {"correct":false,"text":"die räumliche Anordnung der Empfangsantenne."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB506",
+     "id":"ATB506",
+     "text":"<p>Der Winkel zwischen den E- und H-Feldkomponenten eines elektromagnetischen Feldes beträgt im Fernfeld</p>",
+     "answer":[
+    {"correct":true,"text":"90°."}
+  ,
+    {"correct":false,"text":"45°."}
+  ,
+    {"correct":false,"text":"180°."}
+  ,
+    {"correct":false,"text":"360°."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB507",
+     "id":"ATB507",
+     "text":"<p>Die Polarisation des Sendesignals in der Hauptstrahlrichtung dieser Richtantenne ist</p><br/><img src='data:image/png;base64,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' alt='Atb507'/>",
+     "answer":[
+    {"correct":true,"text":"vertikal."}
+  ,
+    {"correct":false,"text":"horizontal."}
+  ,
+    {"correct":false,"text":"elliptisch."}
+  ,
+    {"correct":false,"text":"linksdrehend."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB508",
+     "id":"ATB508",
+     "text":"<p>Welche Aussage trifft auf die elektromagnetische Ausstrahlung im ungestörten Fernfeld zu?</p>",
+     "answer":[
+    {"correct":true,"text":"Die E-Feldkomponente, die H-Feldkomponente und die Ausbreitungsrichtung befinden sich alle in einem rechten Winkel zueinander."}
+  ,
+    {"correct":false,"text":"Die E-Feldkomponente und die H-Feldkomponente befinden sich in einem Winkel von 180° zueinander. Die Ausbreitungsrichtung verläuft dazu in einem Winkel von 90°."}
+  ,
+    {"correct":false,"text":"Die E-Feldkomponente und die H-Feldkomponente sind phasengleich und befinden sich in einem Winkel von 0° zueinander. Die Ausbreitungsrichtung verläuft dazu in einem Winkel von 90°."}
+  ,
+    {"correct":false,"text":"Die Ausbreitungsrichtung befindet sich in einem Winkel von 180° zur E-Feldkomponente und verläuft parallel zur H-Feldkomponente."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB509",
+     "id":"ATB509",
+     "text":"<p>Durch welche Größe sind elektrische und magnetische Komponenten eines elektromagnetischen Feldes im Fernfeld miteinander verknüpft?</p>",
+     "answer":[
+    {"correct":true,"text":"Durch den Feldwellenwiderstand des Freiraums"}
+  ,
+    {"correct":false,"text":"Durch die Maxwell-Gleichungen"}
+  ,
+    {"correct":false,"text":"Durch die Ausbreitung in der Ionosphäre"}
+  ,
+    {"correct":false,"text":"Durch die Polarisationsrichtung der Antenne"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB510",
+     "id":"ATB510",
+     "text":"<p>Eine vertikale Dipolantenne wird mit 10 W Senderleistung direkt gespeist. Welche elektrische Feldstärke ergibt sich bei Freiraumausbreitung in 10 m Entfernung?</p>",
+     "answer":[
+    {"correct":true,"text":"2,2 V/m"}
+  ,
+    {"correct":false,"text":"8,9 V/m"}
+  ,
+    {"correct":false,"text":"0,4 V/m"}
+  ,
+    {"correct":false,"text":"5,5 V/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB511",
+     "id":"ATB511",
+     "text":"<p>Eine Yagiantenne mit 12,15 dBi Antennengewinn wird mit 250 W Senderleistung direkt gespeist. Welche elektrische Feldstärke ergibt sich bei Freiraumausbreitung in 30 m Entfernung?</p>",
+     "answer":[
+    {"correct":true,"text":"11,8 V/m"}
+  ,
+    {"correct":false,"text":"9,2 V/m"}
+  ,
+    {"correct":false,"text":"15,1 V/m"}
+  ,
+    {"correct":false,"text":"353 V/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB512",
+     "id":"ATB512",
+     "text":"<p>Welche elektrische Feldstärke E herrscht in der Mitte der dargestellten, symmetrisch aufgebauten Messzelle, wenn der angeschlossene Sender 1 Watt Ausgangsleistung liefert?</p><br/><img src='data:image/png;base64,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' alt='Atb512'/>",
+     "answer":[
+    {"correct":true,"text":"28,3 V/m"}
+  ,
+    {"correct":false,"text":"200 V/m"}
+  ,
+    {"correct":false,"text":"14,1 V/m"}
+  ,
+    {"correct":false,"text":"176,8 V/m"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TH216",
+     "id":"ATH216",
+     "text":"<p>Die Polarisation einer Antenne</p>",
+     "answer":[
+    {"correct":true,"text":"wird nach der Ausrichtung der elektrischen Feldkomponente in der Hauptstrahlrichtung in Bezug zur Erdoberfläche angegeben."}
+  ,
+    {"correct":false,"text":"wird nach der Ausrichtung der magnetischen Feldkomponente in der Hauptstrahlrichtung in Bezug zur Erdoberfläche angegeben."}
+  ,
+    {"correct":false,"text":"entspricht der Richtung der magnetischen Feldkomponente des empfangenen oder ausgesendeten Feldes in Bezug auf die Nordrichtung (Azimut)."}
+  ,
+    {"correct":false,"text":"entspricht der Richtung der elektrischen Feldkomponente des empfangenen oder ausgesendeten Feldes in Bezug auf die Nordrichtung (Azimut)."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TH217",
+     "id":"ATH217",
+     "text":"<p>Mit welcher Polarisation wird auf den Kurzwellenbändern meistens gesendet?</p>",
+     "answer":[
+    {"correct":true,"text":"Es wird meist mit horizontaler oder vertikaler Polarisation gesendet."}
+  ,
+    {"correct":false,"text":"Es wird meist mit horizontaler oder zirkularer Polarisation gesendet."}
+  ,
+    {"correct":false,"text":"Es wird meist mit vertikaler oder zirkularer Polarisation gesendet."}
+  ,
+    {"correct":false,"text":"Es wird nur mit horizontaler Polarisation gesendet."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TH218",
+     "id":"ATH218",
+     "text":"<p>Wie wird die Polarisation einer elektromagnetischen Welle bei der Ausbreitung über die Raumwelle beeinflusst?</p>",
+     "answer":[
+    {"correct":true,"text":"Die in der Ionosphäre reflektierten Wellen sind - unabhängig von der Polarisation der ausgesendeten Wellen - meist elliptisch polarisiert."}
+  ,
+    {"correct":false,"text":"Die Polarisation der ausgesendeten Wellen bleibt bei der Reflexion in der Ionosphäre stets unverändert."}
+  ,
+    {"correct":false,"text":"Die Polarisation der ausgesendeten Wellen wird in der Ionosphäre auf Grund des Faraday-Effektes stets um 90° gedreht."}
+  ,
+    {"correct":false,"text":"Die Polarisation der ausgesendeten Wellen wird bei jedem Sprung (Hop) in der Ionosphäre auf Grund des Faraday-Effektes um 90° gedreht."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI102",
+     "id":"ATI102",
+     "text":"<p>Welche ionosphärischen Schichten bestimmen die Fernausbreitung in der Nacht?</p>",
+     "answer":[
+    {"correct":true,"text":"F2-Schicht"}
+  ,
+    {"correct":false,"text":"D-, E- und F2-Schicht"}
+  ,
+    {"correct":false,"text":"F1- und F2-Schicht"}
+  ,
+    {"correct":false,"text":"D- und E-Schicht"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI103",
+     "id":"ATI103",
+     "text":"<p>In welcher Höhe befindet sich die für die Fernausbreitung wichtige F1-Schicht an einem Sommertag? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"200 km Höhe."}
+  ,
+    {"correct":false,"text":"400 km Höhe."}
+  ,
+    {"correct":false,"text":"90 bis 120 km Höhe."}
+  ,
+    {"correct":false,"text":"70 bis 90 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI104",
+     "id":"ATI104",
+     "text":"<p>In welcher Höhe befindet sich die für die Fernausbreitung wichtige F2-Schicht an einem Sommertag? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"400 km Höhe."}
+  ,
+    {"correct":false,"text":"200 km Höhe."}
+  ,
+    {"correct":false,"text":"90 bis 120 km Höhe."}
+  ,
+    {"correct":false,"text":"70 bis 90 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI105",
+     "id":"ATI105",
+     "text":"<p>In welcher Höhe befindet sich die für die Fernausbreitung wichtige E-Schicht an einem Sommertag? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"90 bis 120 km Höhe."}
+  ,
+    {"correct":false,"text":"200 km Höhe."}
+  ,
+    {"correct":false,"text":"400 km Höhe."}
+  ,
+    {"correct":false,"text":"70 bis 90 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI106",
+     "id":"ATI106",
+     "text":"<p>In welcher Höhe befindet sich die für die Fernausbreitung wichtige D-Schicht an einem Sommertag? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"70 bis 90 km Höhe."}
+  ,
+    {"correct":false,"text":"200km Höhe."}
+  ,
+    {"correct":false,"text":"400km Höhe."}
+  ,
+    {"correct":false,"text":"90 bis 120 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI107",
+     "id":"ATI107",
+     "text":"<p>In etwa welcher Höhe über der Erdoberfläche befindet sich die E-Schicht? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"100 km Höhe."}
+  ,
+    {"correct":false,"text":"70 km Höhe."}
+  ,
+    {"correct":false,"text":"360 km Höhe."}
+  ,
+    {"correct":false,"text":"1500 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI108",
+     "id":"ATI108",
+     "text":"<p>In welcher Höhe über dem Boden befindet sich in etwa die F1-Schicht? Sie befindet sich in ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"200 km Höhe."}
+  ,
+    {"correct":false,"text":"80 km Höhe."}
+  ,
+    {"correct":false,"text":"120 km Höhe."}
+  ,
+    {"correct":false,"text":"500 km Höhe."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI109",
+     "id":"ATI109",
+     "text":"<p>Zu welcher Jahres- und Tageszeit hat die F2-Schicht ihre größte Höhe? Sie hat ihre größte Höhe</p>",
+     "answer":[
+    {"correct":true,"text":"im Sommer zur Mittagszeit."}
+  ,
+    {"correct":false,"text":"im Sommer um Mitternacht."}
+  ,
+    {"correct":false,"text":"im Frühjahr und Herbst zur Dämmerungszeit."}
+  ,
+    {"correct":false,"text":"im Winter zur Mittagszeit."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI110",
+     "id":"ATI110",
+     "text":"<p>Welche ionosphärische Schicht ermöglicht im wesentlichen Weitverkehrsverbindungen im Kurzwellenbereich?</p>",
+     "answer":[
+    {"correct":true,"text":"F2-Schicht"}
+  ,
+    {"correct":false,"text":"D-Schicht"}
+  ,
+    {"correct":false,"text":"E-Schicht"}
+  ,
+    {"correct":false,"text":"F1-Schicht"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI111",
+     "id":"ATI111",
+     "text":"<p>Für die Kurzwellenausbreitung über die Raumwelle ist die F1-Schicht</p>",
+     "answer":[
+    {"correct":true,"text":"unerwünscht, weil sie durch Absorption die Ausbreitung durch Reflexion an der F2-Schicht behindern kann."}
+  ,
+    {"correct":false,"text":"erwünscht, weil sie durch zusätzliche Reflexion die Wirkung der F2-Schicht verstärken kann."}
+  ,
+    {"correct":false,"text":"nicht von großer Bedeutung, weil sie vor allem für die höheren Frequenzen durchlässig ist."}
+  ,
+    {"correct":false,"text":"von großer Bedeutung, weil sie die F2-Schicht in noch größere Höhen verschiebt und damit die Sprungsdistanz vergrößert."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI112",
+     "id":"ATI112",
+     "text":"<p>Welchen Einfluss hat die D-Schicht auf die Fernausbreitung?</p>",
+     "answer":[
+    {"correct":true,"text":"Die D-Schicht führt tagsüber zu starker Dämpfung im 80- und 160-m-Band."}
+  ,
+    {"correct":false,"text":"Die D-Schicht reflektiert tagsüber die Wellen im 20-, 30- und 40-m-Band."}
+  ,
+    {"correct":false,"text":"Die D-Schicht absorbiert tagsüber die Wellen im 10- und 15-m-Band."}
+  ,
+    {"correct":false,"text":"Die D-Schicht ist im Sonnenfleckenmaximum am wenigsten ausgeprägt."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI113",
+     "id":"ATI113",
+     "text":"<p>Wodurch kommt die Reflexionsfähigkeit der ionosphärischen Schichten im wesentlichen zustande?</p>",
+     "answer":[
+    {"correct":true,"text":"Durch die von der Sonne ausgehende UV-Strahlung, welche die Moleküle in den verschiedenen Schichthöhen je nach Strahlungsintensität ionisiert."}
+  ,
+    {"correct":false,"text":"Durch die von der Sonne ausgehende Infrarotstrahlung, welche die Moleküle in den verschiedenen Schichthöhen je nach Strahlungsintensität ionisiert."}
+  ,
+    {"correct":false,"text":"Durch die von der Sonne ausgehende UV-Strahlung, welche die Sauerstoffatome in den verschiedenen Schichthöhen je nach Strahlungsintensität aktiviert."}
+  ,
+    {"correct":false,"text":"Durch die von der Sonne ausgehende Infrarotstrahlung, welche die Sauerstoffatome in den verschiedenen Schichthöhen je nach Strahlungsintensität aktiviert."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI114",
+     "id":"ATI114",
+     "text":"<p>Wie kommt die Fernausbreitung einer Funkwelle auf den Kurzwellenbändern zustande? Sie kommt zustande</p>",
+     "answer":[
+    {"correct":true,"text":"durch die Reflexion an elektrisch aufgeladenen Luftschichten in der Ionosphäre."}
+  ,
+    {"correct":false,"text":"durch die Reflexion an Hoch- und Tiefdruckgebieten der hohen Atmosphäre."}
+  ,
+    {"correct":false,"text":"durch die Reflexion an den Wolken in der niedrigen Atmosphäre."}
+  ,
+    {"correct":false,"text":"durch die Reflexion an den parasitären Elementen einer Richtantennen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI115",
+     "id":"ATI115",
+     "text":"<p>Der solare Flux F</p>",
+     "answer":[
+    {"correct":true,"text":"ist die im GHz-Bereich gemessene Energiestrahlung der Sonne. Fluxwerte über 100 führen zu einem stark erhöhten Ionisationsgrad in der Ionosphäre und zu einer erheblich verbesserten Fernausbreitung auf den höheren Kurzwellenbändern."}
+  ,
+    {"correct":false,"text":"ist die im Kurzwellenbereich gemessene Energiestrahlung der Sonne. Fluxwerte über 60 führen zu einem stark erhöhten Ionisationsgrad in der Ionosphäre und zu einer erheblich verbesserten Fernausbreitung auf den höheren Kurzwellenbändern."}
+  ,
+    {"correct":false,"text":"wird aus der Sonnenfleckenrelativzahl R abgeleitet und ist ein Indikator für die Aktivität der Sonne. Fluxwerte über 100 führen zu einem stark erhöhten Ionisationsgrad der D-Schicht und damit zu einer erheblichen Verschlechterung der Fernausbreitung auf den Kurzwellenbändern."}
+  ,
+    {"correct":false,"text":"wird aus der Sonnenfleckenrelativzahl R abgeleitet und ist ein Indikator für die Aktivität der Sonne. Fluxwerte über 60 führen zu einem stark erhöhten Ionisationsgrad in der Ionosphäre und zu einer erheblich verbesserten Fernausbreitung auf den höheren Kurzwellenbändern."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI201",
+     "id":"ATI201",
+     "text":"<p>Unter der \"Toten Zone\" wird der Bereich verstanden,</p>",
+     "answer":[
+    {"correct":true,"text":"der durch die Bodenwelle nicht mehr erreicht und durch die reflektierte Raumwelle noch nicht erreicht wird."}
+  ,
+    {"correct":false,"text":"der durch die Bodenwelle überdeckt wird, so dass schwächere DX-Stationen zugedeckt werden."}
+  ,
+    {"correct":false,"text":"der durch die Bodenwelle erreicht wird und für die Raumwelle nicht zugänglich ist."}
+  ,
+    {"correct":false,"text":"der durch die Interferenz der Bodenwelle mit der Raumwelle in einer Zone der gegenseitigen Auslöschung liegt."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI202",
+     "id":"ATI202",
+     "text":"<p>Welche der folgenden Aussagen trifft für KW-Funkverbindungen zu, die über Bodenwellen erfolgen?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Bodenwelle folgt der Erdkrümmung und kann über den geografischen Horizont hinausreichen. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren."}
+  ,
+    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und reicht nicht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren."}
+  ,
+    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und reicht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren."}
+  ,
+    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und reicht nicht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI203",
+     "id":"ATI203",
+     "text":"<p>Eine Aussendung auf 14,18 MHz kann von der Funkstelle A in einer Entfernung von 1500 km, nicht jedoch von der Funkstelle B in 60 km Entfernung empfangen werden. Der Grund hierfür ist, dass</p>",
+     "answer":[
+    {"correct":true,"text":"Funkstelle B sich innerhalb der ersten Sprungzone befindet."}
+  ,
+    {"correct":false,"text":"die Boden- und Raumwellen sich bei Funkstelle B gegenseitig aufheben."}
+  ,
+    {"correct":false,"text":"zwei an verschiedenen ionosphärischen Schichten reflektierte Wellen mit auslöschender Phase bei Funkstelle B eintreffen"}
+  ,
+    {"correct":false,"text":"bei Funkstelle B der Mögel-Dellinger-Effekt aufgetreten ist."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI204",
+     "id":"ATI204",
+     "text":"<p>Unter Sprungentfernung versteht man</p>",
+     "answer":[
+    {"correct":true,"text":"die Entfernung zwischen dem Sender und dem Punkt, an dem die Raumwelle erstmals zur Erde zurückkehrt."}
+  ,
+    {"correct":false,"text":"die Entfernung zwischen dem Ende der Bodenwelle und dem Punkt, an dem die Raumwelle erstmals zur Erde zurückkehrt"}
+  ,
+    {"correct":false,"text":"die maximale Entfernung vom Sender, an dem ein Signal empfangen werden kann."}
+  ,
+    {"correct":false,"text":"die Entfernung, bei dem kein Signal von Empfänger empfangen werden kann."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI205",
+     "id":"ATI205",
+     "text":"<p>Was wirkt sich nicht auf die Sprungentfernung aus? Keine Auswirkung hat</p>",
+     "answer":[
+    {"correct":true,"text":"die Änderung der Strahlungsleistung."}
+  ,
+    {"correct":false,"text":"die Änderung der Frequenz des ausgesendeten Signals."}
+  ,
+    {"correct":false,"text":"die Tageszeit."}
+  ,
+    {"correct":false,"text":"die aktuelle Höhe der ionisierten Schichten."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI206",
+     "id":"ATI206",
+     "text":"<p>Wie groß ist in etwa die maximale Entfernung, die ein KW-Signal bei Reflexion an der F2-Schicht auf der Erdoberfläche mit einem Sprung (Hop) überbrücken kann?</p>",
+     "answer":[
+    {"correct":true,"text":"Etwa 4000 km."}
+  ,
+    {"correct":false,"text":"Etwa 2000 km."}
+  ,
+    {"correct":false,"text":"Etwa 12000 km."}
+  ,
+    {"correct":false,"text":"Etwa 8000 km."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI207",
+     "id":"ATI207",
+     "text":"<p>Wie groß ist in etwa die maximale Entfernung, die ein KW-Signal bei Reflexion an der E-Schicht auf der Erdoberfläche mit einem Sprung (Hop) überbrücken kann? Sie beträgt ungefähr</p>",
+     "answer":[
+    {"correct":true,"text":"2200 km"}
+  ,
+    {"correct":false,"text":"1100 km"}
+  ,
+    {"correct":false,"text":"4500 km"}
+  ,
+    {"correct":false,"text":"9000 km"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI208",
+     "id":"ATI208",
+     "text":"<p>Von welchem der genannten Parameter ist die Sprungdistanz abhängig, die ein KW-Signal auf der Erdoberfläche überbrücken kann? Sie ist abhängig</p>",
+     "answer":[
+    {"correct":true,"text":"vom Abstrahlwinkel der Antenne."}
+  ,
+    {"correct":false,"text":"von der Polarisation."}
+  ,
+    {"correct":false,"text":"von der Sendeleistung."}
+  ,
+    {"correct":false,"text":"vom Antennengewinn."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI209",
+     "id":"ATI209",
+     "text":"<p>Was ist mit der Aussage \"Funkverkehr über den langen Weg (long path)\" gemeint?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Funkverbindung läuft nicht über den direkten Weg zur Gegenstation, sondern über die dem kürzesten Weg entgegen gesetzte Richtung."}
+  ,
+    {"correct":false,"text":"Bei guten Ausbreitungsbedingungen treten Mehrfachreflexionen mit vielen Sprüngen (hops) auf. Dann ist es möglich, sehr weite Entfernungen - \"lange Wege\" - zu überbrücken."}
+  ,
+    {"correct":false,"text":"Bei guten Ausbreitungsbedingungen treten Mehrfachreflexionen mit vielen Sprüngen (hops) auf. Sie hören dann Ihre eigenen Zeichen zeitverzögert als \"Echo\" im Empfänger wieder. Sie laufen also den \"langen Weg einmal um die Erde\"."}
+  ,
+    {"correct":false,"text":"Bei sehr guten Ausbreitungsbedingungen liegen die reflektierenden Schichten in großer Höhe. Die Sprungsdistanzen werden dann sehr groß, so dass sie die Reichweite der Bodenwelle um ein Vielfaches übertreffen. Dann kann man mit einem Sprung einen \"sehr langen Weg\" zurücklegen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI210",
+     "id":"ATI210",
+     "text":"<p>Eine Amateurfunkstation in Frankfurt/Main will eine Verbindung nach Buenos Aires auf dem langen Weg herstellen. Auf welchen Winkel gegen Nord (Azimut) muss der Funkamateur seinen Kurzwellenbeam drehen, wenn die Beamrichtung für den kurzen Weg 231° beträgt? Er muss die Antenne drehen auf</p>",
+     "answer":[
+    {"correct":true,"text":"zirka 51°."}
+  ,
+    {"correct":false,"text":"zirka 321°."}
+  ,
+    {"correct":false,"text":"zirka 141°."}
+  ,
+    {"correct":false,"text":"zirka 129°."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI211",
+     "id":"ATI211",
+     "text":"<p>Eine Amateurfunkstation in Frankfurt/Main will eine Verbindung nach Tokio auf dem langen Weg herstellen. Auf welchen Winkel gegen Nord (Azimut) muss der Funkamateur seinen Kurzwellenbeam drehen, wenn die Beamrichtung für den kurzen Weg 38° beträgt? Er muss die Antenne drehen auf</p>",
+     "answer":[
+    {"correct":true,"text":"zirka 218°."}
+  ,
+    {"correct":false,"text":"zirka 322°."}
+  ,
+    {"correct":false,"text":"zirka 122°."}
+  ,
+    {"correct":false,"text":"zirka 308°."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI212",
+     "id":"ATI212",
+     "text":"<p>Bei der Ausbreitung auf Kurzwelle spielt die so genannte \"Grey Line\" eine besondere Rolle. Die \"Grey Line\" ist</p>",
+     "answer":[
+    {"correct":true,"text":"der Streifen der Dämmerungsphase vor Sonnenaufgang oder nach Sonnenuntergang."}
+  ,
+    {"correct":false,"text":"die instabilen Ausbreitungsbedingungen in der Äquatorialzone."}
+  ,
+    {"correct":false,"text":"die Zeit mit den besten Möglichkeiten für \"shortskip\" Ausbreitung."}
+  ,
+    {"correct":false,"text":"die Übergangszeit vor und nach dem Winter, in der sich die D-Schicht ab- und wieder aufbaut."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI213",
+     "id":"ATI213",
+     "text":"<p>Was versteht man unter dem Begriff \"Mögel-Dellinger-Effekt\"? Man versteht darunter</p>",
+     "answer":[
+    {"correct":true,"text":"den totalen, zeitlich begrenzten Ausfall der Reflexion an der Ionosphäre."}
+  ,
+    {"correct":false,"text":"den zeitlich begrenzten Schwund durch Mehrwegeausbreitung in der Ionosphäre."}
+  ,
+    {"correct":false,"text":"die zeitlich begrenzt auftretende Verzerrung der Modulation."}
+  ,
+    {"correct":false,"text":"das Übersprechen der Modulation eines starken Senders auf andere, über die Ionosphäre übertragene HF-Signale."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI214",
+     "id":"ATI214",
+     "text":"<p>Ein plötzlicher Anstieg der Intensitäten von UV- und Röntgenstrahlung nach einem Flare (Energieausbruch der Sonne) führt zu erhöhter Ionisierung der D-Schicht und damit zu kurzzeitigem Totalausfall der ionosphärischen Kurzwellenausbreitung. Diese Erscheinung wird auch als</p>",
+     "answer":[
+    {"correct":true,"text":"Mögel-Dellinger-Effekt bezeichnet."}
+  ,
+    {"correct":false,"text":"sporadische E-Ausbreitung bezeichnet."}
+  ,
+    {"correct":false,"text":"kritischer Schwund bezeichnet."}
+  ,
+    {"correct":false,"text":"Aurora-Effekt bezeichnet."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI215",
+     "id":"ATI215",
+     "text":"<p>Ionosphärische Störungen, hervorgerufen durch stark erhöhte Intensität der UV- und Röntgenstrahlung beeinflussen vor allem</p>",
+     "answer":[
+    {"correct":true,"text":"die D-Schicht, die dann fast die gesamte KW-Ausstrahlung absorbiert, so dass keine Ausbreitung über die Raumwelle stattfinden kann."}
+  ,
+    {"correct":false,"text":"die F2-Schicht, die dann so stark ionisiert wird, dass fast die gesamte KW-Ausstrahlung reflektiert wird."}
+  ,
+    {"correct":false,"text":"die E-Schicht, die dann für die höheren Frequenzen durchlässiger wird und durch Reflexion an der F2-Schicht für gute Ausbreitungsbedingungen sorgt."}
+  ,
+    {"correct":false,"text":"die F1-Schicht, die durch Absorption der höheren Frequenzen die Reflexion an der F2-Schicht behindert."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI216",
+     "id":"ATI216",
+     "text":"<p>Ionosphärischer Schwund kann auf</p>",
+     "answer":[
+    {"correct":true,"text":"das Zusammenwirken zwischen Raum- und Bodenwellen zurückzuführen sein."}
+  ,
+    {"correct":false,"text":"eine unzulänglich angepasste Antenne zurückzuführen sein."}
+  ,
+    {"correct":false,"text":"die Verwendung einer falschen Polarisation zurückzuführen sein."}
+  ,
+    {"correct":false,"text":"ein unzulängliches Koaxialkabel zurückzuführen sein."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI217",
+     "id":"ATI217",
+     "text":"<p>Welches Ereignis tritt ein, wenn zwei phasenverschobene Signale an einem Empfangsort zusammentreffen?</p>",
+     "answer":[
+    {"correct":true,"text":"Es kommt zu Interferenzen der beiden Signale."}
+  ,
+    {"correct":false,"text":"Es kommt zu Reflexionen der beiden Signale."}
+  ,
+    {"correct":false,"text":"Es kommt zu Drehungen der Polarisationsebene der beiden Signale."}
+  ,
+    {"correct":false,"text":"Es kommt zu Beugungseffekten bei beiden Signalen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI218",
+     "id":"ATI218",
+     "text":"<p>Backscatter oder Rückstreuung kann auftreten, wenn</p>",
+     "answer":[
+    {"correct":true,"text":"Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz weit über der MUF liegt."}
+  ,
+    {"correct":false,"text":"Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz etwas oberhalb der MUF liegt."}
+  ,
+    {"correct":false,"text":"Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz etwas oberhalb der LUF liegt."}
+  ,
+    {"correct":false,"text":"intensive Korpuskularstrahlung in der Exosphäre eine ionisierte Schicht aufbaut und die Betriebsfrequenz etwas unterhalb der MUF liegt."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI219",
+     "id":"ATI219",
+     "text":"<p>Was ist für ein \"Backscatter-Signal\" charakteristisch?</p>",
+     "answer":[
+    {"correct":true,"text":"Flatterfading."}
+  ,
+    {"correct":false,"text":"Sferic-Geräusche."}
+  ,
+    {"correct":false,"text":"Hohe Signalstärken."}
+  ,
+    {"correct":false,"text":"Breitbandiges Rauschen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI220",
+     "id":"ATI220",
+     "text":"<p>Unter dem Begriff \"short skip\" versteht man Funkverbindungen oberhalb 21 MHz mit Sprungentfernungen unter 1000 km, die</p>",
+     "answer":[
+    {"correct":true,"text":"durch Reflexion an einer sporadisch auftretenden E-Schicht ermöglicht werden."}
+  ,
+    {"correct":false,"text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F1-Schicht ermöglicht werden."}
+  ,
+    {"correct":false,"text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F2-Schicht ermöglicht werden."}
+  ,
+    {"correct":false,"text":"durch Reflexion an hochionisierten D-Schichten ermöglicht werden."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI221",
+     "id":"ATI221",
+     "text":"<p>Damit ein Signal zur Erde zurückreflektiert wird, müsste bei zunehmender Sendefrequenz die Ionisierung der reflektierenden Schicht</p>",
+     "answer":[
+    {"correct":true,"text":"höher sein."}
+  ,
+    {"correct":false,"text":"niedriger sein."}
+  ,
+    {"correct":false,"text":"auf Null gehen."}
+  ,
+    {"correct":false,"text":"sich nicht ändern."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI222",
+     "id":"ATI222",
+     "text":"<p>Die kritische Grenzfrequenz (F<sub>krit</sub>) ist die</p>",
+     "answer":[
+    {"correct":true,"text":"höchste Frequenz, die bei senkrechter Abstrahlung von der Ionosphäre noch reflektiert wird."}
+  ,
+    {"correct":false,"text":"niedrigste Frequenz, die bei senkrechter Abstrahlung von der Ionosphäre noch reflektiert wird."}
+  ,
+    {"correct":false,"text":"höchste Frequenz, die bei waagerechter Abstrahlung von der Ionosphäre noch reflektiert wird."}
+  ,
+    {"correct":false,"text":"niedrigste Frequenz, die bei waagerechter Abstrahlung von der Ionosphäre noch reflektiert wird."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI223",
+     "id":"ATI223",
+     "text":"<p>Die höchste Frequenz, bei der eine zufrieden stellende Kommunikation zwischen zwei Funkstellen im HF-Bereich gewährleistet ist, wird als</p>",
+     "answer":[
+    {"correct":true,"text":"höchste nutzbare Frequenz bezeichnet (MUF)."}
+  ,
+    {"correct":false,"text":"optimale Arbeitsfrequenz bezeichnet (F<sub>opt</sub>)."}
+  ,
+    {"correct":false,"text":"kritische Grenzfrequenz bezeichnet (F<sub>krit</sub>)."}
+  ,
+    {"correct":false,"text":"höchste durchlässige Frequenz bezeichnet (LUF)."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI224",
+     "id":"ATI224",
+     "text":"<p>Die MUF für eine Funkstrecke ist</p>",
+     "answer":[
+    {"correct":true,"text":"die höchste brauchbare Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können."}
+  ,
+    {"correct":false,"text":"der Mittelwert aus der höchsten und niedrigsten brauchbaren Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können."}
+  ,
+    {"correct":false,"text":"die niedrigste brauchbaren Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können."}
+  ,
+    {"correct":false,"text":"die vorgeschriebene nutzbare Frequenz bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI225",
+     "id":"ATI225",
+     "text":"<p>Eine stärkere Ionisierung der F2-Schicht führt zu</p>",
+     "answer":[
+    {"correct":true,"text":"einer höheren MUF."}
+  ,
+    {"correct":false,"text":"einer stärkeren Absorption der höheren Frequenzen."}
+  ,
+    {"correct":false,"text":"einer niedrigeren MUF."}
+  ,
+    {"correct":false,"text":"einer größeren Durchlässigkeit für die höheren Frequenzen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI226",
+     "id":"ATI226",
+     "text":"<p>Die höchste brauchbare Frequenz (MUF) für eine Funkstrecke</p>",
+     "answer":[
+    {"correct":true,"text":"wird höher als die kritische Grenzfrequenz, wenn der Abstrahlwinkel der Sendeantenne kleiner wird."}
+  ,
+    {"correct":false,"text":"wird kleiner als die kritische Grenzfrequenz, wenn der Abstrahlwinkel der Sendeantenne kleiner wird."}
+  ,
+    {"correct":false,"text":"wird kleiner als die kritische Grenzfrequenz, wenn der Abstrahlwinkel der Sendeantenne höher wird."}
+  ,
+    {"correct":false,"text":"ist nur abhängig vom Ionisierungsgrad der D-, E- und F-Schichten."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI227",
+     "id":"ATI227",
+     "text":"<p>Wie groß ist die obere brauchbare Frequenz (MUF) und die optimale Frequenz f<sub>opt</sub> bei Verwendung einer Antenne, die einen Abstrahlwinkel von 45° hat, wenn die kritische Frequenz f<sub>k</sub> mit 3 MHz gemessen wurde?</p>",
+     "answer":[
+    {"correct":true,"text":"Die MUF liegt bei 4,2 MHz und fopt bei 3,6 MHz."}
+  ,
+    {"correct":false,"text":"Die MUF liegt bei 2,1 MHz und fopt bei 1,8 MHz."}
+  ,
+    {"correct":false,"text":"Die MUF liegt bei 2,1 MHz und fopt bei 2,5 MHz."}
+  ,
+    {"correct":false,"text":"Die MUF liegt bei 4,2 MHz und fopt bei 4,9 MHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI228",
+     "id":"ATI228",
+     "text":"<p>Was bedeutet die Aussage: \"Die kritische Frequenz liegt bei 22 MHz\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Bei Einstrahlung in die Ionosphäre unter einem Winkel von 90° liegt die höchste noch reflektierte Signalfrequenz bei 22 MHz."}
+  ,
+    {"correct":false,"text":"Bei Einstrahlung in die Ionosphäre unter einem Winkel von 90° liegt die niedrigste noch reflektierte Signalfrequenz bei 22 MHz."}
+  ,
+    {"correct":false,"text":"Bei Einstrahlung in die Ionosphäre unter einem Winkel von 45° liegt die höchste noch reflektierte Signalfrequenz bei 22 MHz."}
+  ,
+    {"correct":false,"text":"Bei Einstrahlung in die Ionosphäre unter einem Winkel von 45° liegt die niedrigste noch reflektierte Signalfrequenz bei 22 MHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI229",
+     "id":"ATI229",
+     "text":"<p>Was bedeutet die Aussage: \"Die LUF liegt bei 6 MHz\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Die niedrigste Frequenz im KW-Bereich, die für Verbindungen über die Raumwelle als noch brauchbar angesehen wird, liegt bei 6 MHz."}
+  ,
+    {"correct":false,"text":"Die höchste Frequenz im KW-Bereich, die für Verbindungen über die Raumwelle als noch brauchbar angesehen wird, liegt bei 6 MHz."}
+  ,
+    {"correct":false,"text":"Die mittlere Frequenz im KW-Bereich, die für Verbindungen über die Raumwelle genutzt werden kann, liegt bei 6 MHz."}
+  ,
+    {"correct":false,"text":"Die optimale Frequenz, im KW-Bereich, die für Verbindungen über die Raumwelle genutzt werden kann, liegt bei 6 MHz."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI230",
+     "id":"ATI230",
+     "text":"<p>Die LUF für eine Funkstrecke ist</p>",
+     "answer":[
+    {"correct":true,"text":"die niedrigste brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann."}
+  ,
+    {"correct":false,"text":"der Mittelwert der höchsten und niedrigsten brauchbaren Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann."}
+  ,
+    {"correct":false,"text":"die gemessene brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann."}
+  ,
+    {"correct":false,"text":"die geeignetste brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI231",
+     "id":"ATI231",
+     "text":"<p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: \"Das Band ist nur in Zeiten starker Sonnenaktivität für Verbindungen über die Raumwelle brauchbar. Tagsüber bestehen dann hervorragende DX-Möglichkeiten, auch mit sehr kleiner Sendeleistung. Die tote Zone beträgt bis zu 4000 km. Der Ausbreitungsweg muss auf der Tagseite erfolgen.\" Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>",
+     "answer":[
+    {"correct":true,"text":"10-m-Band."}
+  ,
+    {"correct":false,"text":"15-m-Band."}
+  ,
+    {"correct":false,"text":"20-m-Band."}
+  ,
+    {"correct":false,"text":"40-m-Band."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI232",
+     "id":"ATI232",
+     "text":"<p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: \"Die Ausbreitungsbedingungen auf diesem Band sind stark von den Sonnenfleckenzyklen abhängig. Während des Sonnenfleckenmaximums ist das Band fast durchgehend für den DX-Verkehr geöffnet. Im Sonnenfleckenminimum ist das Band bestenfalls in den Sommermonaten tagsüber und meist nur kurzzeitig für den DX-Verkehr brauchbar.\" Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>",
+     "answer":[
+    {"correct":true,"text":"15-m-Band."}
+  ,
+    {"correct":false,"text":"80-m-Band."}
+  ,
+    {"correct":false,"text":"20-m-Band."}
+  ,
+    {"correct":false,"text":"40-m-Band."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI233",
+     "id":"ATI233",
+     "text":"<p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: \"Fast zu allen Zeiten lässt sich das Band für den Verkehr mit anderen Kontinenten nutzen. Im Sonnenfleckenminimum ist das Band nur tagsüber und in der Dämmerungsperiode offen. Die Sprungsdistanz liegt zwischen 1000 km im Sonnenfleckenminimum und 400 km im Sonnenfleckenmaximum. Für Europaverbindungen ist das Band nur während des Sonnenfleckenmaximums im Sommer brauchbar, wenn fast keine tote Zone mehr vorhanden ist.\" Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>",
+     "answer":[
+    {"correct":true,"text":"20-m-Band."}
+  ,
+    {"correct":false,"text":"15-m-Band."}
+  ,
+    {"correct":false,"text":"30-m-Band."}
+  ,
+    {"correct":false,"text":"40-m-Band."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI234",
+     "id":"ATI234",
+     "text":"<p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: \"In diesem Band ist die Tagesdämpfung durch die D-Schicht noch erheblich. Die Tagesreichweite geht bis zu 1000 km. Die tote Zone beträgt am Tage etwa 100 km. Nachts und während der Wintermonate vergrößert sich die Sprungdistanz mit einem Maximum um Mitternacht. Größte Reichweiten treten auf, wenn sich der gesamt Ausbreitungspfad auf der Nachtseite der Erde befindet.\" Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>",
+     "answer":[
+    {"correct":true,"text":"40-m-Band."}
+  ,
+    {"correct":false,"text":"20-m-Band."}
+  ,
+    {"correct":false,"text":"30-m-Band."}
+  ,
+    {"correct":false,"text":"80-m-Band."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI235",
+     "id":"ATI235",
+     "text":"<p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: \"Während der Tagesstunden können nur relativ geringe Entfernungen überbrückt werden, weil die Wellen von der D-Schicht stark absorbiert werden. Im Winter sind die Tagesreichweiten größer als im Sommer, maximal etwa 400 km. Nach Sonnenuntergang steigen die Reichweiten wegen des Abbaus der dämpfenden D-Schicht an. Während des Sonnenfleckenminimums ist in den Morgenstunden oft interkontinentaler Funkverkehr möglich. Die Sprungsdistanz kann dabei auf bis zu 1000 km ansteigen.\" Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>",
+     "answer":[
+    {"correct":true,"text":"80-m-Band."}
+  ,
+    {"correct":false,"text":"20-m-Band."}
+  ,
+    {"correct":false,"text":"30-m-Band."}
+  ,
+    {"correct":false,"text":"40-m-Band."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI236",
+     "id":"ATI236",
+     "text":"<p>Die Ausbreitung der Wellen im 160-m-Band erfolgt tagsüber hauptsächlich</p>",
+     "answer":[
+    {"correct":true,"text":"über die Bodenwellen, weil durch die Dämpfung der D-Schicht keine Raumwellen entstehen können."}
+  ,
+    {"correct":false,"text":"über die Raumwellen, weil die Reflexionen an der D-Schicht für Frequenzen bis zu 2 MHz besonders stark sind."}
+  ,
+    {"correct":false,"text":"über Raum- und Bodenwellen, weil es bei den Frequenzen unter 2 MHz nur zu geringfügiger Phasenverschiebung zwischen reflektierten und direkten Wellen kommt."}
+  ,
+    {"correct":false,"text":"über die Raumwelle, weil es in der Troposphäre durch Temperaturinversionen zu Reflexionen für die Frequenzen unter 2 MHz kommen kann."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI237",
+     "id":"ATI237",
+     "text":"<p>Warum sind Signale im 160-, 80- und 40- Meter-Band tagsüber nur schwach und nicht für den weltweiten Funkverkehr geeignet?</p>",
+     "answer":[
+    {"correct":true,"text":"Wegen der Tagesdämpfung in der D-Schicht."}
+  ,
+    {"correct":false,"text":"Wegen der Tagesdämpfung in der F1-Schicht."}
+  ,
+    {"correct":false,"text":"Wegen der Tagesdämpfung in der F2-Schicht."}
+  ,
+    {"correct":false,"text":"Wegen der Tagesdämpfung in der A-Schicht."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI238",
+     "id":"ATI238",
+     "text":"<p>Welches der nachstehend aufgeführten Frequenzbänder ist für Aussendungen zwischen Hamburg und München während des Tages am besten geeignet?</p>",
+     "answer":[
+    {"correct":true,"text":"40-m-Band"}
+  ,
+    {"correct":false,"text":"160-m-Band"}
+  ,
+    {"correct":false,"text":"80-m-Band"}
+  ,
+    {"correct":false,"text":"15-m-Band"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI239",
+     "id":"ATI239",
+     "text":"<p>Welches dieser Frequenzbänder kann am ehesten bei einem Sonnenfleckenminimum für dauerhafte Weitverkehrsverbindungen verwendet werden?</p>",
+     "answer":[
+    {"correct":true,"text":"14 MHz"}
+  ,
+    {"correct":false,"text":"3,5 MHz"}
+  ,
+    {"correct":false,"text":"28 MHz"}
+  ,
+    {"correct":false,"text":"7 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI301",
+     "id":"ATI301",
+     "text":"<p>Wie weit etwa reicht der Funkhorizont im UKW-Bereich über den geographischen Horizont hinaus?</p>",
+     "answer":[
+    {"correct":true,"text":"Etwa 15 % weiter als der geographische Horizont."}
+  ,
+    {"correct":false,"text":"Etwa doppelt so weit."}
+  ,
+    {"correct":false,"text":"Etwa bis zur Hälfte der Entfernung bis zum geographischen Horizont."}
+  ,
+    {"correct":false,"text":"Etwa bis zum Vierfachen der Entfernung bis zum geographischen Horizont."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI302",
+     "id":"ATI302",
+     "text":"<p>Überhorizontverbindungen im UHF/VHF-Bereich kommen unter anderem zustande durch</p>",
+     "answer":[
+    {"correct":true,"text":"Streuung der Wellen an troposphärischen Bereichen unterschiedlicher Beschaffenheit."}
+  ,
+    {"correct":false,"text":"Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre an Gewitterfronten."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI303",
+     "id":"ATI303",
+     "text":"<p>Überhorizontverbindungen im UHF/VHF-Bereich kommen u.a. zustande durch</p>",
+     "answer":[
+    {"correct":true,"text":"Brechung und Streuung der Wellen in troposphärischen Bereichen mit unterschiedlichem Brechungsindex."}
+  ,
+    {"correct":false,"text":"Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre an Gewitterfronten."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI304",
+     "id":"ATI304",
+     "text":"<p>Überhorizontverbindungen im UHF/VHF-Bereich kommen unter anderem zustande durch</p>",
+     "answer":[
+    {"correct":true,"text":"troposphärische Ductübertragung beim Auftreten von Inversionsschichten."}
+  ,
+    {"correct":false,"text":"Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung."}
+  ,
+    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre an Gewitterfronten."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI305",
+     "id":"ATI305",
+     "text":"<p>Für VHF-Weitverkehrsverbindungen wird hauptsächlich die</p>",
+     "answer":[
+    {"correct":true,"text":"troposphärische Ausbreitung genutzt."}
+  ,
+    {"correct":false,"text":"ionosphärische Ausbreitung genutzt."}
+  ,
+    {"correct":false,"text":"Bodenwellenausbreitung genutzt."}
+  ,
+    {"correct":false,"text":"Oberflächenwellenausbreitung genutzt."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI306",
+     "id":"ATI306",
+     "text":"<p>Was ist die \"Troposphäre\"? Die Troposphäre ist</p>",
+     "answer":[
+    {"correct":true,"text":"der untere Teil der Atmosphäre, in der die Erscheinungen des Wetters stattfinden."}
+  ,
+    {"correct":false,"text":"der untere Teil der Atmosphäre, der sich nördlich und südlich des Äquators über die Tropen erstreckt."}
+  ,
+    {"correct":false,"text":"der obere Teil der Atmosphäre, in der es zur Bildung sporadischer E-Schichten kommen kann."}
+  ,
+    {"correct":false,"text":"der obere Teil der Atmosphäre, in welcher Aurora-Erscheinungen auftreten können."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI307",
+     "id":"ATI307",
+     "text":"<p>Wie wirkt sich die Antennenhöhe auf die Reichweite einer UKW-Verbindung aus?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Reichweite steigt mit zunehmender Antennenhöhe, weil die optische Sichtweite zunimmt."}
+  ,
+    {"correct":false,"text":"Die Reichweite steigt mit zunehmender Antennenhöhe, weil die dämpfende Wirkung der Erdoberfläche abnimmt."}
+  ,
+    {"correct":false,"text":"Die Reichweite steigt mit zunehmender Antennenhöhe, weil die Entfernung zu den reflektierenden Schichten der Troposphäre abnimmt."}
+  ,
+    {"correct":false,"text":"Die Reichweite steigt mit zunehmen der Antennenhöhe, weil viele Sekundärstrahler an der Ausbreitung beteiligt sind."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI308",
+     "id":"ATI308",
+     "text":"<p>Beim Auftreten von Polarlichtern lassen sich auf den Amateurfunkbändern über 30 MHz beträchtliche Überreichweiten erzielen, weil</p>",
+     "answer":[
+    {"correct":true,"text":"mit dem Polarlicht stark ionisierte Bereiche auftreten, die Reflexionen erzeugen."}
+  ,
+    {"correct":false,"text":"mit dem Polarlicht starke Magnetfelder auftreten, die Reflexionen erzeugen."}
+  ,
+    {"correct":false,"text":"mit dem Polarlicht starke Inversionsfelder auftreten, die Reflexionen erzeugen."}
+  ,
+    {"correct":false,"text":"mit dem Polarlicht starke sporadische D-Schichten auftreten, die Reflexionen erzeugen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI309",
+     "id":"ATI309",
+     "text":"<p>Was ist die Ursache für Aurora-Erscheinungen?</p>",
+     "answer":[
+    {"correct":true,"text":"Das Eindringen geladener Teilchen von der Sonne in die Atmosphäre."}
+  ,
+    {"correct":false,"text":"Eine hohe Sonnenfleckenzahl."}
+  ,
+    {"correct":false,"text":"Eine niedrige Sonnenfleckenzahl."}
+  ,
+    {"correct":false,"text":"Auftreten von Meteoritenschauern in den polaren Regionen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI310",
+     "id":"ATI310",
+     "text":"<p>Wie wirkt sich \"Aurora\" auf die Signalqualität eines Funksignals aus?</p>",
+     "answer":[
+    {"correct":true,"text":"CW-Signale haben einen flatternden und verbrummten Ton."}
+  ,
+    {"correct":false,"text":"CW-Signale haben einen besseren Ton."}
+  ,
+    {"correct":false,"text":"Die Lesbarkeit der SSB-Signale verbessert sich."}
+  ,
+    {"correct":false,"text":"Die Lesbarkeit der FM-Signale verbessert sich."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI311",
+     "id":"ATI311",
+     "text":"<p>In welcher ionosphärischen Schicht treten Aurora-Erscheinungen auf? Sie treten auf in der</p>",
+     "answer":[
+    {"correct":true,"text":"E-Schicht."}
+  ,
+    {"correct":false,"text":"F-Schicht."}
+  ,
+    {"correct":false,"text":"E-Schicht in Äquatornähe."}
+  ,
+    {"correct":false,"text":"D-Schicht."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI312",
+     "id":"ATI312",
+     "text":"<p>Welche Betriebsart eignet sich am besten für Auroraverbindungen?</p>",
+     "answer":[
+    {"correct":true,"text":"CW"}
+  ,
+    {"correct":false,"text":"SSB"}
+  ,
+    {"correct":false,"text":"FM"}
+  ,
+    {"correct":false,"text":"RTTY"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI313",
+     "id":"ATI313",
+     "text":"<p>In welchen Gebieten treten Reflexionen an Nordlicht-Erscheinungen auf? Sie treten auf</p>",
+     "answer":[
+    {"correct":true,"text":"in den Polargebieten."}
+  ,
+    {"correct":false,"text":"in den äquatorialen Gebieten."}
+  ,
+    {"correct":false,"text":"im Bereich der Sonnenflecken."}
+  ,
+    {"correct":false,"text":"in den tropischen Regionen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI314",
+     "id":"ATI314",
+     "text":"<p>Was sind sporadische E-Reflexionen? Es sind Reflexionen von Wellen im UKW-Bereich an</p>",
+     "answer":[
+    {"correct":true,"text":"besonders stark ionisierten Bereichen der E-Schicht."}
+  ,
+    {"correct":false,"text":"Inversionen am unteren Rand der E-Schicht."}
+  ,
+    {"correct":false,"text":"geomagnetischen Störungen am unteren Rand der E-Schicht."}
+  ,
+    {"correct":false,"text":"Ionisationsspuren von Meteoriten in der E-Schicht."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI315",
+     "id":"ATI315",
+     "text":"<p>Was bedeutet der Begriff \"Sporadic E\"? Es ist</p>",
+     "answer":[
+    {"correct":true,"text":"eine Reflexion an lokal begrenzten Bereichen mit ungewöhnlich hoher Ionisation innerhalb der E-Schicht."}
+  ,
+    {"correct":false,"text":"eine kurzfristige, plötzliche Inversionsänderung in der E-Schicht, die Fernausbreitung im VHF-Bereich ermöglicht."}
+  ,
+    {"correct":false,"text":"eine kurzzeitig auftretende, starke Reflexion von VHF-Signalen an Meteorbahnen innerhalb der E-Schicht."}
+  ,
+    {"correct":false,"text":"ein lokal begrenzter, kurzzeitiger Ausfall der Reflexion durch ungewöhnlich hohe Ionisation innerhalb der E-Schicht."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI316",
+     "id":"ATI316",
+     "text":"<p>In welcher Region der Erde kommt \"Sporadic-E\" am häufigsten vor? Sie kommt am häufigsten vor</p>",
+     "answer":[
+    {"correct":true,"text":"in der nördlichen Hemisphäre."}
+  ,
+    {"correct":false,"text":"in Äquatornähe."}
+  ,
+    {"correct":false,"text":"in der arktischen Region."}
+  ,
+    {"correct":false,"text":"in den Polregionen."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TI317",
+     "id":"ATI317",
+     "text":"<p>Welche Aussage ist für das Sonnenfleckenmaximum richtig?</p>",
+     "answer":[
+    {"correct":true,"text":"Die MUF ist hoch."}
+  ,
+    {"correct":false,"text":"Die LUF ist niedrig."}
+  ,
+    {"correct":false,"text":"UKW-Wellen werden an der F2-Schicht reflektiert."}
+  ,
+    {"correct":false,"text":"UKW-Wellen werden an der F1-Schicht reflektiert."}
+  ]
+    }
+  
+    ]
+  

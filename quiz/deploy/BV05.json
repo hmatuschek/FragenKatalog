@@ -1,0 +1,395 @@
+
+    [
+      
+    {
+     "name":"V/VA101",
+     "id":"VVA101",
+     "text":"<p>In welchem zum Internationalen Fernmeldevertrag gehörenden Regelungswerk ist der Begriff \"Amateurfunkdienst\" definiert?</p>",
+     "answer":[
+    {"correct":true,"text":"In den Radio Regulations (VO Funk) der ITU (Internationale Fernmeldeunion)."}
+  ,
+    {"correct":false,"text":"In den Normen und Empfehlungen des ETSI (Europäisches Institut für Telekommunikationsnormen)."}
+  ,
+    {"correct":false,"text":"In den Empfehlungen der IARU (Internationale Amateur Radio Union)."}
+  ,
+    {"correct":false,"text":"In den Regelungen der CEPT (Europäische Konferenz der Verwaltungen für Post und Telekommunikation)."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA102",
+     "id":"VVA102",
+     "text":"<p>Wozu dient der Amateurfunkdienst nach dem Wortlaut seiner internationalen Begriffsbestimmung in den Radio Regulations (VO Funk)?</p>",
+     "answer":[
+    {"correct":true,"text":"Zur eigenen Ausbildung, für den Funkverkehr der Funkamateure untereinander und für technische Studien."}
+  ,
+    {"correct":false,"text":"Zur Benutzung von Amateurfunkstellen auf der Erde und im Hauptteil der Erdatmosphäre."}
+  ,
+    {"correct":false,"text":"Für den Funkverkehr der Funkamateure untereinander sowie für den Funkverkehr über Amateurfunkstellen an Bord von erdumlaufenden Satelliten."}
+  ,
+    {"correct":false,"text":"Für experimentelle und technischwissenschaftliche Studien, zur Völkerverständigung und zur Unterstützung von Hilfsaktionen in Not- und Katastrophenfällen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA103",
+     "id":"VVA103",
+     "text":"<p>Wozu dient der Amateurfunkdienst über Satelliten nach dem Wortlaut seiner internationalen Begriffsbestimmung in den Radio Regulations (VO Funk)?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Amateurfunkdienst über Satelliten dient den gleichen Zwecken wie der Amateurfunkdienst, wobei Weltraumfunkstellen auf Erdsatelliten benutzt werden."}
+  ,
+    {"correct":false,"text":"Der Amateurfunkdienst über Satelliten dient den Funkamateuren zu experimenteller Ermittlung der Ausbreitungsbedingungen im Weltraum."}
+  ,
+    {"correct":false,"text":"Durch den Amateurfunkdienst über Satelliten können Funkamateure die Dämpfung der ionisierenden Schichten ermitteln."}
+  ,
+    {"correct":false,"text":"Durch den Amateurfunkdienst über Satelliten können Funkamateure die Dämpfung der reflektierenden Schichten im UHF-Bereich ermitteln."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA104",
+     "id":"VVA104",
+     "text":"<p>Welche Aussage über Funkamateure enthält die Begriffsbestimmung des Amateurfunkdienstes in den Radio Regulations (VO Funk)?</p>",
+     "answer":[
+    {"correct":true,"text":"Funkamateure sind ordnungsgemäß ermächtigte Personen, die sich mit der Funktechnik aus rein persönlicher Neigung und nicht aus geldlichem Interesse befassen."}
+  ,
+    {"correct":false,"text":"Keine, da es sich um die Definition des Amateurfunkdienstes handelt."}
+  ,
+    {"correct":false,"text":"Funkamateure sind die Inhaber einer Prüfungsbescheinigung über eine bestandene Amateurfunkprüfung und befassen sich mit der Funktechnik aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichem Interesse."}
+  ,
+    {"correct":false,"text":"Funkamateure dürfen nur Mitteilungen von geringer Bedeutung übertragen, die es nicht rechtfertigen, öffentliche Telekommunikationsdienste in Anspruch zu nehmen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA303",
+     "id":"VVA303",
+     "text":"<p>Gelten die allgemeinen Regelungen der Radio Regulations (VO Funk) auch für den Amateurfunkdienst?</p>",
+     "answer":[
+    {"correct":true,"text":"Ja, der Amateurfunkdienst ist in den Radio Regulations (VO Funk) so festgelegt."}
+  ,
+    {"correct":false,"text":"Nein, dies wären zu viele Sachverhalte, die der Funkamateur wissen müsste."}
+  ,
+    {"correct":false,"text":"Ja, aber nur die Festlegung der Frequenzbereiche, Funkregionen und Rufzeichenreihen."}
+  ,
+    {"correct":false,"text":"Nein, sonst wäre der Amateurfunk als Experimentierfunk zu eingeschränkt."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC101",
+     "id":"VVC101",
+     "text":"<p>Welches Gesetz bildet die Rechtsgrundlage für den Amateurfunkdienst in Deutschland?</p>",
+     "answer":[
+    {"correct":true,"text":"Das Gesetz über den Amateurfunk."}
+  ,
+    {"correct":false,"text":"Das Telekommunikationsgesetz."}
+  ,
+    {"correct":false,"text":"Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen."}
+  ,
+    {"correct":false,"text":"Das Gesetz über die elektromagnetische Verträglichkeit von Geräten."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC102",
+     "id":"VVC102",
+     "text":"<p>Welches Gesetz regelt die Voraussetzungen und die Bedingungen für die Teilnahme am Amateurfunkdienst?</p>",
+     "answer":[
+    {"correct":true,"text":"Das Gesetz über den Amateurfunk."}
+  ,
+    {"correct":false,"text":"Das Telekommunikationsgesetz."}
+  ,
+    {"correct":false,"text":"Die Vollzugsordnung für den Funkdienst."}
+  ,
+    {"correct":false,"text":"Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC103",
+     "id":"VVC103",
+     "text":"<p>Welche Behörde nimmt die Aufgaben und Befugnisse in Deutschland wahr, die sich aus dem Amateurfunkgesetz (AFuG) und der Amateurfunkverordnung (AFuV) ergeben?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Bundesnetzagentur."}
+  ,
+    {"correct":false,"text":"Die Physikalisch-Technische Bundesanstalt."}
+  ,
+    {"correct":false,"text":"Die Bundesanstalt für Post und Telekommunikation."}
+  ,
+    {"correct":false,"text":"Die Polizei."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VC112",
+     "id":"VVC112",
+     "text":"<p>Wozu dient der Amateurfunkdienst nach dem AFuG?</p>",
+     "answer":[
+    {"correct":true,"text":"Zur Ausübung des Amateurfunks aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichen Interessen."}
+  ,
+    {"correct":false,"text":"Zu gewerblich-wirtschaftlichen Zwecken und zum geschäftsmäßigen Erbringen von Telekommunikationsdienstleistungen."}
+  ,
+    {"correct":false,"text":"Zum Übertragen rundfunkähnlicher Darbietungen und zur Übermittlung von Inhalten politischer und religiöser Art."}
+  ,
+    {"correct":false,"text":"Zur Ausübung des Amateurfunks aus persönlicher Neigung und aus wissenschaftlich-wirtschaftlichen Interessen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD101",
+     "id":"VVD101",
+     "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
+     "answer":[
+    {"correct":true,"text":"Eine \"Klubstation\" ist eine Amateurfunkstelle, die von Mitgliedern einer Gruppe von Funkamateuren unter Verwendung eines gemeinschaftlich genutzten Rufzeichens betrieben wird."}
+  ,
+    {"correct":false,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."}
+  ,
+    {"correct":false,"text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."}
+  ,
+    {"correct":false,"text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD102",
+     "id":"VVD102",
+     "text":"<p>Welche der folgenden Begriffsbestimmungen ist entsprechend der AFuV richtig wiedergegeben?</p>",
+     "answer":[
+    {"correct":true,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine unbesetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater, Funkbaken usw.)."}
+  ,
+    {"correct":false,"text":"Eine \"Klubstation\" ist eine Amateurfunkstelle einer Amateurfunkvereinigung, die von deren Mitgliedern unter dem zugeteilten Rufzeichen besetzt oder unbesetzt betrieben werden kann."}
+  ,
+    {"correct":false,"text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."}
+  ,
+    {"correct":false,"text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD103",
+     "id":"VVD103",
+     "text":"<p>Welche der folgenden Begriffsbestimmungen ist entsprechend der AFuV richtig wiedergegeben?</p>",
+     "answer":[
+    {"correct":true,"text":"Die \"Spitzenleistung (PEP)\" ist die Leistung, die der Sender unter normalen Betriebsbedingungen während einer Periode der Hochfrequenzschwingung bei der höchsten Spitze der Modulationshüllkurve durchschnittlich an einen reellen Abschlusswiderstand abgeben kann."}
+  ,
+    {"correct":false,"text":"Die \"gleichwertige isotrope Strahlungsleistung (EIRP)\" ist das Produkt aus der Leistung, die der Antenne zugeführt wird, und ihrem Gewinn in einer Richtung, bezogen auf den Halbwellendipol."}
+  ,
+    {"correct":false,"text":"Die \"effektive Strahlungsleistung (ERP)\" ist das Produkt aus der Leistung, die der Antenne zugeführt wird, und ihrem Gewinn in einer Richtung, bezogen auf den isotropen Kugelstrahler."}
+  ,
+    {"correct":false,"text":"Eine \"unerwünschte Aussendung\" ist jede elektromagnetische Erscheinung, die die Funktion eines Gerätes oder einer Funkanlage beeinträchtigen könnte."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF101",
+     "id":"VVF101",
+     "text":"<p>Enthält das TKG für den Funkamateur anwendbare Regelungen?</p>",
+     "answer":[
+    {"correct":true,"text":"Ja, einige Regelungen sind auch auf den Amateurfunkdienst anwendbar."}
+  ,
+    {"correct":false,"text":"Nein, dafür gibt es das eigenständige Amateurfunkgesetz mit Amateurfunkverordnung."}
+  ,
+    {"correct":false,"text":"Nein, der Amateurfunkdienst ist im TKG ausdrücklich ausgeschlossen."}
+  ,
+    {"correct":false,"text":"Nein, es enthält keine auf den Amateurfunkdienst anwendbaren Regelungen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF102",
+     "id":"VVF102",
+     "text":"<p>Bei welcher Handlung verletzt ein Funkamateur das Fernmeldegeheimnis?</p>",
+     "answer":[
+    {"correct":true,"text":"Bei Empfang, Verwertung oder Weitergabe von Nachrichten, die nicht für Funkamateure, die Allgemeinheit oder einen unbestimmten Personenkreis bestimmt sind."}
+  ,
+    {"correct":false,"text":"Bei Verwertung oder Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, an denen der Funkamateur nicht selbst beteiligt war."}
+  ,
+    {"correct":false,"text":"Bei Verwertung oder Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, unabhängig davon, ob der Funkamateur selbst beteiligt war."}
+  ,
+    {"correct":false,"text":"Bei Aufzeichnung und Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, insbesondere, wenn die Weitergabe an Nicht-Funkamateure erfolgt."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF103",
+     "id":"VVF103",
+     "text":"<p>Wie hat sich ein Funkamateur zu verhalten, der unbeabsichtigt Nachrichten empfängt, die nicht für Funkamateure, die Allgemeinheit oder einen unbestimmten Personenkreis bestimmt sind?</p>",
+     "answer":[
+    {"correct":true,"text":"Er darf den Inhalt der Nachrichten sowie die Tatsache ihres Empfangs anderen nicht mitteilen."}
+  ,
+    {"correct":false,"text":"Er darf Dritten zwar die Tatsache des Empfangs mitteilen, aber nicht den Inhalt und die näheren Umstände."}
+  ,
+    {"correct":false,"text":"Er darf anderen Funkamateuren zwar die Tatsache des Empfangs mitteilen, aber nicht den Inhalt."}
+  ,
+    {"correct":false,"text":"Er darf den Inhalt und die näheren Umstände nur anderen Funkamateuren mitteilen, da auch diese der Geheimhaltungspflicht unterliegen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF104",
+     "id":"VVF104",
+     "text":"<p>Wie hat sich ein Funkamateur zu verhalten, wenn er Sendungen empfängt, die nicht für Funkamateure, die Allgemeinheit oder einen unbestimmten Personenkreis bestimmt sind?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Inhalt solcher Sendungen sowie die Tatsache ihres Empfangs - ausgenommen bei Notrufen - darf anderen weder mitgeteilt noch für eigene Zwecke verwertet werden."}
+  ,
+    {"correct":false,"text":"Der Inhalt solcher Sendungen darf nicht verwertet werden, aber eine Diskussion über die Nachrichten- bzw. Gesprächsinhalte ist erlaubt."}
+  ,
+    {"correct":false,"text":"Er darf diese Sendungen für sich aufzeichnen und auswerten. Dritten darf das Vorhandensein und der Inhalt dieser Sendungen jedoch nicht zur Kenntnis gebracht werden."}
+  ,
+    {"correct":false,"text":"Er hat sofort den Empfänger auszuschalten und die Bundesnetzagentur zu informieren."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF105",
+     "id":"VVF105",
+     "text":"<p>Dürfen Sendefunkanlagen ohne Frequenzzuteilung betrieben werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Sendefunkanlagen bedürfen ausnahmslos einer Frequenzzuteilung, und zwar unabhängig von der Sendeleistung oder benutzten Frequenz."}
+  ,
+    {"correct":false,"text":"Sendefunkanlagen mit Leistungen kleiner 0,1 Watt benötigen wegen der geringen Reichweite keine Frequenzzuteilung."}
+  ,
+    {"correct":false,"text":"Sendefunkanlagen, die ausschließlich auf ISM-Frequenzen betrieben werden können, benötigen keine Frequenzzuteilung."}
+  ,
+    {"correct":false,"text":"Das Errichten von Sendefunkanlagen ist ohne Zuteilung nicht zulässig; für den Betrieb benötigt man grundsätzlich eine Einzelzuteilung."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF106",
+     "id":"VVF106",
+     "text":"<p>Welcher der nachfolgend genannten Tatbestände ist eine Ordnungswidrigkeit gemäß TKG?</p>",
+     "answer":[
+    {"correct":true,"text":"Nutzung von Frequenzen ohne Frequenzzuteilung."}
+  ,
+    {"correct":false,"text":"Das schuldhafte Verursachen von elektromagnetischen Störungen, entgegen den Weisungen der Bundesnetzagentur."}
+  ,
+    {"correct":false,"text":"Die Übermittlung von Amateurfunknachrichten von oder an Dritte durch einen Funkamateur."}
+  ,
+    {"correct":false,"text":"Der Betrieb einer Amateurfunkstelle zu gewerblich-wirtschaftlichen Zwecken."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF107",
+     "id":"VVF107",
+     "text":"<p>Bei welcher der genannten Apparaturen sind nach dem TKG auch der Besitz und die Herstellung verboten und mit erheblichen Strafen bewehrt?</p>",
+     "answer":[
+    {"correct":true,"text":"Eine Sendeanlage, die einen anderen Gegenstand vortäuscht und somit zum Abhören des nicht öffentlich gesprochenen Wortes brauchbar ist."}
+  ,
+    {"correct":false,"text":"Ein Scanner, der ein breitbandiges Abhören nicht öffentlicher Funkdienste im Funkspektrum ermöglicht."}
+  ,
+    {"correct":false,"text":"Ein Richtmikrophon, das in besonderer Weise geeignet ist, das nicht öffentlich gesprochene Wort eines anderen unbemerkt abzuhören."}
+  ,
+    {"correct":false,"text":"Ein Babyphon."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF108",
+     "id":"VVF108",
+     "text":"<p>Darf ein Funkamateur eine Sendeanlage betreiben oder besitzen, die Ihrer Form oder Verkleidung nach einen anderen Gegenstand vortäuscht und somit geeignet ist, das nicht öffentlich gesprochene Wort eines anderen unbemerkt abzuhören, oder das Bild eines anderen unbemerkt aufzunehmen?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein."}
+  ,
+    {"correct":false,"text":"Er darf sie besitzen, aber nicht betreiben."}
+  ,
+    {"correct":false,"text":"Ja, wenn diese Anlage auf Amateurfunkfrequenzen betrieben werden kann."}
+  ,
+    {"correct":false,"text":"Ja, wenn öffentlich in Hinweisen oder allgemein zugänglichen Mitteilungen auf die Abhörmöglichkeit hingewiesen wurde."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VF109",
+     "id":"VVF109",
+     "text":"<p>Darf ein Funkamateur eine Funkanlage seiner Amateurfunkstelle zum Abhören des nicht öffentlich gesprochenen Wortes verwenden?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, weil die verdeckte Übermittlung des nicht öffentlich gesprochenen Wortes einer anderen Person eine mit Strafe bedrohte Handlung ist."}
+  ,
+    {"correct":false,"text":"Ja, weil der Funkamateur aufgrund der Amateurfunkzulassung als sachkundige Person gilt."}
+  ,
+    {"correct":false,"text":"Ja, aber nur mit einer hierfür von der Bundesnetzagentur vorgesehenen besonderen Zulassung."}
+  ,
+    {"correct":false,"text":"Ja, aber nur wenn ein hierfür technisch zugelassenes Funkgerät benutzt wird."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VH101",
+     "id":"VVH101",
+     "text":"<p>Welches Gesetz bzw. welche Vorschrift beinhaltet Regelungen für das Inverkehrbringen, den freien Warenverkehr und die Inbetriebnahme, die auch für serienmäßig hergestellte Amateurfunkgeräte gelten?</p>",
+     "answer":[
+    {"correct":true,"text":"Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen."}
+  ,
+    {"correct":false,"text":"Die Amateurfunkverordnung."}
+  ,
+    {"correct":false,"text":"Die Verordnung über elektromagnetische Felder vom 16.12.1996."}
+  ,
+    {"correct":false,"text":"Für solche Amateurfunkgeräte gibt es keine spezielle Regelung; Streitigkeiten werden nach dem Bürgerlichen Gesetzbuch ausgetragen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VH102",
+     "id":"VVH102",
+     "text":"<p>Welche grundlegenden Anforderungen werden entsprechend dem FTEG an Amateurfunkgeräte gestellt?</p>",
+     "answer":[
+    {"correct":true,"text":"Seriengefertigte Geräte müssen die grundlegenden Anforderungen entsprechend dem FTEG einhalten und CE-Kennzeichnung tragen."}
+  ,
+    {"correct":false,"text":"Die Funkgeräte müssen eine Zulassungskennzeichnung tragen."}
+  ,
+    {"correct":false,"text":"Die Geräte unterliegen keinen Bestimmungen."}
+  ,
+    {"correct":false,"text":"Der Sendeteil des Funkgerätes darf nur in den der Lizenzklasse des Funkamateurs entsprechenden Frequenzbereichen senden können."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VH103",
+     "id":"VVH103",
+     "text":"<p>Welche Vorschriften müssen im Handel erhältliche Empfangsfunkanlagen einhalten, die dem Amateurfunk zugewiesene Frequenzen empfangen können?</p>",
+     "answer":[
+    {"correct":true,"text":"Es sind die Bestimmungen des FTEG einzuhalten. Dies ist an der CE-Kennzeichnung des Gerätes und den Angaben zum bestimmungsgemäßen Betrieb in den Begleitpapieren zu erkennen."}
+  ,
+    {"correct":false,"text":"Amateurfunkempfänger brauchen grundsätzlich keinerlei Bestimmungen einzuhalten."}
+  ,
+    {"correct":false,"text":"Grundlegende Anforderungen an Amateurfunkempfänger sind in der Amateurfunkverordnung geregelt."}
+  ,
+    {"correct":false,"text":"Amateurfunkempfänger dürfen ausschließlich von Funkamateuren betrieben werden; darüber hinaus gibt es keine weiteren Vorschriften."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VH104",
+     "id":"VVH104",
+     "text":"<p>Welche Geräte fallen nicht in den Anwendungsbereich des FTEG?</p>",
+     "answer":[
+    {"correct":true,"text":"Funkgeräte, die von Funkamateuren verwendet werden und die nicht im Handel erhältlich sind, sowie Geräte deren EMV-relevante Bedingungen in anderen EU-Richtlinen als der EMV-Richtlinie vorgeschrieben sind."}
+  ,
+    {"correct":false,"text":"Im Handel erhältliche Sendefunkgeräte, die ausschließlich für Funkamateure hergestellt werden."}
+  ,
+    {"correct":false,"text":"Geräte, die ausschließlich zur Verwendung in eigenen Räumen hergestellt werden."}
+  ,
+    {"correct":false,"text":"Im Handel erhältliche elektrische oder elektronische Apparate, Anlagen und Systeme, die elektrische oder elektronische Bauteile enthalten."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VH105",
+     "id":"VVH105",
+     "text":"<p>Wird für selbstgefertigte Amateurfunkgeräte der Nachweis auf Einhaltung der technischen Vorschriften verlangt?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, weil der Amateurfunkdienst als Experimentierfunkdienst zu verstehen ist und dem Funkamateur Gelegenheit gegeben werden soll, seine Geräte selbst zu bauen oder seriengefertigte Geräte zu ändern."}
+  ,
+    {"correct":false,"text":"Ja, weil auch der Betrieb dieser Geräte in der Nachbarschaft nicht zu Störungen führen darf."}
+  ,
+    {"correct":false,"text":"Dieser Nachweis wurde nur für ältere Röhrenverstärker mit Ausgangsleistungen über 300 Watt gefordert, weil deren Betrieb häufig zu Störungen führte. Neuere, transistorisierte Leistungsverstärker benötigen keinen Nachweis mehr."}
+  ,
+    {"correct":false,"text":"Der Nachweis wird verlangt. Selbstgebaute oder veränderte Geräte müssen der Bundesnetzagentur zur Prüfung vorgestellt werden."}
+  ]
+    }
+  
+    ]
+  

@@ -1,0 +1,290 @@
+
+    [
+      
+    {
+     "name":"A/TA101",
+     "id":"ATA101",
+     "text":"<p>Welche Einheit wird für die elektrische Feldstärke verwendet?</p>",
+     "answer":[
+    {"correct":true,"text":"Volt pro Meter (V/m)"}
+  ,
+    {"correct":false,"text":"Watt pro Quadratmeter (W/m²)"}
+  ,
+    {"correct":false,"text":"Ampere pro Meter (A/m)"}
+  ,
+    {"correct":false,"text":"Henry pro Meter (H/m)"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA102",
+     "id":"ATA102",
+     "text":"<p>Welche Einheit wird für die magnetische Feldstärke verwendet?</p>",
+     "answer":[
+    {"correct":true,"text":"Ampere pro Meter (A/m)"}
+  ,
+    {"correct":false,"text":"Tesla (T)"}
+  ,
+    {"correct":false,"text":"Amperemeter (Am)"}
+  ,
+    {"correct":false,"text":"Henry pro Meter (H/m)"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA103",
+     "id":"ATA103",
+     "text":"<p>In welcher Einheit wird die Impedanz angegeben?</p>",
+     "answer":[
+    {"correct":true,"text":"Ohm"}
+  ,
+    {"correct":false,"text":"Farad"}
+  ,
+    {"correct":false,"text":"Siemens"}
+  ,
+    {"correct":false,"text":"Henry"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA104",
+     "id":"ATA104",
+     "text":"<p>Die Einheit \"Siemens\" wird verwendet für die Angabe</p>",
+     "answer":[
+    {"correct":true,"text":"des Leitwertes eines Widerstands."}
+  ,
+    {"correct":false,"text":"des ohmschen Widerstands."}
+  ,
+    {"correct":false,"text":"der Impedanz einer Leitung."}
+  ,
+    {"correct":false,"text":"der magnetischen Feldstärke."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA105",
+     "id":"ATA105",
+     "text":"<p>Wenn [s] für Sekunde steht, gilt für die Einheit der Frequenz</p>",
+     "answer":[
+    {"correct":true,"text":"Hz = 1/s"}
+  ,
+    {"correct":false,"text":"Hz = s"}
+  ,
+    {"correct":false,"text":"Hz = s²"}
+  ,
+    {"correct":false,"text":"Hz = 1/s²"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA106",
+     "id":"ATA106",
+     "text":"<p>Welche der nachfolgenden Antworten enthält nur Basiseinheiten nach dem internationalen Einheitensystem?</p>",
+     "answer":[
+    {"correct":true,"text":"Meter, Kelvin, Sekunde, Ampere"}
+  ,
+    {"correct":false,"text":"Radiant, Meter, Volt, Watt"}
+  ,
+    {"correct":false,"text":"Farad, Henry, Ohm, Sekunde"}
+  ,
+    {"correct":false,"text":"Grad, Hertz, Ohm, Tesla"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA107",
+     "id":"ATA107",
+     "text":"<p>Einem Spannungsverhältnis von 15 entsprechen</p>",
+     "answer":[
+    {"correct":true,"text":"23,5 dB."}
+  ,
+    {"correct":false,"text":"52 dB."}
+  ,
+    {"correct":false,"text":"47 dB."}
+  ,
+    {"correct":false,"text":"11,7 dB."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA108",
+     "id":"ATA108",
+     "text":"<p>Einer Leistungsverstärkung von 40 entsprechen</p>",
+     "answer":[
+    {"correct":true,"text":"16 dB."}
+  ,
+    {"correct":false,"text":"60 dB."}
+  ,
+    {"correct":false,"text":"32 dB."}
+  ,
+    {"correct":false,"text":"24 dB."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA109",
+     "id":"ATA109",
+     "text":"<p>Wie groß ist der Unterschied zwischen S4 und S7 in dB?</p>",
+     "answer":[
+    {"correct":true,"text":"18 dB"}
+  ,
+    {"correct":false,"text":"9 dB"}
+  ,
+    {"correct":false,"text":"28 dB"}
+  ,
+    {"correct":false,"text":"3 dB"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA110",
+     "id":"ATA110",
+     "text":"<p>Der Pegelwert 120 dBμV/m entspricht einer elektrischen Feldstärke von</p>",
+     "answer":[
+    {"correct":true,"text":"1 V/m."}
+  ,
+    {"correct":false,"text":"10 V/m."}
+  ,
+    {"correct":false,"text":"1000 V/m."}
+  ,
+    {"correct":false,"text":"1000 kV/m."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA111",
+     "id":"ATA111",
+     "text":"<p>100 mW entspricht</p>",
+     "answer":[
+    {"correct":true,"text":"10<sup>-1</sup> W."}
+  ,
+    {"correct":false,"text":"0,001 W."}
+  ,
+    {"correct":false,"text":"0,01 W."}
+  ,
+    {"correct":false,"text":"10<sup>-2</sup> W."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA112",
+     "id":"ATA112",
+     "text":"<p>Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung von 10 dB angeschlossen. Wie groß ist der Ausgangspegel der Endstufe?</p>",
+     "answer":[
+    {"correct":true,"text":"40 dBm"}
+  ,
+    {"correct":false,"text":"30 dBm"}
+  ,
+    {"correct":false,"text":"20 dBm"}
+  ,
+    {"correct":false,"text":"10 dBm"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA113",
+     "id":"ATA113",
+     "text":"<p>Der Ausgangspegel eines Senders beträgt 20 dBW. Dies entspricht einer Ausgangsleistung von</p>",
+     "answer":[
+    {"correct":true,"text":"10² W."}
+  ,
+    {"correct":false,"text":"10<sup>0,5</sup> W."}
+  ,
+    {"correct":false,"text":"10<sup>20</sup> W."}
+  ,
+    {"correct":false,"text":"10<sup>1</sup> W."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA117",
+     "id":"ATA117",
+     "text":"<p>Eine Genauigkeit von 1 ppm entspricht</p>",
+     "answer":[
+    {"correct":true,"text":"0,0001 %."}
+  ,
+    {"correct":false,"text":"0,001 %."}
+  ,
+    {"correct":false,"text":"0,01 %."}
+  ,
+    {"correct":false,"text":"0,1 %."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TA118",
+     "id":"ATA118",
+     "text":"<p>Die digitale Anzeige eines Senders hat eine Anzeigegenauigkeit von 10 ppm. Sie zeigt die Sendefrequenz von 14,25 MHz an. In welchen Grenzen kann sich die tatsächliche Frequenz bewegen?</p>",
+     "answer":[
+    {"correct":true,"text":"Zwischen 14,2498575 und 14,2501425 MHz"}
+  ,
+    {"correct":false,"text":"Zwischen 14,24998575 und 14,25001425 MHz"}
+  ,
+    {"correct":false,"text":"Zwischen 14,249998575 und 14,250001425 MHz"}
+  ,
+    {"correct":false,"text":"Zwischen 14,248575 und 14,251425 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TB920",
+     "id":"ATB920",
+     "text":"<p>Eine HF-Ausgangleistung von 100 W wird in eine angepasste Übertragungsleitung eingespeist. Am antennenseitigen Ende der Leitung beträgt die Leistung 50 W bei einem Stehwellenverhältnis von 1. Wie hoch ist die Leitungsdämpfung?</p>",
+     "answer":[
+    {"correct":true,"text":"3 dB"}
+  ,
+    {"correct":false,"text":"-6 dB"}
+  ,
+    {"correct":false,"text":"-3 dB"}
+  ,
+    {"correct":false,"text":"6 dBm"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TD416",
+     "id":"ATD416",
+     "text":"<p>Ein NF-Verstärker hebt die Eingangsspannung von 1 mV auf 4 mV Ausgangsspannung an. Eingangs- und Ausgangswiderstand sind gleich. Wie groß ist die Spannungsverstärkung des Verstärkers?</p>",
+     "answer":[
+    {"correct":true,"text":"12 dB"}
+  ,
+    {"correct":false,"text":"3 dB"}
+  ,
+    {"correct":false,"text":"6 dB"}
+  ,
+    {"correct":false,"text":"9 dB"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TD417",
+     "id":"ATD417",
+     "text":"<p>Ein Leistungsverstärker hebt die Eingangsleistung von 2,5 Watt auf 38 Watt Ausgangsleistung an. Dem entspricht eine Leistungsverstärkung von</p>",
+     "answer":[
+    {"correct":true,"text":"11,8 dB."}
+  ,
+    {"correct":false,"text":"15,2 dB."}
+  ,
+    {"correct":false,"text":"17,7 dB."}
+  ,
+    {"correct":false,"text":"23,6 dB."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TD418",
+     "id":"ATD418",
+     "text":"<p>Ein HF-Leistungsverstärker hat eine Verstärkung von 16 dB. Welche HF-Ausgangsleistung ist zu erwarten, wenn der Verstärker mit 1 W HF-Eingangsleistung angesteuert wird?</p>",
+     "answer":[
+    {"correct":true,"text":"40 W"}
+  ,
+    {"correct":false,"text":"4 W"}
+  ,
+    {"correct":false,"text":"16 W"}
+  ,
+    {"correct":false,"text":"1 W"}
+  ]
+    }
+  
+    ]
+  

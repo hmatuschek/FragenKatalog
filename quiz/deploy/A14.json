@@ -1,0 +1,185 @@
+
+    [
+      
+    {
+     "name":"A/TC702",
+     "id":"ATC702",
+     "text":"<p>Welche Funktion hat ein Gatter?</p>",
+     "answer":[
+    {"correct":true,"text":"Ein Gatter verarbeitet binäre Signale nach logischen Grundmustern."}
+  ,
+    {"correct":false,"text":"Ein Gatter konvertiert digitale Eingangssignale in analoge Ausgangssignale."}
+  ,
+    {"correct":false,"text":"Ein Gatter ist eine bistabile Kippschaltung, die zwei stabile Zustände (0 und 1) besitzt."}
+  ,
+    {"correct":false,"text":"Ein Gatter berechnet die Summe oder die Differenz aus zwei binären Ziffern."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC703",
+     "id":"ATC703",
+     "text":"<p>Wie heißen die Grundbausteine in der Digitaltechnik?</p>",
+     "answer":[
+    {"correct":true,"text":"UND-Glied (AND), ODER-Glied (OR), NICHT-UND-Glied (NAND), NICHT-ODER-Glied (NOR)."}
+  ,
+    {"correct":false,"text":"(+)-Gatter (UND), (-)-Gatter (OR), NICHT-(+)-Gatter (NUND), NICHT-(-)-Gatter (NODER)."}
+  ,
+    {"correct":false,"text":"UND-Glied (UND), ODER-Glied (ODER), NICHT-UND-Glied (NUND), NICHT-ODER-Glied (NODER)."}
+  ,
+    {"correct":false,"text":"UND-Gatter (UNG), ODER-Gatter (ORG), NICHT-UND-Gatter (NUNG), NICHT-ODER-Gatter (NORG)."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC704",
+     "id":"ATC704",
+     "text":"<p>Welche der Aussagen trifft für diese Schaltung zu?</p><br/><img src='data:image/png;base64,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' alt='Atc704'/>",
+     "answer":[
+    {"correct":true,"text":"X=0 und Y=0"}
+  ,
+    {"correct":false,"text":"X=0 und Y=1"}
+  ,
+    {"correct":false,"text":"X=1 und Y=0"}
+  ,
+    {"correct":false,"text":"X=1 und Y=1"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC705",
+     "id":"ATC705",
+     "text":"<p>Welche logische Grundschaltung stellt die folgende Transistorschaltung dar und wie arbeitet sie?</p><br/><img src='data:image/png;base64,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' alt='Atc705'/>",
+     "answer":[
+    {"correct":true,"text":"Die Schaltung stellt ein NAND-Gatter [negiertes UND-Gatter] dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein NOR-Gatter [negiertes ODER-Gatter] dar. Der Ausgang Z führt dann die Betriebsspannung, wenn keiner der beiden Eingänge A oder B mit der Betriebsspannung verbunden ist. In allen anderen Fällen führt der Ausgang Z Nullpotential."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein AND-Gatter dar. Der Ausgang Z führt dann Betriebsspannung, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z Nullpotential."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein OR-Gatter dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC706",
+     "id":"ATC706",
+     "text":"<p>Welche logische Grundschaltung stellt die folgende Transistorschaltung dar und wie arbeitet sie?</p><br/><img src='data:image/png;base64,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' alt='Atc706'/>",
+     "answer":[
+    {"correct":true,"text":"Die Schaltung stellt ein NOR-Gatter [negiertes ODER-Gatter] dar. Der Ausgang Z führt dann die Betriebsspannung, wenn beide Eingänge A und B Nullpotential führen bzw. offen sind. In allen anderen Fällen führt der Ausgang Z Nullpotential."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein NAND-Gatter [negiertes UND-Gatter] dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein OR-Gatter dar. Der Ausgang Z führt dann Betriebsspannung, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z Nullpotential."}
+  ,
+    {"correct":false,"text":"Die Schaltung stellt ein AND-Gatter dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC707",
+     "id":"ATC707",
+     "text":"<p>Welches der vier im Bild dargestellten Ausgangssignale X<sub>1</sub> bis X<sub>4</sub> liefert ein ODER-Gatter, wenn an dessen Eingängen die Signale E<sub>1</sub> und E<sub>2</sub> anliegen?</p><br/><img src='data:image/png;base64,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' alt='Atc707'/>",
+     "answer":[
+    {"correct":true,"text":"X<sub>1</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>2</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>3</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>4</sub>"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC708",
+     "id":"ATC708",
+     "text":"<p>Welches der vier im Bild dargestellten Ausgangssignale X<sub>1</sub> bis X<sub>4</sub> liefert ein EXOR-Gatter, wenn an dessen Eingängen die Signale E<sub>1</sub> und E<sub>2</sub> anliegen?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOcAAAEVCAAAAAA+sq1aAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAANKUlEQVR42u1dT2hbRxr/VegYiRFMH3uobQyvMQTqkBJhuoWU+g+7J+cQF2LINgsmB4NdBUwIIc4uqVNCMDm4MehQDLVT8EKcpe5pIbJNfegSZBzqsIWkD0SknF4GNEi+FvYg25IdvTdPfvP+aPJ+J8keffP93sybP9/3zTfv/QFLMAplELPiyID2p8mEPH+9tBy0ku5Z3ruUF/F8mdsJWk3XoM9yhognQIJW0z26oYl58qC1dI/d+keF25Oh3pw2PNseFDAPvsSbPQgOUpFWnfEqKUdQt5t5rhlP/srET7Jo5v9eBlJl94JSw3dx/LVLM546oeBPJfHcKj/sAimkXAtaKDB6/LVLM55SF0IEp12o14DOZ26EeD8OmdzzKsLAk2ukcZ2pLE8CHoYdQRzIbxUJgM60HrQytqgQlzyNydrH/wbNxB5J7pInMHitqwyk1dpZN+H54WkahrHCc56P33CCM9cBuqwNBK2RN4gBgPl85/nmawYs/+3HoBXyCHEAGJkHKKOYfIw3QSvkJU9QABQMmWdB6+MpT54HgG76AJ92BK2Qhzy1XA4AHo4C/OOgFfKOp54BAA4dgMrvZzp98I2p2m2P7D/pta6gFfKFJxRdJRzZlym89DvEU9lVvNL2W595mu5FAHC7z7bkqXE56hV7ADlvPm9VSGP5ZnZNI8/Jz+ZigaOacK1dqYMwKsWuuXMJLShURYJs2vOEBu19dHe71w3A5/2SRrfRYksuPMJ3Tzy396/oOvAS5+7K0Q+QYo9h9HrLP9l9cfDZe7+gpEiHY4hodJjFLcrIYhnkpNzoALVqz6LM2gJaadET9c9WPCX5LLHXnsE0qiO/vVqIeKqFiKdaiHiqhYinWnjXecqLewsHvF/fhgMu+q2/e5Bj1CayD7GCo30ZRX5L3MGTJx3Y+PNbRFRhJz+bdiLoQJ9kJbltz5MbQMHJ81p6LLYhFc51CeOS2P1NB4IuiANT2VK2r/4t0UDCyj7EV8Q86e+XxTak5SkHT6yUERt/sqviTSzd/qZR0GT24OO7Pq+ohoinWohhf55R2PmJWlzqv2sfx8Idl+qap7FoQjOhDeoKB2zGAZiD8wCgQ2GPdhwACNnnZ6jad+MAsHmpCj48RZcXSx0zDlaRbYhaXGqVA7sU8zv9pfu1v6u2/9yLS6UAAzs3MXrxuZpD0X5cKqMU9C6Mzcs1mqrts+MAUFoDgC4da7OpsaA18ownx9O/AMBDPT9b/V/QCnnHc+hhMQkAaXb16eDkCYlhCSFCvLatBgAYHaiuD9fGIV/HWx9GvnjD8KrP04OVn7RxiDsow7w/9B5rfJYU8p8tcVCGen/o/e39Z21/Jq3fcgdlfNgSvs1TzfnTc78D8ZWOZfhf3PInnHERhaqDmrlZNsSFHAiqVG0VIhwAKVkVacYzv87JBmYXRTWbPb1i9U72faLB1KyFaIDZc1Ys6OzSn6DZFTA1mH2DLfBMpwDkRs4Lq9ZOi9UbcBJo7OSU4sC3piYUZSmoab/VgSTOjIrrdgIhBacbpAE3Zp0Q2DUp4HRqOf7kHpa8PF4v/aznFeIrT68R+bPVQsRTLUQ81ULEUy1EPNXC8Xm2l5//+Dzby93kxj7UTi3qZh0fuha1efBN4zV/RdLROTrjiY/+CQd52ijyxr7iSVSwXm+uZjwLLyvYFMkEgLn1DicmPylIlD6aF3eg+89J/Rekfsy1uR0sDXQ6ya/5+/CUf3333oagLkYB9D9o+MP72YPuZvV+cidVV4mPr2hS1HUogNKpI3+w4NnaEJpw9DRkwdFRe6vx4gjP0A2hsnC037bTnOiGp6oNWucZ3Hlxn3guX8wCbPK2AXWbEzEAm5NrbCH7e9CqeM1zNIPvnsxp11QN1QRQWw+Nbaxsmt8MQOEwY8QA0BmYfWMAA2U31oLWyDOeDNCQoABF/v7iS8nxJiFBDKC4ZSJ3DwC7tWhW1I03yeZ6HmDOAOPnb/WoRrDOc20G0+PXzAlG9fEv9juscv2Wse8wMoqxntwjAFzChROhRJyy85+NA/r3hs4oyH5Eh2rdNw5aiyupZU3lPcn9OZQHrdoRVFzN7kf2K/q3Q3RPKrH/of8rfkJdVHvUPrQf7SPst76vnJKCapmtSrEjZVuFf81a4faVUQpm/bYd5ll/Is7mlV1/m5UKHitFotPiX03j3gxCAW6gbH/bz6vqCfiHZHWtC2Vu9e9yqpwiv5as2qd5fk1gA4ubBfv7m1IgvT5ucE7yr1C20yhVRor0t8BTJ0Axd+6Kfb3JCpJ+nrkb+F7wLiUrgGWuBqt7oJI4E7Zc1a4eauTPVgsRT7UQ8VQLEU+1EPFUCxFPtRDxVAsRz7DBncUtDDy9PisIWObXrPzsI0+Kta3XwlInBt143Jvm1/SRIwCAzZY6iKjQesHNRdxN7WAAXjrIrykRw+KsKjcKXtwT7q//s0rEZQh3U0P7nP90p1EYxluHcBW63UY8Xd29FQMUjl48wnPfgaow34N8qZQxdaM1a/FgCxezgDFxW5xvpX0RA2hyZcbAxApUDtiMAxgvzk6fyQ1mFA7XrMUxTvWs3NQu60K/eBsjBlDQaeDCqChko62xt47XTACMYm0rOR60Sl7xZDR/x9Syp8YpspOa+fO/gtbJC8QAiqUXI7e0GQPst76daytKTi8xANlsz53xXnOB0cwqJT0kaJ084mmsal/qmO+ZfQKdLt/8UsmxKA6Qy9oAoK/mdSA7+c11JafROPYDU3UdWJ4c6c+LrzlpQxy+930VK59cdXLFTNvhkB2MXjmvuYxHOhaoExOjO4vVYXvfAKTnS3UCliBeV/G2XZMCjLIkXhtubWwOQfirqoOxL4l8yom4Bryx4wnk119jG4+3C63KPRbKKQBnxWPfydJV3prkjpwNT0aRToE8eSqK15QJJ4GfwnjNJshZ54mgAHSgGLZ4TUZbHx9/zNnnT2AhtFO7nNSb8lRwodBGduqIZ8Qz4qkoIp5qIeKpFiKeaiHiqRYinmqh6XneVzBXnfx4eVFS2snED5K2vNnVBo0SdvYhAATo+iUnEglgtXpJinaVpUdfSCHKDmtUrSfPbMaTUuCUUCYA/rEcpzD7qSKnPWn1XKNGv9VdC27eTwZJ5+0d2eOd4XBegfr9O27iUqmspLBM3iUoDvNrHsBfex+XJcgy1tHdvELkBOJQIounZQ9zF0/Nw2YC5Ue+H3TLmEWUpqN+6yoitgHyorPIke+N9nhqMDCAMdasgCKIAcbEZ2sUF3sfNfbB0Pkd3PPUP38xi+WV1MmgdfEScQDXn61MruPbcPnHPOCJK8+zGFGaZm1eGeiHdmfvD4pGpsYAwNiGmWcA2I1PH6lJNAYAC0/7MFUAw/3ZxOQjAErOK1ib1SaumfcNyjof/tBTBACm4LyS/wcyo2M9m09Ax4cmyr1gCnq0Y8BWYWQM+nRq1QDoZ907oFCv38aBL4YIBUbThLKFs+OYGVPxfEe8lsiQAjpAN+YyS90EjKq47sP+68gw0ztHFimokv12D4xSpP+zH2enZnsC+23a2kC7K0cJyrkkOi3dh84KlWQRG50QgJc+l6Md6yhkiWspnIDvWGnUNK/AVpFsYmeewz4ylXzUDymgZzbnpQgi58Za4KkTis6nFzKE2q11qcTlxF1pi2orjazyaxbxgS7gQSHvQgg5XgcbKS7tt6FaH9oddwyLX1BOx7V+7O/6ve94R+59Vw0RT7UQ8VQLEU+1EPGEUj4IW56hWqV7yFMhHJtnSPu0lVqWPDWBQBoAVVGFrDV7gvEK5qq59IzbyawiQXDFR+ewMfeGA1Uri141QTjI+/+0IGoVr7mTI9221RKO3fUtH3k+eXzhDLc/MU5ePz5lEVlpFa/ZieHrwqr/yoVFJKL3gbjMdqvxfaoh4qkW3h2eIZ3wpfPcn/CZ0oTjAFt4/edRGHPIqOiw30MMoJ3ZKQPTWeXzTo7+kp07tdKXCVoXr3kis57V8LVe8zjVvE6qxSfEAECfhjl+uvaHe7W4N7XjEyjyN+cZoGh7GnegZdcAgF3Vals4Jdtz4cV4Bl8xALcTvSRolTzjuTarZa6PvFgAltdnPuSq9lvjK9wimNJurrH5F7fWX9xmUKTfNhzziwNkGkMU6VWjC5eGeQmn2ticediq0hDGVc87mU4D48DuR0OOpco6L+gIjt4kS43esptkys6Xf96nF2xA0lVlb/HcY+n0HJ1/uVUr3M2vm+2zW9mghexdTliNn814UjgcbyUd/3QI4qBMtXj4u3WeQjDKCkBRKBJAqeSkbjlIbjgZ9Xjh3sFHdG7XX79meUR5BXCUBPfr75b8I5qYcFBoevGng/LVjoJde9YyGzu6B2rgtI/vZ33PaIPRoXoJhttZm/ZsBX6OQtRRfbTpx7Dcd+U9wpFXwCM0rG+VsVM3m+Ea1rfK8BS8uoq/n435EywK8KB1lAH7fMYAKu9InPHZPgVG3A8GD0i890fQyngGRhvWT8qMtwL8H43Lf0m/lUmbAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atc707'/>",
+     "answer":[
+    {"correct":true,"text":"X<sub>3</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>1</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>2</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>4</sub>"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC709",
+     "id":"ATC709",
+     "text":"<p>Welches der vier im Bild dargestellten Ausgangssignale X<sub>1</sub> bis X<sub>4</sub> liefert ein UND-Gatter, wenn an dessen Eingängen die Signale E<sub>1</sub> und E<sub>2</sub> anliegen?</p><br/><img src='data:image/png;base64,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' alt='Atc707'/>",
+     "answer":[
+    {"correct":true,"text":"X<sub>2</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>1</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>3</sub>"}
+  ,
+    {"correct":false,"text":"X<sub>4</sub>"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC710",
+     "id":"ATC710",
+     "text":"<p>In welchem Versorgungsspannungsbereich können CMOS-ICs betrieben werden?</p>",
+     "answer":[
+    {"correct":true,"text":"+3 V bis +15 V"}
+  ,
+    {"correct":false,"text":"+2,5 V bis +5,5 V"}
+  ,
+    {"correct":false,"text":"±2,5 bis ±5,5 V"}
+  ,
+    {"correct":false,"text":"± 5 V"}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC720",
+     "id":"ATC720",
+     "text":"<p>Berechnen Sie den dezimalen Wert der 8-Bit-Dualzahl 10001110. Die Dezimalzahl lautet</p>",
+     "answer":[
+    {"correct":true,"text":"142."}
+  ,
+    {"correct":false,"text":"78."}
+  ,
+    {"correct":false,"text":"156."}
+  ,
+    {"correct":false,"text":"248."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC721",
+     "id":"ATC721",
+     "text":"<p>Wie lautet der dezimale Wert der zweistelligen Hexadezimalzahl 1A? Die Dezimalzahl lautet</p>",
+     "answer":[
+    {"correct":true,"text":"26."}
+  ,
+    {"correct":false,"text":"11."}
+  ,
+    {"correct":false,"text":"16."}
+  ,
+    {"correct":false,"text":"160."}
+  ]
+    }
+  ,
+    {
+     "name":"A/TC722",
+     "id":"ATC722",
+     "text":"<p>Welche dezimalen Werte haben die Stellen der Dualzahl 111111 von links nach rechts?</p>",
+     "answer":[
+    {"correct":true,"text":"32, 16, 8, 4, 2, 1"}
+  ,
+    {"correct":false,"text":"1, 2, 4, 8, 16, 32"}
+  ,
+    {"correct":false,"text":"65536, 256, 16, 4, 2, 1"}
+  ,
+    {"correct":false,"text":"100000, 10000, 1000, 100, 10, 1"}
+  ]
+    }
+  
+    ]
+  

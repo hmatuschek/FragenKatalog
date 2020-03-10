@@ -1,0 +1,215 @@
+
+    [
+      
+    {
+     "name":"B/BB202",
+     "id":"BBB202",
+     "text":"<p>Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, weil die Abkürzungen für den Telegrafiefunkverkehr vorgesehen sind."}
+  ,
+    {"correct":false,"text":"Ja, weil die Abkürzungen die Abwicklung des Funkverkehrs beschleunigen."}
+  ,
+    {"correct":false,"text":"Ja, weil die Abkürzungen bei deutschsprachigen Funkverbindungen erlaubt sind."}
+  ,
+    {"correct":false,"text":"Ja, weil die Abkürzungen die Besonderheit der Sprache im Funkverkehr kennzeichnet."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BC207",
+     "id":"BBC207",
+     "text":"<p>Sie möchten im 2-m-Band ein SSB-QSO führen. Wie verhalten Sie sich?</p>",
+     "answer":[
+    {"correct":true,"text":"Ich suche eine freie Frequenz in dem nach den IARU-Bandplänen für SSB empfohlenen Frequenzbereich im 2-m-Band und rufe \"CQ\"."}
+  ,
+    {"correct":false,"text":"Ich suche eine freie Frequenz irgendwo im 2-m-Band und rufe \"CQ\"."}
+  ,
+    {"correct":false,"text":"Ich suche eine freie Frequenz im FM-Simplex-Bereich und rufe \"CQ\"."}
+  ,
+    {"correct":false,"text":"Ich suche eine freie Frequenz unterhalb von 144,150 MHz und rufe \"CQ\"."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BC210",
+     "id":"BBC210",
+     "text":"<p>Welches Seitenband wird bei SSB-Betrieb im 20-m-Band in der Regel benutzt?</p>",
+     "answer":[
+    {"correct":true,"text":"In der Regel wird im 20-m-Band das obere Seitenband benutzt."}
+  ,
+    {"correct":false,"text":"Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt."}
+  ,
+    {"correct":false,"text":"Um den Nachteil der relativ niedrigen Sendefrequenz des 20-m-Bandes auszugleichen, wird das untere Seitenband benutzt."}
+  ,
+    {"correct":false,"text":"In der unteren Bandhälfte das untere Seitenband, in der oberen Bandhälfte das obere Seitenband."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BC218",
+     "id":"BBC218",
+     "text":"<p>In welchen Bereichen des 2-m- und 70-cm-Bandes arbeiten Amateurfunksatelliten?</p>",
+     "answer":[
+    {"correct":true,"text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"}
+  ,
+    {"correct":false,"text":"Im 2-m-Band auf 145,300-146,500 MHz, im 70-cm-Band auf 438,000-440,000 MHz"}
+  ,
+    {"correct":false,"text":"Im 2-m-Band auf 144,800-145,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"}
+  ,
+    {"correct":false,"text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 433,000-435,000 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE211",
+     "id":"BBE211",
+     "text":"<p>Was meint ein Funkamateur damit, wenn er angibt, dass auf dem 2-m-Band \"Sporadic-E-Bedingungen\" herrschen? Er meint damit, dass derzeit</p>",
+     "answer":[
+    {"correct":true,"text":"Stationen aus Entfernungen von 1000 bis 2000 km zu hören sind, die über Reflexionen an der sporadischen E-Schicht empfangen werden."}
+  ,
+    {"correct":false,"text":"außereuropäische Stationen zu hören sind, die über Reflexionen an der sporadischen E-Schicht empfangen werden."}
+  ,
+    {"correct":false,"text":"außereuropäische Stationen zu hören sind, die über Reflexion an Ionisationserscheinungen des Polarkreises empfangen werden."}
+  ,
+    {"correct":false,"text":"Stationen aus Entfernungen von 1000 bis 2000 km zu hören sind, die über Reflexion an Ionisationserscheinungen des Polarkreises empfangen werden."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE212",
+     "id":"BBE212",
+     "text":"<p>Woran können Sie als Funkamateur eine Aurora-Verbindung erkennen?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Verbindung kann durch Reflexion von Funkwellen an polaren Nordlichtern zustande gekommen sein, wenn die empfangenen Signale sehr rau (verrauscht und verbrummt) sind und die Antennenrichtung meist nicht mit der direkten Richtung zur Gegenstation übereinstimmt."}
+  ,
+    {"correct":false,"text":"Die Verbindung kann durch Beugung von Funkwellen an Lichtquellen der Polarregion zustande gekommen sein, wenn die empfangenen Signale stark sind und die Antennenrichtung mit der indirekten Richtung zur Gegenstation übereinstimmt."}
+  ,
+    {"correct":false,"text":"Die Verbindung kann durch Verstärkung am verbrummten Nordlicht mittels Ultrakurzwellen zustande gekommen sein und die Antennenrichtung nicht mit der der Gegenstation übereinstimmen."}
+  ,
+    {"correct":false,"text":"Die Verbindung kann durch Reflexion von verbrummten Ultrakurzwellen am Polarkreis zustande gekommen sein, wenn gute Ausbreitungsbedingungen bestehen und die Antenne nur indirekt mit der Gegenstation übereinstimmt."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE214",
+     "id":"BBE214",
+     "text":"<p>Was versteht man unter dem von Funkamateuren benutzten \"Locator\" (Standortkenner)?</p>",
+     "answer":[
+    {"correct":true,"text":"Er ist eine international anerkannte Einteilung der Erdoberfläche nach Längen- und Breitengraden in Groß- und Kleinfelder, die mit Buchstaben und Zahlen bezeichnet wird."}
+  ,
+    {"correct":false,"text":"Es ist der Standort einer Amateurfunkstelle, so wie er der zuständigen Behörde mitgeteilt werden muss."}
+  ,
+    {"correct":false,"text":"Es ist die genaue Angabe der Standortdaten in Stunden, Minuten und Sekunden geographischer Länge und Breite."}
+  ,
+    {"correct":false,"text":"Es ist die genaue Geografie des Standorts einer Amateurfunkstelle in fein eingeteilten Koordinaten von Länge oder Breite der Funkstelle in Grad, Minuten und Sekunden."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE401",
+     "id":"BBE401",
+     "text":"<p>Was ist damit gemeint, wenn man sagt, die Relaisfunkstelle hat eine Eingabe- und eine Ausgabefrequenz? Die Relaisfunkstelle</p>",
+     "answer":[
+    {"correct":true,"text":"empfängt auf der Eingabefrequenz und sendet auf einer Ausgabefrequenz."}
+  ,
+    {"correct":false,"text":"stellt bei starker Belegung der Eingabefrequenz eine zusätzliche Ausgabefrequenz zur Verfügung."}
+  ,
+    {"correct":false,"text":"benutzt eine Eingabefrequenz zur Umsetzung des empfangenen Signals; und die Ausgabefrequenz zur Fernsteuerung."}
+  ,
+    {"correct":false,"text":"muss auf der Ausgabefrequenz mit einem Tonruf geöffnet werden, bevor es auf der Eingabefrequenz in Betrieb gehen kann."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE403",
+     "id":"BBE403",
+     "text":"<p>Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle</p>",
+     "answer":[
+    {"correct":true,"text":"bei der mit besonderer Zulassung auf einer festen Frequenz an einem festgelegten Standort ein Amateurfunksender betrieben wird."}
+  ,
+    {"correct":false,"text":"die mit einer entsprechenden Sonderzulassung der zuständigen Behörde an mehreren Standorten auf verschiedenen Frequenzen betrieben werden kann."}
+  ,
+    {"correct":false,"text":"die auf einer festen Frequenz arbeitet. Der Standort der Funkanlage kann je nach Notwendigkeit verändert werden."}
+  ,
+    {"correct":false,"text":"die mit geringer Sendeleistung auf einer festen Frequenz nur in den Nachtstunden zur Feststellung der Bandbelegung betrieben wird."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE405",
+     "id":"BBE405",
+     "text":"<p>Bei deutschen 2-m-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise</p>",
+     "answer":[
+    {"correct":true,"text":"600 kHz höher als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"600 kHz niedriger als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"1,6 MHz höher als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"1,6 MHz niedriger als die Eingabefrequenz."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE406",
+     "id":"BBE406",
+     "text":"<p>Bei deutschen 70-cm-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise</p>",
+     "answer":[
+    {"correct":true,"text":"7,6 MHz höher als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"600 kHz niedriger als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"600 kHz höher als die Eingabefrequenz."}
+  ,
+    {"correct":false,"text":"7,6 MHz niedriger als die Eingabefrequenz."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE407",
+     "id":"BBE407",
+     "text":"<p>Was versteht man unter dem Transponder eines \"OSCAR\" und wie arbeitet er?</p>",
+     "answer":[
+    {"correct":true,"text":"Einen Umsetzer an Bord eines Amateurfunksatelliten, der die aufgenommenen Signale in einen anderen Frequenzbereich umsetzt und wieder zur Erde sendet."}
+  ,
+    {"correct":false,"text":"Es handelt sich um einen mit einer fernbedienten Amateurfunkstelle bestückten Stratosphärenballon, der empfangene Signale aufbereitet zur Erde zurücksendet."}
+  ,
+    {"correct":false,"text":"Dies ist ein Umsetzer an Bord eines Amateurfunksatelliten, der die vom Satelliten aufgenommenen Wetterbilder und weitere Telemetriedaten automatisch zur Erde sendet."}
+  ,
+    {"correct":false,"text":"Dies ist ein Bakensender an Bord eines Amateurfunksatelliten, der zur Beobachtung der Ausbreitungsbedingungen im VHF-, UHF- und SHF-Bereich dient."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE408",
+     "id":"BBE408",
+     "text":"<p>Was versteht man unter einem \"Transponderfahrplan\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Der Transponderfahrplan eines Satelliten gibt an, wann und über welchen Transponder Funkbetrieb abgewickelt werden kann."}
+  ,
+    {"correct":false,"text":"Der Transponderfahrplan eines Satelliten gibt an, zu welchen Zeiten dieser hörbar ist und Funkbetrieb abgewickelt werden muss."}
+  ,
+    {"correct":false,"text":"Der Transponderfahrplan eines Satelliten gibt an, wann die Transponder untereinander den Funkbetrieb abwickeln können. Es sind Batterieabschaltzeiten zur Aufladung erforderlich."}
+  ,
+    {"correct":false,"text":"Die Transponderfahrpläne der Satelliten geben an, bei welchen Satellitenbahnen und zu welchen Zeiten Satellitenbetrieb zulässig ist."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BE411",
+     "id":"BBE411",
+     "text":"<p>Die Begriffe 1) OSCAR, 2) Uplink, 3) Downlink, 4) Azimut/Elevation bedeuten in der angegebenen Reihenfolge:</p>",
+     "answer":[
+    {"correct":true,"text":"1) Umlaufender Satellit, der Amateurfunktechnik beinhaltet<br>"}
+  ,
+    {"correct":false,"text":"1) Umlaufender Satellit, der Amateurfunktechnik beinhaltet<br>"}
+  ,
+    {"correct":false,"text":"1) Ortsfester Satellit der Amateurfunktechnik beinhaltet<br>"}
+  ,
+    {"correct":false,"text":"1) Ortsfester Satellit, der Amateurfunktechnik beinhaltet<br>"}
+  ]
+    }
+  
+    ]
+  

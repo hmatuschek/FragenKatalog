@@ -1,0 +1,155 @@
+
+    [
+      
+    {
+     "name":"B/BB101",
+     "id":"BBB101",
+     "text":"<p>Warum werden in Telegrafie- und Fernschreib-Betriebsarten Betriebsabkürzungen und Q-Gruppen verwendet?</p>",
+     "answer":[
+    {"correct":true,"text":"Durch die Verwendung von Betriebsabkürzungen und Q-Gruppen wird der Betriebsablauf vereinfacht und der übertragende Informationsgehalt pro Zeiteinheit optimiert."}
+  ,
+    {"correct":false,"text":"Durch die Verwendung von Betriebsabkürzungen und Q-Gruppen wird der Informationsgehalt einer Aussendung verschleiert und damit für Unbeteiligte nicht verständlich."}
+  ,
+    {"correct":false,"text":"Betriebsabkürzungen und Q-Gruppen werden nur bei besonderen Betriebsbedingungen verwendet,um z.B. den Einfluss von Fading oder Aurora auszugleichen."}
+  ,
+    {"correct":false,"text":"Ein Betriebsverfahren, bei dem jeweils manuell auf Empfang geschaltet werden muss."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB102",
+     "id":"BBB102",
+     "text":"<p>Welche Bedeutung hat für Sie als deutsche Amateurfunkstelle auf Kurzwelle die Abkürzung \"DX\"?</p>",
+     "answer":[
+    {"correct":true,"text":"\"DX\" bedeutet für Stationen aus Deutschland, dass keine innereuropäischen Funkverbindungen gemeint sind."}
+  ,
+    {"correct":false,"text":"\"DX\" bedeutet für Stationen aus Deutschland, dass Stationen außerhalb der Landesgrenzen gemeint sind."}
+  ,
+    {"correct":false,"text":"\"DX\" bedeutet für Stationen aus Deutschland, dass die Gegenstelle nur einen kurzen Rapportaustausch durchführen möchte."}
+  ,
+    {"correct":false,"text":"\"DX\" bedeutet für Stationen aus Deutschland die Bezeichnung für einen Wettbewerb."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB103",
+     "id":"BBB103",
+     "text":"<p>Was bedeuten die gebräuchlichen Abkürzungen \"TX\", \"RX\" in dieser Reihenfolge?</p>",
+     "answer":[
+    {"correct":true,"text":"Sender, Empfänger"}
+  ,
+    {"correct":false,"text":"Empfänger, Sender"}
+  ,
+    {"correct":false,"text":"Tonqualität, Bildqualität"}
+  ,
+    {"correct":false,"text":"Bildqualität, Tonqualität"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB104",
+     "id":"BBB104",
+     "text":"<p>Was bedeutet die Betriebsabkürzung CQ?</p>",
+     "answer":[
+    {"correct":true,"text":"Allgemeiner Anruf"}
+  ,
+    {"correct":false,"text":"Telegrafie"}
+  ,
+    {"correct":false,"text":"Große Entfernung"}
+  ,
+    {"correct":false,"text":"Sie werden gerufen."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB105",
+     "id":"BBB105",
+     "text":"<p>Was bedeutet die Betriebsabkürzung CW?</p>",
+     "answer":[
+    {"correct":true,"text":"Telegrafie (continuous wave)"}
+  ,
+    {"correct":false,"text":"Telefonie (continuous wireless)"}
+  ,
+    {"correct":false,"text":"Allgemeiner Anruf (calling wide)"}
+  ,
+    {"correct":false,"text":"Sie werden gerufen. (calling wave)"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB106",
+     "id":"BBB106",
+     "text":"<p>Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL DE KA2WEU PSE K\". Was beabsichtigt er damit?</p>",
+     "answer":[
+    {"correct":true,"text":"KA2WEU sucht eine Verbindung mit einem Funkamateur aus Deutschland."}
+  ,
+    {"correct":false,"text":"Der amerikanische Funkamateur sucht Verbindungen mit Funkamateuren, die weit entfernt sind."}
+  ,
+    {"correct":false,"text":"KA2WEU sucht nur eine Verbindung mit einem Funkamateur, dessen Rufzeichen mit DL beginnt."}
+  ,
+    {"correct":false,"text":"KA2WEU sucht eine Verbindung mit Stationen, die an einem deutschen Wettbewerb teilnehmen."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB107",
+     "id":"BBB107",
+     "text":"<p>Was bedeutet die Betriebsabkürzung \"R\" am Anfang eines Durchgangs?</p>",
+     "answer":[
+    {"correct":true,"text":"Received (richtig empfangen)"}
+  ,
+    {"correct":false,"text":"Repeat (wiederhole)"}
+  ,
+    {"correct":false,"text":"Rapport"}
+  ,
+    {"correct":false,"text":"Readability (Lesbarkeit)"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB108",
+     "id":"BBB108",
+     "text":"<p>Was bedeutet die Betriebsabkürzung \"K\" am Ende eines Durchgangs in Telegrafie?</p>",
+     "answer":[
+    {"correct":true,"text":"Aufforderung zum Senden"}
+  ,
+    {"correct":false,"text":"Unterbrechung der Sendung"}
+  ,
+    {"correct":false,"text":"Bitte warten!"}
+  ,
+    {"correct":false,"text":"Beendigung des Funkverkehrs"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB109",
+     "id":"BBB109",
+     "text":"<p>Was bedeutet die Betriebsabkürzung \"BK\" in Telegrafie?</p>",
+     "answer":[
+    {"correct":true,"text":"Signal zur Unterbrechung der Sendung"}
+  ,
+    {"correct":false,"text":"Alles richtig verstanden"}
+  ,
+    {"correct":false,"text":"Bitte warten!"}
+  ,
+    {"correct":false,"text":"Beendigung des Funkverkehrs"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BB111",
+     "id":"BBB111",
+     "text":"<p>Was bedeutet die Betriebsabkürzung \"MSG\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Mitteilung"}
+  ,
+    {"correct":false,"text":"Alles richtig verstanden"}
+  ,
+    {"correct":false,"text":"Mit freundlichen Grüßen"}
+  ,
+    {"correct":false,"text":"Mäßiges Signal"}
+  ]
+    }
+  
+    ]
+  

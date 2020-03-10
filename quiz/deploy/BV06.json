@@ -1,0 +1,560 @@
+
+    [
+      
+    {
+     "name":"B/BD101",
+     "id":"BBD101",
+     "text":"<p>Was erkennen Sie aus dem Rufzeichen DO9RST/MM?</p>",
+     "answer":[
+    {"correct":true,"text":"Die deutsche Amateurfunkstelle wird an Bord eines Wasserfahrzeugs betrieben, das sich auf See befindet."}
+  ,
+    {"correct":false,"text":"Die deutsche Amateurfunkstelle darf aufgrund einer Sonderzulassung in deutschen Hoheitsgewässern in \"maritim mobiler\" Weise tragbar betrieben werden."}
+  ,
+    {"correct":false,"text":"Der Funkamateur DO9RST, der an sein Rufzeichen \"MM\" anhängt, bringt damit zum Ausdruck, dass er mit anderen Funkamateuren in Kontakt treten möchte, die ihre Funkstelle zur Zeit auch \"maritim mobil\" betreiben."}
+  ,
+    {"correct":false,"text":"Die deutsche Amateurfunkstelle DO9RST befindet sich auf einem Landfahrzeug oder auf einem Schiff, das gemäß Schiffssicherheitsverordnung funkausrüstungspflichtig ist."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD106",
+     "id":"BBD106",
+     "text":"<p>Was bedeuten die Rufzeichenzusätze \"/p\" und \"/m\" bei einer Amateurfunkstelle?</p>",
+     "answer":[
+    {"correct":true,"text":"\"/p\" bedeutet, dass es sich um eine tragbare oder vorübergehend ortsfest betriebene Amateurfunkstelle handelt, und \"/m\" bedeutet, dass es sich um eine bewegliche Amateurfunkstelle in einem Landfahrzeug oder an Bord eines Wasserfahrzeugs auf Binnengewässern handelt."}
+  ,
+    {"correct":false,"text":"\"/p\" bedeutet, dass es sich um eine tragbare Amateurfunkstelle handelt, und \"/m\" bedeutet, dass die Amateurfunkstelle vorübergehend ortsfest betrieben wird."}
+  ,
+    {"correct":false,"text":"\"/p\" bedeutet, dass die Amateurfunkstelle tragbar oder vorübergehend ortsfest an einem Ort mit exterritorialem Status betrieben wird, und \"/m\" bedeutet, dass die Amateurfunkstelle an Bord eines Wasserfahrzeuges betrieben wird, das sich auf See auf Binnengewässern befindet."}
+  ,
+    {"correct":false,"text":"\"/p\" bedeutet, dass die Amateurfunkstelle vorübergehend ortsfest im benachbarten Ausland betrieben wird, und \"/m\" bedeutet, dass die Amateurfunkstelle an Bord eines Wasserfahrzeugs betrieben wird, das sich auf See oder in einem Landfahrzeug befindet."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD109",
+     "id":"BBD109",
+     "text":"<p>Muss beim Betrieb einer tragbaren oder vorübergehend ortsfest betriebenen Amateurfunkstelle in Deutschland dem Rufzeichen der Zusatz \"/p\" hinzugefügt werden?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein, er kann aber zur weiteren Information verwendet werden."}
+  ,
+    {"correct":false,"text":"Ja, weil für die Überwachungsbehörde erkennbar sein muss, dass die Amateurfunkstelle an einem anderen, als dem gemeldeten Standort betrieben wird."}
+  ,
+    {"correct":false,"text":"Ja, weil dies durch die internationalen Regelungen in der VO Funk so vorgegeben ist."}
+  ,
+    {"correct":false,"text":"Nein, den Zusatz müssen in Deutschland nur ausländische Stationen führen."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD110",
+     "id":"BBD110",
+     "text":"<p>Was bedeutet der Rufzeichenzusatz \"/am\"?</p>",
+     "answer":[
+    {"correct":true,"text":"Die Amateurfunkstelle wird an Bord eines Luftfahrzeuges betrieben."}
+  ,
+    {"correct":false,"text":"Die Amateurfunkstelle verwendet als Betriebsart Amplitudenmodulation."}
+  ,
+    {"correct":false,"text":"Die Amateurfunkstelle wird an Bord eines Wasserfahrzeuges betrieben."}
+  ,
+    {"correct":false,"text":"Die Amateurfunkstelle arbeitet mit geringer Leistung."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD111",
+     "id":"BBD111",
+     "text":"<p>Ein Rufzeichen mit dem Zusatz \"/m\" kann bei einer Amateurfunkstelle bedeuten,</p>",
+     "answer":[
+    {"correct":true,"text":"dass es sich um eine bewegliche Amateurfunkstelle in einem Landfahrzeug handelt."}
+  ,
+    {"correct":false,"text":"dass die Amateurfunkstelle als Leitstation bei einem Peilwettbewerb fungiert."}
+  ,
+    {"correct":false,"text":"dass bei der Amateurfunkstelle eine Mailbox angeschlossen ist."}
+  ,
+    {"correct":false,"text":"dass es sich um eine vorübergehend ortsfest betriebene Amateurfunkstelle in einem Landfahrzeug handelt."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD114",
+     "id":"BBD114",
+     "text":"<p>Zu welcher Rufzeichenart und Klasse gehören Rufzeichen, die mit DO1 bis DO9 beginnen?</p>",
+     "answer":[
+    {"correct":true,"text":"Personengebundene Rufzeichen der Klasse E"}
+  ,
+    {"correct":false,"text":"Personengebundene Rufzeichen der Klasse A"}
+  ,
+    {"correct":false,"text":"Ausbildungsrufzeichen der Klasse A"}
+  ,
+    {"correct":false,"text":"Ausbildungsrufzeichen der Klasse E"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD115",
+     "id":"BBD115",
+     "text":"<p>Woraus setzen sich die personengebundenen Rufzeichen deutscher Funkamateure zusammen? Sie setzen sich zusammen aus</p>",
+     "answer":[
+    {"correct":true,"text":"zwei Buchstaben als Präfix, einer Ziffer und 1-3 Buchstaben als Suffix."}
+  ,
+    {"correct":false,"text":"zwei Buchstaben als Präfix, zwei Ziffer und zwei Buchstaben als Suffix."}
+  ,
+    {"correct":false,"text":"einem Buchstaben als Präfix, einer Ziffer und zwei bis drei Buchstaben als Suffix."}
+  ,
+    {"correct":false,"text":"zwei Buchstaben oder Ziffern und zwei bis drei Buchstaben als Suffix."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD201",
+     "id":"BBD201",
+     "text":"<p>Wo können Sie nachschlagen, in welchem Land sich eine Amateurfunkstelle mit einem Ihnen bislang unbekannten Landeskenner befindet?</p>",
+     "answer":[
+    {"correct":true,"text":"In der Landeskennerliste der ITU, Amateurfunkhandbüchern und Rufzeichenlisten"}
+  ,
+    {"correct":false,"text":"In der Rufzeichenliste der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen"}
+  ,
+    {"correct":false,"text":"In den Empfehlungen der IARU"}
+  ,
+    {"correct":false,"text":"Im Frequenzbereichszuweisungsplan der Bundesrepublik Deutschland"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD202",
+     "id":"BBD202",
+     "text":"<p>Welche Antwort enthält nur Landeskenner von Ländern, die an die Bundesrepublik Deutschland grenzen?</p>",
+     "answer":[
+    {"correct":true,"text":"F, HB, OZ, SP"}
+  ,
+    {"correct":false,"text":"EA, GM, OE, ON"}
+  ,
+    {"correct":false,"text":"SM, LA, LZ, HB"}
+  ,
+    {"correct":false,"text":"CT, I, LX, OK"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD203",
+     "id":"BBD203",
+     "text":"<p>Welche Gruppe gibt die Landeskenner der Länder Rumänien, Bulgarien, Spanien, Norwegen, Polen für ihre Amateurfunkstellen richtig wieder?</p>",
+     "answer":[
+    {"correct":true,"text":"YO, LZ, EA, LA, SP"}
+  ,
+    {"correct":false,"text":"YO, LZ, SP, LA, PO"}
+  ,
+    {"correct":false,"text":"YO, BL, EA, LA, SP"}
+  ,
+    {"correct":false,"text":"RO, LA, SP, LZ, SP"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD204",
+     "id":"BBD204",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Ländern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Österreich, Niederlande, Liechtenstein, Lettland, Luxemburg."}
+  ,
+    {"correct":false,"text":"Österreich, Niederlande, Schweiz, Lettland, Luxemburg."}
+  ,
+    {"correct":false,"text":"Österreich, Polen, Liechtenstein, Lettland, Luxemburg."}
+  ,
+    {"correct":false,"text":"Österreich, Niederlande, Liechtenstein, Luxemburg, Lettland."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD205",
+     "id":"BBD205",
+     "text":"<p>Welche Länder (Gebiete) sind der Reihe nach den folgenden Landeskennern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Monaco, Vereinte Nationen, Kroatien, Malta."}
+  ,
+    {"correct":false,"text":"Monaco, Vereinte Nationen, Malta, Kroatien."}
+  ,
+    {"correct":false,"text":"Malta, Vereinte Nationen, Kroatien, Monaco."}
+  ,
+    {"correct":false,"text":"Monaco, Kroatien, Vereinte Nationen, Malta."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD206",
+     "id":"BBD206",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Österreich, Finnland, Tschechien, Slowakei, Belgien, Dänemark."}
+  ,
+    {"correct":false,"text":"Österreich, Belgien, Tschechien, Slowakei, Finnland, Dänemark."}
+  ,
+    {"correct":false,"text":"Österreich, Finnland, Tschechien, Belgien, Slowakei, Dänemark."}
+  ,
+    {"correct":false,"text":"Österreich, Slowakei, Tschechien, Finnland, Belgien, Dänemark."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD207",
+     "id":"BBD207",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Norwegen, Litauen, Bulgarien, Lettland."}
+  ,
+    {"correct":false,"text":"Norwegen, Bulgarien, Litauen, Lettland."}
+  ,
+    {"correct":false,"text":"Litauen, Norwegen, Bulgarien, Lettland."}
+  ,
+    {"correct":false,"text":"Norwegen, Litauen, Lettland, Bulgarien."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD208",
+     "id":"BBD208",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Schweden, Slowenien, Polen, Griechenland."}
+  ,
+    {"correct":false,"text":"Schweden, Slowakei, Polen, Griechenland."}
+  ,
+    {"correct":false,"text":"Slowenien, Griechenland, Polen, Schweden."}
+  ,
+    {"correct":false,"text":"Schweden, Slowenien, Griechenland, Polen."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD209",
+     "id":"BBD209",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?<br></p>",
+     "answer":[
+    {"correct":true,"text":"Spanien, Irland, Ukraine, Estland."}
+  ,
+    {"correct":false,"text":"Spanien, Ukraine, Irland, Estland."}
+  ,
+    {"correct":false,"text":"Spanien, Irland, Estland, Ukraine."}
+  ,
+    {"correct":false,"text":"Spanien, Ukraine, Estland, Irland."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD210",
+     "id":"BBD210",
+     "text":"<p>Welche Gruppe gibt die Landeskennern der Länder Portugal, Schweiz, Spanien, Belgien, Polen und Irland für ihre Amateurfunkstellen richtig wieder?</p>",
+     "answer":[
+    {"correct":true,"text":"CT, HB9, EA, ON, SP, EI"}
+  ,
+    {"correct":false,"text":"PO, HB9, EB, OY, SP, IR"}
+  ,
+    {"correct":false,"text":"CU, HB0, EA, BE, SP, EI"}
+  ,
+    {"correct":false,"text":"CT, CH, EA, ON, PL, EI"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD301",
+     "id":"BBD301",
+     "text":"<p>Welchem Land bzw. welchen Ländern sind die Landeskenner DA bis DZ zugeordnet?</p>",
+     "answer":[
+    {"correct":true,"text":"Deutschland (DA-DR), Südkorea (DS-DT) und Philippinen (DU-DZ)."}
+  ,
+    {"correct":false,"text":"Ausschließlich Deutschland (DA-DZ)"}
+  ,
+    {"correct":false,"text":"Deutschland (DA-DT) und Philippinen (DU-DZ)"}
+  ,
+    {"correct":false,"text":"Deutschland (DA-DO), Taiwan (DP-DT) und Philippinen (DU-DZ)"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD302",
+     "id":"BBD302",
+     "text":"<p>Welche Gruppe gibt Landeskenner der Länder USA, Syrien, Südafrika, Neuseeland, Argentinien und Chile für ihre Amateurfunkstellen richtig wieder?</p>",
+     "answer":[
+    {"correct":true,"text":"W, YK, ZS, ZL, LU, CE"}
+  ,
+    {"correct":false,"text":"K, YL, ZL, ZS, LU, CE"}
+  ,
+    {"correct":false,"text":"N, YK, ZL, ZS, AR, CE"}
+  ,
+    {"correct":false,"text":"W, YK, ZS, ZL, AR, CE"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD303",
+     "id":"BBD303",
+     "text":"<p>Welche Gruppe gibt Landeskenner der Länder China, Japan, Kanada, Australien, Mexiko und USA für ihre Amateurfunkstellen richtig wieder?</p>",
+     "answer":[
+    {"correct":true,"text":"BY, JA, VE, VK, XE, K"}
+  ,
+    {"correct":false,"text":"BY, JA, VK, VE, MX, W"}
+  ,
+    {"correct":false,"text":"CE, JA, VE, VK, XE, W"}
+  ,
+    {"correct":false,"text":"CE, JA, VE, VK, MX, N"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD304",
+     "id":"BBD304",
+     "text":"<p>Welche fünf Landeskenner sind einem einzigen Kontinent zuzuordnen?</p>",
+     "answer":[
+    {"correct":true,"text":"CE, PY, LU, OA, YV"}
+  ,
+    {"correct":false,"text":"HV, EA, EP, ZS, 4S"}
+  ,
+    {"correct":false,"text":"OH, OA, OZ, SM, UA"}
+  ,
+    {"correct":false,"text":"G, F, K, W, JA, SP"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD305",
+     "id":"BBD305",
+     "text":"<p>Welche Landeskenner sind afrikanischen Ländern zugewiesen?</p>",
+     "answer":[
+    {"correct":true,"text":"SU, 3V, ZS, 9X, 5H"}
+  ,
+    {"correct":false,"text":"EL, LU, VK, VU, ZL"}
+  ,
+    {"correct":false,"text":"ZS, ZL, PY, 3V, 5B"}
+  ,
+    {"correct":false,"text":"ST, VU, XE, OK, 4N"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD306",
+     "id":"BBD306",
+     "text":"<p>Welche Landeskenner sind südamerikanischen Ländern zugewiesen?</p>",
+     "answer":[
+    {"correct":true,"text":"PY, HC, HK, OA, YV"}
+  ,
+    {"correct":false,"text":"LU, VE, HB, OK, YU"}
+  ,
+    {"correct":false,"text":"OA, JA, JT, 4X, SM"}
+  ,
+    {"correct":false,"text":"YV, YU, BY, BV, VE"}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD307",
+     "id":"BBD307",
+     "text":"<p>Welche Bedeutung hat das Rufzeichen VE8ZZ/AM?</p>",
+     "answer":[
+    {"correct":true,"text":"Es handelt sich um eine Amateurfunkstelle mit einem kanadischen Rufzeichen, die in einem Luftfahrzeug betrieben wird."}
+  ,
+    {"correct":false,"text":"Es handelt sich um eine kanadische Amateurfunkstelle, die vorübergehend in den Vereinigten Staaten von Amerika betrieben wird."}
+  ,
+    {"correct":false,"text":"Es handelt sich um eine kanadische Amateurfunkstelle, die in der Betriebsart Amplitudenmodulation betrieben wird."}
+  ,
+    {"correct":false,"text":"Es handelt sich um eine automatisch arbeitende Pactor-Amateurfunkstelle mit angeschlossener Mailbox in Kanada."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD308",
+     "id":"BBD308",
+     "text":"<p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet? Die Landeskenner VE, VK, PY, JA, W entsprechen den Ländern</p>",
+     "answer":[
+    {"correct":true,"text":"Kanada, Australien, Brasilien, Japan, USA."}
+  ,
+    {"correct":false,"text":"Kanada, Brasilien, Australien, Japan, USA."}
+  ,
+    {"correct":false,"text":"USA, Australien, Brasilien, Japan, Kanada."}
+  ,
+    {"correct":false,"text":"Kanada, Australien, Japan, Brasilien, USA."}
+  ]
+    }
+  ,
+    {
+     "name":"B/BD309",
+     "id":"BBD309",
+     "text":"<p>In welcher Zeile stehen nur Rufzeichen aus den Vereinigten Staaten von Amerika (USA)?</p>",
+     "answer":[
+    {"correct":true,"text":"K2ABC, W3DEF, N4GHI, AB5JKL, KA7MNO, WB7PQR"}
+  ,
+    {"correct":false,"text":"W3DEF, N4GHI, VE5JKL, KA7MNO, WB7PQR, K2ABC"}
+  ,
+    {"correct":false,"text":"N4GHI, AB5JKL, KA7MNO, WB7PQR, US2ABC, W3DEF"}
+  ,
+    {"correct":false,"text":"AB5JKL, KA7MNO, WB7PQR, K2ABC, UA3DEF, N4GHI"}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA401",
+     "id":"VVA401",
+     "text":"<p>Nach den Radio Regulations (VO Funk) ist die Erde in verschiedene Funkregionen unterteilt. Wie viele Funkregionen gibt es und zu welcher davon gehört Deutschland?</p>",
+     "answer":[
+    {"correct":true,"text":"Drei Funkregionen. Deutschland gehört zur Region 1."}
+  ,
+    {"correct":false,"text":"Vier Funkregionen. Deutschland gehört zur Region 3."}
+  ,
+    {"correct":false,"text":"Vierzehn Funkregionen. Deutschland gehört zur Region 4."}
+  ,
+    {"correct":false,"text":"Fünf Funkregionen. Deutschland gehört zur Region 2."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA402",
+     "id":"VVA402",
+     "text":"<p>Nach den Radio Regulations (VO Funk) ist die Erde in verschiedene Funkregionen unterteilt. Wie viele Funkregionen gibt es und zu welcher davon gehört Kanada?</p>",
+     "answer":[
+    {"correct":true,"text":"Drei Funkregionen. Kanada gehört zur Region 2."}
+  ,
+    {"correct":false,"text":"Vier Funkregionen. Kanada gehört zur Region 3."}
+  ,
+    {"correct":false,"text":"Vierzehn Funkregionen. Kanada gehört zur Region 4."}
+  ,
+    {"correct":false,"text":"Fünf Funkregionen. Kanada gehört zur Region 1."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA403",
+     "id":"VVA403",
+     "text":"<p>Nach den Radio Regulations (VO Funk) ist die Erde in verschiedene Funkregionen unterteilt. Wie viele Funkregionen gibt es und zu welcher davon gehört Australien?</p>",
+     "answer":[
+    {"correct":true,"text":"Drei Funkregionen. Australien gehört zur Region 3."}
+  ,
+    {"correct":false,"text":"Vier Funkregionen. Australien gehört zur Region 1."}
+  ,
+    {"correct":false,"text":"Vierzehn Funkregionen. Australien gehört zur Region 4."}
+  ,
+    {"correct":false,"text":"Fünf Funkregionen. Australien gehört zur Region 2."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VA404",
+     "id":"VVA404",
+     "text":"<p>Weshalb wird in den Radio Regulations (VO Funk) die Erde in verschiedene Funkregionen eingeteilt?</p>",
+     "answer":[
+    {"correct":true,"text":"Um in den Regionen unterschiedliche Frequenzbereichszuweisungen für die Funkdienste vornehmen zu können."}
+  ,
+    {"correct":false,"text":"Weil der Amateurfunkverkehr nur innerhalb einer Region zulässig ist."}
+  ,
+    {"correct":false,"text":"Um für die einzelnen Funkregionen regional gültige Regelungen für Gastlizenzen einführen zu können."}
+  ,
+    {"correct":false,"text":"Weil die Ausbreitungsbedingungen in den verschiedenen Regionen der Erde unterschiedlich sind und dadurch unterschiedliche Senderleistungen zugestanden werden müssen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VB110",
+     "id":"VVB110",
+     "text":"<p>Sie hören die Amateurfunkstation mit dem Rufzeichen DL/G3MM. Welcher der nachfolgenden Sachverhalte trifft zu?</p>",
+     "answer":[
+    {"correct":true,"text":"Der englischen Station G3MM ist es aufgrund der CEPT-Empfehlung T/R 61-01 gestattet, vorübergehend von Deutschland aus den Amateurfunk auszuüben."}
+  ,
+    {"correct":false,"text":"Dem griechischen Funkamateur G3MM ist es aufgrund einer Kurzzeit-Gastzulassung gestattet, von Deutschland aus den Amateurfunk auszuüben."}
+  ,
+    {"correct":false,"text":"Der Funkamateur G3MM aus Gibraltar hat eine kurzzeitige deutsche Gastlizenz erhalten, was mit dem vorangestellten \"DL\" als Durchreise-Lizenz deutlich wird."}
+  ,
+    {"correct":false,"text":"Die Sonderstation G3MM (Maritim Mobile) ist fest auf einem englischen Schiff installiert, und somit berechtigt, auch von fremden Häfen aus betrieben zu werden."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD106",
+     "id":"VVD106",
+     "text":"<p>Wo ist die Einteilung der deutschen Amateurfunkrufzeichen geregelt?</p>",
+     "answer":[
+    {"correct":true,"text":"Im Rufzeichenplan gemäß § 10 Abs. 3 AFuV."}
+  ,
+    {"correct":false,"text":"In Artikel 19 und Anhang 42 der VO Funk."}
+  ,
+    {"correct":false,"text":"In der Rufzeichenliste der Bundesnetzagentur."}
+  ,
+    {"correct":false,"text":"In § 4 des Amateurfunkgesetzes."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD123",
+     "id":"VVD123",
+     "text":"<p>Welche Daten sind in der offiziellen Rufzeichenliste der Bundesnetzagentur immer enthalten?</p>",
+     "answer":[
+    {"correct":true,"text":"Alle zugeteilten Rufzeichen in Verbindung mit dem Namen des Inhabers und die Standorte von Relaisfunkstellen und Funkbaken."}
+  ,
+    {"correct":false,"text":"Alle zugeteilten Rufzeichen mit den dazugehörigen Standorten der Amateurfunkstellen."}
+  ,
+    {"correct":false,"text":"Alle zugeteilten Rufzeichen mit den dazugehörigen Rufzeicheninhabern und deren Anschriften."}
+  ,
+    {"correct":false,"text":"Im Falle eines Widerspruchs keinerlei Angaben, auch kein Rufzeichen."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD129",
+     "id":"VVD129",
+     "text":"<p>Ist für den Betrieb einer Amateurfunkstelle auf Wasser beziehungsweise in der Luft eine Sondergenehmigung der Bundesnetzagentur erforderlich?</p>",
+     "answer":[
+    {"correct":true,"text":"Nein."}
+  ,
+    {"correct":false,"text":"Ja, aber nur in Einzelfällen."}
+  ,
+    {"correct":false,"text":"Ja, in jedem Fall ist eine Sonderzuteilung erforderlich."}
+  ,
+    {"correct":false,"text":"Nur bei Strahlungsleistungen über 10 Watt EIRP."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD209",
+     "id":"VVD209",
+     "text":"<p>Wie werden deutsche Amateurfunkrufzeichen meistens gebildet?</p>",
+     "answer":[
+    {"correct":true,"text":"Amateurfunkrufzeichen bestehen aus einem 2-buchstabigen Präfix (Landeskenner), einer Ziffer und einem meist 2- oder 3-buchstabigen Suffix."}
+  ,
+    {"correct":false,"text":"Amateurfunkrufzeichen bestehen meistens aus einem zweistelligen Suffix (Landeskenner), ein oder zwei Ziffern und einem zwei- oder dreistelligen Präfix."}
+  ,
+    {"correct":false,"text":"Amateurfunkrufzeichen bestehen aus einem einstelligen Präfix (D), einer oder zwei Ziffern und einem meist ein-, zwei- oder dreistelligen Suffix."}
+  ,
+    {"correct":false,"text":"Amateurfunkrufzeichen bestehen meistens aus einem 2-stelligen Suffix (Landeskenner), einer Ziffer und einem 1-, 2- oder 3-stelligen Präfix."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD210",
+     "id":"VVD210",
+     "text":"<p>Welche der folgenden Amateurfunkrufzeichen werden in Deutschland auch zugeteilt?</p>",
+     "answer":[
+    {"correct":true,"text":"Rufzeichen für Klubstationen mit 1-buchstabigem oder 4- bis 7-stelligem Suffix, das mit einem Buchstaben endet."}
+  ,
+    {"correct":false,"text":"Rufzeichen mit 1- bis 7-stelligem Suffix als personengebundenes Rufzeichen gemäß § 3 Abs. 1 des Amateurfunkgesetzes."}
+  ,
+    {"correct":false,"text":"Rufzeichen für Relaisfunkstellen und Funkbaken mit 1-buchstabigem oder mit 4- bis 7-stelligem Suffix."}
+  ,
+    {"correct":false,"text":"Rufzeichen für Klubstationen mit 1-buchstabigem oder mit 4- bis 7-stelligem Präfix, dessen letztes Zeichen eine Ziffer sein muss."}
+  ]
+    }
+  ,
+    {
+     "name":"V/VD218",
+     "id":"VVD218",
+     "text":"<p>Woran erkennt man eine Amateurfunkstelle im Funkbetrieb?</p>",
+     "answer":[
+    {"correct":true,"text":"Am Amateurfunkrufzeichen."}
+  ,
+    {"correct":false,"text":"Am benutzen Frequenzbereich."}
+  ,
+    {"correct":false,"text":"An der verwendeten Sendeart."}
+  ,
+    {"correct":false,"text":"An der Betriebstechnik."}
+  ]
+    }
+  
+    ]
+  

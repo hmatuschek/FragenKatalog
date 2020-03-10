@@ -6,13 +6,13 @@
      "id":"ETD201",
      "text":"<p>Der Impedanzfrequenzgang in der Abbildung zeigt die Kennlinie</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAB9CAAAAABl6cV/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEhUlEQVR42u2bwWsbRxSHPy+5hvi2pIe6pYdNwfEKQSxCKaIhwceQYkTuARPcc29taKGXXHosJYXQSyEoBpFSCCbBIQRTpICRlYK7h2KnhobNIY3/AdHD7ta70u5a1XvbmYPexWJGO/48fu83b97szA2x0RzTADOsGZYNWDdNY83lCoRjWjaS2frQiQyAgMASrAzHz/xkCdZwOBwOYRWAu9w3jJX2LQdvL/7gvjKLlYrEsxBR9SA0S5XCaoXEM3cAtC3B+n4joeIN8NsEz95yNoVfOBGrvc69pG19wmdP0yn/wg/UZFjhdb5rxU09gNcTPNtkt/wLIa4MqwPrjuM4Tg9+gegfeZIt053yt55op6If77vzALw9A69xQ/dQYexNGlM/O8yxtdzWcXPZK+u+zdpk44xbbgYxyX8Q4Gq5cz3n2rSTJcq3amyVdT+bOhBlWPXy2Zo+EGVY1YVihUmzJBBlWG7Zmj7AN4T1cdny85hLhrBW6Rd3DmhNPJAull8WipKcTYbllYbi1PJQZSRusmQMq1G8ddvmsjEsnydFXV2axrBqxQrxiAVjWHUGxZ3mXH65UAYE67Qci0J56kgCUYzVKNL5LUkgirF89vM7Do3OVq1otrrTp6YKWHUeFHWZdPmiUBTW7apaE5/EpTJTWF5UHBi1PheMYjXZyWveFQWiHKsgFA9EgSjHqvM0r1m29sixFioploux8ielJ5usqgTiQObxClguOQXSDcGOWgfrKtvjjS/4yDDWB/w+3hjI9EEBa4kXec2mXX6lCoWoJhID4WRVhCXVBw2s1fEcYpsbxrHOjecQXd4zjrXIX6NNA5aNYzXHhUt8HKmA5eYLl2msvP2EZwPWqG1y3gIsb9SXBpyzAGt+NG9+zjsWYPm8zDYcUrcA6xKPsw1dqWypYDXLSoLmsEZPfhTe7ahCIPrCRF4La2S6JEdjmlhL2Q3/H8JEXgurka3OPxDrgw7WYraAGor1QQfL50+NYbSxvEwOofHuVwUCoaAPSliZSmWHK5ZgnU/vMvZZtATrQlq4FNRUCWshrRChOGXWwvJ5pDKOMlZ6eqT1SUUsUmq1I91RK2J5xz7fV9AHLazmsc/vC+uTmlips4yBPK1Rw0qdZQjPL1SxlpUrlepLdU9BTDWxYoXYEdcfNLEaiXN1ZOebylh+8ir7QFrNVcWqJSXBUEMf1LA+4VnyUUEf1LDmY5dXusShhZVMUUchkVfEohEdK/b51CosPzpWfKoSiHpYtehdz4AVq7CuqebNalguBHBL9mqNPhZrfAnfSI/G1LG+ZoM2Oq6VXKhRMNcLHLgtGiPYbbrKWOxd7LL2uWSE9nXii2yKWPwqHWCLh7EP2HSBuXeHr9pmsQLHcVor2Q3A39CNj2lyLzC3Nqq/wHwxvgDgvXvm3yuaN++8ipf8XN86+h8nMQhwaERu+Ya3ZVg3VJKTUjv9bZyZufyYI3W5WK3pr5xMbHdD4IvPClJZTYH4L9abvzf+tx9xFH+aM307P23hy+ScwSqsY7NJTmdYM6wZlmVmKdY/Kp98/rnC+3oAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD201'/>",
      "answer":[
-    {"correct":true, "text":"eines Serienschwingkreises."}
+    {"correct":true,"text":"eines Serienschwingkreises."}
   ,
-    {"correct":false, "text":"eines Parallelschwingkreises."}
+    {"correct":false,"text":"eines Parallelschwingkreises."}
   ,
-    {"correct":false, "text":"einer Induktivität."}
+    {"correct":false,"text":"einer Induktivität."}
   ,
-    {"correct":false, "text":"einer Kapazität."}
+    {"correct":false,"text":"einer Kapazität."}
   ]
     }
   ,
@@ -21,13 +21,13 @@
      "id":"ETD202",
      "text":"<p>Der im folgenden Bild dargestellte Impedanzfrequenzgang ist typisch für</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAB9CAAAAABl6cV/AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEmUlEQVR42u2bsU8bSRSHP0Y0V6ZZQ4GUo7BFAyENchMpQHH9IVCKq5DQSW5SniJZFDRpUyDXRDpZRBHKNScURULQIDdOrEgBuwjpEruA/2B1xbDsLuw63plnds7yr4Dx7Hr5mJn35s3bmQkfF6XyBhhjjbFcwPozb6yJRAeh8nYbQWvNKS0AOnQcwWpHKw/42xEs3/d9H9YA2ONNzljRsaUonV0XvB/5YkUscQo0VQN6+VJFsNZ7XLfcN2DfEaza24CKS+CLG1j7Ff4N6irAL05gdZ+x+9t1VQN0R+aPdQAVpZRSDXSrHeeLNal//eo9AODqAXTxeqW2xTMl5CdoK7E2TVWoZrl/ECVGEJdZ/q/tHdjZFm6sxAhi/W2GCEJR5xnCIYd1GFiDjQ2oOYb1mjrUeS2LZd2JCv/mp5xsW6uBB+BpJ+wMVpN5gHmaTmG1WAZYpuUU1jseATzinSiW7ZAPxrrwmP9fLV8HVoOSLpRkTdESq8mMLszImqIlVouyLpRlTdES6zjEEg0cLbHaLOrCIqKBo7UlFmK/nMEajuywGiwFxSVRD2GH1WQhKC6Iegg7rCMeBsWHHDmDdcLToPiUE2ewetHWkszy2Fpi4U4hf6yOjpi1PMmEqxXWVx0xa83z1RGsT8yGH2b55AhWxG0JOy4rrBNWwg8rkh7CCqtHMfxQlPQQIzhVx/yDrIewwYr5B1kPYYN1GkTMWmVOncB6fxvrvRNYF1FvCrNcOIEV8w+yHmL0HEQ37h/Ao+sA1gFP4hVPOHAAq8VcvGJObsFvgXUZ9w9QzvaeYUhYn4OFfqBFPjuA1b4dvxfk8hCj5yCCRGCfihywOkEiMNSMWGhjjvUxPiMCzPIxd6wv0fWF1oLYhgBzrDfR9YXWitgmGHOsdjx+ACiKeYhRcxDdTNX3hvUtyUuVpLZ1GGM177otwXcZxlhH+kViXMtSmUpjrEh+MpRYptIYK5KfDCWWqbRwEIWBqu4da5gyxYq8v4hK6l2GKVbz7kQNcilBU6xWGpbM4scc63FS9WMhLNMNB2kbDIQ2HoyWJaYYopgpGmKlGKKYKRpitdIcekFmzBtiHd/OPwQS2nhgaInpBidjiiNliY3bicBQMtvxzLCO4i8KopoXCVDNsPbYTLu0yZ4AltmQ7zeuRca8UWs1rC4PDavKVvrFLar2WEadqPieHrV3pwV60aS1XuL1WUsUPF7mgvWCV/0uv+JFHljbsNHv+gZY7+o3wNrhvP8N5+zcP9YUpWL/O4olpu4bq9a7PmnWR2f0LE8bZMaqsPvzm3apGLB0amHSLuk4y1r6gRooDXIgpkSmMznBwZybL2VsLcXPuxDgzKAfTvl+44czfbmrGNSD+6Cy5VEPP/DHzWyaAeuwPI038Lzie0yXD9MepZRaX49jX8CHq/DrA4yt83p1FYCtLGNFT+er1fp50hDVKq2G57yWIn81EWs1U+tbay0wk5BgMum+zXLWJ2fUVOA/PP5JXJ5P5HPeXAHe879idXPtkGUy4/NktL/2+93Z/ipSzqm1ktS5CvvTIayoRmpVPcZySmOsMdaw9B8oCa2lZWWJ4wAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD202'/>",
      "answer":[
-    {"correct":true, "text":"einen Parallelschwingkreis."}
+    {"correct":true,"text":"einen Parallelschwingkreis."}
   ,
-    {"correct":false, "text":"einen Kondensator."}
+    {"correct":false,"text":"einen Kondensator."}
   ,
-    {"correct":false, "text":"eine Spule."}
+    {"correct":false,"text":"eine Spule."}
   ,
-    {"correct":false, "text":"einen Serienschwingkreis."}
+    {"correct":false,"text":"einen Serienschwingkreis."}
   ]
     }
   ,
@@ -36,13 +36,13 @@
      "id":"ETD203",
      "text":"<p>Welcher Schwingkreis passt zu dem neben der jeweiligen Schaltung dargestellten Verlauf des Scheinwiderstandes?</p>",
      "answer":[
-    {"correct":true, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAD00lEQVRo3u2aTWgUSRSAP4s9eYgJCE0jGNjDIIRBL9Gc9iDDnIQ1Qmj2tNmDJCqIkSU4LOxFxUwOyxLQOOQQwYMMw97DEBYPHvJzktAgQQh4aRqyRj3kWOyhp2d6utvMizM4Vo/vkKmqfu+lvq7qqnpVdUIzqKL6XYHv6N/Rv6b80O8KSMUtjDJEfRDRT0+ODt941EuPJwwa4VXuTU/d9ZtHLtu86WmdzUHfvtTjDmoO+qXlRqKMH5bZtXTdbTtL6OdYte1ikH4dFvq305X/8AUejRnmau/hw49TgKI53JVL6dVXzosMoUe4Wui+vVZM0XDzm+MSP6aJC7vhJ27xZ5rKAwTkBqLPAafCzPxWmkq1IHFkHvo74N/We9hOavg8zCb6bjRj8VdS45movxuIDvCpmXKqyaelnMiJeeha4z1p5u7iJlXuZxQd2G8lx3kcf1pmSuTFwHkdtTPWypzbjRMoZEydWr0y4VOZkKwL+yRLySJhVN8J/eUWvN4SueqPFKm0F9S5IrPstEsz0stquofJsrNWt15XZ9qzjMnsutqg8i/4XNzAzUOhTs2B+QXKJVieSdXPO//Fi94Nb3RJPvu0PV+9KDTsCt32LCrKy2u4qaqOholfRhc12HsLqQbJeMr/uUtyrj5125v5tx6hDwGQ3intZQtm9uxN4MlbRwMbwfDqqQVksj/ULXqRV1H0Olellrpdkgqenj3S1gt+Ni2ttdaOo7XWuiD6Z1prT6IUr+NOW9bKRXOFzvYNibf6Wvu4dvJBFWDtTMoA1VgpW8HrGg8gGl26nhJVcDZl22g/90/M9Ulpo4VypxTNrTtSuzh6PPIP3sT5Yw/DogACOD0sHI8/L5fxo9W7JrX7ugtZlRDJ/mEHGedZK1Pjp28SPe2L63ZuA6zVVnoFcQc1MnyJyWQkhF8XbdCI0A+Ag2io9A3KrehWzXWxmfGRG4CaD5cRlRtynix0eHKLYWr1GFaZQG8tXbdm5VaZQJ+msTHvihfwWUG3WAkSz8VLqaygU1gPfhePs+rMBvrvYeLOwKEXuQdQYXrg0OFl8GfwOnzj2LEqDlgzhD5HDVzuDiC6ZTmQF0xtZdUkzgg6Hirl1KWcODv5u9pUygo62ttJkPslW9l+9JaV8p17YdqYi6IQXpA9w6vDg+TTkeQF2o+Ab3PbX9trHAzs5J258KlJQeuX91Dr17nGtGcvNY9hTWr1sJWUJ52+FTA7Oh1Vf99MmYTelH0pusMR9+eMRBdLykHXhwFBT0rkW8nM5CaUyKdiJPph9y4MRV8+xlbMEWLSvN5j+R9fvX+g3REiMwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD203a'/>"}
+    {"correct":true,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAD00lEQVRo3u2aTWgUSRSAP4s9eYgJCE0jGNjDIIRBL9Gc9iDDnIQ1Qmj2tNmDJCqIkSU4LOxFxUwOyxLQOOQQwYMMw97DEBYPHvJzktAgQQh4aRqyRj3kWOyhp2d6utvMizM4Vo/vkKmqfu+lvq7qqnpVdUIzqKL6XYHv6N/Rv6b80O8KSMUtjDJEfRDRT0+ODt941EuPJwwa4VXuTU/d9ZtHLtu86WmdzUHfvtTjDmoO+qXlRqKMH5bZtXTdbTtL6OdYte1ikH4dFvq305X/8AUejRnmau/hw49TgKI53JVL6dVXzosMoUe4Wui+vVZM0XDzm+MSP6aJC7vhJ27xZ5rKAwTkBqLPAafCzPxWmkq1IHFkHvo74N/We9hOavg8zCb6bjRj8VdS45movxuIDvCpmXKqyaelnMiJeeha4z1p5u7iJlXuZxQd2G8lx3kcf1pmSuTFwHkdtTPWypzbjRMoZEydWr0y4VOZkKwL+yRLySJhVN8J/eUWvN4SueqPFKm0F9S5IrPstEsz0stquofJsrNWt15XZ9qzjMnsutqg8i/4XNzAzUOhTs2B+QXKJVieSdXPO//Fi94Nb3RJPvu0PV+9KDTsCt32LCrKy2u4qaqOholfRhc12HsLqQbJeMr/uUtyrj5125v5tx6hDwGQ3intZQtm9uxN4MlbRwMbwfDqqQVksj/ULXqRV1H0Olellrpdkgqenj3S1gt+Ni2ttdaOo7XWuiD6Z1prT6IUr+NOW9bKRXOFzvYNibf6Wvu4dvJBFWDtTMoA1VgpW8HrGg8gGl26nhJVcDZl22g/90/M9Ulpo4VypxTNrTtSuzh6PPIP3sT5Yw/DogACOD0sHI8/L5fxo9W7JrX7ugtZlRDJ/mEHGedZK1Pjp28SPe2L63ZuA6zVVnoFcQc1MnyJyWQkhF8XbdCI0A+Ag2io9A3KrehWzXWxmfGRG4CaD5cRlRtynix0eHKLYWr1GFaZQG8tXbdm5VaZQJ+msTHvihfwWUG3WAkSz8VLqaygU1gPfhePs+rMBvrvYeLOwKEXuQdQYXrg0OFl8GfwOnzj2LEqDlgzhD5HDVzuDiC6ZTmQF0xtZdUkzgg6Hirl1KWcODv5u9pUygo62ttJkPslW9l+9JaV8p17YdqYi6IQXpA9w6vDg+TTkeQF2o+Ab3PbX9trHAzs5J258KlJQeuX91Dr17nGtGcvNY9hTWr1sJWUJ52+FTA7Oh1Vf99MmYTelH0pusMR9+eMRBdLykHXhwFBT0rkW8nM5CaUyKdiJPph9y4MRV8+xlbMEWLSvN5j+R9fvX+g3REiMwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD203a'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEQUlEQVRo3u2bTWgTQRTH/w7eJJT0EJYcWj2GgtdoQYQGTyUevLSRXqRQQkAsnppWPVRtcxI/QJaIKFpsclBRyUliEdGmeCuUHtVLWIoYSvA6eNjsdj+m2bfpdOMm/UPZmemb6fx2Zt7OvN0e4+hXsW534Aj9CP0IXaAaY4wpMls8Fho3Vx7G6LczfYkOsOS61Oa6zUNXAetS+xyeUS9njK4yOX2m30FNYYoGbDM2AqDIWFq/5AJCz9RbiRw0s/eFfW4TBYuMXo2v8bV4rThS5w8Z0lnOpxiUB5wPBbNmGOItDz+E90ZhbF5sfJ/SInnC67OMQb/ENADlTHIdwMKPVwGgaw1g96QCgCGx1SosZsXdZ/m7hCZ5exl/BDHOOeeJJOecc6zqly39EiM1JUtGXzjnHKrI4iPqhHa8Rn17ZKkJAI3H+9tUX0cBNNRgPGY5A6xOGMNrTgCr0hVKV457Wsx5WqRSAKCpgZBjxZpZEi72yiSlIXk+qhEMOb4D+Gxk5lB1W2i4GSx6UNoBEN3L3nBbLCLRm+iGU9WV3XAbqElSO+FD5xrqe4+uW+4Zr+FOj6LD5lYUPHX+9hFSvYtu1XjJWbJMWuk9gD67t6M3dK1P0FN4bi8o42KfoAMv7dkVEMNY3ru5A6n21102IjXChvyyPV8ZJ1aUhx4VFY5ONh0lkU+XHhNaoyu9vG33a1OS0L+Qu3AdBcF2332erb6WSo4zWLGeUMuYIFb0WOu5LNUbLJQwX6QY/pZLDiRsT/YVekX3adipPOkULd48JtyG37xIvA/sW7asamNAlnrud034pUFLZuDaDhAh3cKxDSD51nF8i8bdhr/Gn7Q95EXhU+dgW+znyRXb35m6NSTSXnlMCgZIMOrkYSGOOrfOS5UeK/KK0mhxauxFaClyFNmDeni2ZXfpimVDd3aDHCvy8vD0AITQMpCY1bTlyb5BCtAA6IndHK6iZiQ1TPcVuoIXRvI58cDaK+hImhHR+z5q9QT6FTO1k+0z9Ito7SNruNpn6Aqe6YmHtFhsx+g5VsUCq/qveHiabMVlSz7IO0EfwglEcKLbuFZNG5saYmyqU/T/UCksAkABM32HjtgbAPjqq07H6APOAt8nLpma3QGAio9HGyVAVXCEmCLvAAC3TznsgnrdKNTcfHEGVcqjTTOjlt7o+3yzUfKsGKjGszO4EPN28JdL5pHKa8ILYib6rlHw3UI30T/EGHO/jEi7HsGlVbObHaz1PwCAn13kFLkVTXTvKxcYK1s/8WLIXDbShxyHl6qcjjyMxaGm+7cRuOLeTQDIQEX+xz19hXNl2gzfhglddSWIim3Omq89TpulHaA3Wz+By/RPder7GwZgddj2TfHuQdDHNk9ibHPAf0VpalDRlwbbbO/C843snpxhSV91VfNmhGmty5BlpHtkD9+JQom+e/AmEM61XpPzbyBhRJekf40gd6WkeMmUAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETD203b'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEQUlEQVRo3u2bTWgTQRTH/w7eJJT0EJYcWj2GgtdoQYQGTyUevLSRXqRQQkAsnppWPVRtcxI/QJaIKFpsclBRyUliEdGmeCuUHtVLWIoYSvA6eNjsdj+m2bfpdOMm/UPZmemb6fx2Zt7OvN0e4+hXsW534Aj9CP0IXaAaY4wpMls8Fho3Vx7G6LczfYkOsOS61Oa6zUNXAetS+xyeUS9njK4yOX2m30FNYYoGbDM2AqDIWFq/5AJCz9RbiRw0s/eFfW4TBYuMXo2v8bV4rThS5w8Z0lnOpxiUB5wPBbNmGOItDz+E90ZhbF5sfJ/SInnC67OMQb/ENADlTHIdwMKPVwGgaw1g96QCgCGx1SosZsXdZ/m7hCZ5exl/BDHOOeeJJOecc6zqly39EiM1JUtGXzjnHKrI4iPqhHa8Rn17ZKkJAI3H+9tUX0cBNNRgPGY5A6xOGMNrTgCr0hVKV457Wsx5WqRSAKCpgZBjxZpZEi72yiSlIXk+qhEMOb4D+Gxk5lB1W2i4GSx6UNoBEN3L3nBbLCLRm+iGU9WV3XAbqElSO+FD5xrqe4+uW+4Zr+FOj6LD5lYUPHX+9hFSvYtu1XjJWbJMWuk9gD67t6M3dK1P0FN4bi8o42KfoAMv7dkVEMNY3ru5A6n21102IjXChvyyPV8ZJ1aUhx4VFY5ONh0lkU+XHhNaoyu9vG33a1OS0L+Qu3AdBcF2332erb6WSo4zWLGeUMuYIFb0WOu5LNUbLJQwX6QY/pZLDiRsT/YVekX3adipPOkULd48JtyG37xIvA/sW7asamNAlnrud034pUFLZuDaDhAh3cKxDSD51nF8i8bdhr/Gn7Q95EXhU+dgW+znyRXb35m6NSTSXnlMCgZIMOrkYSGOOrfOS5UeK/KK0mhxauxFaClyFNmDeni2ZXfpimVDd3aDHCvy8vD0AITQMpCY1bTlyb5BCtAA6IndHK6iZiQ1TPcVuoIXRvI58cDaK+hImhHR+z5q9QT6FTO1k+0z9Ito7SNruNpn6Aqe6YmHtFhsx+g5VsUCq/qveHiabMVlSz7IO0EfwglEcKLbuFZNG5saYmyqU/T/UCksAkABM32HjtgbAPjqq07H6APOAt8nLpma3QGAio9HGyVAVXCEmCLvAAC3TznsgnrdKNTcfHEGVcqjTTOjlt7o+3yzUfKsGKjGszO4EPN28JdL5pHKa8ILYib6rlHw3UI30T/EGHO/jEi7HsGlVbObHaz1PwCAn13kFLkVTXTvKxcYK1s/8WLIXDbShxyHl6qcjjyMxaGm+7cRuOLeTQDIQEX+xz19hXNl2gzfhglddSWIim3Omq89TpulHaA3Wz+By/RPder7GwZgddj2TfHuQdDHNk9ibHPAf0VpalDRlwbbbO/C843snpxhSV91VfNmhGmty5BlpHtkD9+JQom+e/AmEM61XpPzbyBhRJekf40gd6WkeMmUAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETD203b'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAD30lEQVRo3u2aP2gbVxzHP3l0c0hw2+EQBNoKZy0EhNCWUiQEKQ0xFA4tVXERXjtZNqX1lDhLSskSDnvIIgQBQ40HWYXizRw3JZNxEC0UxA11RUK8PjpIsU5376R75hLpWf0uev/1Prrf7/f+6K5I5lVi2hP4H30K+mDaE5isNlCaS/R2Gag9SX/gKyaEue2fugDNWzfTHHX2nzr4tS4Ae9lUhzUhzGVcCwDvearDGmDwS53BHEX+aL7Q2+XuIbctQJDqZGff4MtkKpVNYGtMo1Uh2roDz36YCz7pSkPdZt3p7pePNeP/7Bv8uQRkX8ZU3a+zdNa9zOgxzt4uS2hWNFFm39ffah3gRFn1M4DN9mVF7wHsKqvcGgDP9Aac/TD3Vpu3nz/9raeq8VkGsJuXFd2yWcgpa/b7B7uqJro5Bg9vYsp3+h8l9NhNQo/TwNXh13lD91npJ2pumuiFVShoLhrvW/sMQsCKXr8J6O4euH9MG268dqxBIqe3sk+K8AvAtRTm5/8dLcvpD6PSuavDs+9TRB+jShMkfgbsBqsOdC0E2Mojxr3ID/hRM6099Lmh1xydbhdHz3wrOREyI6FQuPZagpDCzbEllEjRWwbNZThO20PrWXZ8K3nHJBF+UVV44j+Amw3RAo7c34+AlmjkoI6nau+nAxrVzjBZ4lCnpxxRpDor48zS6XeQUkq5thbINBJ8j5RSRi4Z1+R4OVlVKXYgXZTJFTL441cj2RsZgOLjVwqWvpn1f5gHBDL2rWjz63eiptgJfRk3dB7ZUD8Mk1rOHkJXXnR8qnn9oWr+sZWsnba84EKxrIP+3nZzIqJ0xh05xpZiDvRTRT9SeWkaelgcyT6aPfR3py+Cmfxeeugd4M9p041Rm2owe1djDZ2ALiXIg2nzjdEuI/Gzqt5UXAR95hX6C9KKub27jOh+6KSafTov6N6oq8NKcmc3HP0XQlulenJnNxy9WYwU7STtazg634UL7MR7WbPRt7DDRdXEx2Oz0Tei9l7i3jygr6PYbbXchI/dZPT2w5aitFTMTOpYWDIc3Ss7ypcoD7IToCruZ2ajb+UbMVfPL4siuLh7oZdwTrzsY9PQrwZ5xIa04xoetPKFocP/uCFEO3D9u9vpPAJD/mRufgiweHjm9YB//3rhdahter3YDovHdzLkP//ky97gPrlMBYevLID6i9MnYMa7NP7EuJVM96v9XW/l9ADMMHhrcKHVyGpcNQ9lA5bTkrI+ut83wuAHenOxbl9THV0JTl8bh35B2eFw+M0/84Ie0WBNNMHXz3WW6mgmoV9dSHU4Exa3dySTnnrK+g/mDtEA8eVT5gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD203c'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAD30lEQVRo3u2aP2gbVxzHP3l0c0hw2+EQBNoKZy0EhNCWUiQEKQ0xFA4tVXERXjtZNqX1lDhLSskSDnvIIgQBQ40HWYXizRw3JZNxEC0UxA11RUK8PjpIsU5376R75hLpWf0uev/1Prrf7/f+6K5I5lVi2hP4H30K+mDaE5isNlCaS/R2Gag9SX/gKyaEue2fugDNWzfTHHX2nzr4tS4Ae9lUhzUhzGVcCwDvearDGmDwS53BHEX+aL7Q2+XuIbctQJDqZGff4MtkKpVNYGtMo1Uh2roDz36YCz7pSkPdZt3p7pePNeP/7Bv8uQRkX8ZU3a+zdNa9zOgxzt4uS2hWNFFm39ffah3gRFn1M4DN9mVF7wHsKqvcGgDP9Aac/TD3Vpu3nz/9raeq8VkGsJuXFd2yWcgpa/b7B7uqJro5Bg9vYsp3+h8l9NhNQo/TwNXh13lD91npJ2pumuiFVShoLhrvW/sMQsCKXr8J6O4euH9MG268dqxBIqe3sk+K8AvAtRTm5/8dLcvpD6PSuavDs+9TRB+jShMkfgbsBqsOdC0E2Mojxr3ID/hRM6099Lmh1xydbhdHz3wrOREyI6FQuPZagpDCzbEllEjRWwbNZThO20PrWXZ8K3nHJBF+UVV44j+Amw3RAo7c34+AlmjkoI6nau+nAxrVzjBZ4lCnpxxRpDor48zS6XeQUkq5thbINBJ8j5RSRi4Z1+R4OVlVKXYgXZTJFTL441cj2RsZgOLjVwqWvpn1f5gHBDL2rWjz63eiptgJfRk3dB7ZUD8Mk1rOHkJXXnR8qnn9oWr+sZWsnba84EKxrIP+3nZzIqJ0xh05xpZiDvRTRT9SeWkaelgcyT6aPfR3py+Cmfxeeugd4M9p041Rm2owe1djDZ2ALiXIg2nzjdEuI/Gzqt5UXAR95hX6C9KKub27jOh+6KSafTov6N6oq8NKcmc3HP0XQlulenJnNxy9WYwU7STtazg634UL7MR7WbPRt7DDRdXEx2Oz0Tei9l7i3jygr6PYbbXchI/dZPT2w5aitFTMTOpYWDIc3Ss7ypcoD7IToCruZ2ajb+UbMVfPL4siuLh7oZdwTrzsY9PQrwZ5xIa04xoetPKFocP/uCFEO3D9u9vpPAJD/mRufgiweHjm9YB//3rhdahter3YDovHdzLkP//ky97gPrlMBYevLID6i9MnYMa7NP7EuJVM96v9XW/l9ADMMHhrcKHVyGpcNQ9lA5bTkrI+ut83wuAHenOxbl9THV0JTl8bh35B2eFw+M0/84Ie0WBNNMHXz3WW6mgmoV9dSHU4Exa3dySTnnrK+g/mDtEA8eVT5gAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD203c'/>"}
   ,
-    {"correct":false, "text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJRaZcCDSAAAEQElEQVRo3u1aTWgTQRT+1vFoi6WsLOglGCQgKHiIFLyntNCDHgqrYsSCpUUQIVKx3lpaCIgeqgY8tBSiARXEtpBL8VAI5CAYQXIQ9qLQMtSKet3Bw/5nt93ZZJN0N34QZt7se5P9dn7ezJsRGHoVR7r9Av+p/6e+P2YIIWQozBoF/rFe+nXblhSOjwNA4dRox9ivj6lhVsfd6nWyUiMzqJC1LVJCgdRWSAXTpDZHaKeoj23pnyCk+hgnBMYYE+a1ZFhL7gvmkw5A+KClXy+GU99Rv8beAwAM3JQBQCXPAGBbUgFgblYFgMzI4z0AGEi1tc0l6ENrj6ObUbH1Vr8q6NhhjDF2UU8YY4ztDGutoGucaGubvxLYjv7nVjcTnnsrD/P0RN+xnlY1aJ+xoicAAHEDAJDSFHLH2troMogk6TN8wSzNeyuXZY4afalzT2I/2socqqqqagUAraJmFM4pnrp1PAyD+qGDCLw18hPes/08eKad6FFPArRufoYlL5Vihqei6FH/axcmyx4aFI9iSZ1SAJ8N6Q7qbpWX4FrwRo76N4eUwrxbZTbNVVPkqCflHCbPm2Km6KGTjSd1cXURS9YE/sjd4xdwO57UGzCE5caip5ymUaeOtGtBR+d6hHq2sWAdEz1C/TJKzoIl8Oza4kBdxBNnQZnPtcWAOjJVh0g5XVscqE87N5ebnK4tGHXiAWvJ2N8l6qPYtItr3IZ+1HftguqG9cU/KegOxCd2qTgZEvVkWZk+6LnF/HoVpDvUrzgH+wivXUMcniQcogIAaYOf4hEGNw0UAGIIMSply3fbRZzvUZK3RZvAHatviMhmBp3iCwDJpCb0v3CbU2R+Ww+P6UIrODMQ1GJcfmfNbCv8dj6nL9eLyGwYAvH4oEljE1k/i8Q3dASN70HSFStvva4ffOLwq7ufbFVNuxrVmgVTuTcdYu6CbG1cKW5wm/kdQQzahu/WT/fz02auzRHZAzBVNE8c3mE8NOp2hHrOGSKG8PKBnl0OYBb91RwA0dyiV7m9ekyoZw33W8e1XqNunEQsBxmUsaCewmstk08EsIoFdaQN93ar56jf1ZICb2wqRtTHtXPn97yxqRhR1x16meuYMWbUc1UAdb5jxlaoUwS4cdAZLKIA3ONwbXRmwcgGWcjqIFBBEOoVttaRmTr3sVz015MSZ4xFbxOtLuq/Q4UN+dLss8atS4XMlJzdcx05cyfaRKsfTqyuepXmgTSt7JrHk2OYMq93Rog6lYy+JgUxq0JCwoitqbYwR3jU2x6MFuV+AOhDPvuHy6Cvpl03kU9mrVPpupn1pa4sfHcWnNJGT2NxX9mvppZhdOn8IqfBehmTyr4BKz/qJ8V9jqvdxRfazj0oRg90QwEuhRuQqAqJdtG5kRb+W/piOqcITXOhYNvKxmQh2wx6mHoTY/1QLmSbQBNjPfdD+0UdTbR6XPAPKCXYjHYeLR4AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD203d'/>"}
+    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAAA6CAAAAAC8bxtVAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJRaZcCDSAAAEQElEQVRo3u1aTWgTQRT+1vFoi6WsLOglGCQgKHiIFLyntNCDHgqrYsSCpUUQIVKx3lpaCIgeqgY8tBSiARXEtpBL8VAI5CAYQXIQ9qLQMtSKet3Bw/5nt93ZZJN0N34QZt7se5P9dn7ezJsRGHoVR7r9Av+p/6e+P2YIIWQozBoF/rFe+nXblhSOjwNA4dRox9ivj6lhVsfd6nWyUiMzqJC1LVJCgdRWSAXTpDZHaKeoj23pnyCk+hgnBMYYE+a1ZFhL7gvmkw5A+KClXy+GU99Rv8beAwAM3JQBQCXPAGBbUgFgblYFgMzI4z0AGEi1tc0l6ENrj6ObUbH1Vr8q6NhhjDF2UU8YY4ztDGutoGucaGubvxLYjv7nVjcTnnsrD/P0RN+xnlY1aJ+xoicAAHEDAJDSFHLH2troMogk6TN8wSzNeyuXZY4afalzT2I/2socqqqqagUAraJmFM4pnrp1PAyD+qGDCLw18hPes/08eKad6FFPArRufoYlL5Vihqei6FH/axcmyx4aFI9iSZ1SAJ8N6Q7qbpWX4FrwRo76N4eUwrxbZTbNVVPkqCflHCbPm2Km6KGTjSd1cXURS9YE/sjd4xdwO57UGzCE5caip5ymUaeOtGtBR+d6hHq2sWAdEz1C/TJKzoIl8Oza4kBdxBNnQZnPtcWAOjJVh0g5XVscqE87N5ebnK4tGHXiAWvJ2N8l6qPYtItr3IZ+1HftguqG9cU/KegOxCd2qTgZEvVkWZk+6LnF/HoVpDvUrzgH+wivXUMcniQcogIAaYOf4hEGNw0UAGIIMSply3fbRZzvUZK3RZvAHatviMhmBp3iCwDJpCb0v3CbU2R+Ww+P6UIrODMQ1GJcfmfNbCv8dj6nL9eLyGwYAvH4oEljE1k/i8Q3dASN70HSFStvva4ffOLwq7ufbFVNuxrVmgVTuTcdYu6CbG1cKW5wm/kdQQzahu/WT/fz02auzRHZAzBVNE8c3mE8NOp2hHrOGSKG8PKBnl0OYBb91RwA0dyiV7m9ekyoZw33W8e1XqNunEQsBxmUsaCewmstk08EsIoFdaQN93ar56jf1ZICb2wqRtTHtXPn97yxqRhR1x16meuYMWbUc1UAdb5jxlaoUwS4cdAZLKIA3ONwbXRmwcgGWcjqIFBBEOoVttaRmTr3sVz015MSZ4xFbxOtLuq/Q4UN+dLss8atS4XMlJzdcx05cyfaRKsfTqyuepXmgTSt7JrHk2OYMq93Rog6lYy+JgUxq0JCwoitqbYwR3jU2x6MFuV+AOhDPvuHy6Cvpl03kU9mrVPpupn1pa4sfHcWnNJGT2NxX9mvppZhdOn8IqfBehmTyr4BKz/qJ8V9jqvdxRfazj0oRg90QwEuhRuQqAqJdtG5kRb+W/piOqcITXOhYNvKxmQh2wx6mHoTY/1QLmSbQBNjPfdD+0UdTbR6XPAPKCXYjHYeLR4AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD203d'/>"}
   ]
     }
   ,
@@ -51,13 +51,13 @@
      "id":"ETD204",
      "text":"<p>Wie ändert sich die Resonanzfrequenz eines Schwingkreises, wenn<br></p>",
      "answer":[
-    {"correct":true, "text":"Die Resonanzfrequenz wird bei 1. größer und bei 2. und 3. kleiner."}
+    {"correct":true,"text":"Die Resonanzfrequenz wird bei 1. größer und bei 2. und 3. kleiner."}
   ,
-    {"correct":false, "text":"Die Resonanzfrequenz wird bei 1. und 2. kleiner und bei 3. größer."}
+    {"correct":false,"text":"Die Resonanzfrequenz wird bei 1. und 2. kleiner und bei 3. größer."}
   ,
-    {"correct":false, "text":"Die Resonanzfrequenz wird bei 1. kleiner und bei 2. und 3. größer."}
+    {"correct":false,"text":"Die Resonanzfrequenz wird bei 1. kleiner und bei 2. und 3. größer."}
   ,
-    {"correct":false, "text":"Die Resonanzfrequenz wird bei 1. und 2. größer und bei 3. kleiner."}
+    {"correct":false,"text":"Die Resonanzfrequenz wird bei 1. und 2. größer und bei 3. kleiner."}
   ]
     }
   ,
@@ -66,13 +66,13 @@
      "id":"ETD205",
      "text":"<p>Wie verhält sich ein Parallelschwingkreis bei der Resonanzfrequenz?</p>",
      "answer":[
-    {"correct":true, "text":"Wie ein hochohmiger Widerstand."}
+    {"correct":true,"text":"Wie ein hochohmiger Widerstand."}
   ,
-    {"correct":false, "text":"Wie ein niederohmiger Widerstand."}
+    {"correct":false,"text":"Wie ein niederohmiger Widerstand."}
   ,
-    {"correct":false, "text":"Wie ein Kondensator mit sehr kleiner Kapazität."}
+    {"correct":false,"text":"Wie ein Kondensator mit sehr kleiner Kapazität."}
   ,
-    {"correct":false, "text":"Wie eine Spule mit sehr großer Induktivität."}
+    {"correct":false,"text":"Wie eine Spule mit sehr großer Induktivität."}
   ]
     }
   ,
@@ -81,13 +81,13 @@
      "id":"ETD206",
      "text":"<p>Was stellt die folgende Schaltung dar?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMsAAABsBAAAAAAkefS4AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QADzoyPqMAAAAHdElNRQfkAQ0PJRaZcCDSAAADg0lEQVRo3u2a/2bsQBTHhyGUkFcZwlJKXmVYwrLsq4RQLiWvEkJYlnmVZVnCcG7Se9vMNufMZibTaLXf7R+VSfKZ7/w4MycJgzV0Zr+Yb44pY2gePh8jE6ijFTDruClWc1Ov4GabQPOt3LR7ZcHQbjR50QnDCPZEY4qYGgJ6R9Wu21RTjH5o+C6nfuIJiGLBopNCf0JEaopJtKDFejcMLeGs/8MFxQHBtFydNF4x9do3WLESjOc7TCmHsppg7H2zJUdaR17G5NibI6axUGwxbUsNgWP03mYG5prZMDGciXkjKQwY9R4xl8SCKTzc6BjDnG2YIQpsHDFg3NDAxECrj2lUsKHdPIwlMzFD3zg3mnHBiLGGRunhphuDgIEpOHX+IAWaiJEk5sowTMor8BGJadh4Q2N6xuAlEvMcYRjrgPbBADpvrNPTsnq5zhsr5kxGSFc31r4pROaK0R5u6DoE7Rt6lXDEBHeDN9qXcEMXBh1pK7mJXqi7Be0bmWZh3FxsOxvo8gOJoTioG1+VLLt/0nKMljNWkAAJu07XwWxXwUCxjpsZSek75gr6xY8yZxPxjmmUfrp/OiLGE/T4zQ2XY47EgA6M0c0qbkDnw6b00zGQQ+eEKbnPk4x+eh4PszGVTranWff9oH49vFKYPxPMoY1nRI2pTjLD3VR9VvgW7oyEnR+kcN+ua8YS1E3HZaLfcg8jv9koKTxGQSp6TIXw+3p3b8nMTUwrfRoNug20iJsh77qcHhGMzPceGF2ibgbVgiOYIjWS3/mq0b55vaH43zm3C4EPZJieR84zzOcjtBWC8ZEe9pHPeWU9aTlm9y9C2xtiOUY4bqD0/bMxtTJxwejN/bNRDQsBXhAU0wdJ/Lixuw6BORPHZVg31D6NcKPAS0eqfkEbLZ3zYGIxRnNy8Qjqho62Qftm1hOD5Y2WrIJZyY07RoGHfnqjeVHcG02Bj354o63kRoGPHDHNnI3QVJZGM966Ge9vmF/uSbq5MiQphAs7hMVoNho1XkhaXxORsjSasX1fjLEMAaN5RkzHvSgWjMAw4JVCOY80vQvtBp+e5GcMvph2/NcYAsInv7158/xBxhbemJ7cK6OSjKqdZuMToBFTqrPwEBOMKtkX2RSTqwsLK3VGMPWG/sDAIkE+HKtVnUwxF+Y1P+lXBG0kETf6WPlgNJkZa4l8Z/O5+sV8YcxfmuRZ5SrztJcAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD206'/>",
      "answer":[
-    {"correct":true, "text":"Hochpass"}
+    {"correct":true,"text":"Hochpass"}
   ,
-    {"correct":false, "text":"Sperrkreis"}
+    {"correct":false,"text":"Sperrkreis"}
   ,
-    {"correct":false, "text":"Bandpass"}
+    {"correct":false,"text":"Bandpass"}
   ,
-    {"correct":false, "text":"Tiefpass"}
+    {"correct":false,"text":"Tiefpass"}
   ]
     }
   ,
@@ -96,13 +96,13 @@
      "id":"ETD207",
      "text":"<p>Was stellt die folgende Schaltung dar?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAM0AAAByBAAAAAAQu+cUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QADzoyPqMAAAAHdElNRQfkAQ0PJRaZcCDSAAAEZ0lEQVRo3u2aj6bzMBjGX8IYY7cSShnl3Eo5lDF2K2OMceitlDJGya2UUUrIl7Zbl7ZJ9qbtzvd97Ol24ixtfn3y5u2ftCB+RTl8OB+OI4dXf1hTZvxtHL7dCX6NBT//CBFu2BgOYu946FEfKPXlsqDb79UITr2LL1TS7ASQJbCIr0BEsXAxdOfkAD+Ccf0no3XdZS0ElT0XytILZLmvNzXSTh4bcJKA+tFpq/98Q113DCRHtn2UnIpx+Kq2vBo7gsJuyIlTWomA5kMB6jrZ7iGW68oyzGRJKgEQvWDJCRtwfIjNA4C0ddVw4awpy1MkFyDRSbvQQJCBnxso7GEP6OtYtYSbpuwv/BhkQw5PbYPHlmPJ3tQLuviI1NKUoJa61MQRR3XgPziJjWPzY+ZwtQbFsfrZmWqKQMMJmaWtjp+iu6bZz0XLsfpRm+41bOakyyGHU9vxreMnj7GchY5jXF304pP3/BjjcyDqVo883czuJ9RweMKwftDxAVDadM+ffr+ZOPyoiY/IbZzOeOv3m1v+4P2g++26duV0x9suw3Em+slJdcJDcLTHA3t81H/4OYpVzrviI8+lDNdva1eO4Xz6gnNVL/DeeP4ppsWnzzHG56/6GX8+NXIuE8fbJD83ZvNjqbTkz1rDsWqcn0w9RaM44+LTSWdnP7zXgIWjytnPeS8uZ5WzQzQwwk+4Erl6opzVj9JR8m4uUS/M5uSo68jb32S8n724MvNKanykn86FpjE+3Tv4hsMDYbsBGuXHq1p143T8SI6P4YA7p+NnjRxvdIQfpa7yg4oPGeGHt6rH9eI+gyG/LIldOZR+mfyAopVI1X/Bud+ABqZNPOJ51Ku+BAKRgEfo/UM9E0frx2chM1G6kvHp5I9RkrN6ku55evCBrTKG2Pyw7uaPUZSlQdlmwJ1ThjsBxvj0/CQoPyUQlrczNo/jm7w2XzKMn37+mOX5Ij08dl05jgaoGU+0n0pRNWfX43Cy3WM46+6NtFUUHteKip/LKcb0m4Mfvswe8x/O89chdrzdUUM/OEk/OTo+TzlzuEBNQk/mjNSDU8a/w7nt529bvS9v77Nez8c7SzO/8w4/XA1962d+zmQ/DLme1g86PiVFHg74ND/JDpumOg4+PmmMXVPXb3g/1icEqrT9ho8PmvN3/czPmZg/0/rNIT4xcsWJ+ZMS7Ol0WnwKwF4eTBtvaE3MH7x+yc/E+KA1cbzhpes35HSQk3TPf6jtefA4ZbrnP52HXPPoqHse7HJtjtRFfTTfjjfcXbCLCl2/5evZOdpxncw/3rTXibc3cNRpoZYTz87RHneKNxxH1Wm6dhz4bExTrn54SGdP1AtsB5xycyUZq5fZROnwvZoiEJQ082n1qzqE1GVPzc/P93po94Wd54Z1QcRhwClXnEbbWlEUVd9TNFDzc/uiUvPDU6d2w6Yg6txpexyFEZMCdtFISaA2f2D2gX2EYXxGzT28kvqu2zvnKdRd/yffg/xwPpz/hfMHwRcKR2POMssAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD207'/>",
      "answer":[
-    {"correct":true, "text":"Sperrkreis"}
+    {"correct":true,"text":"Sperrkreis"}
   ,
-    {"correct":false, "text":"Saugkreis"}
+    {"correct":false,"text":"Saugkreis"}
   ,
-    {"correct":false, "text":"Bandpass"}
+    {"correct":false,"text":"Bandpass"}
   ,
-    {"correct":false, "text":"Tiefpass"}
+    {"correct":false,"text":"Tiefpass"}
   ]
     }
   ,
@@ -111,13 +111,13 @@
      "id":"ETD208",
      "text":"<p>Was stellt die folgende Schaltung dar?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMQAAABuBAAAAACYug4+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QADzoyPqMAAAAHdElNRQfkAQ0PJRaZcCDSAAAEFklEQVRo3u2aj4b7QBDHhyWU0FdZQimhrxKOEI68SjmO48irhHAcYV8lhBCG/W2aP82mmTTZJr3f7+eml/aYZD/73ZnZZLcFubnBL+IXcTWhDmyOVGyB4LBL3yBAh1npmTEjRo1AwluCww6cgw8vzsH54KExIgcWjXrjUPlc+QWR+gxlYQ1PQLrlVENkDFyU4vYviWShmkd1Vql68c2GhIAcusLREHGYw7ipVlQAKgRy1Rr4ftB/eQBpimOvb84tDZHGNo6acn6ow1GYoPpkDuub6oQ6ONweYHeZVCMOzp4cU9GM6+UT9U7HnPvv7+rv5vBs2ebfBVHyIzmmk1bCgfI4Xuuq1byFRgRVN6+EAz1oXTVCZY6ZeaQHO3iNiO8gBIkgPdgNTI04nyYJ6FKeFxJRdNfUiJe9IYJWUdg6wjNVcSavybpcuyCQr68i7+azui7AllM2gaBVdPNZPdPy3eoq4u5OVA+UmrTNEHQsPGjpTV2YIiYyapC0iTGCvKbY64g71Y3AT4+qyKZVqKcEQgcdiyHiTizoe/RqsaBtIhZLVZCI7VUsiEW0uYp7GUUj5qswRsxW8YxYbK/C2ObHwhxBqsDPlRDnGedspmI9xH+hYkksZvTmERXq1pyfDBGUo5Ay1BGZKYJSkYjumaJVsTdDkLG4RRioQJGK1EvV25iSVVTkXBnwagk7whhTkS7dRMnqFXG1CO7avW5CjKlw2HGhClYtsJUOaFWgx0IKcZSZe0xxGUKVkqjf2gtz+9rEBRFdEQcRu+5CwNjQna7/JxHa0u0QMgdLAF8KEaLewxCiVbHvDaPFX9ERHaJ0XPrJmLLi3Q/89yDwg3Y7p6+i5EyUdfS7aXDxQOX1dkqVV+JWRaUtSdw+Al2xMNwqaXmVVJy3iGH9el97TQVju5ltt51CrKobVXm3uvb6GYxZoo9YmrJNR7Whs3zR78Ox3lt59JbUb1OFOOw7m4pZ9caKo0PxIILeZrlBzDhzhoopRBluriLbm6qgXfo+rfF9Vc8ozVDfA3lABYmQ+k6OuYqJgVpLBR1uHKqw77c2roJEDAdqAxXDgdogFriWiidk1MTD//Z1gU+oiyfEYphRpnVBx+JfyqgnzFFPyKiJuviBjDJGkJ4fyKjEFvcaG7fZc5RapEVrq8igv9ZTnWEzmhtFkJ6EnTREvDMcqIntx8G3MNn6c1T5hOoeIGLjJxDSg92ewqOlR6oYVndxMkRM3C8Gj83FBo9q+nesMl66XG27Cq+0q6U31c2tOS3eWAEWJSOHoI9Q43TmJgYMGGGQctFHnGQMJsZpF+uWN8333b4jTSwBHhGuWJ4/++E+g1ksSiDnz9hv4938eOlbzGhwxJDc1yi5/lMT43X3BPyj/Y7kL/it2i/ieYg/IExpSY/wrpAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD208'/>",
      "answer":[
-    {"correct":true, "text":"Tiefpass"}
+    {"correct":true,"text":"Tiefpass"}
   ,
-    {"correct":false, "text":"Sperrkreis"}
+    {"correct":false,"text":"Sperrkreis"}
   ,
-    {"correct":false, "text":"Bandpass"}
+    {"correct":false,"text":"Bandpass"}
   ,
-    {"correct":false, "text":"Hochpass"}
+    {"correct":false,"text":"Hochpass"}
   ]
     }
   ,
@@ -126,13 +126,13 @@
      "id":"ETD209",
      "text":"<p>Was stellt die folgende Schaltung dar?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMMAAABwBAAAAABDunasAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QADzoyPqMAAAAHdElNRQfkAQ0PJRaZcCDSAAAEAklEQVRo3u2a8Yb7QBDHh+UoJa+yhHKEvEoooRx9lVLCj9JXCSGUsK9SjhCGvSRtknaTu/0maX7uj5v2ODrbT747s7OTTUkvbVf6Q4xCZOrFX8wmIpchOjTD3E7tNd8R8Yb2mQJemRQ+a2V7ZwG9mwidEmQSc6M1Uw9xXO0QC0qIlK4Q5d8Pb1praSASQVi8cyIP8MxX6ZsZbnLBaAtyEDcpzVjoLSaizG6BqX1vv7BBSGhgZdhaLdbtvw0CXuQMqvD6CHSiNIb4nKEC9PxsE6pBMJ1fO1HXAcT+tRN17dzaMuhBI+GJiju3O6Kgj9dOVCCVgdDE0EhYRd7PKHzpgeviPyw9Z4aKyROFLz1MRTGgQqET9WtU/PJYgKVmKBawClecF1ahM4nIGIqFghkPu81CKh6nGXIaH4vHnX8pFVdExax1EUJ78BwVBQmFuA2oQMbVtoPW3qxY8MFHEAMqYETV6Nl34QEVLjxR1QVurU4DscDu4BoV9j6e9z3ECIt9/FZhGqIqg/aJmoNIq3URLIrQKvD1YVmETpxJsdjrHB5SVlokFu1V3BDs6QS+sNLZGouL0qcZiHJdHKSlFiaKnekIjh3Nu93PTiWivWEZjeBd1R7YitQsREHIze03iExBlEiepyJSIU72sfppKxiD2HBw8bGZ0hza1SZnXmvvEaEPIeUeWtDf7S7xPvX02xOikKdcQPt+6buy+xWSVHFvfrstCVaRIK3aYaOT+ybflcHc78rKj9cn9tilbFPPQJQNEpJROUrQJG8z2iH4H5ApZYFbgQQWmXt+RoCWI5GoTd3LzHgEfB7T2GjExZmMUIuryGEEHAsTkewB54wzTr2sNLtvt72PQtzO5AVJ+60Cd31Qi0BO1bqD/8VURNH9/N/+PGVIBYJg3TwCWUzFCOMBBBKLKAzDqHpHdt+umxuXUWUylQlFSBMycaKoSVp7Rk0NtytcIWubpAI9bUZanMomxqKyC1ajpk5UrQKstDPWxW3Pt9bBqeuiVZG61iuaEYs63MLeScyYqCrcbI/H3HAzkFUzY4GomJlRAGJARfxiFf2MYuzET98yCkAkZNwllUX0zTrqZnVGraz73lX4JkKi3XC99Ow3AHm3pTSIAG3yakRiXd1F79EhjkgxR+4/OhxXoxBET0VsU94iHMyvvy7gthnckvSxh0ixkwN8S0p7CIk+Kt5iPyHgoHVrbu1Xl3XV2tev7Ptf5GQp0WrwA8OC7qCgeaTuadGa64pvzHWr5twd+uDZBH1IA1F4vAmjXdVL1i1l85/5Co9Ebjj0wbNFUsXnXiwcKBRMBKVUvDFV6CP6E4pA+ojbJ5mxsJ/2tQYexlyMQ9QFrPdbtSXtD/GHeDHiC4nDEUAOxqrIAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETD209'/>",
      "answer":[
-    {"correct":true, "text":"Saugkreis"}
+    {"correct":true,"text":"Saugkreis"}
   ,
-    {"correct":false, "text":"Sperrkreis"}
+    {"correct":false,"text":"Sperrkreis"}
   ,
-    {"correct":false, "text":"Bandpass"}
+    {"correct":false,"text":"Bandpass"}
   ,
-    {"correct":false, "text":"Tiefpass"}
+    {"correct":false,"text":"Tiefpass"}
   ]
     }
   ,
@@ -141,13 +141,13 @@
      "id":"ETD210",
      "text":"<p>Welche der nachfolgenden Eigenschaften trifft auf einen Hochpass zu?</p>",
      "answer":[
-    {"correct":true, "text":"Frequenzen oberhalb der Grenzfrequenz werden durchgelassen."}
+    {"correct":true,"text":"Frequenzen oberhalb der Grenzfrequenz werden durchgelassen."}
   ,
-    {"correct":false, "text":"Frequenzen unterhalb der Grenzfrequenz werden verstärkt."}
+    {"correct":false,"text":"Frequenzen unterhalb der Grenzfrequenz werden verstärkt."}
   ,
-    {"correct":false, "text":"Frequenzen oberhalb der Grenzfrequenz werden stark bedämpft."}
+    {"correct":false,"text":"Frequenzen oberhalb der Grenzfrequenz werden stark bedämpft."}
   ,
-    {"correct":false, "text":"Frequenzen unterhalb der Grenzfrequenz werden ungedämpft durchgelassen."}
+    {"correct":false,"text":"Frequenzen unterhalb der Grenzfrequenz werden ungedämpft durchgelassen."}
   ]
     }
   

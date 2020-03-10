@@ -6,13 +6,13 @@
      "id":"ETB901",
      "text":"<p>Die Maßeinheit der elektrischen Leistung ist</p>",
      "answer":[
-    {"correct":true, "text":"Watt"}
+    {"correct":true,"text":"Watt"}
   ,
-    {"correct":false, "text":"Joule"}
+    {"correct":false,"text":"Joule"}
   ,
-    {"correct":false, "text":"Kilowattstunden"}
+    {"correct":false,"text":"Kilowattstunden"}
   ,
-    {"correct":false, "text":"Amperestunden"}
+    {"correct":false,"text":"Amperestunden"}
   ]
     }
   ,
@@ -21,13 +21,13 @@
      "id":"ETB902",
      "text":"<p>Welcher der nachfolgenden Zusammenhänge ist richtig?</p>",
      "answer":[
-    {"correct":true, "text":"U = R · I"}
+    {"correct":true,"text":"U = R · I"}
   ,
-    {"correct":false, "text":"I = U · R"}
+    {"correct":false,"text":"I = U · R"}
   ,
-    {"correct":false, "text":"R = I / U"}
+    {"correct":false,"text":"R = I / U"}
   ,
-    {"correct":false, "text":"I = R / U"}
+    {"correct":false,"text":"I = R / U"}
   ]
     }
   ,
@@ -36,13 +36,13 @@
      "id":"ETB903",
      "text":"<p>Welche Spannung lässt einen Strom von 2 A durch einen Widerstand von 50 Ohm fließen?</p>",
      "answer":[
-    {"correct":true, "text":"100 Volt"}
+    {"correct":true,"text":"100 Volt"}
   ,
-    {"correct":false, "text":"200 Volt"}
+    {"correct":false,"text":"200 Volt"}
   ,
-    {"correct":false, "text":"25 Volt"}
+    {"correct":false,"text":"25 Volt"}
   ,
-    {"correct":false, "text":"52 Volt"}
+    {"correct":false,"text":"52 Volt"}
   ]
     }
   ,
@@ -51,13 +51,13 @@
      "id":"ETB904",
      "text":"<p>Welcher Widerstand ist erforderlich um einen Strom von 3 A bei einer Spannung von 90 Volt fließen zu lassen?</p>",
      "answer":[
-    {"correct":true, "text":"30 Ω"}
+    {"correct":true,"text":"30 Ω"}
   ,
-    {"correct":false, "text":"1/30 Ω"}
+    {"correct":false,"text":"1/30 Ω"}
   ,
-    {"correct":false, "text":"270 Ω"}
+    {"correct":false,"text":"270 Ω"}
   ,
-    {"correct":false, "text":"93 Ω"}
+    {"correct":false,"text":"93 Ω"}
   ]
     }
   ,
@@ -66,13 +66,13 @@
      "id":"ETB905",
      "text":"<p>Eine Stromversorgung nimmt bei 230 V einen Strom von 0,63 A auf. Welche elektrische Arbeit (Energie) wird bei einer Betriebsdauer von 7 Stunden verbraucht?</p>",
      "answer":[
-    {"correct":true, "text":"1,01 kWh"}
+    {"correct":true,"text":"1,01 kWh"}
   ,
-    {"correct":false, "text":"0,1 kWh"}
+    {"correct":false,"text":"0,1 kWh"}
   ,
-    {"correct":false, "text":"2,56 kWh"}
+    {"correct":false,"text":"2,56 kWh"}
   ,
-    {"correct":false, "text":"20,7 kWh"}
+    {"correct":false,"text":"20,7 kWh"}
   ]
     }
   ,
@@ -81,13 +81,13 @@
      "id":"ETB906",
      "text":"<p>Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Bei einer 12-V-Versorgung beträgt die Stromentnahme</p>",
      "answer":[
-    {"correct":true, "text":"4 A."}
+    {"correct":true,"text":"4 A."}
   ,
-    {"correct":false, "text":"250 mA."}
+    {"correct":false,"text":"250 mA."}
   ,
-    {"correct":false, "text":"750 mA."}
+    {"correct":false,"text":"750 mA."}
   ,
-    {"correct":false, "text":"36 A."}
+    {"correct":false,"text":"36 A."}
   ]
     }
   ,
@@ -96,13 +96,13 @@
      "id":"ETB907",
      "text":"<p>Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt</p>",
      "answer":[
-    {"correct":true, "text":"200 W."}
+    {"correct":true,"text":"200 W."}
   ,
-    {"correct":false, "text":"141 W."}
+    {"correct":false,"text":"141 W."}
   ,
-    {"correct":false, "text":"100 W."}
+    {"correct":false,"text":"100 W."}
   ,
-    {"correct":false, "text":"283 W."}
+    {"correct":false,"text":"283 W."}
   ]
     }
   ,
@@ -111,13 +111,13 @@
      "id":"ETB908",
      "text":"<p>Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt</p>",
      "answer":[
-    {"correct":true, "text":"200 W."}
+    {"correct":true,"text":"200 W."}
   ,
-    {"correct":false, "text":"100 W."}
+    {"correct":false,"text":"100 W."}
   ,
-    {"correct":false, "text":"25 W."}
+    {"correct":false,"text":"25 W."}
   ,
-    {"correct":false, "text":"250 W."}
+    {"correct":false,"text":"250 W."}
   ]
     }
   ,
@@ -126,13 +126,13 @@
      "id":"ETB909",
      "text":"<p>Ein Mobil-Transceiver (Sender-Empfänger) hat bei Sendebetrieb eine Leistungsaufnahme von 100 Watt aus dem 12-V-Bordnetz des Kraftfahrzeuges. Wie groß ist die Stromaufnahme?</p>",
      "answer":[
-    {"correct":true, "text":"8,33 A"}
+    {"correct":true,"text":"8,33 A"}
   ,
-    {"correct":false, "text":"16,6 A"}
+    {"correct":false,"text":"16,6 A"}
   ,
-    {"correct":false, "text":"1200 A"}
+    {"correct":false,"text":"1200 A"}
   ,
-    {"correct":false, "text":"0,12 A"}
+    {"correct":false,"text":"0,12 A"}
   ]
     }
   ,
@@ -141,13 +141,13 @@
      "id":"ETB910",
      "text":"<p>Ein 100-Ω-Widerstand, an dem 10 V anliegen, muss mindestens eine Belastbarkeit haben von</p>",
      "answer":[
-    {"correct":true, "text":"1 W."}
+    {"correct":true,"text":"1 W."}
   ,
-    {"correct":false, "text":"10 W."}
+    {"correct":false,"text":"10 W."}
   ,
-    {"correct":false, "text":"0,01 W."}
+    {"correct":false,"text":"0,01 W."}
   ,
-    {"correct":false, "text":"100 mW."}
+    {"correct":false,"text":"100 mW."}
   ]
     }
   ,
@@ -156,13 +156,13 @@
      "id":"ETB911",
      "text":"<p>Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 50 mA eine Spannung von 50 V abfallen soll?</p>",
      "answer":[
-    {"correct":true, "text":"2,5 W"}
+    {"correct":true,"text":"2,5 W"}
   ,
-    {"correct":false, "text":"1 W"}
+    {"correct":false,"text":"1 W"}
   ,
-    {"correct":false, "text":"25 W"}
+    {"correct":false,"text":"25 W"}
   ,
-    {"correct":false, "text":"250 mW"}
+    {"correct":false,"text":"250 mW"}
   ]
     }
   ,
@@ -171,13 +171,13 @@
      "id":"ETD301",
      "text":"<p>Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?</p>",
      "answer":[
-    {"correct":true, "text":"Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand und Stromquellen einen möglichst hohen Innenwiderstand haben."}
+    {"correct":true,"text":"Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand und Stromquellen einen möglichst hohen Innenwiderstand haben."}
   ,
-    {"correct":false, "text":"Strom- und Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand haben."}
+    {"correct":false,"text":"Strom- und Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand haben."}
   ,
-    {"correct":false, "text":"Strom- und Spannungsquellen sollten einen möglichst hohen Innenwiderstand haben."}
+    {"correct":false,"text":"Strom- und Spannungsquellen sollten einen möglichst hohen Innenwiderstand haben."}
   ,
-    {"correct":false, "text":"Spannungsquellen sollten einen möglichst hohen Innenwiderstand und Stromquellen einen möglichst niedrigen Innenwiderstand haben."}
+    {"correct":false,"text":"Spannungsquellen sollten einen möglichst hohen Innenwiderstand und Stromquellen einen möglichst niedrigen Innenwiderstand haben."}
   ]
     }
   ,
@@ -186,13 +186,13 @@
      "id":"ETD302",
      "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
      "answer":[
-    {"correct":true, "text":"1,1 Ω"}
+    {"correct":true,"text":"1,1 Ω"}
   ,
-    {"correct":false, "text":"13,5 Ω"}
+    {"correct":false,"text":"13,5 Ω"}
   ,
-    {"correct":false, "text":"12,4 Ω"}
+    {"correct":false,"text":"12,4 Ω"}
   ,
-    {"correct":false, "text":"1,2 Ω"}
+    {"correct":false,"text":"1,2 Ω"}
   ]
     }
   ,
@@ -201,13 +201,13 @@
      "id":"ETD303",
      "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
      "answer":[
-    {"correct":true, "text":"0,25 Ω"}
+    {"correct":true,"text":"0,25 Ω"}
   ,
-    {"correct":false, "text":"6,75 Ω"}
+    {"correct":false,"text":"6,75 Ω"}
   ,
-    {"correct":false, "text":"13 Ω"}
+    {"correct":false,"text":"13 Ω"}
   ,
-    {"correct":false, "text":"6,5 Ω"}
+    {"correct":false,"text":"6,5 Ω"}
   ]
     }
   
