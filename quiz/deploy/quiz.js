@@ -24,27 +24,15 @@ function cpbinom(k, n, p) {
   return val;
 }
 
-class ProgressBar {
-  constructor(vnode, p) {
-    this.progress = p;
-  }
-
-  view() {
-    return m("progress", {id:"prob", max:100, value:Math.round(this.progress*100)}, Math.round(this.progress*100)+"%");
-  }
-}
-
 class Quiz {
   constructor(vnode) {
-    this.book = "E"
-    var settings = {};
-    if (null == window.localStorage.getItem(this.book)) {
-      settings = { chapters: [
-        "E01","E02","E03","E04","E05","E06","E07","E08","E09","E10","E11","E12","E13","E14","E15",
-        "E16","E17","E18"], weights: {}, answered: 0, correct: 0 };
-      window.localStorage.setItem(this.book, JSON.stringify(settings));
-    } else {
-      settings = JSON.parse(window.localStorage.getItem(this.book))
+    var updateConfig = false;
+    var settings = JSON.parse(window.localStorage.getItem(window.localStorage.getItem("book")))
+    if (! ("weights" in settings)) { settings["weights"]={}; updateConfig=true; }
+    if (! ("answered" in settings)) { settings["answered"]=0; updateConfig=true; }
+    if (! ("correct" in settings)) { settings["correct"]=0; updateConfig=true; }
+    if (updateConfig) {
+      window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
     }
     this.weights = settings.weights;
     this.questions = {};
@@ -58,39 +46,42 @@ class Quiz {
   }
 
   loadQuestions(chapters) {
+    // Load every enabled chapter
     var todo = chapters.length
+    console.log("Load "+todo+" chapters "+chapters);
     chapters.forEach((ch, i) => {
       m.request({
         method:"GET",
         url: ch + ".json"
       }).then((result) => {
+        // Add questions and update weighting of questions s
         result.forEach((q, i) => {
-          console.log("Add question " + q.id);
           this.questions[q.id] = q;
           if (! (q.id in this.weights)) {
-            console.log("Add question " + q.id);
+            console.log("Add weight for "+q.id);
             this.weights[q.id] = 1.0;
           }
         })
         if (0 == --todo) {
-          this.save();
           this.next();
+          this.save();
         }
       }).catch((err) => {
+        console.log("oops: "+err);
         if (0 == --todo) {
-          this.save();
           this.next();
+          this.save();
         }
       })
     });
   }
 
   save() {
-    var settings = JSON.parse(window.localStorage.getItem(this.book));
+    var settings = JSON.parse(window.localStorage.getItem(window.localStorage.getItem("book")));
     settings.weights = this.weights;
     settings.correct = this.correct;
     settings.answered = this.answered;
-    window.localStorage.setItem(this.book, JSON.stringify(settings));
+    window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
   }
 
   pick() {
