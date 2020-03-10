@@ -2,7 +2,7 @@
 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml">
   <xsl:import href="afup2json.xslt"/>
-  <xsl:output method="text"/>
+  <xsl:output method="text" cdata-section-elements="text"/>
 
   <xsl:param name="catalog"/>
   <xsl:param name="book"/>

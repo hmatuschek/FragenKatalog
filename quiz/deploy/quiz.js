@@ -24,16 +24,6 @@ function cpbinom(k, n, p) {
   return val;
 }
 
-class ProgressBar {
-  constructor(vnode, p) {
-    this.progress = p;
-  }
-
-  view() {
-    return m("progress", {id:"prob", max:100, value:Math.round(this.progress*100)}, Math.round(this.progress*100)+"%");
-  }
-}
-
 class Quiz {
   constructor(vnode) {
     var updateConfig = false;
@@ -41,7 +31,9 @@ class Quiz {
     if (! ("weights" in settings)) { settings["weights"]={}; updateConfig=true; }
     if (! ("answered" in settings)) { settings["answered"]=0; updateConfig=true; }
     if (! ("correct" in settings)) { settings["correct"]=0; updateConfig=true; }
-    if (updateConfig) { window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings)); }
+    if (updateConfig) {
+      window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
+    }
     this.weights = settings.weights;
     this.questions = {};
     this.current = null;
@@ -56,6 +48,7 @@ class Quiz {
   loadQuestions(chapters) {
     // Load every enabled chapter
     var todo = chapters.length
+    console.log("Load "+todo+" chapters "+chapters);
     chapters.forEach((ch, i) => {
       m.request({
         method:"GET",
@@ -65,6 +58,7 @@ class Quiz {
         result.forEach((q, i) => {
           this.questions[q.id] = q;
           if (! (q.id in this.weights)) {
+            console.log("Add weight for "+q.id);
             this.weights[q.id] = 1.0;
           }
         })
@@ -73,6 +67,7 @@ class Quiz {
           this.save();
         }
       }).catch((err) => {
+        console.log("oops: "+err);
         if (0 == --todo) {
           this.next();
           this.save();
