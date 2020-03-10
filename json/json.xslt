@@ -4,13 +4,13 @@
   <xsl:import href="afup2json.xslt"/>
   <xsl:output method="text"/>
 
-  <xsl:variable name="Cat" select="'E'"/>
-  <xsl:variable name="Topic" select="'A'"/>
-  <xsl:variable name="Block" select="1"/>
+  <xsl:param name="catalog"/>
+  <xsl:param name="book"/>
+  <xsl:param name="chapter"/>
 
   <xsl:template match="/">
     [
-      <xsl:apply-templates select="/AfuP/catalog[@id=$Cat]/catalog[@id=$Topic]/catalog[@id=$Block]"/>
+      <xsl:apply-templates select="/AfuP/catalog[@id=$catalog]/catalog[starts-with(@id,$book)]/catalog[starts-with(@id,$chapter)]"/>
     ]
   </xsl:template>
 </xsl:stylesheet>

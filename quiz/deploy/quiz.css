@@ -1,0 +1,17 @@
+body {
+
+}
+
+.qname {
+  vertical-align: top;
+}
+
+.qtext {
+  vertical-align: top;
+  align: left;
+}
+
+.qtext p {
+  margin-top: 0;
+  margin-bottom: 0;
+}

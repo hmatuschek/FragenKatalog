@@ -18,9 +18,9 @@
     }
   </xsl:template>
 
-  <xsl:template match="text"><xsl:apply-templates select="p"/>&lt;br/&gt;<xsl:apply-templates select="img"/></xsl:template>
+  <xsl:template match="text"><xsl:apply-templates select="p"/><xsl:apply-templates select="img"/></xsl:template>
 
-  <xsl:template match="img"><xsl:variable name="imgid" select="@src"/>&lt;img src='data:image/<xsl:value-of select="/AfuP/pool/img[@id=$imgid]/@type"/>;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/>' alt='<xsl:value-of select="$imgid"/>'/&gt;</xsl:template>
+  <xsl:template match="img"><xsl:variable name="imgid" select="@src"/>&lt;br/&gt;&lt;img src='data:image/<xsl:value-of select="/AfuP/pool/img[@id=$imgid]/@type"/>;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/>' alt='<xsl:value-of select="$imgid"/>'/&gt;</xsl:template>
 
   <xsl:template match="answer">
     {"correct":<xsl:if test="@correct='yes'">true</xsl:if><xsl:if test="@correct='no'">false</xsl:if>, "text":"<xsl:apply-templates />"}
