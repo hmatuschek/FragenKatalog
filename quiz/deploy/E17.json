@@ -1,0 +1,395 @@
+
+    [
+      
+    {
+     "name":"E/TG303",
+     "id":"ETG303",
+     "text":"<p>Die Ausgangsleistung eines Senders ist</p>",
+     "answer":[
+    {"correct":true, "text":"die unmittelbar nach dem Senderausgang messbare Leistung, bevor sie Zusatzgeräte (z.B. Anpassgeräte) durchläuft."}
+  ,
+    {"correct":false, "text":"die unmittelbar nach dem Senderausgang gemessene Differenz aus vorlaufender und rücklaufender Leistung."}
+  ,
+    {"correct":false, "text":"die unmittelbar nach den erforderlichen Zusatzgeräten (z.B. Anpassgeräte) messbare Leistung."}
+  ,
+    {"correct":false, "text":"die unmittelbar nach dem Senderausgang gemessene Summe aus vorlaufender und rücklaufender Leistung."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TG304",
+     "id":"ETG304",
+     "text":"<p>Die Spitzenleistung eines Senders ist die</p>",
+     "answer":[
+    {"correct":true, "text":"HF-Leistung bei der höchsten Spitze der Hüllkurve."}
+  ,
+    {"correct":false, "text":"Durchschnittsleistung einer SSB-Übertragung."}
+  ,
+    {"correct":false, "text":"Spitzen-Spitzen-Leistung bei den höchsten Spitzen der Modulationshüllkurve."}
+  ,
+    {"correct":false, "text":"Mindestleistung bei der Modulationsspitze."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TH401",
+     "id":"ETH401",
+     "text":"<p>Bei welchem Stehwellenverhältnis (VSWR) ist eine Antenne am besten an die Leitung angepasst?</p>",
+     "answer":[
+    {"correct":true, "text":"1"}
+  ,
+    {"correct":false, "text":"0"}
+  ,
+    {"correct":false, "text":"3"}
+  ,
+    {"correct":false, "text":"unendlich"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TH402",
+     "id":"ETH402",
+     "text":"<p>Fehlanpassungen oder Beschädigungen von HF-Übertragungsleitungen</p>",
+     "answer":[
+    {"correct":true, "text":"führen zu Reflektionen des übertragenen HF-Signals und einem erhöhten VSWR."}
+  ,
+    {"correct":false, "text":"führen zur einer Überbeanspruchung der angeschlossenen Antenne."}
+  ,
+    {"correct":false, "text":"führen zu einem VSWR von kleiner oder gleich 1."}
+  ,
+    {"correct":false, "text":"führen zur Erzeugung unerwünschter Aussendungen, da innerhalb der erforderlichen Bandbreite keine Anpassung gegeben ist."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TH406",
+     "id":"ETH406",
+     "text":"<p>Am Eingang einer Antennenleitung misst man ein VSWR von 3. Wie groß ist in etwa die rücklaufende Leistung am Messpunkt, wenn die vorlaufende Leistung dort 100 Watt beträgt?</p>",
+     "answer":[
+    {"correct":true, "text":"25 W"}
+  ,
+    {"correct":false, "text":"12,5 W"}
+  ,
+    {"correct":false, "text":"50 W"}
+  ,
+    {"correct":false, "text":"75 W"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ101",
+     "id":"ETJ101",
+     "text":"<p>Das Prinzip eines Drehspulmessgeräts beruht auf</p>",
+     "answer":[
+    {"correct":true, "text":"der Wechselwirkung der Kräfte zwischen einem permanent magnetischen und einem elektromagnetischen Feld."}
+  ,
+    {"correct":false, "text":"der Wechselwirkung der Kräfte zwischen einem magnetischen und einem elektrischen Feld."}
+  ,
+    {"correct":false, "text":"der Wechselwirkung der Kräfte zwischen zwei permanent magnetischen Feldern."}
+  ,
+    {"correct":false, "text":"dem erdmagnetischen Feld."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ102",
+     "id":"ETJ102",
+     "text":"<p>Die Auflösung eines Messinstrumentes entspricht</p>",
+     "answer":[
+    {"correct":true, "text":"der kleinsten Einteilung der Anzeige."}
+  ,
+    {"correct":false, "text":"der Genauigkeit des Instrumentes in Bezug auf den tatsächlichen Wert."}
+  ,
+    {"correct":false, "text":"der Genauigkeit des Instrumentes."}
+  ,
+    {"correct":false, "text":"dem Vollausschlag der Instrumentenanzeige."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ103",
+     "id":"ETJ103",
+     "text":"<p>Was ist ein Dipmeter? Ein Dipmeter ist</p>",
+     "answer":[
+    {"correct":true, "text":"ein abstimmbarer Oszillator mit einem Indikator, der anzeigt, wenn von einem ankoppelten Resonanzkreis bei einer Frequenz HF-Energie aufgenommen oder abgegeben wird."}
+  ,
+    {"correct":false, "text":"ein selektiver Feldstärkemesser, der den Maximalwert der elektrischen Feldstärke anzeigt und der zur Überprüfung der Nutzsignal- und Nebenwellenabstrahlungen eingesetzt werden kann."}
+  ,
+    {"correct":false, "text":"eine abgleichbare Stehwellenmessbrücke, mit der der Reflexionsfaktor und der Impedanzverlauf einer angeschlossenen Antenne oder einer LC-Kombination gemessen werden kann."}
+  ,
+    {"correct":false, "text":"ein auf eine feste Frequenz eingestellter RC-Schwingkreis mit einem Indikator, der anzeigt, wie stark die Abstrahlung unerwünschter Oberwellen ist."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ104",
+     "id":"ETJ104",
+     "text":"<p>Wozu wird ein Dipmeter beispielsweise verwendet? Ein Dipmeter wird zur</p>",
+     "answer":[
+    {"correct":true, "text":"ungefähren Bestimmung der Resonanzfrequenz eines Schwingkreises."}
+  ,
+    {"correct":false, "text":"ungefähren Bestimmung der Leistung eines Senders."}
+  ,
+    {"correct":false, "text":"genauen Bestimmung der Dämpfung eines Schwingkreises."}
+  ,
+    {"correct":false, "text":"genauen Bestimmung der Güte eines Schwingkreises."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ105",
+     "id":"ETJ105",
+     "text":"<p>Welches dieser Messgeräte ist für die Ermittlung der Resonanzfrequenz eines Traps, das für einen Dipol genutzt werden soll, am besten geeignet?</p>",
+     "answer":[
+    {"correct":true, "text":"Ein Dipmeter"}
+  ,
+    {"correct":false, "text":"Eine VSWR-Messbrücke"}
+  ,
+    {"correct":false, "text":"Ein Frequenzmessgerät"}
+  ,
+    {"correct":false, "text":"Ein Resonanzwellenmesser"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ106",
+     "id":"ETJ106",
+     "text":"<p>Wie ermittelt man die Resonanzfrequenz eines Schwingkreises? Man ermittelt sie</p>",
+     "answer":[
+    {"correct":true, "text":"durch Messung von L und C und Berechnung oder z.B. mit einem Dipmeter."}
+  ,
+    {"correct":false, "text":"mit einem Frequenzmesser oder einem Oszilloskop."}
+  ,
+    {"correct":false, "text":"mit einem Digital-Multimeter in der Stellung Frequenzmessung."}
+  ,
+    {"correct":false, "text":"mit Hilfe der S-Meter Anzeige bei Anschluss des Schwingkreises an den Empfängereingang."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ107",
+     "id":"ETJ107",
+     "text":"<p>Für welche Messungen verwendet man ein Oszilloskop? Ein Oszilloskop verwendet man, um</p>",
+     "answer":[
+    {"correct":true, "text":"Signalverläufe sichtbar zu machen, um beispielsweise Verzerrungen zu erkennen."}
+  ,
+    {"correct":false, "text":"Frequenzen genau zu messen."}
+  ,
+    {"correct":false, "text":"den Temperaturverlauf bei Messungen sichtbar zu machen."}
+  ,
+    {"correct":false, "text":"die Anpassung bei Antennen zu überprüfen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ108",
+     "id":"ETJ108",
+     "text":"<p>Welches dieser Geräte wird für die Anzeige von NF-Verzerrungen verwendet?</p>",
+     "answer":[
+    {"correct":true, "text":"Ein Oszilloskop"}
+  ,
+    {"correct":false, "text":"Ein Transistorvoltmeter"}
+  ,
+    {"correct":false, "text":"Ein Vielfachmessgerät"}
+  ,
+    {"correct":false, "text":"Ein Frequenzzähler"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ109",
+     "id":"ETJ109",
+     "text":"<p>Eine künstliche Antenne für den VHF-Bereich könnte beispielsweise aus</p>",
+     "answer":[
+    {"correct":true, "text":"ungewendelten Kohleschichtwiderständen zusammengebaut sein."}
+  ,
+    {"correct":false, "text":"hochbelastbaren Drahtwiderständen zusammengebaut sein."}
+  ,
+    {"correct":false, "text":"Glühbirnen zusammengebaut sein."}
+  ,
+    {"correct":false, "text":"temperaturfesten Blindwiderständen bestehen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ110",
+     "id":"ETJ110",
+     "text":"<p>Welche der folgenden Bauteile könnten für eine genaue künstliche Antenne, die bei 28 MHz eingesetzt werden soll, verwendet werden?</p>",
+     "answer":[
+    {"correct":true, "text":"10 Kohleschichtwiderstände von 500 Ω"}
+  ,
+    {"correct":false, "text":"ein 50-Ω-Drahtwiderstand"}
+  ,
+    {"correct":false, "text":"2 parallel geschaltete Drahtwiderstände von 100 Ω"}
+  ,
+    {"correct":false, "text":"ein Spulenanpassfilter im Ölbad"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ201",
+     "id":"ETJ201",
+     "text":"<p>Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes anhand des ohmschen Gesetzes zu ermitteln?</p>",
+     "answer":[
+    {"correct":true, "text":"<br/><img src='data:image/png;base64,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' alt='ETJ201a'/>"}
+  ,
+    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETJ201b'/>"}
+  ,
+    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETJ201c'/>"}
+  ,
+    {"correct":false, "text":"<br/><img src='data:image/png;base64,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' alt='ETJ201d'/>"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ202",
+     "id":"ETJ202",
+     "text":"<p>Wie werden elektrische Spannungsmesser an Messobjekte angeschlossen und welche Anforderungen muss das Messgerät erfüllen, damit der Messfehler möglichst gering bleibt?</p>",
+     "answer":[
+    {"correct":true, "text":"Der Spannungsmesser ist parallel zum Messobjekt anzuschließen und sollte hochohmig sein."}
+  ,
+    {"correct":false, "text":"Der Spannungsmesser ist in den Stromkreis einzuschleifen und sollte niederohmig sein."}
+  ,
+    {"correct":false, "text":"Der Spannungsmesser ist parallel zum Messobjekt anzuschließen und sollte niederohmig sein."}
+  ,
+    {"correct":false, "text":"Der Spannungsmesser ist in den Stromkreis einzuschleifen und sollte hochohmig sein."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ203",
+     "id":"ETJ203",
+     "text":"<p>Die Zeitbasis eines Oszilloskops ist so eingestellt, dass ein Skalenteil 0,5 ms entspricht. Welche Frequenz hat die angelegte Spannung?</p><br/><img src='data:image/png;base64,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' alt='ETJ203'/>",
+     "answer":[
+    {"correct":true, "text":"250 Hz."}
+  ,
+    {"correct":false, "text":"500 Hz."}
+  ,
+    {"correct":false, "text":"667 Hz."}
+  ,
+    {"correct":false, "text":"333 Hz."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ204",
+     "id":"ETJ204",
+     "text":"<p>Für welchen Zweck wird eine Stehwellenmessbrücke verwendet?</p>",
+     "answer":[
+    {"correct":true, "text":"Zur Überprüfung der Anpassung des Senders an die Antenne."}
+  ,
+    {"correct":false, "text":"Zur Frequenzkontrolle."}
+  ,
+    {"correct":false, "text":"Zur Modulationskontrolle."}
+  ,
+    {"correct":false, "text":"Als Abschluss des Senders."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ205",
+     "id":"ETJ205",
+     "text":"<p>Welche Spannung wird bei dem folgenden Messinstrument angezeigt, wenn dessen Messbereich auf 10 V eingestellt ist?</p><br/><img src='data:image/png;base64,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' alt='ETJ205'/>",
+     "answer":[
+    {"correct":true, "text":"2,93 V"}
+  ,
+    {"correct":false, "text":"29,3 V"}
+  ,
+    {"correct":false, "text":"8,8 V"}
+  ,
+    {"correct":false, "text":"88 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ206",
+     "id":"ETJ206",
+     "text":"<p>An welcher Stelle einer Antennenanlage muss ein VSWR-Meter eingeschleift werden, um Aussagen über die Antenne selbst machen zu können? Das VSWR-Meter muss eingeschleift werden zwischen</p>",
+     "answer":[
+    {"correct":true, "text":"Antennenkabel und Antenne."}
+  ,
+    {"correct":false, "text":"Senderausgang und Antennenkabel."}
+  ,
+    {"correct":false, "text":"Antennenkabel und Dummy Load."}
+  ,
+    {"correct":false, "text":"Senderausgang und Antennenanpassgerät."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ207",
+     "id":"ETJ207",
+     "text":"<p>Ein Stehwellenmessgerät wird in ein ideal angepasstes Sender-/Antennensystem eingeschleift. Das Messgerät sollte</p>",
+     "answer":[
+    {"correct":true, "text":"ein Stehwellenverhältnis von 1 anzeigen."}
+  ,
+    {"correct":false, "text":"einen Rücklauf von 100% anzeigen."}
+  ,
+    {"correct":false, "text":"ein Stehwellenverhältnis von 0 anzeigen."}
+  ,
+    {"correct":false, "text":"ein Stehwellenverhältnis von unendlich anzeigen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ208",
+     "id":"ETJ208",
+     "text":"<p>Welches dieser Messgeräte ist für genaue Frequenzmessungen am besten geeignet?</p>",
+     "answer":[
+    {"correct":true, "text":"Ein Frequenzzähler"}
+  ,
+    {"correct":false, "text":"Ein Resonanzwellenmesser"}
+  ,
+    {"correct":false, "text":"Ein Oszilloskop"}
+  ,
+    {"correct":false, "text":"Ein Universalmessgerät"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ209",
+     "id":"ETJ209",
+     "text":"<p>Wie misst man das Stehwellenverhältnis?<br></p>",
+     "answer":[
+    {"correct":true, "text":"mit einer VSWR-Messbrücke."}
+  ,
+    {"correct":false, "text":"mit einem Absorptionswellenmesser oder einem Dipmeter."}
+  ,
+    {"correct":false, "text":"durch Strommessung am Anfang und am Ende der Speiseleitung."}
+  ,
+    {"correct":false, "text":"durch Spannungsmessung am Anfang und am Ende der Speiseleitung."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ210",
+     "id":"ETJ210",
+     "text":"<p>Ein Stehwellenmessgerät wird eingesetzt bei Sendern zur Messung</p>",
+     "answer":[
+    {"correct":true, "text":"der Antennenanpassung."}
+  ,
+    {"correct":false, "text":"der Oberwellenausgangsleistung."}
+  ,
+    {"correct":false, "text":"der Bandbreite."}
+  ,
+    {"correct":false, "text":"des Wirkungsgrades."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TJ211",
+     "id":"ETJ211",
+     "text":"<p>An welchem Punkt sollte das Stehwellenmessgerät eingeschleift werden, um zu prüfen, ob der Sender gut an die Antennenanlage angepasst ist?</p><br/><img src='data:image/png;base64,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' alt='ETJ211'/>",
+     "answer":[
+    {"correct":true, "text":"Punkt 1"}
+  ,
+    {"correct":false, "text":"Punkt 2"}
+  ,
+    {"correct":false, "text":"Punkt 3"}
+  ,
+    {"correct":false, "text":"Punkt 4"}
+  ]
+    }
+  
+    ]
+  

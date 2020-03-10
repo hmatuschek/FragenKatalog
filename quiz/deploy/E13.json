@@ -1,0 +1,260 @@
+
+    [
+      
+    {
+     "name":"E/TC601",
+     "id":"ETC601",
+     "text":"<p>Was versteht man unter Stromverstärkung beim Transistor?</p>",
+     "answer":[
+    {"correct":true, "text":"Mit einem geringen Strom (Basisstrom) wird ein großer Strom (Kollektorstrom) gesteuert."}
+  ,
+    {"correct":false, "text":"Mit einem geringen Strom (Emitterstrom) wird ein großer Strom (Kollektorstrom) gesteuert."}
+  ,
+    {"correct":false, "text":"Mit einem geringen Strom (Emitterstrom) wird ein großer Strom (Basisstrom) gesteuert."}
+  ,
+    {"correct":false, "text":"Mit einem geringen Strom (Kollektorstrom) wird ein großer Strom (Emitterstrom) gesteuert."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC602",
+     "id":"ETC602",
+     "text":"<p>Das Verhältnis von Kollektorstrom zum Basisstrom eines Transistors liegt üblicherweise im Bereich von</p>",
+     "answer":[
+    {"correct":true, "text":"10 zu 1 bis 900 zu 1."}
+  ,
+    {"correct":false, "text":"1 zu 50 bis 1 zu 100."}
+  ,
+    {"correct":false, "text":"1000 zu 1 bis 5000 zu 1."}
+  ,
+    {"correct":false, "text":"1 zu 100 bis 1 zu 500."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC603",
+     "id":"ETC603",
+     "text":"<p>Bei diesem Bauelement handelt es sich um einen</p><br/><img src='data:image/png;base64,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' alt='ETC603'/>",
+     "answer":[
+    {"correct":true, "text":"NPN-Transistor."}
+  ,
+    {"correct":false, "text":"PNP-Transistor."}
+  ,
+    {"correct":false, "text":"Sperrschicht-FET."}
+  ,
+    {"correct":false, "text":"MOSFET."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC604",
+     "id":"ETC604",
+     "text":"<p>Bei diesem Bauelement handelt es sich um einen</p><br/><img src='data:image/png;base64,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' alt='ETC604'/>",
+     "answer":[
+    {"correct":true, "text":"PNP-Transistor."}
+  ,
+    {"correct":false, "text":"NPN-Transistor."}
+  ,
+    {"correct":false, "text":"P-Kanal-FET."}
+  ,
+    {"correct":false, "text":"N-Kanal-FET."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC605",
+     "id":"ETC605",
+     "text":"<p>Welche Kollektorspannungen haben NPN und PNP-Transistoren?</p>",
+     "answer":[
+    {"correct":true, "text":"NPN-Transistoren benötigen positive, PNPTransistoren negative Kollektorspannungen."}
+  ,
+    {"correct":false, "text":"NPN- und PNP-Transistoren benötigen negative Kollektorspannungen."}
+  ,
+    {"correct":false, "text":"PNP-Transistoren benötigen positive, NPNTransistoren negative Kollektorspannung."}
+  ,
+    {"correct":false, "text":"PNP- und NPN-Transistoren benötigen positive Kollektorspannungen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC606",
+     "id":"ETC606",
+     "text":"<p>Bei einem bipolaren Transistor in leitendem Zustand befindet sich die Emitter-Basis-Diode</p>",
+     "answer":[
+    {"correct":true, "text":"in Durchlassrichtung."}
+  ,
+    {"correct":false, "text":"im Leerlauf."}
+  ,
+    {"correct":false, "text":"im Kurzschluss."}
+  ,
+    {"correct":false, "text":"in Sperrrichtung."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC607",
+     "id":"ETC607",
+     "text":"<p>Welche Transistortypen sind bipolare Transistoren?</p>",
+     "answer":[
+    {"correct":true, "text":"NPN- und PNP-Transistoren"}
+  ,
+    {"correct":false, "text":"Dual-Gate-MOS-FETs"}
+  ,
+    {"correct":false, "text":"Isolierschicht-FETs"}
+  ,
+    {"correct":false, "text":"Sperrschicht-FETs"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC608",
+     "id":"ETC608",
+     "text":"<p>Wie lauten die Bezeichnungen der Anschlüsse eines bipolaren Transistors?</p>",
+     "answer":[
+    {"correct":true, "text":"Emitter, Basis, Kollektor"}
+  ,
+    {"correct":false, "text":"Emitter, Drain, Source"}
+  ,
+    {"correct":false, "text":"Drain, Source, Kollektor"}
+  ,
+    {"correct":false, "text":"Drain, Gate, Source"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC609",
+     "id":"ETC609",
+     "text":"<p>Ein bipolarer Transistor ist</p>",
+     "answer":[
+    {"correct":true, "text":"stromgesteuert."}
+  ,
+    {"correct":false, "text":"spannungsgesteuert."}
+  ,
+    {"correct":false, "text":"thermisch gesteuert."}
+  ,
+    {"correct":false, "text":"ein Gleichspannungsverstärker."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC610",
+     "id":"ETC610",
+     "text":"<p>Wenn die Basisspannung eines NPN-Transistors gleich der Emitterspannung ist,</p>",
+     "answer":[
+    {"correct":true, "text":"fließt kein Kollektorstrom."}
+  ,
+    {"correct":false, "text":"fließt ein Kollektorstrom von etwa 0,6 A."}
+  ,
+    {"correct":false, "text":"liegt der Kollektorstrom zwischen 10 mA und 2 A."}
+  ,
+    {"correct":false, "text":"fließt ein sehr hoher Kollektor-Kurzschlussstrom."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC611",
+     "id":"ETC611",
+     "text":"<p>Wie erfolgt die Steuerung des Stroms im Feldeffekttransistor (FET)?</p>",
+     "answer":[
+    {"correct":true, "text":"Die Gatespannung steuert den Widerstand des Kanals zwischen Source und Drain."}
+  ,
+    {"correct":false, "text":"Die Gatespannung ist allein verantwortlich für den Drainstrom."}
+  ,
+    {"correct":false, "text":"Der Gatestrom ist allein verantwortlich für den Drainstrom."}
+  ,
+    {"correct":false, "text":"Der Gatestrom steuert den Widerstand des Kanals zwischen Source und Drain."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC612",
+     "id":"ETC612",
+     "text":"<p>Wie bezeichnet man die Anschlüsse des nebenstehenden Transistors?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAABkCAAAAACOMmCqAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAE1ElEQVRo3u2aP2gbVxjAfz66lRq3CHFoqAcRhIbSQisODx1KEcZ4KB56SHWHDIfJlMXCGA8ZOgiTqksmobidamzsKYMIxhQPHcwhMmUQwijgDuIwITEuWR8d5Mgn6d27dzpFCo2/RdL3/vz07t73ve99780IpijGNOG39Fv6Lf1/Tzd60CnQU1Mce83wpkLfK+xB4x75G9VHk6OfHFAEmmSnMfY5ZiEnMi9uVB+exb0v9LizrsWnFUqvyUyY3jj8863lVoD8lz/mJkVv3He7X6x5AJ61j48rWA+WIvYjRpAygO16fp1XdQBKwa1KOIOqEeh1wNqVlTTzMIxQ0KPPeWMZs3lalBVljoTDjrGn31dEdsuA3U7wDK8Jh1XtTiPSN7KYoqisUvPAaLwLeqpCtRNWKSlsrO3x01Me7ppGvf06Wzr1Itl7wUO267uA5IBqyTN3zo/GOvbCgRS+aJpmbVCZFBxrjF6f/lQOZx74ZFjtsjNO+jKu/nOCXFmj7wimWYq2imzmKYyLvoH5MLh0TqY84qAV0qvunK+gsvMTmTJRvZd1X978/Gdk+gKO8r9VAgqscYy95VJTlZsfS9VvPNL+n3Oj0e9SUpb/HhBV3GmvPFS105t1LspOuAzQn1FRttOib2Nr/clhSaNc7bToj9gfkf4LP8WmezqVpFKkHZdeU5ubUmzlo9eh/8r6yPQfeByT3h5xpwJQ5HlMejxRrYwa9FaIqwmTi1j0F+FVlHIei54IdGU6YjMbXCjx8xd/vPrO77cPWYlBf6YqHKY3LKiYvtX8kkQMekRvY2HaeJqbkZgyRG/ByX5a6SPGJ0NPPiOANt+MD6FwVbI5f2Hg+LYCV7zkHYmMft4fpK7Lg0ZdUYV2Mvq8MCu+RHKOv0dnq2evhN5K8qR/SY+0iemXxzyIQi8Y2UGVxej295yvo9AfQWrb6ouE73M4Mt0d2l0r6cky3hac+VTFkMhUIXv+bLwGnc2mk6/275Wt/lVyIaXcWvjlCXeV5ToZOhfL/9PGn7BzgN2gliH9a8U2OdMdDBHcVcMIzwxthMSjw2ucJBRJ/rb6Vaen702jrS2c9cwc8G9AAFNhpa9kcAbODGVDokZ66bZ+3UHYMMuMSH8Tsb6a3pHOD9OXffa9S9sVPwP1gCnXlxb2dOhy6VDppUGuuh9WWYj9HJcE7GFT9GfSJNGl9luuk/VnYfJ1cbqpbLDmEZpU1aYvmb1TvNd2UxyFnUJs7FAP7VQ/U9pZcI1mBkAjBUqjgsZdmgj2dQpZiVlfyeo+tTRGHs26hYU57N8+l9jo2jJ1rQOiSEcyZcWxi08saMpWiyFYxFOhKpheSJ1mwJgk9Ih+dU3gmerVZSFLXvfyVuT9uyizZQSnf9cMl2qIUVzcOI5oT14IIUQesCUvVrgWUA5qdv3k6wD2SO/9WhwAuz+mqDuo2G/p196+GoMuRDedkXcct153y/mu1dl1VZMuvQRCmNfB0qh0IUS5b5di5qsh9bv0ar4khE1aCCHETKy7hY2/XgHw2fca5xYNq+d8DXaLIItt3pnc0Bfc62/TuPnQg0+Dvuj63sCkpXCc7r3tCd416krrgMTiFV/UYKKzrit3ugF4+mwqY08kZoGrb5nK2PvkQ77pdEu/pd/SJyn/AXNjGgTPOFu+AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETC612'/>",
+     "answer":[
+    {"correct":true, "text":"1 ... Drain,     2 ... Source,  3 ... Gate."}
+  ,
+    {"correct":false, "text":"1 ... Source,    2 ... Drain,   3 ... Gate."}
+  ,
+    {"correct":false, "text":"1 ... Anode,     2 ... Katode,  3 ... Gate."}
+  ,
+    {"correct":false, "text":"1 ... Kollektor, 2 ... Emitter, 3 ... Basis."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD401",
+     "id":"ETD401",
+     "text":"<p>In welcher der folgenden Zeilen werden nur Verstärker-Bauelemente genannt?</p>",
+     "answer":[
+    {"correct":true, "text":"Transistor, MOSFET, Operationsverstärker, Röhre"}
+  ,
+    {"correct":false, "text":"Transistor, Halbleiterdiode, Operationsverstärker, Röhre"}
+  ,
+    {"correct":false, "text":"Transistor, Varicap-Diode, Operationsverstärker, Röhre"}
+  ,
+    {"correct":false, "text":"Transistor, MOSFET, Halbleiterdiode, Röhre"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD402",
+     "id":"ETD402",
+     "text":"<p>Was versteht man in der Elektronik unter Verstärkung? Man spricht von Verstärkung, wenn</p>",
+     "answer":[
+    {"correct":true, "text":"das Ausgangssignal gegenüber dem Eingangssignal in der Leistung größer ist."}
+  ,
+    {"correct":false, "text":"das Eingangssignal gegenüber dem Ausgangssignal in der Leistung größer ist."}
+  ,
+    {"correct":false, "text":"z.B. bei einem Transformator die Ausgangsspannung größer ist als die Eingangsspannung."}
+  ,
+    {"correct":false, "text":"das Eingangssignal gegenüber dem Ausgangssignal in der Spannung größer ist."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD403",
+     "id":"ETD403",
+     "text":"<p>Was ist ein Operationsverstärker?</p>",
+     "answer":[
+    {"correct":true, "text":"Operationsverstärker sind Gleichstrom gekoppelte Verstärker mit sehr hohem Verstärkungsfaktor und großer Linearität."}
+  ,
+    {"correct":false, "text":"Operationsverstärker sind Wechselstrom gekoppelte Verstärker mit niedrigem Eingangswiderstand und großer Linearität."}
+  ,
+    {"correct":false, "text":"Operationsverstärker sind in Empfängerstufen eingebaute Analogverstärker mit sehr niedrigem Verstärkungsfaktor aber großer Linearität."}
+  ,
+    {"correct":false, "text":"Operationsverstärker sind digitale Schaltkreise mit hohem Verstärkungsfaktor."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD404",
+     "id":"ETD404",
+     "text":"<p>Ein IC (integrated circuit) ist</p>",
+     "answer":[
+    {"correct":true, "text":"eine komplexe Schaltung auf einem Halbleiterkristallplättchen."}
+  ,
+    {"correct":false, "text":"eine aus vielen einzelnen Bauteilen aufgebaute Schaltung auf einer Platine."}
+  ,
+    {"correct":false, "text":"eine miniaturisierte, aus SMD-Bauteilen aufgebaute Schaltung."}
+  ,
+    {"correct":false, "text":"eine Zusammenschaltung verschiedener Baugruppen zu einer Funktionseinheit."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD405",
+     "id":"ETD405",
+     "text":"<p>Worauf beruht die Verstärkerwirkung von Elektronenröhren?</p>",
+     "answer":[
+    {"correct":true, "text":"Das von der Gitterspannung hervorgerufene elektrische Feld steuert den Anodenstrom."}
+  ,
+    {"correct":false, "text":"Die Anodenspannung steuert das magnetische Feld an der Anode und damit den Anodenstrom."}
+  ,
+    {"correct":false, "text":"Die Heizspannung steuert das elektrische Feld an der Kathode und damit den Anodenstrom."}
+  ,
+    {"correct":false, "text":"Die Katodenvorspannung steuert das magnetische Feld an der Kathode und damit den Gitterstrom."}
+  ]
+    }
+  
+    ]
+  

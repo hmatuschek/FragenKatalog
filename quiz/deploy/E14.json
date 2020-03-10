@@ -1,0 +1,350 @@
+
+    [
+      
+    {
+     "name":"E/TB801",
+     "id":"ETB801",
+     "text":"<p>Was ist der Unterschied zwischen AM und SSB?</p>",
+     "answer":[
+    {"correct":true, "text":"AM hat einen Träger und zwei Seitenbänder, SSB arbeitet mit Trägerunterdrückung und einem Seitenband."}
+  ,
+    {"correct":false, "text":"AM hat einen Träger und ein Seitenband, SSB arbeitet mit Trägerunterdrückung und hat zwei Seitenbänder."}
+  ,
+    {"correct":false, "text":"AM hat keinen Träger und zwei Seitenbänder, SSB arbeitet mit Trägerunterdrückung und einem Seitenband."}
+  ,
+    {"correct":false, "text":"AM hat keinen Träger und zwei Seitenbänder, SSB arbeitet mit Träger und einem Seitenband."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB802",
+     "id":"ETB802",
+     "text":"<p>Was ist der Unterschied zwischen LSB und USB?</p>",
+     "answer":[
+    {"correct":true, "text":"LSB arbeitet mit Trägerunterdrückung und dem unteren Seitenband, USB arbeitet mit Trägerunterdrückung und dem oberen Seitenband."}
+  ,
+    {"correct":false, "text":"LSB arbeitet mit Träger und zwei Seitenbändern, USB arbeitet mit Trägerunterdrückung und einem Seitenband."}
+  ,
+    {"correct":false, "text":"LSB arbeitet mit Träger und einem Seitenband, USB arbeitet mit Trägerunterdrückung und beiden Seitenbändern."}
+  ,
+    {"correct":false, "text":"LSB arbeitet mit Trägerunterdrückung und dem oberen Seitenband, USB arbeitet mit Trägerunterdrückung und dem unteren Seitenband."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB803",
+     "id":"ETB803",
+     "text":"<p>Welche Aussage über modulierte Signale ist richtig?</p>",
+     "answer":[
+    {"correct":true, "text":"Bei FM ändert sich die Amplitude des Sendesignals bei Modulation nicht."}
+  ,
+    {"correct":false, "text":"Bei SSB ändert sich die Amplitude des Sendesignals bei Modulation nicht."}
+  ,
+    {"correct":false, "text":"Bei FM ändert sich die Amplitude des Sendesignals bei Modulation im Rhythmus der Sprache."}
+  ,
+    {"correct":false, "text":"Bei AM ändert sich die Amplitude des Sendesignals bei Modulation nicht."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB805",
+     "id":"ETB805",
+     "text":"<p>Wie groß ist die HF-Bandbreite, die bei der Übertragung eines SSB-Signals entsteht?</p>",
+     "answer":[
+    {"correct":true, "text":"Sie entspricht genau der Bandbreite des NF-Signals."}
+  ,
+    {"correct":false, "text":"Sie entspricht der Hälfte der Bandbreite des NF-Signals."}
+  ,
+    {"correct":false, "text":"Sie entspricht der doppelten Bandbreite des NF-Signals."}
+  ,
+    {"correct":false, "text":"Sie ist Null, weil bei SSB-Modulation der HF-Träger unterdrückt wird."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB806",
+     "id":"ETB806",
+     "text":"<p>Ein Träger von 3,65 MHz wird mit der NF-Frequenz von 2 kHz in SSB (LSB) moduliert. Welche Frequenz/Frequenzen treten im modulierten HF-Signal hauptsächlich auf?</p>",
+     "answer":[
+    {"correct":true, "text":"3,648 MHz"}
+  ,
+    {"correct":false, "text":"3,650 MHz"}
+  ,
+    {"correct":false, "text":"3,652 MHz"}
+  ,
+    {"correct":false, "text":"3,648 MHz und 3,652 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD501",
+     "id":"ETD501",
+     "text":"<p>Durch Modulation</p>",
+     "answer":[
+    {"correct":true, "text":"werden Informationen auf einen oder mehrere Träger übertragen."}
+  ,
+    {"correct":false, "text":"wird einem oder mehreren Trägern Informationen entnommen."}
+  ,
+    {"correct":false, "text":"werden Sprach- und CW-Signale kombiniert."}
+  ,
+    {"correct":false, "text":"werden dem Signal NF-Komponenten entnommen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD502",
+     "id":"ETD502",
+     "text":"<p>Welche Aussage zum Frequenzmodulator ist richtig? Durch das Informationssignal</p>",
+     "answer":[
+    {"correct":true, "text":"wird die Frequenz des Trägers beeinflusst. Die Amplitude des Trägers bleibt dabei konstant."}
+  ,
+    {"correct":false, "text":"wird die Amplitude des Trägers beeinflusst. Die Frequenz des Trägers bleibt dabei konstant."}
+  ,
+    {"correct":false, "text":"werden gleichzeitig Frequenz und Amplitude des Trägers beeinflusst."}
+  ,
+    {"correct":false, "text":"findet keinerlei Beeinflussung von Trägerfrequenz oder Trägeramplitude statt. Die Information steuert nur die Kapazität des Oszillators."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD503",
+     "id":"ETD503",
+     "text":"<p>Zur Aufbereitung des SSB-Signals müssen</p>",
+     "answer":[
+    {"correct":true, "text":"der Träger und ein Seitenband unterdrückt oder ausgefiltert werden."}
+  ,
+    {"correct":false, "text":"der Träger hinzugesetzt und ein Seitenband ausgefiltert werden."}
+  ,
+    {"correct":false, "text":"der Träger unterdrückt und ein Seitenband hinzugesetzt werden."}
+  ,
+    {"correct":false, "text":"der Träger unterdrückt und beide Seitenbänder ausgefiltert werden."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD504",
+     "id":"ETD504",
+     "text":"<p>Wie kann ein SSB-Signal erzeugt werden?</p>",
+     "answer":[
+    {"correct":true, "text":"Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Das Seitenbandfilter selektiert ein Seitenband heraus."}
+  ,
+    {"correct":false, "text":"Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Ein auf die Trägerfrequenz abgestimmter Saugkreis filtert den Träger aus."}
+  ,
+    {"correct":false, "text":"Im Balancemodulator wird ein Einseitenband-Signal erzeugt. Ein auf die Trägerfrequenz abgestimmter Sperrkreis filtert den Träger aus."}
+  ,
+    {"correct":false, "text":"Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. In einem Frequenzteiler wird ein Seitenband abgespalten."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE101",
+     "id":"ETE101",
+     "text":"<p>Wie unterscheidet sich SSB (J3E) von AM (A3E) in Bezug auf die Bandbreite?</p>",
+     "answer":[
+    {"correct":true, "text":"Die Sendeart J3E beansprucht weniger als die halbe Bandbreite der Sendeart A3E."}
+  ,
+    {"correct":false, "text":"Die Sendeart J3E beansprucht etwas mehr als die halbe Bandbreite der Sendeart A3E."}
+  ,
+    {"correct":false, "text":"Die Sendeart J3E beansprucht etwa 1/4 Bandbreite der Sendeart A3E."}
+  ,
+    {"correct":false, "text":"Die unterschiedlichen Modulationsarten lassen keinen Vergleich zu, da sie grundverschieden erzeugt werden."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE102",
+     "id":"ETE102",
+     "text":"<p>Welches der nachfolgenden Modulationsverfahren hat die geringste Störanfälligkeit bei Funkanlagen in Kraftfahrzeugen?</p>",
+     "answer":[
+    {"correct":true, "text":"FM"}
+  ,
+    {"correct":false, "text":"SSB"}
+  ,
+    {"correct":false, "text":"DSB"}
+  ,
+    {"correct":false, "text":"AM"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE103",
+     "id":"ETE103",
+     "text":"<p>Das folgende Oszillogramm zeigt ein AM-Signal. Der Modulationsgrad beträgt hier zirka</p><br/><img src='data:image/png;base64,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' alt='ETE103'/>",
+     "answer":[
+    {"correct":true, "text":"50 %."}
+  ,
+    {"correct":false, "text":"33 %."}
+  ,
+    {"correct":false, "text":"67 %."}
+  ,
+    {"correct":false, "text":"75 %."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE105",
+     "id":"ETE105",
+     "text":"<p>Das folgende Oszillogramm zeigt</p><br/><img src='data:image/png;base64,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' alt='ETE105'/>",
+     "answer":[
+    {"correct":true, "text":"ein typisches Zweiton-SSB-Testsignal."}
+  ,
+    {"correct":false, "text":"ein typisches Einton-FM-Testsignal."}
+  ,
+    {"correct":false, "text":"ein typisches 100%-AM-Signal."}
+  ,
+    {"correct":false, "text":"ein typisches CW-Signal."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE106",
+     "id":"ETE106",
+     "text":"<p>Das folgende Oszillogramm zeigt ein typisches Zweiton-SSB-Testsignal.<br></p><br/><img src='data:image/png;base64,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' alt='ETE105'/>",
+     "answer":[
+    {"correct":true, "text":"Man kann keinen Modulationsgrad bestimmen, da es keinen Träger gibt."}
+  ,
+    {"correct":false, "text":"Er beträgt 100 %."}
+  ,
+    {"correct":false, "text":"Er beträgt 0 %."}
+  ,
+    {"correct":false, "text":"Er beträgt ca. 50 %."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE201",
+     "id":"ETE201",
+     "text":"<p>Wodurch wird bei Frequenzmodulation die Lautstärke-Information übertragen?</p>",
+     "answer":[
+    {"correct":true, "text":"Durch die Größe der Trägerfrequenzauslenkung."}
+  ,
+    {"correct":false, "text":"Durch die Geschwindigkeit der Trägerfrequenzänderung."}
+  ,
+    {"correct":false, "text":"Durch die Änderung der Geschwindigkeit des Frequenzhubes."}
+  ,
+    {"correct":false, "text":"Durch die Größe der Amplitude des HF-Signals."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE202",
+     "id":"ETE202",
+     "text":"<p>FM hat gegenüber SSB den Vorteil der</p>",
+     "answer":[
+    {"correct":true, "text":"geringeren Beeinflussung durch Störquellen."}
+  ,
+    {"correct":false, "text":"geringen Anforderungen an die Bandbreite."}
+  ,
+    {"correct":false, "text":"größeren Entfernungsüberbrückung."}
+  ,
+    {"correct":false, "text":"besseren Kreisgüte."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE203",
+     "id":"ETE203",
+     "text":"<p>Ein zu großer Hub eines FM-Senders führt dazu,</p>",
+     "answer":[
+    {"correct":true, "text":"dass die HF-Bandbreite zu groß wird."}
+  ,
+    {"correct":false, "text":"dass die Sendeendstufe übersteuert wird."}
+  ,
+    {"correct":false, "text":"dass Verzerrungen auf Grund unerwünschter Unterdrückung der Trägerfrequenz auftreten."}
+  ,
+    {"correct":false, "text":"dass Verzerrungen auf Grund gegenseitiger Auslöschung der Seitenbänder auftreten."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE204",
+     "id":"ETE204",
+     "text":"<p>Größerer Frequenzhub führt bei einem FM-Sender zu</p>",
+     "answer":[
+    {"correct":true, "text":"einer größeren HF-Bandbreite."}
+  ,
+    {"correct":false, "text":"einer Erhöhung der Senderausgangsleistung."}
+  ,
+    {"correct":false, "text":"einer Erhöhung der Amplitude der Trägerfrequenz."}
+  ,
+    {"correct":false, "text":"einer Reduktion der Amplituden der Seitenbänder."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TF302",
+     "id":"ETF302",
+     "text":"<p>Der Begrenzerverstärker eines FM-Empfängers ist ein Verstärker,</p>",
+     "answer":[
+    {"correct":true, "text":"der sein Ausgangssignal ab einem bestimmten Eingangspegel begrenzt."}
+  ,
+    {"correct":false, "text":"der zur Verringerung des Vorstufenrauschens dient."}
+  ,
+    {"correct":false, "text":"der zur Begrenzung des Hubes für den FMDemodulator dient."}
+  ,
+    {"correct":false, "text":"der den ZF-Träger unabhängig vom Eingangssignal auf niedrigem Pegel konstant hält."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TG306",
+     "id":"ETG306",
+     "text":"<p>Die Ausgangsleistung eines FM-Senders</p>",
+     "answer":[
+    {"correct":true, "text":"wird nicht durch die Modulation beeinflusst."}
+  ,
+    {"correct":false, "text":"ändert sich durch die Modulation."}
+  ,
+    {"correct":false, "text":"beträgt bei fehlender Modulation Null."}
+  ,
+    {"correct":false, "text":"verringert sich durch Modulation auf 70 %."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TG307",
+     "id":"ETG307",
+     "text":"<p>Wie wird in der Regel die hochfrequente Ausgangsleistung eines SSB-Senders vermindert?</p>",
+     "answer":[
+    {"correct":true, "text":"Durch die Verringerung der NF- Ansteuerung und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
+  ,
+    {"correct":false, "text":"Durch die Veränderung des Arbeitspunktes der Endstufe."}
+  ,
+    {"correct":false, "text":"Durch die Verringerung des Hubes und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe."}
+  ,
+    {"correct":false, "text":"Nur durch Verringerung des Hubes allein."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TG401",
+     "id":"ETG401",
+     "text":"<p>Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist?</p>",
+     "answer":[
+    {"correct":true, "text":"Leiser ins Mikrofon sprechen"}
+  ,
+    {"correct":false, "text":"Mehr Leistung verwenden"}
+  ,
+    {"correct":false, "text":"Weniger Leistung verwenden"}
+  ,
+    {"correct":false, "text":"Lauter ins Mikrofon sprechen"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TK301",
+     "id":"ETK301",
+     "text":"<p>Durch welche Maßnahme kann die übermäßige Bandbreite einer 2-m-FM-Übertragung verringert werden? Sie kann verringert werden durch die Änderung der</p>",
+     "answer":[
+    {"correct":true, "text":"Hubeinstellung"}
+  ,
+    {"correct":false, "text":"HF-Begrenzereigenschaften"}
+  ,
+    {"correct":false, "text":"Vorspannungsreglereinstellung"}
+  ,
+    {"correct":false, "text":"Trägerfrequenz"}
+  ]
+    }
+  
+    ]
+  

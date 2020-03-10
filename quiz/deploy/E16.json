@@ -1,0 +1,200 @@
+
+    [
+      
+    {
+     "name":"E/TE301",
+     "id":"ETE301",
+     "text":"<p>Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal?</p>",
+     "answer":[
+    {"correct":true, "text":"12 kHz"}
+  ,
+    {"correct":false, "text":"25 kHz"}
+  ,
+    {"correct":false, "text":"ca. 6,6 kHz"}
+  ,
+    {"correct":false, "text":"ca. 3 kHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE302",
+     "id":"ETE302",
+     "text":"<p>Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal?</p>",
+     "answer":[
+    {"correct":true, "text":"20 kHz"}
+  ,
+    {"correct":false, "text":"12,5 kHz"}
+  ,
+    {"correct":false, "text":"ca. 6,6 kHz"}
+  ,
+    {"correct":false, "text":"ca. 3 kHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE303",
+     "id":"ETE303",
+     "text":"<p>Welche NF-Zwischenträgerfrequenzen werden in der Regel in Packet Radio bei 1200 Baud benutzt?</p>",
+     "answer":[
+    {"correct":true, "text":"1200 / 2200 Hz"}
+  ,
+    {"correct":false, "text":"850 / 1200 kHz"}
+  ,
+    {"correct":false, "text":"500 / 1750 Hz"}
+  ,
+    {"correct":false, "text":"300 / 2700 Hz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE304",
+     "id":"ETE304",
+     "text":"<p>Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)?<br></p>",
+     "answer":[
+    {"correct":true, "text":"besteht aus einem Modem und dem Controller für die digitale Aufbereitung der Daten."}
+  ,
+    {"correct":false, "text":"wandelt nur die Töne in digitale Daten und schickt diese an den PC."}
+  ,
+    {"correct":false, "text":"wandelt nur die Töne in digitale Daten und schickt diese an den Sender."}
+  ,
+    {"correct":false, "text":"ist ein Modem (Modulator und Demodulator) für digitale Signale."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE305",
+     "id":"ETE305",
+     "text":"<p>Was bedeutet im Prinzip "Packet Radio"?<br></p>",
+     "answer":[
+    {"correct":true, "text":"paketweise (stoßweise) gesendet."}
+  ,
+    {"correct":false, "text":"in der Mailbox in Paketen aufbewahrt."}
+  ,
+    {"correct":false, "text":"8-Bit-weise parallel gepackt gesendet."}
+  ,
+    {"correct":false, "text":"zu 8 Bit gepackt und dann gesendet."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE306",
+     "id":"ETE306",
+     "text":"<p>Was versteht man unter 1k2-Packet-Radio?</p>",
+     "answer":[
+    {"correct":true, "text":"Die Übertragung erfolgt mit 1200 Baud."}
+  ,
+    {"correct":false, "text":"Man arbeitet mit einem einzelnen Ton von 1200 Hz."}
+  ,
+    {"correct":false, "text":"Die Frequenz am Packet-Radio-Eingang beträgt 1200 Hertz."}
+  ,
+    {"correct":false, "text":"Die Daten werden in Paketen von 1200 Bits übertragen."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE307",
+     "id":"ETE307",
+     "text":"<p>Welches ist eine gängige Übertragungsrate in Packet Radio?</p>",
+     "answer":[
+    {"correct":true, "text":"9600 Baud"}
+  ,
+    {"correct":false, "text":"12000 Baud"}
+  ,
+    {"correct":false, "text":"2700 Baud"}
+  ,
+    {"correct":false, "text":"6400 Baud"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE308",
+     "id":"ETE308",
+     "text":"<p>Eine Packet-Radio-Mailbox ist</p>",
+     "answer":[
+    {"correct":true, "text":"ein Rechnersystem bei dem Texte und Daten über Funk eingespeichert und abgerufen werden können."}
+  ,
+    {"correct":false, "text":"die Softwaresteuerung einer automatischen Funkstelle."}
+  ,
+    {"correct":false, "text":"eine fernbedient oder automatisch arbeitende Funkstelle die Internetnachrichten zwischenspeichert."}
+  ,
+    {"correct":false, "text":"eine Zusatzeinrichtung die E-Mails umwandelt und anschließend zwischenspeichert."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE309",
+     "id":"ETE309",
+     "text":"<p>Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielsweise</p>",
+     "answer":[
+    {"correct":true, "text":"einen PC mit Soundkarte und entsprechender Software."}
+  ,
+    {"correct":false, "text":"einen Fernschreiber."}
+  ,
+    {"correct":false, "text":"einen RTTY-Microcontroller."}
+  ,
+    {"correct":false, "text":"eine Zusatzeinrichtung, die RTTY-Signale umwandelt und anschließend zwischenspeichert."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE310",
+     "id":"ETE310",
+     "text":"<p>Welcher Unterschied zwischen den Betriebsarten ATV und SSTV ist richtig?</p>",
+     "answer":[
+    {"correct":true, "text":"SSTV überträgt Standbilder, ATV bewegte Bilder."}
+  ,
+    {"correct":false, "text":"SSTV wird nur auf Kurzwelle, ATV auf UKW verwendet."}
+  ,
+    {"correct":false, "text":"SSTV belegt eine größere Bandbreite als ATV."}
+  ,
+    {"correct":false, "text":"SSTV ist schwarzweiß, ATV in Farbe."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE311",
+     "id":"ETE311",
+     "text":"<p>Welches der folgenden digitalen Übertragungsverfahren hat die geringste Bandbreite?</p>",
+     "answer":[
+    {"correct":true, "text":"PSK31"}
+  ,
+    {"correct":false, "text":"RTTY"}
+  ,
+    {"correct":false, "text":"Pactor"}
+  ,
+    {"correct":false, "text":"Packet Radio"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TE312",
+     "id":"ETE312",
+     "text":"<p>Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschaltung abwechselnd in beide Richtungen gesendet werden kann?</p>",
+     "answer":[
+    {"correct":true, "text":"Halbduplex"}
+  ,
+    {"correct":false, "text":"Simplex"}
+  ,
+    {"correct":false, "text":"Duplex"}
+  ,
+    {"correct":false, "text":"Vollduplex"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TG402",
+     "id":"ETG402",
+     "text":"<p>In welcher der folgenden Antworten sind Betriebsarten üblicher Kurzwellen-Transceiver aufgezählt?</p>",
+     "answer":[
+    {"correct":true, "text":"USB, LSB, FM, AM, CW"}
+  ,
+    {"correct":false, "text":"USB, PSK31, FM, SSTV, CW"}
+  ,
+    {"correct":false, "text":"USB, LSB, FM, SSTV, CW"}
+  ,
+    {"correct":false, "text":"USB, LSB, Amtor, Pactor, CW"}
+  ]
+    }
+  
+    ]
+  

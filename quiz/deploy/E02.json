@@ -1,0 +1,200 @@
+
+    [
+      
+    {
+     "name":"E/TB201",
+     "id":"ETB201",
+     "text":"<p>Welche Spannung zeigt der Spannungsmesser in folgender Schaltung?</p><br/><img src='data:image/png;base64,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' alt='ETB201'/>",
+     "answer":[
+    {"correct":true, "text":"0 V"}
+  ,
+    {"correct":false, "text":"3 V"}
+  ,
+    {"correct":false, "text":"-3 V"}
+  ,
+    {"correct":false, "text":"1,5 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB202",
+     "id":"ETB202",
+     "text":"<p>Folgende Schaltung eines Akkus besteht aus Zellen von je 2 V. Jede Zelle kann 10 Ah Ladung liefern. Welche Daten hat der Akku?</p><br/><img src='data:image/png;base64,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' alt='ETB202'/>",
+     "answer":[
+    {"correct":true, "text":"12 V / 10 Ah"}
+  ,
+    {"correct":false, "text":"12 V / 60 Ah"}
+  ,
+    {"correct":false, "text":"2 V / 10 Ah"}
+  ,
+    {"correct":false, "text":"2 V / 60 Ah"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB203",
+     "id":"ETB203",
+     "text":"<p>Was versteht man unter "technischer Stromrichtung" in der Elektrotechnik?</p>",
+     "answer":[
+    {"correct":true, "text":"Man nimmt an, dass der Strom vom Pluspol zum Minuspol fließt."}
+  ,
+    {"correct":false, "text":"Man nimmt an, dass der Strom vom Minuspol zum Pluspol fließt."}
+  ,
+    {"correct":false, "text":"Es ist die Flussrichtung der Elektronen vom Minuspol zum Pluspol."}
+  ,
+    {"correct":false, "text":"Es ist die Flussrichtung der Elektronen vom Pluspol zum Minuspol."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB204",
+     "id":"ETB204",
+     "text":"<p>Kann in folgender Schaltung von zwei gleichen Spannungsquellen Strom fließen? Welche Begründung ist richtig?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAAuCAAAAABILgndAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAC20lEQVRo3u2Zv2vbQBzFPzm8FRwIsZqlJUPAhBI6FEQhZGgxGUwyFYpxh27CdOlY1f+A4ilDwWjqbDx3Et2CifEqRMnShC6J4lJIoOuXDnZoLSfWqbUVtfVbLH/1dO/e3X3vh7Qg/BtQt12BuZHfNlJrp123ahLFBd0cOdwsfkrZiDK7Cci6xDyLKfuA5SSuU6/djDA3kjXMjWQNcyNZQzIjwYqbcv2CFc3lPWGPnH9J2cjp+fFMjKS+vN/RVcwB/fe8mZZw+/hRKRJqXFN4Y3qKLmslABEPwJMY+JgiPs5kFkAxEjOwI5EWQCdOUSiLdGjGK5oiomAbz2M7zrgx+Jnc0TvYvnEUSc9V9lR9JFLB89jUbPGlGMWKX+zVAWnhiDgaJZoifixp2EYxaIrYGrSySEdL0RTJcY9jOMCM4V8cAWCsTiL1gCDK6QEUf+3K3ocaJ7GKgwdHn7yW02cZEIFyESNuwIaDHpk8Yh2oQDgaNMEcDYFpgmaOtCZymmBBRwQRMcYTdBx6yW4xPm9QDKM0g/iW00z2K8UccKYxXDXhXrPyh4Wx0AwUU9hrFf68CA0kNXKRSq1+4ruuYi5RsUZzK2UjD3UVkxkp1FL2oa/4n55HMoy5kaxh+kYaVTeOEPwNRtR+/tUKhzeW21f7nzca2TdS48wVn7UbCbvGWbf19haNXOotsZcAhfZdlPvYVQE1pRrQ2FlX61SVOqTrwxNNza9JnMRvQq+2v3o0cESkhTShJaYhgiUOvpSxpUMoIp7GZltExA+1aEPdBFw9WGBLB3EYFh8idnl4bVgiDtbURUWmP2u50twL8oPrjwAF+iOExeIs3vLNYh2pcTDp9tJM3o1N28ig8Z8N/5UIoB05kTxP8GXw9ozsqmpdWYXT4cnF26hVKz7fruaf80uor8/CSLJtfDy6wbsT/wElixf3gVL4Oi/w8ilgA80tBjemDu3P01nHfNOYNfwAzgr52rdrpsIAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETB204'/>",
+     "answer":[
+    {"correct":true, "text":"Nein, weil kein geschlossener Stromkreis vorhanden ist."}
+  ,
+    {"correct":false, "text":"Nein, weil der Pluspol mit dem Minuspol verbunden ist."}
+  ,
+    {"correct":false, "text":"Ja, sogar Kurzschlussstrom, weil der Pluspol mit dem Minuspol verbunden ist."}
+  ,
+    {"correct":false, "text":"Ja. Der Strom hängt vom Innenwiderstand der Batterien ab."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB205",
+     "id":"ETB205",
+     "text":"<p>Wie lange könnte man mit einem voll geladenen Akku mit 55 Ah einen Amateurfunkempfänger betreiben, der einen Strom von 0,8 A aufnimmt?</p>",
+     "answer":[
+    {"correct":true, "text":"68 Stunden und 45 Minuten"}
+  ,
+    {"correct":false, "text":"Genau 44 Stunden"}
+  ,
+    {"correct":false, "text":"6 Stunden 52 Minuten und 30 Sekunden"}
+  ,
+    {"correct":false, "text":"69 Stunden und 15 Minuten"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB606",
+     "id":"ETB606",
+     "text":"<p>Welche Bezeichnung ist für eine Schwingung von 145 000 000 Perioden pro Sekunde richtig?</p>",
+     "answer":[
+    {"correct":true, "text":"145 MHz"}
+  ,
+    {"correct":false, "text":"145 μs"}
+  ,
+    {"correct":false, "text":"145 kHz"}
+  ,
+    {"correct":false, "text":"145 km/s"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB607",
+     "id":"ETB607",
+     "text":"<p>Die Periodendauer von 50 μs entspricht einer Frequenz von</p>",
+     "answer":[
+    {"correct":true, "text":"20 kHz"}
+  ,
+    {"correct":false, "text":"2 MHz"}
+  ,
+    {"correct":false, "text":"200 kHz"}
+  ,
+    {"correct":false, "text":"20 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB610",
+     "id":"ETB610",
+     "text":"<p>Welche Frequenz hat die in diesem Oszillogramm dargestellte Spannung?</p><br/><img src='data:image/png;base64,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' alt='ETB610'/>",
+     "answer":[
+    {"correct":true, "text":"83,3 kHz"}
+  ,
+    {"correct":false, "text":"833,3 kHz"}
+  ,
+    {"correct":false, "text":"8,3 MHz"}
+  ,
+    {"correct":false, "text":"83,3 MHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB611",
+     "id":"ETB611",
+     "text":"<p>Welche Frequenz hat das in diesem Schirmbild dargestellte Signal?</p><br/><img src='data:image/png;base64,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' alt='ETB611'/>",
+     "answer":[
+    {"correct":true, "text":"8,33 MHz"}
+  ,
+    {"correct":false, "text":"16,7 MHz"}
+  ,
+    {"correct":false, "text":"8,33 kHz"}
+  ,
+    {"correct":false, "text":"833 kHz"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB612",
+     "id":"ETB612",
+     "text":"<p>Eine sinusförmige Wechselspannung hat einen Spitzenwert von 12 V. Wie groß ist der Effektivwert der Wechselspannung?</p>",
+     "answer":[
+    {"correct":true, "text":"8,5 V"}
+  ,
+    {"correct":false, "text":"6,0 V"}
+  ,
+    {"correct":false, "text":"17 V"}
+  ,
+    {"correct":false, "text":"24 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB613",
+     "id":"ETB613",
+     "text":"<p>Ein sinusförmiges Signal hat einen Effektivwert von 12 V. Wie groß ist der Spitzen-Spitzen-Wert?</p>",
+     "answer":[
+    {"correct":true, "text":"33,9 V"}
+  ,
+    {"correct":false, "text":"24 V"}
+  ,
+    {"correct":false, "text":"16,97 V"}
+  ,
+    {"correct":false, "text":"36,4 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB701",
+     "id":"ETB701",
+     "text":"<p>Welche Signalform sollte der Träger einer hochfrequenten Schwingung haben?</p>",
+     "answer":[
+    {"correct":true, "text":"sinusförmig"}
+  ,
+    {"correct":false, "text":"rechteckförmig"}
+  ,
+    {"correct":false, "text":"dreieckförmig"}
+  ,
+    {"correct":false, "text":"kreisförmig"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TB702",
+     "id":"ETB702",
+     "text":"<p>Ein periodische Schwingung, die wie das folgende Signal aussieht, besteht</p><br/><img src='data:image/png;base64,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' alt='ETB702'/>",
+     "answer":[
+    {"correct":true, "text":"aus der Grundwelle mit ganzzahligen Vielfachen dieser Frequenz (Oberwellen)."}
+  ,
+    {"correct":false, "text":"aus der Grundwelle und Teilen dieser Frequenz (Unterwellen)."}
+  ,
+    {"correct":false, "text":"aus nur einer einzigen Frequenz."}
+  ,
+    {"correct":false, "text":"aus der Grundwelle mit vielen Nebenfrequenzen."}
+  ]
+    }
+  
+    ]
+  

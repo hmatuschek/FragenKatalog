@@ -1,0 +1,155 @@
+
+    [
+      
+    {
+     "name":"E/TC501",
+     "id":"ETC501",
+     "text":"<p>P-dotiertes Halbleitermaterial ist solches, das mit einem zusätzlichen Stoff versehen wurde, der</p>",
+     "answer":[
+    {"correct":true, "text":"weniger als vier Valenzelektronen enthält."}
+  ,
+    {"correct":false, "text":"mehr als vier Valenzelektronen enthält."}
+  ,
+    {"correct":false, "text":"genau vier Valenzelektronen enthält."}
+  ,
+    {"correct":false, "text":"keine Valenzelektronen enthält."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC502",
+     "id":"ETC502",
+     "text":"<p>N-leitendes Halbleitermaterial ist gekennzeichnet durch</p>",
+     "answer":[
+    {"correct":true, "text":"Überschuss an freien Elektronen."}
+  ,
+    {"correct":false, "text":"das Fehlen von Dotierungsatomen."}
+  ,
+    {"correct":false, "text":"das Fehlen von Atomen im Gitter des Halbleiterkristalls."}
+  ,
+    {"correct":false, "text":"bewegliche Elektronenlücken."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC504",
+     "id":"ETC504",
+     "text":"<p>Eine in Sperrrichtung betriebene Diode hat</p>",
+     "answer":[
+    {"correct":true, "text":"einen hohen Widerstand."}
+  ,
+    {"correct":false, "text":"eine hohe Kapazität."}
+  ,
+    {"correct":false, "text":"eine geringe Impedanz."}
+  ,
+    {"correct":false, "text":"eine hohe Induktivität."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC505",
+     "id":"ETC505",
+     "text":"<p>Die Auswahlantworten enthalten Silizium-Dioden mit unterschiedlichen Arbeitspunkten. Bei welcher Antwort befindet sich die Diode in leitendem Zustand?</p>",
+     "answer":[
+    {"correct":true, "text":" 0,7 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABmklEQVQ4y62UP0gcQRTGfye5bmDn9gqnOwgH1ykWsdfisFFSCQeRs7la09ilMY0gooVNYrUgCAcWahMsEkgXrNY6BELgmGbHWZh6SXGz559ip1gfzJv33sx882bme9MoeE15UzmqHd2n7k82A3hFlez1epNH79eoOSqqpTq7hz9vVWn/PrwOH3YuNEH77vhDOrymVevuwE6zO7tMV3ffwUNNOLSC8dX3xaQPxKHZ1XAO4O5TKvfXFYBxYTittNIKr564kGHuTxKz8rkFGhyZBpzACSdwiJkpHMIhGss5UR5BTpRbGeVYZCf1m5nZtrGZNohNbCDGlGEfB6AxLyEij5BWWgCklXj773RNR2JlO2tnP+LVrA3g88IBAidmeEUxKQqviskLVg6azb1Bs/etjM8PAjSeAwVeoXgp8cHRKcMTzz4ZetkgjVGjm43k/RgAK2rBTVd3vyTsrN0BwaoIZwfQPx+mG2MN/2rBtcqa7R4kizvbYxNACxaZLF+nv3DxdYt6d8dSZ2aqjzfbwZptBD53/Yw7tzbwG/8Hu2kIF6MjP7YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505l'/>  1,3 V"}
+  ,
+    {"correct":false, "text":"-2,6 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABo0lEQVQ4y62UP0hbQRzHPxGzhOM9uAy5RZA2Y8HikqGTHbJW0aWLCG0XEYVm0EGUDoJLKYh0EYqLTga71VDIKt361vKUgiC35OAdR8bgcNFkkHvC8wd3v/e9u/fh9+e40oDntInQ5p99PS51qsmzQcAOys3L25Fs1N4PciwYnSOZb6UPMjbXhZIVHG9cv9u5TzEjLoRzvNw6f320cDgCFsEhQZ38fLHXamvAFowOA9D4evh3baUNcJOHm0xBOBDghBM4AX4CrkgEKN78ODhLLpYMaFBaoZX2Do3iXqJVqTzKzPhJGmmoGx+bNPiFodWNkcA0/5GRxcjIEmGJLBHY0oexUPsAFT/T71W7Zq7aq/ayOIsTD5wF4iyGLL6J/E9xZiOwYCTha7xd+zf8+tUsN7dr5cYjh2798G4yVNgKvoj6+5H8sqJ+m8cOKT+8C+LAAXS+JW/XG3lN9Z0NbQoEpLtdeTyjnkQL45xxdD6ny5v14ULuNQ7i+lxcdqdPF4fSUi2Eq9CSn1Yf8ozoFazd8sexFrxiKg9XCj3uHbc4LnV+P+4AmxkK/Z1uFD8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505r'/> -2,0 V"}
+  ,
+    {"correct":false, "text":"  15 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABmklEQVQ4y62UP0gcQRTGfye5bmDn9gqnOwgH1ykWsdfisFFSCQeRs7la09ilMY0gooVNYrUgCAcWahMsEkgXrNY6BELgmGbHWZh6SXGz559ip1gfzJv33sx882bme9MoeE15UzmqHd2n7k82A3hFlez1epNH79eoOSqqpTq7hz9vVWn/PrwOH3YuNEH77vhDOrymVevuwE6zO7tMV3ffwUNNOLSC8dX3xaQPxKHZ1XAO4O5TKvfXFYBxYTittNIKr564kGHuTxKz8rkFGhyZBpzACSdwiJkpHMIhGss5UR5BTpRbGeVYZCf1m5nZtrGZNohNbCDGlGEfB6AxLyEij5BWWgCklXj773RNR2JlO2tnP+LVrA3g88IBAidmeEUxKQqviskLVg6azb1Bs/etjM8PAjSeAwVeoXgp8cHRKcMTzz4ZetkgjVGjm43k/RgAK2rBTVd3vyTsrN0BwaoIZwfQPx+mG2MN/2rBtcqa7R4kizvbYxNACxaZLF+nv3DxdYt6d8dSZ2aqjzfbwZptBD53/Yw7tzbwG/8Hu2kIF6MjP7YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505l'/>    9 V"}
+  ,
+    {"correct":false, "text":" 3,4 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABo0lEQVQ4y62UP0hbQRzHPxGzhOM9uAy5RZA2Y8HikqGTHbJW0aWLCG0XEYVm0EGUDoJLKYh0EYqLTga71VDIKt361vKUgiC35OAdR8bgcNFkkHvC8wd3v/e9u/fh9+e40oDntInQ5p99PS51qsmzQcAOys3L25Fs1N4PciwYnSOZb6UPMjbXhZIVHG9cv9u5TzEjLoRzvNw6f320cDgCFsEhQZ38fLHXamvAFowOA9D4evh3baUNcJOHm0xBOBDghBM4AX4CrkgEKN78ODhLLpYMaFBaoZX2Do3iXqJVqTzKzPhJGmmoGx+bNPiFodWNkcA0/5GRxcjIEmGJLBHY0oexUPsAFT/T71W7Zq7aq/ayOIsTD5wF4iyGLL6J/E9xZiOwYCTha7xd+zf8+tUsN7dr5cYjh2798G4yVNgKvoj6+5H8sqJ+m8cOKT+8C+LAAXS+JW/XG3lN9Z0NbQoEpLtdeTyjnkQL45xxdD6ny5v14ULuNQ7i+lxcdqdPF4fSUi2Eq9CSn1Yf8ozoFazd8sexFrxiKg9XCj3uHbc4LnV+P+4AmxkK/Z1uFD8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505r'/>  4,0 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC506",
+     "id":"ETC506",
+     "text":"<p>Die Auswahlantworten enthalten Silizium-Dioden mit unterschiedlichen Arbeitspunkten. Bei welcher Antwort befindet sich die Diode in leitendem Zustand?</p>",
+     "answer":[
+    {"correct":true, "text":"  -2 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABo0lEQVQ4y62UP0hbQRzHPxGzhOM9uAy5RZA2Y8HikqGTHbJW0aWLCG0XEYVm0EGUDoJLKYh0EYqLTga71VDIKt361vKUgiC35OAdR8bgcNFkkHvC8wd3v/e9u/fh9+e40oDntInQ5p99PS51qsmzQcAOys3L25Fs1N4PciwYnSOZb6UPMjbXhZIVHG9cv9u5TzEjLoRzvNw6f320cDgCFsEhQZ38fLHXamvAFowOA9D4evh3baUNcJOHm0xBOBDghBM4AX4CrkgEKN78ODhLLpYMaFBaoZX2Do3iXqJVqTzKzPhJGmmoGx+bNPiFodWNkcA0/5GRxcjIEmGJLBHY0oexUPsAFT/T71W7Zq7aq/ayOIsTD5wF4iyGLL6J/E9xZiOwYCTha7xd+zf8+tUsN7dr5cYjh2798G4yVNgKvoj6+5H8sqJ+m8cOKT+8C+LAAXS+JW/XG3lN9Z0NbQoEpLtdeTyjnkQL45xxdD6ny5v14ULuNQ7i+lxcdqdPF4fSUi2Eq9CSn1Yf8ozoFazd8sexFrxiKg9XCj3uHbc4LnV+P+4AmxkK/Z1uFD8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505r'/> -2,6 V"}
+  ,
+    {"correct":false, "text":" 5,3 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABmklEQVQ4y62UP0gcQRTGfye5bmDn9gqnOwgH1ykWsdfisFFSCQeRs7la09ilMY0gooVNYrUgCAcWahMsEkgXrNY6BELgmGbHWZh6SXGz559ip1gfzJv33sx882bme9MoeE15UzmqHd2n7k82A3hFlez1epNH79eoOSqqpTq7hz9vVWn/PrwOH3YuNEH77vhDOrymVevuwE6zO7tMV3ffwUNNOLSC8dX3xaQPxKHZ1XAO4O5TKvfXFYBxYTittNIKr564kGHuTxKz8rkFGhyZBpzACSdwiJkpHMIhGss5UR5BTpRbGeVYZCf1m5nZtrGZNohNbCDGlGEfB6AxLyEij5BWWgCklXj773RNR2JlO2tnP+LVrA3g88IBAidmeEUxKQqviskLVg6azb1Bs/etjM8PAjSeAwVeoXgp8cHRKcMTzz4ZetkgjVGjm43k/RgAK2rBTVd3vyTsrN0BwaoIZwfQPx+mG2MN/2rBtcqa7R4kizvbYxNACxaZLF+nv3DxdYt6d8dSZ2aqjzfbwZptBD53/Yw7tzbwG/8Hu2kIF6MjP7YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505l'/> -4,7 V"}
+  ,
+    {"correct":false, "text":"  15 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABo0lEQVQ4y62UP0hbQRzHPxGzhOM9uAy5RZA2Y8HikqGTHbJW0aWLCG0XEYVm0EGUDoJLKYh0EYqLTga71VDIKt361vKUgiC35OAdR8bgcNFkkHvC8wd3v/e9u/fh9+e40oDntInQ5p99PS51qsmzQcAOys3L25Fs1N4PciwYnSOZb6UPMjbXhZIVHG9cv9u5TzEjLoRzvNw6f320cDgCFsEhQZ38fLHXamvAFowOA9D4evh3baUNcJOHm0xBOBDghBM4AX4CrkgEKN78ODhLLpYMaFBaoZX2Do3iXqJVqTzKzPhJGmmoGx+bNPiFodWNkcA0/5GRxcjIEmGJLBHY0oexUPsAFT/T71W7Zq7aq/ayOIsTD5wF4iyGLL6J/E9xZiOwYCTha7xd+zf8+tUsN7dr5cYjh2798G4yVNgKvoj6+5H8sqJ+m8cOKT+8C+LAAXS+JW/XG3lN9Z0NbQoEpLtdeTyjnkQL45xxdD6ny5v14ULuNQ7i+lxcdqdPF4fSUi2Eq9CSn1Yf8ozoFazd8sexFrxiKg9XCj3uHbc4LnV+P+4AmxkK/Z1uFD8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505r'/>   18 V"}
+  ,
+    {"correct":false, "text":" 3,9 V <br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAE4AAAAUCAAAAAAG1FRQAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QABdrn170AAAAHdElNRQfkAQ0PJRaZcCDSAAABmklEQVQ4y62UP0gcQRTGfye5bmDn9gqnOwgH1ykWsdfisFFSCQeRs7la09ilMY0gooVNYrUgCAcWahMsEkgXrNY6BELgmGbHWZh6SXGz559ip1gfzJv33sx882bme9MoeE15UzmqHd2n7k82A3hFlez1epNH79eoOSqqpTq7hz9vVWn/PrwOH3YuNEH77vhDOrymVevuwE6zO7tMV3ffwUNNOLSC8dX3xaQPxKHZ1XAO4O5TKvfXFYBxYTittNIKr564kGHuTxKz8rkFGhyZBpzACSdwiJkpHMIhGss5UR5BTpRbGeVYZCf1m5nZtrGZNohNbCDGlGEfB6AxLyEij5BWWgCklXj773RNR2JlO2tnP+LVrA3g88IBAidmeEUxKQqviskLVg6azb1Bs/etjM8PAjSeAwVeoXgp8cHRKcMTzz4ZetkgjVGjm43k/RgAK2rBTVd3vyTsrN0BwaoIZwfQPx+mG2MN/2rBtcqa7R4kizvbYxNACxaZLF+nv3DxdYt6d8dSZ2aqjzfbwZptBD53/Yw7tzbwG/8Hu2kIF6MjP7YAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETC505l'/>  3,2 V"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC507",
+     "id":"ETC507",
+     "text":"<p>Wie verhält sich die Kapazität einer Kapazitätsdiode (Varicap)?</p>",
+     "answer":[
+    {"correct":true, "text":"Sie nimmt mit abnehmender Sperrspannung zu."}
+  ,
+    {"correct":false, "text":"Sie erhöht sich mit zunehmender Durchlassspannung."}
+  ,
+    {"correct":false, "text":"Sie nimmt mit zunehmender Sperrspannung zu."}
+  ,
+    {"correct":false, "text":"Sie erhöht sich mit zunehmendem Durchlassstrom."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC508",
+     "id":"ETC508",
+     "text":"<p>Wozu dient folgende Schaltung? Sie dient</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABnCAAAAABgeVJ5AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADeUlEQVR42u2bMW/TQBTH/z21E1JDpcrKkNlpBxCLZWVkScIMKuIDMFRZWBihQrDDAEIVHwBRdWFq8MKEosgfIG0WRMhQoqoFVqQTg2P3EkXNO0tN/onut+QuvrPfP+/l2fdsr2gsB2reBjghTgg5TggbTggbTggbtkIaKh99NiG02AtpaXtqjEJ+5jjKOaMQUlaTj8a5/2LeplwS/b1VFg3sozQqRAF4SbPEKg6A3XeCgQrwTi/bwCMEHR8NyUE2cxpXkg9tDAC8F+RrBc8bFNOe1lr70Frsj4McWSvIKX8KvtYeeskhFAAUsCfzBxkFs6O11r2sNZVnOT1iMbgjtQYI/GygAoBSz4Mvi62znD+exSVKuQOZNT3EXaQDk6xVOhXMmxll4FgyrqTbCNPO6rytnkxfluXCy6b9mX193iInY++R15+tp2z+4BNyji/Xb9QshDy5n+swFxZn9nys0FxhGSj0rIUvzWW8E8KGE8KGE8KGE8KGE8IG6bWWvVUcK8STbX/0i+JNo/P77sfpu+DwSLty9fb9x1N3wfEfCcfKPEDH6O9iY/ouOISMcA8Ato0vRGVaPiFRspY2Kp9nuFhEIXX0gJ5Zxb4jCS2OP7tBGAdtBR3VLVMwm0eiGG0A/WpgWVZn84hCs5oUHxQ6sttW6UQqQtSqw2ZzJHMtmJAoxlHargZJIhbCFVoKrRBZXWvYk04lIkTNtLyJinwukxAzsACg6lsEF1NoZaGUlUwtgovIIyGCcas78uDiEXKYnApHKD+E1CM8oWWEkVGNFwcXjUfGMlaKOLhYhByOZayUcg1bCyVkB63JG47QPVwgIVuTAwsAOthZHCFRdyywjDtv5V0UBbvgyFoKfuFP1ivEMKtDhRgHDxZESFS/crMneMKEQwg+mKvy9Tr2zf7FbcGphETIKO729DLghLDhhLDhhLDhhLDhhLDhhLDhhLCRLqza4trkDMjzLErikRNVqfD4ZgvCXzVUKkrbiUcUat+7kiX+LFAAELSFA5vDe46rABChdgQ12Fv7N28RwNCG+BWmGLP2Df5xu1JPo1BrrZsI5G+9EXGgdfaOVRpa3gDBU8EjH9fPxg4AeG+nGvPrOVpvPqV5YZi1FOCL3muaBUpWkkMYA1l+o6xrndyQlbUOvyJ7E5ZSSB54zh5OiBPCiRPChhPCxtII+Q/bZP7hAmlTwwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETC508'/>",
+     "answer":[
+    {"correct":true, "text":"zur Spannungsstabilisierung."}
+  ,
+    {"correct":false, "text":"zur Signalbegrenzung."}
+  ,
+    {"correct":false, "text":"als Leuchtanzeige."}
+  ,
+    {"correct":false, "text":"zur Stromgewinnung."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TC509",
+     "id":"ETC509",
+     "text":"<p>Wozu dient die folgende Schaltung? Sie dient</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABiCAAAAAAwtMPKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAD/0lEQVR42u2bP2vbQBjGnxxdAinFccCYFFIQGToYT3W9FDq2SoZOqTt0CyJfwBh/AiNCoRAKQXjq0NSeOiT20qGjYy8NHjqYQEsbjKBuWlrIdnSQJUu2Et0ZbL8290y+073S+/P9f09a4lgMsVk7oEAUCHEpEGq6JWtwKf2IGEmQ803pR0xnppKuESBzJVF4uTkVjHFA9GOp4kl7OiDynf3ndBybPAhR9UEqjGVn7Yqnvey2ULlz0xwknD5SNoAmExleVifPwQCI+FLYB4peOQfEQEdLtwuPo60v5B2ryxX/BADIHkT2xX1YH2rJrpvknHMOcG4JPijDpZSQJxdVyXHckVMjCXv7pQFDwPh3Vfp5IrcdeULqyZ+Icj9q7wr+ZQbvVwmQF/mDe/I1Ilee89TArRsFALDcVH/U4qX8qQkB/ZKuEGmd6ciIjDs8Axztuil3Zi9M3kFhrWBXqFzDn6A4If5DT95IHmRt1pzhkl801ihWIs2mNZZka0SjGtBbmBpRINSkQKhJgcxUIVHCOQRp5VjIGnyMAN1slW0C0Ebz565GGgBKIflzB1JG+OZp3kBMw+r14xnBHk+xj6wgft2lXLWjoQtcWq/t4PKVBkjlry9x+ws+3vZndLxoQrbZ0QCnHe0Eb7FEYlke0cDzZpADYEAnOHRRAdGfefv0+EFbf+Rdipeb7lFRruo6m26Pnh/JRp0mok7Aj51BtIr7g4m850W+ep3hKByNUUvTkR6kAlEU5ps1+qeRrM1j2nAUjgYIjtGuhF4wR2cNFnoqSQQEPbwIzS+OeB3OQQYklvc3Lp97w4cEyWtOiamAwAxrXHtIDEdPu9cMs2RAwhrXpYWuqDkdkJiB5FBWHCfC5nRAcAi7HMjYRurpPIKgFzzcatVwJm5MCWSocT3EkYQxJRAcwh5M2Fnoz+cVBBxF92e9CamXXmiBoOQ1ri2cSlkSAym4I1cWOw/mGQQcBlYQrzfxXs6QGghKSG6gtyV9Hkpjh+iX89cah3MPAgYgIbzGogXij6Ksv6kBpXv+HJGFCg2QiJ4q4iONuJb+fdmX+mYnNnzJq/sit6BRI0HlqpbYyyh+kRt+MbV3UYhKgVCTAqEmBUJNCoSaFAg1KRBqUiDURBHkhlc4IkFajDEqHyxUqigLFQx8VNbf6jIkbIyxwZyAygYgFG9ggXJO8KGAvAlmpAl8LLnmHPaU16PKvULqLFfNeh+RcM45z8PiBKMQEepwjoT7CofTtM43YVjQ787aNQB33toAkI/6Vgyfm5nGnpVxa6TfR8wikGlE2U5HDMCJQHAx2Ee8uFZrVYu2nY7qF2KjTu7r2uBQi2KAbixRnBAVyEJIgVCTAqGmhQH5D0z/lyCb9M3xAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETC509'/>",
+     "answer":[
+    {"correct":true, "text":"als Leuchtanzeige."}
+  ,
+    {"correct":false, "text":"zur Signalbegrenzung."}
+  ,
+    {"correct":false, "text":"zur Spannungsstabilisierung."}
+  ,
+    {"correct":false, "text":"zur Stromgewinnung."}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD304",
+     "id":"ETD304",
+     "text":"<p>Berechnen Sie die Leerlaufausgangsspannung dieser Schaltung für ein Transformationsverhältnis von 5:1.</p><br/><img src='data:image/png;base64,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' alt='ETD304'/>",
+     "answer":[
+    {"correct":true, "text":"Zirka 65 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 46 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 40 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 28 Volt"}
+  ]
+    }
+  ,
+    {
+     "name":"E/TD305",
+     "id":"ETD305",
+     "text":"<p>Berechnen Sie die Leerlaufausgangsspannung dieser Schaltung für ein Transformationsverhältnis von 8:1.</p><br/><img src='data:image/png;base64,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' alt='ETD304'/>",
+     "answer":[
+    {"correct":true, "text":"Zirka 40 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 46 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 65 Volt"}
+  ,
+    {"correct":false, "text":"Zirka 28 Volt"}
+  ]
+    }
+  
+    ]
+  
