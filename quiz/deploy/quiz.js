@@ -1,9 +1,3 @@
-var bookLinkTable = {
-  "E": "https://www.darc.de/der-club/referate/ajw/lehrgang-te",
-  "A": "https://www.darc.de/der-club/referate/ajw/lehrgang-ta",
-  "BV": "https://www.darc.de/der-club/referate/ajw/lehrgang-bv",
-}
-
 function shuffle(a) {
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -172,14 +166,14 @@ class Quiz {
       ]));
 
       return [
-        m("nav", [
+        m("nav.quiz", [
           m(m.route.Link, {href:"/"}, "Buch"), m("span.sep", ">"),
           m(m.route.Link, {href:"/chapters"}, window.localStorage.getItem("book")), , m("span.sep", ">"),
           m(m.route.Link, {href:"/quiz"}, "Quiz")]),
-        m("form", {onsubmit: (e) => {this.onsubmit(e);}}, [
+        m("main.quiz", m("form", {onsubmit: (e) => {this.onsubmit(e);}}, [
           m("table.question", {width:"100%"}, answ),
-        ]),
-        m("div.stats", [
+        ])),
+        m("footer.quiz", [
           m("span.statstitle", "Statistik:"),
           m("span.correct",["Korrekt: ", this.correct]),
           m("span.answered", ["Beantwortet: ", this.answered]),
@@ -191,7 +185,13 @@ class Quiz {
         ])
       ];
     } else {
-      return m("div.loading", "Lade Quiz...");
+      return [
+        m("nav.quiz", [
+          m(m.route.Link, {href:"/"}, "Buch"), m("span.sep", ">"),
+          m(m.route.Link, {href:"/chapters"}, window.localStorage.getItem("book")), , m("span.sep", ">"),
+          m(m.route.Link, {href:"/quiz"}, "Quiz")]),
+        m("main.loading", "(Noch) keine Fragen geladen...")
+      ]
     }
   }
 }
