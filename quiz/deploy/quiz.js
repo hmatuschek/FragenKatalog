@@ -34,7 +34,8 @@ class Quiz {
     if (updateConfig) {
       window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
     }
-    this.weights = settings.weights;
+    this.allweights = settings.weights
+    this.weights = {};
     this.questions = {};
     this.current = null;
     this.validated = false;
@@ -57,10 +58,10 @@ class Quiz {
         // Add questions and update weighting of questions s
         result.forEach((q, i) => {
           this.questions[q.id] = q;
-          if (! (q.id in this.weights)) {
-            console.log("Add weight for "+q.id);
-            this.weights[q.id] = 1.0;
+          if (! (q.id in this.allweights)) {
+            this.allweights[q.id] = 1.0;
           }
+          this.weights[q.id] = this.allweights[q.id];
         })
         if (0 == --todo) {
           this.next();
@@ -78,7 +79,7 @@ class Quiz {
 
   save() {
     var settings = JSON.parse(window.localStorage.getItem(window.localStorage.getItem("book")));
-    settings.weights = this.weights;
+    Object.keys(this.weights).forEach((k, i) => {settings.weights[k] = this.weights[k];});
     settings.correct = this.correct;
     settings.answered = this.answered;
     window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
