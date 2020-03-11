@@ -6,13 +6,25 @@
      "id":"ATB911",
      "text":"<p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>",
      "answer":[
-    {"correct":true,"text":"auf das für eine zufrieden stellende Kommunikation erforderliche Minimum eingestellt werden."}
+    {
+      "correct":true,
+      "text":"auf das für eine zufrieden stellende Kommunikation erforderliche Minimum eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"nur auf den zulässigen Pegel eingestellt werden."}
+    {
+      "correct":false,
+      "text":"nur auf den zulässigen Pegel eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"auf die für eine zufrieden stellende Kommunikation erforderlichen 750 W eingestellt werden."}
+    {
+      "correct":false,
+      "text":"auf die für eine zufrieden stellende Kommunikation erforderlichen 750 W eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"die Hälfte des maximal zulässigen Pegels betragen."}
+    {
+      "correct":false,
+      "text":"die Hälfte des maximal zulässigen Pegels betragen."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"ATF436",
      "text":"<p>In einem Amateurfunkempfänger werden etwa alle 15625 Hz unerwünschte Signale festgestellt. Dies ist wahrscheinlich zurückzuführen auf</p>",
      "answer":[
-    {"correct":true,"text":"unerwünschte Abstrahlungen eines TV-Zeilenoszillators."}
+    {
+      "correct":true,
+      "text":"unerwünschte Abstrahlungen eines TV-Zeilenoszillators."
+    }
   ,
-    {"correct":false,"text":"erwünschte Abstrahlungen eines TV-Zeilenoszillators."}
+    {
+      "correct":false,
+      "text":"erwünschte Abstrahlungen eines TV-Zeilenoszillators."
+    }
   ,
-    {"correct":false,"text":"erwünschte Abstrahlungen eines TV-Normalfrequenzsenders."}
+    {
+      "correct":false,
+      "text":"erwünschte Abstrahlungen eines TV-Normalfrequenzsenders."
+    }
   ,
-    {"correct":false,"text":"eine Funkstelle des Betriebsfunks mit NF-Tonruf."}
+    {
+      "correct":false,
+      "text":"eine Funkstelle des Betriebsfunks mit NF-Tonruf."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"ATG522",
      "text":"<p>Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens</p>",
      "answer":[
-    {"correct":true,"text":"den geltenden Richtwerten entsprechen."}
+    {
+      "correct":true,
+      "text":"den geltenden Richtwerten entsprechen."
+    }
   ,
-    {"correct":false,"text":"30 dB betragen."}
+    {
+      "correct":false,
+      "text":"30 dB betragen."
+    }
   ,
-    {"correct":false,"text":"100 dB betragen."}
+    {
+      "correct":false,
+      "text":"100 dB betragen."
+    }
   ,
-    {"correct":false,"text":"20 dB betragen."}
+    {
+      "correct":false,
+      "text":"20 dB betragen."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"ATG523",
      "text":"<p>Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 1,7 und 35 MHz? Sofern die Leistung einer unerwünschten Aussendung</p>",
      "answer":[
-    {"correct":true,"text":"0,25 μW überschreitet, sollte sie um mindestens 40 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":true,
+      "text":"0,25 μW überschreitet, sollte sie um mindestens 40 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"0,25 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"0,25 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"1 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"1 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"1 μW überschreitet, sollte sie um mindestens 50 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"1 μW überschreitet, sollte sie um mindestens 50 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"ATG524",
      "text":"<p>Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 50 und 1000 MHz? Sofern die Leistung einer unerwünschten Aussendung</p>",
      "answer":[
-    {"correct":true,"text":"0,25 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":true,
+      "text":"0,25 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"0,25 μW überschreitet, sollte sie um mindestens 40 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"0,25 μW überschreitet, sollte sie um mindestens 40 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"1 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"1 μW überschreitet, sollte sie um mindestens 60 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ,
-    {"correct":false,"text":"1 μW überschreitet, sollte sie um mindestens 50 dB gegenüber der maximalen PEP des Senders gedämpft werden."}
+    {
+      "correct":false,
+      "text":"1 μW überschreitet, sollte sie um mindestens 50 dB gegenüber der maximalen PEP des Senders gedämpft werden."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ATG525",
      "text":"<p>Wie erfolgt die Messung der Leistungen, die zu unerwünschten Aussendungen führen, in Anlehnung an die EU-Normen?</p>",
      "answer":[
-    {"correct":true,"text":"Die Messung erfolgt am Senderausgang unter Einbeziehung des gegebenenfalls verwendeten Stehwellenmessgeräts und des gegebenenfalls verwendeten Tiefpassfilters."}
+    {
+      "correct":true,
+      "text":"Die Messung erfolgt am Senderausgang unter Einbeziehung des gegebenenfalls verwendeten Stehwellenmessgeräts und des gegebenenfalls verwendeten Tiefpassfilters."
+    }
   ,
-    {"correct":false,"text":"Die Messung erfolgt am Fußpunkt der im Funkbetrieb verwendeten Antenne unter Einbeziehung des gegebenenfalls verwendeten Antennenanpassgeräts."}
+    {
+      "correct":false,
+      "text":"Die Messung erfolgt am Fußpunkt der im Funkbetrieb verwendeten Antenne unter Einbeziehung des gegebenenfalls verwendeten Antennenanpassgeräts."
+    }
   ,
-    {"correct":false,"text":"Die Messung erfolgt am Ausgang der Antennenleitung unter Einbeziehung des im Funkbetrieb verwendeten Antennenanpassgeräts."}
+    {
+      "correct":false,
+      "text":"Die Messung erfolgt am Ausgang der Antennenleitung unter Einbeziehung des im Funkbetrieb verwendeten Antennenanpassgeräts."
+    }
   ,
-    {"correct":false,"text":"Die Messung erfolgt am Senderausgang mit einem hochohmigen HF-Tastkopf und angeschlossenem Transistorvoltmeter."}
+    {
+      "correct":false,
+      "text":"Die Messung erfolgt am Senderausgang mit einem hochohmigen HF-Tastkopf und angeschlossenem Transistorvoltmeter."
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ATK101",
      "text":"<p>Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers? Es äußert sich durch</p>",
      "answer":[
-    {"correct":true,"text":"den Rückgang der Empfindlichkeit und ggf. das Auftreten von Brodelgeräuschen."}
+    {
+      "correct":true,
+      "text":"den Rückgang der Empfindlichkeit und ggf. das Auftreten von Brodelgeräuschen."
+    }
   ,
-    {"correct":false,"text":"Empfindlichkeitssteigerung."}
+    {
+      "correct":false,
+      "text":"Empfindlichkeitssteigerung."
+    }
   ,
-    {"correct":false,"text":"das Auftreten von Pfeifstellen im gesamten Abstimmungsbereich."}
+    {
+      "correct":false,
+      "text":"das Auftreten von Pfeifstellen im gesamten Abstimmungsbereich."
+    }
   ,
-    {"correct":false,"text":"eine zeitweilige Blockierung der Frequenzeinstellung."}
+    {
+      "correct":false,
+      "text":"eine zeitweilige Blockierung der Frequenzeinstellung."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"ATK102",
      "text":"<p>Welche Effekte werden durch Intermodulation hervorgerufen?</p>",
      "answer":[
-    {"correct":true,"text":"Es treten Phantomsignale auf, die bei Einschalten eines Abschwächers in den HF-Signalweg verschwinden."}
+    {
+      "correct":true,
+      "text":"Es treten Phantomsignale auf, die bei Einschalten eines Abschwächers in den HF-Signalweg verschwinden."
+    }
   ,
-    {"correct":false,"text":"Das Nutzsignal wird mit einem anderen Signal moduliert und dadurch unverständlich."}
+    {
+      "correct":false,
+      "text":"Das Nutzsignal wird mit einem anderen Signal moduliert und dadurch unverständlich."
+    }
   ,
-    {"correct":false,"text":"Es treten Pfeifstellen gleichen Abstands im gesamten Empfangsbereich auf."}
+    {
+      "correct":false,
+      "text":"Es treten Pfeifstellen gleichen Abstands im gesamten Empfangsbereich auf."
+    }
   ,
-    {"correct":false,"text":"Dem Empfangssignal ist ein pulsierendes Rauschen überlagert, das die Verständlichkeit beeinträchtigt."}
+    {
+      "correct":false,
+      "text":"Dem Empfangssignal ist ein pulsierendes Rauschen überlagert, das die Verständlichkeit beeinträchtigt."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"ATK103",
      "text":"<p>Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?</p>",
      "answer":[
-    {"correct":true,"text":"Durch Gleichrichtung starker HF-Signale an PN-Übergängen in der NF-Endstufe."}
+    {
+      "correct":true,
+      "text":"Durch Gleichrichtung starker HF-Signale an PN-Übergängen in der NF-Endstufe."
+    }
   ,
-    {"correct":false,"text":"Durch Gleichrichtung der ins Stromnetz eingestrahlten HF-Signale an den Dioden des Netzteils."}
+    {
+      "correct":false,
+      "text":"Durch Gleichrichtung der ins Stromnetz eingestrahlten HF-Signale an den Dioden des Netzteils."
+    }
   ,
-    {"correct":false,"text":"Durch Gleichrichtung abgestrahlter HF-Signale an PN-Übergängen in der NF-Vorstufe."}
+    {
+      "correct":false,
+      "text":"Durch Gleichrichtung abgestrahlter HF-Signale an PN-Übergängen in der NF-Vorstufe."
+    }
   ,
-    {"correct":false,"text":"Durch eine Übersteuerung des Tuners mit dem über die Antennenzuleitung aufgenommenen HF-Signal."}
+    {
+      "correct":false,
+      "text":"Durch eine Übersteuerung des Tuners mit dem über die Antennenzuleitung aufgenommenen HF-Signal."
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"ATK105",
      "text":"<p>In einem NF-Verstärker erfolgt die unerwünschte Gleichrichtung eines HF-Signals wahrscheinlich</p>",
      "answer":[
-    {"correct":true,"text":"an einem Basis-Emitter-Übergang."}
+    {
+      "correct":true,
+      "text":"an einem Basis-Emitter-Übergang."
+    }
   ,
-    {"correct":false,"text":"an der Lautsprecherleitung."}
+    {
+      "correct":false,
+      "text":"an der Lautsprecherleitung."
+    }
   ,
-    {"correct":false,"text":"an der Verbindung zweier Widerstände."}
+    {
+      "correct":false,
+      "text":"an der Verbindung zweier Widerstände."
+    }
   ,
-    {"correct":false,"text":"an einem Kupferdraht."}
+    {
+      "correct":false,
+      "text":"an einem Kupferdraht."
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"ATK107",
      "text":"<p>Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel</p>",
      "answer":[
-    {"correct":true,"text":"werden Gleichtakt-HF-Störsignale unterdrückt."}
+    {
+      "correct":true,
+      "text":"werden Gleichtakt-HF-Störsignale unterdrückt."
+    }
   ,
-    {"correct":false,"text":"werden niederfrequente Störsignale unterdrückt."}
+    {
+      "correct":false,
+      "text":"werden niederfrequente Störsignale unterdrückt."
+    }
   ,
-    {"correct":false,"text":"werden alle Wechselstromsignale unterdrückt."}
+    {
+      "correct":false,
+      "text":"werden alle Wechselstromsignale unterdrückt."
+    }
   ,
-    {"correct":false,"text":"wird Netzbrummen unterdrückt."}
+    {
+      "correct":false,
+      "text":"wird Netzbrummen unterdrückt."
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"ATK108",
      "text":"<p>Ein unselektiver TV-Vorverstärker wird am wahrscheinlichsten</p>",
      "answer":[
-    {"correct":true,"text":"durch Übersteuerung mit dem Signal eines nahen Sender störend beeinflusst."}
+    {
+      "correct":true,
+      "text":"durch Übersteuerung mit dem Signal eines nahen Sender störend beeinflusst."
+    }
   ,
-    {"correct":false,"text":"auf Grund von Netzeinwirkungen beim Betrieb eines nahen Senders störend beeinflusst."}
+    {
+      "correct":false,
+      "text":"auf Grund von Netzeinwirkungen beim Betrieb eines nahen Senders störend beeinflusst."
+    }
   ,
-    {"correct":false,"text":"durch Einwirkungen auf die Gleichstromversorgung beim Betrieb eines nahen Senders störend beeinflusst."}
+    {
+      "correct":false,
+      "text":"durch Einwirkungen auf die Gleichstromversorgung beim Betrieb eines nahen Senders störend beeinflusst."
+    }
   ,
-    {"correct":false,"text":"auf Grund seiner zu niedrigen Verstärkung beim Betrieb eines nahen Senders störend beeinflusst."}
+    {
+      "correct":false,
+      "text":"auf Grund seiner zu niedrigen Verstärkung beim Betrieb eines nahen Senders störend beeinflusst."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"ATK109",
      "text":"<p>HF-Einstrahlung in die ZF-Stufe eines Fernsehempfängers führt in der Regel zu</p>",
      "answer":[
-    {"correct":true,"text":"Problemen mit dem Fernsehempfang."}
+    {
+      "correct":true,
+      "text":"Problemen mit dem Fernsehempfang."
+    }
   ,
-    {"correct":false,"text":"mangelhafter Regelung der Stromversorgung."}
+    {
+      "correct":false,
+      "text":"mangelhafter Regelung der Stromversorgung."
+    }
   ,
-    {"correct":false,"text":"ungesteuertem Kanalwechsel."}
+    {
+      "correct":false,
+      "text":"ungesteuertem Kanalwechsel."
+    }
   ,
-    {"correct":false,"text":"fehlender Regelspannung für den Tuner."}
+    {
+      "correct":false,
+      "text":"fehlender Regelspannung für den Tuner."
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"ATK110",
      "text":"<p>Zur Verbesserung der Störfestigkeit gegenüber HF-Einstrahlungen können in einem NF-Leistungsverstärker</p>",
      "answer":[
-    {"correct":true,"text":"keramische Kondensatoren über die Basis- Emitter-Übergänge der Endstufentransistoren eingebaut werden."}
+    {
+      "correct":true,
+      "text":"keramische Kondensatoren über die Basis- Emitter-Übergänge der Endstufentransistoren eingebaut werden."
+    }
   ,
-    {"correct":false,"text":"HF-Drosseln über die Basis-Emitter-Übergänge der Endstufentransistoren eingebaut werden."}
+    {
+      "correct":false,
+      "text":"HF-Drosseln über die Basis-Emitter-Übergänge der Endstufentransistoren eingebaut werden."
+    }
   ,
-    {"correct":false,"text":"keramische Kondensatoren über die Emitterwiderstände der Endstufentransistoren eingebaut werden."}
+    {
+      "correct":false,
+      "text":"keramische Kondensatoren über die Emitterwiderstände der Endstufentransistoren eingebaut werden."
+    }
   ,
-    {"correct":false,"text":"HF-Drosseln parallel zu den Kollektor- und Emitteranschlüssen der Endstufentransistoren eingebaut werden."}
+    {
+      "correct":false,
+      "text":"HF-Drosseln parallel zu den Kollektor- und Emitteranschlüssen der Endstufentransistoren eingebaut werden."
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"ATK111",
      "text":"<p>Welche sofortige Reaktion ist angebracht, wenn der Nachbar sich über HF-Einströmungen beklagt?</p>",
      "answer":[
-    {"correct":true,"text":"Sie bieten höflich an, die erforderlichen Prüfungen in die Wege zu leiten."}
+    {
+      "correct":true,
+      "text":"Sie bieten höflich an, die erforderlichen Prüfungen in die Wege zu leiten."
+    }
   ,
-    {"correct":false,"text":"Er sollte höflich darauf hingewiesen werden, dass es an seiner eigenen Einrichtung liegt."}
+    {
+      "correct":false,
+      "text":"Er sollte höflich darauf hingewiesen werden, dass es an seiner eigenen Einrichtung liegt."
+    }
   ,
-    {"correct":false,"text":"Er sollte darauf hingewiesen werden, dass Sie hierfür nicht zuständig sind."}
+    {
+      "correct":false,
+      "text":"Er sollte darauf hingewiesen werden, dass Sie hierfür nicht zuständig sind."
+    }
   ,
-    {"correct":false,"text":"Sie benachrichtigen die Bundesnetzagentur und den RTA."}
+    {
+      "correct":false,
+      "text":"Sie benachrichtigen die Bundesnetzagentur und den RTA."
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"ATK112",
      "text":"<p>Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie kann das Signal in das Fernsehgerät eindringen?</p>",
      "answer":[
-    {"correct":true,"text":"Über jeden beliebigen Leitungsanschluss und/oder über die ZF-Stufen."}
+    {
+      "correct":true,
+      "text":"Über jeden beliebigen Leitungsanschluss und/oder über die ZF-Stufen."
+    }
   ,
-    {"correct":false,"text":"Über die Antennenleitung und über alle größeren ungeschirmten Spulen im Fernsehgerät (z.B. Entmagnetisierungsschleife)."}
+    {
+      "correct":false,
+      "text":"Über die Antennenleitung und über alle größeren ungeschirmten Spulen im Fernsehgerät (z.B. Entmagnetisierungsschleife)."
+    }
   ,
-    {"correct":false,"text":"Über die Stromversorgung des Senders und die Stromversorgung des Fernsehgeräts."}
+    {
+      "correct":false,
+      "text":"Über die Stromversorgung des Senders und die Stromversorgung des Fernsehgeräts."
+    }
   ,
-    {"correct":false,"text":"Über die Fernsehantenne bzw. das Antennenkabel sowie über die Bildröhre."}
+    {
+      "correct":false,
+      "text":"Über die Fernsehantenne bzw. das Antennenkabel sowie über die Bildröhre."
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"ATK113",
      "text":"<p>Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um die Störwahrscheinlichkeit auf ein Mindestmaß zu begrenzen? Sie sollte möglichst</p>",
      "answer":[
-    {"correct":true,"text":"rechtwinklig zur Häuserzeile angebracht werden."}
+    {
+      "correct":true,
+      "text":"rechtwinklig zur Häuserzeile angebracht werden."
+    }
   ,
-    {"correct":false,"text":"am gemeinsamen Schornstein neben der Fernsehantenne angebracht werden."}
+    {
+      "correct":false,
+      "text":"am gemeinsamen Schornstein neben der Fernsehantenne angebracht werden."
+    }
   ,
-    {"correct":false,"text":"entlang der Häuserzeile auf der Höhe der Dachrinne angebracht werden."}
+    {
+      "correct":false,
+      "text":"entlang der Häuserzeile auf der Höhe der Dachrinne angebracht werden."
+    }
   ,
-    {"correct":false,"text":"innerhalb des Dachbereichs angebracht werden."}
+    {
+      "correct":false,
+      "text":"innerhalb des Dachbereichs angebracht werden."
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"ATK114",
      "text":"<p>Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,</p>",
      "answer":[
-    {"correct":true,"text":"eine außen angebrachte Fernsehantenne zu installieren."}
+    {
+      "correct":true,
+      "text":"eine außen angebrachte Fernsehantenne zu installieren."
+    }
   ,
-    {"correct":false,"text":"ein doppelt geschirmtes Koaxialkabel für die Antennenleitung zu verwenden."}
+    {
+      "correct":false,
+      "text":"ein doppelt geschirmtes Koaxialkabel für die Antennenleitung zu verwenden."
+    }
   ,
-    {"correct":false,"text":"einen Vorverstärker in die Antennenleitung einzuschleifen."}
+    {
+      "correct":false,
+      "text":"einen Vorverstärker in die Antennenleitung einzuschleifen."
+    }
   ,
-    {"correct":false,"text":"den Fernsehrundfunkempfänger zu wechseln."}
+    {
+      "correct":false,
+      "text":"den Fernsehrundfunkempfänger zu wechseln."
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"ATK115",
      "text":"<p>Während des Betriebs eines tragbaren KW-Transceivers mit Batterieversorgung treten zu Hause und unter Verwendung der ortsfesten Antenne bei einer elektronischen Orgel Störungen auf. Eine mögliche Ursache hierfür</p>",
      "answer":[
-    {"correct":true,"text":"ist unzureichende HF-Erdung."}
+    {
+      "correct":true,
+      "text":"ist unzureichende HF-Erdung."
+    }
   ,
-    {"correct":false,"text":"ist die Erzeugung von Subharmonischen am Sender."}
+    {
+      "correct":false,
+      "text":"ist die Erzeugung von Subharmonischen am Sender."
+    }
   ,
-    {"correct":false,"text":"sind sehr starke Empfangssignale."}
+    {
+      "correct":false,
+      "text":"sind sehr starke Empfangssignale."
+    }
   ,
-    {"correct":false,"text":"ist die mangelhafte Stromversorgung des Senders."}
+    {
+      "correct":false,
+      "text":"ist die mangelhafte Stromversorgung des Senders."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"ATK116",
      "text":"<p>In welcher Entfernung von einer 70-cm-Sendeantenne sollte eine Fernsehantenne installiert werden, um das Störpotenzial möglichst gering zu halten? Sie sollte</p>",
      "answer":[
-    {"correct":true,"text":"so weit entfernt wie möglich installiert werden."}
+    {
+      "correct":true,
+      "text":"so weit entfernt wie möglich installiert werden."
+    }
   ,
-    {"correct":false,"text":"außerhalb des reaktiven Nahfeldes installiert werden."}
+    {
+      "correct":false,
+      "text":"außerhalb des reaktiven Nahfeldes installiert werden."
+    }
   ,
-    {"correct":false,"text":"in einer Entfernung von mindestens 4 Wellenlängen installiert werden."}
+    {
+      "correct":false,
+      "text":"in einer Entfernung von mindestens 4 Wellenlängen installiert werden."
+    }
   ,
-    {"correct":false,"text":"in einer Entfernung von mindestens einer halben Wellenlänge bei 432 MHz installiert werden."}
+    {
+      "correct":false,
+      "text":"in einer Entfernung von mindestens einer halben Wellenlänge bei 432 MHz installiert werden."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"ATK117",
      "text":"<p>Ein starkes HF-Signal gelangt in die ZF-Stufe des Rundfunkempfängers des Nachbarn. Dieses Phänomen wird als</p>",
      "answer":[
-    {"correct":true,"text":"Direkteinstrahlung bezeichnet."}
+    {
+      "correct":true,
+      "text":"Direkteinstrahlung bezeichnet."
+    }
   ,
-    {"correct":false,"text":"Direktabsorption bezeichnet."}
+    {
+      "correct":false,
+      "text":"Direktabsorption bezeichnet."
+    }
   ,
-    {"correct":false,"text":"Direktmischung bezeichnet."}
+    {
+      "correct":false,
+      "text":"Direktmischung bezeichnet."
+    }
   ,
-    {"correct":false,"text":"HF-Durchschlag bezeichnet."}
+    {
+      "correct":false,
+      "text":"HF-Durchschlag bezeichnet."
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"ATK118",
      "text":"<p>Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist</p>",
      "answer":[
-    {"correct":true,"text":"die zuständige Außenstelle der Bundesnetzagentur um Prüfung der Gegebenheiten zu bitten."}
+    {
+      "correct":true,
+      "text":"die zuständige Außenstelle der Bundesnetzagentur um Prüfung der Gegebenheiten zu bitten."
+    }
   ,
-    {"correct":false,"text":"der Sender an die Bundesnetzagentur zu senden."}
+    {
+      "correct":false,
+      "text":"der Sender an die Bundesnetzagentur zu senden."
+    }
   ,
-    {"correct":false,"text":"die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."}
+    {
+      "correct":false,
+      "text":"die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."
+    }
   ,
-    {"correct":false,"text":"der EMV-Beauftragte des RTA um Prüfung des Fernsehgeräts zu bitten."}
+    {
+      "correct":false,
+      "text":"der EMV-Beauftragte des RTA um Prüfung des Fernsehgeräts zu bitten."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"ATK119",
      "text":"<p>Während einer ATV-Aussendung erscheint das Bild auch auf dem Fernsehgerät der Nachbarn. Eine mögliche Abhilfe der Störung wäre die</p>",
      "answer":[
-    {"correct":true,"text":"Verminderung der Ausgangsleistung."}
+    {
+      "correct":true,
+      "text":"Verminderung der Ausgangsleistung."
+    }
   ,
-    {"correct":false,"text":"Erhöhung des Modulationsgrades der ATV-Aussendung."}
+    {
+      "correct":false,
+      "text":"Erhöhung des Modulationsgrades der ATV-Aussendung."
+    }
   ,
-    {"correct":false,"text":"Verringerung von Bildkontrast und -helligkeit beim Nachbarn."}
+    {
+      "correct":false,
+      "text":"Verringerung von Bildkontrast und -helligkeit beim Nachbarn."
+    }
   ,
-    {"correct":false,"text":"Verbesserung der Seitenbandunterdrückung beim Nachbarn."}
+    {
+      "correct":false,
+      "text":"Verbesserung der Seitenbandunterdrückung beim Nachbarn."
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"ATK120",
      "text":"<p>Bei einem Besuch beim Nachbarn zur Prüfung von Fernsehrundfunkstörungen ist zunächst</p>",
      "answer":[
-    {"correct":true,"text":"die Antennenleitung vom Fernsehgeräts zu trennen um zu prüfen, ob die Störungen anhalten."}
+    {
+      "correct":true,
+      "text":"die Antennenleitung vom Fernsehgeräts zu trennen um zu prüfen, ob die Störungen anhalten."
+    }
   ,
-    {"correct":false,"text":"das Fernsehgerät zu erden und abzuschalten um zu prüfen, ob die Störungen anhalten."}
+    {
+      "correct":false,
+      "text":"das Fernsehgerät zu erden und abzuschalten um zu prüfen, ob die Störungen anhalten."
+    }
   ,
-    {"correct":false,"text":"die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."}
+    {
+      "correct":false,
+      "text":"die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."
+    }
   ,
-    {"correct":false,"text":"der Netzstecker aus der Steckdose zu ziehen um zu prüfen, ob die Störung über das Netz eingeschleppt wird."}
+    {
+      "correct":false,
+      "text":"der Netzstecker aus der Steckdose zu ziehen um zu prüfen, ob die Störung über das Netz eingeschleppt wird."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"ATK204",
      "text":"<p>Bei einem Sender mit mehr als 2,5 mW Ausgangsleistung sollte die Dämpfung der Oberwellen im Frequenzbereich 1,7-35 MHz mindestens</p>",
      "answer":[
-    {"correct":true,"text":"40 dB betragen."}
+    {
+      "correct":true,
+      "text":"40 dB betragen."
+    }
   ,
-    {"correct":false,"text":"60 dB betragen."}
+    {
+      "correct":false,
+      "text":"60 dB betragen."
+    }
   ,
-    {"correct":false,"text":"100 dB betragen."}
+    {
+      "correct":false,
+      "text":"100 dB betragen."
+    }
   ,
-    {"correct":false,"text":"20 dB betragen."}
+    {
+      "correct":false,
+      "text":"20 dB betragen."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"ATK206",
      "text":"<p>Die gesamte Bandbreite einer FMAussendung beträgt 15 kHz. Wie groß ist der Abstand der Mittenfrequenz von der Bandgrenze mindestens zu wählen, damit die Aussendung innerhalb des Bandes bleibt?</p>",
      "answer":[
-    {"correct":true,"text":"7,5 kHz"}
+    {
+      "correct":true,
+      "text":"7,5 kHz"
+    }
   ,
-    {"correct":false,"text":"0 kHz"}
+    {
+      "correct":false,
+      "text":"0 kHz"
+    }
   ,
-    {"correct":false,"text":"15 kHz"}
+    {
+      "correct":false,
+      "text":"15 kHz"
+    }
   ,
-    {"correct":false,"text":"2,7 kHz"}
+    {
+      "correct":false,
+      "text":"2,7 kHz"
+    }
   ]
     }
   ,
@@ -396,13 +708,25 @@
      "id":"ATK215",
      "text":"<p>Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF festgestellt. Eine mögliche Abhilfe wäre</p>",
      "answer":[
-    {"correct":true,"text":"geschirmte Lautsprecherleitungen zu verwenden."}
+    {
+      "correct":true,
+      "text":"geschirmte Lautsprecherleitungen zu verwenden."
+    }
   ,
-    {"correct":false,"text":"ein NF-Filter in das Koaxialkabel einzuschleifen."}
+    {
+      "correct":false,
+      "text":"ein NF-Filter in das Koaxialkabel einzuschleifen."
+    }
   ,
-    {"correct":false,"text":"einen Serienkondensator in die Lautsprecherleitung einzubauen."}
+    {
+      "correct":false,
+      "text":"einen Serienkondensator in die Lautsprecherleitung einzubauen."
+    }
   ,
-    {"correct":false,"text":"eine geschirmtes Netzkabel für den Receiver zu verwenden."}
+    {
+      "correct":false,
+      "text":"eine geschirmtes Netzkabel für den Receiver zu verwenden."
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"ATK216",
      "text":"<p>Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden</p>",
      "answer":[
-    {"correct":true,"text":"mit keiner höheren Leistung zu senden, als für eine sichere Kommunikation unbedingt erforderlich ist."}
+    {
+      "correct":true,
+      "text":"mit keiner höheren Leistung zu senden, als für eine sichere Kommunikation unbedingt erforderlich ist."
+    }
   ,
-    {"correct":false,"text":"nur mit effektiver Leistung zu senden."}
+    {
+      "correct":false,
+      "text":"nur mit effektiver Leistung zu senden."
+    }
   ,
-    {"correct":false,"text":"die Benutzung der Fernseh-Frequenzbereiche zu vermeiden."}
+    {
+      "correct":false,
+      "text":"die Benutzung der Fernseh-Frequenzbereiche zu vermeiden."
+    }
   ,
-    {"correct":false,"text":"die Antenne unterhalb der Dachhöhe herabzulassen."}
+    {
+      "correct":false,
+      "text":"die Antenne unterhalb der Dachhöhe herabzulassen."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"ATK217",
      "text":"<p>Falls sich eine Sendeantenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,</p>",
      "answer":[
-    {"correct":true,"text":"können HF-Spannungen ins Netz einkoppeln."}
+    {
+      "correct":true,
+      "text":"können HF-Spannungen ins Netz einkoppeln."
+    }
   ,
-    {"correct":false,"text":"können harmonische Schwingungen erzeugt werden."}
+    {
+      "correct":false,
+      "text":"können harmonische Schwingungen erzeugt werden."
+    }
   ,
-    {"correct":false,"text":"könnte erhebliche Überspannung im Netz erzeugt werden."}
+    {
+      "correct":false,
+      "text":"könnte erhebliche Überspannung im Netz erzeugt werden."
+    }
   ,
-    {"correct":false,"text":"kann 50-Hz-Modulation beim Sendesignal auftreten."}
+    {
+      "correct":false,
+      "text":"kann 50-Hz-Modulation beim Sendesignal auftreten."
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"ATK218",
      "text":"<p>Zur Verhinderung von Fernsehstörungen, die durch Mantelwellen hervorgerufen werden, ist anstelle einer Mantelwellendrossel alternativ</p>",
      "answer":[
-    {"correct":true,"text":"der Einbau eines HF-Trenntrafos möglich."}
+    {
+      "correct":true,
+      "text":"der Einbau eines HF-Trenntrafos möglich."
+    }
   ,
-    {"correct":false,"text":"der Einbau eines Tiefpassfilters nach dem Senderausgang möglich."}
+    {
+      "correct":false,
+      "text":"der Einbau eines Tiefpassfilters nach dem Senderausgang möglich."
+    }
   ,
-    {"correct":false,"text":"der Einbau eines Bandpassfilters nach dem Senderausgang möglich."}
+    {
+      "correct":false,
+      "text":"der Einbau eines Bandpassfilters nach dem Senderausgang möglich."
+    }
   ,
-    {"correct":false,"text":"der Einbau einer seriellen Drosselspule in den Innenleiter der Empfangsantennenleitung möglich."}
+    {
+      "correct":false,
+      "text":"der Einbau einer seriellen Drosselspule in den Innenleiter der Empfangsantennenleitung möglich."
+    }
   ]
     }
   ,
@@ -456,13 +816,25 @@
      "id":"ATK219",
      "text":"<p>Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu</p>",
      "answer":[
-    {"correct":true,"text":"einer Übersteuerung eines TV-Empfängers."}
+    {
+      "correct":true,
+      "text":"einer Übersteuerung eines TV-Empfängers."
+    }
   ,
-    {"correct":false,"text":"Problemen mit dem 435-MHz-Empfänger."}
+    {
+      "correct":false,
+      "text":"Problemen mit dem 435-MHz-Empfänger."
+    }
   ,
-    {"correct":false,"text":"Eigenschwingungen des 435-MHz-Senders."}
+    {
+      "correct":false,
+      "text":"Eigenschwingungen des 435-MHz-Senders."
+    }
   ,
-    {"correct":false,"text":"dem Durchschlag des TV-Antennenkoaxialkabels."}
+    {
+      "correct":false,
+      "text":"dem Durchschlag des TV-Antennenkoaxialkabels."
+    }
   ]
     }
   ,
@@ -471,13 +843,25 @@
      "id":"ATK220",
      "text":"<p>Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch</p>",
      "answer":[
-    {"correct":true,"text":"1,8-MHz-Sender."}
+    {
+      "correct":true,
+      "text":"1,8-MHz-Sender."
+    }
   ,
-    {"correct":false,"text":"UHF-Sender."}
+    {
+      "correct":false,
+      "text":"UHF-Sender."
+    }
   ,
-    {"correct":false,"text":"VHF-Sender."}
+    {
+      "correct":false,
+      "text":"VHF-Sender."
+    }
   ,
-    {"correct":false,"text":"28-MHz-Sender"}
+    {
+      "correct":false,
+      "text":"28-MHz-Sender"
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"ATK221",
      "text":"<p>Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn</p>",
      "answer":[
-    {"correct":true,"text":"kann in Verbindung mit dem Signal naher Sender unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören."}
+    {
+      "correct":true,
+      "text":"kann in Verbindung mit dem Signal naher Sender unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören."
+    }
   ,
-    {"correct":false,"text":"kann in Verbindung mit dem Oszillatorsignal des Fernsehempfängers unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören."}
+    {
+      "correct":false,
+      "text":"kann in Verbindung mit dem Oszillatorsignal des Fernsehempfängers unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören."
+    }
   ,
-    {"correct":false,"text":"kann in Verbindung mit Einstreuungen aus dem Stromnetz durch Intermodulation Bild- und Tonstörungen hervorrufen."}
+    {
+      "correct":false,
+      "text":"kann in Verbindung mit Einstreuungen aus dem Stromnetz durch Intermodulation Bild- und Tonstörungen hervorrufen."
+    }
   ,
-    {"correct":false,"text":"kann in Verbindung mit dem Signal naher Sender parametrische Schwingungen erzeugen, die einen überhöhten Nutzsignalpegel hervorrufen."}
+    {
+      "correct":false,
+      "text":"kann in Verbindung mit dem Signal naher Sender parametrische Schwingungen erzeugen, die einen überhöhten Nutzsignalpegel hervorrufen."
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"ATK222",
      "text":"<p>Eine 435-MHz-Sendeantenne mit 1 kW ERP ist unmittelbar auf die Fernsehantenne des Nachbarn gerichtet. Dies führt gegebenenfalls</p>",
      "answer":[
-    {"correct":true,"text":"zur Übersteuerung der Vorstufe des Fernsehers."}
+    {
+      "correct":true,
+      "text":"zur Übersteuerung der Vorstufe des Fernsehers."
+    }
   ,
-    {"correct":false,"text":"zur Erzeugung von parasitären Schwingungen."}
+    {
+      "correct":false,
+      "text":"zur Erzeugung von parasitären Schwingungen."
+    }
   ,
-    {"correct":false,"text":"zu unerwünschten Reflexionen des Sendesignals."}
+    {
+      "correct":false,
+      "text":"zu unerwünschten Reflexionen des Sendesignals."
+    }
   ,
-    {"correct":false,"text":"zu Zeilenfrequenzstörungen beim 435-MHz-Empfang."}
+    {
+      "correct":false,
+      "text":"zu Zeilenfrequenzstörungen beim 435-MHz-Empfang."
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"ATK301",
      "text":"<p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>",
      "answer":[
-    {"correct":true,"text":"auf das für eine zufrieden stellende Kommunikation erforderliche Minimum eingestellt werden."}
+    {
+      "correct":true,
+      "text":"auf das für eine zufrieden stellende Kommunikation erforderliche Minimum eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"nur auf den zulässigen Pegel eingestellt werden."}
+    {
+      "correct":false,
+      "text":"nur auf den zulässigen Pegel eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"auf die für eine zufrieden stellende Kommunikation erforderlichen 750 W eingestellt werden."}
+    {
+      "correct":false,
+      "text":"auf die für eine zufrieden stellende Kommunikation erforderlichen 750 W eingestellt werden."
+    }
   ,
-    {"correct":false,"text":"die Hälfte des maximal zulässigen Pegels betragen."}
+    {
+      "correct":false,
+      "text":"die Hälfte des maximal zulässigen Pegels betragen."
+    }
   ]
     }
   ,
@@ -531,13 +951,25 @@
      "id":"ATK304",
      "text":"<p>Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?</p>",
      "answer":[
-    {"correct":true,"text":"Hochpassfilter"}
+    {
+      "correct":true,
+      "text":"Hochpassfilter"
+    }
   ,
-    {"correct":false,"text":"Tiefpassfilter"}
+    {
+      "correct":false,
+      "text":"Tiefpassfilter"
+    }
   ,
-    {"correct":false,"text":"Bandsperre für die Fernsehbereiche"}
+    {
+      "correct":false,
+      "text":"Bandsperre für die Fernsehbereiche"
+    }
   ,
-    {"correct":false,"text":"Regelbares Dämpfungsglied"}
+    {
+      "correct":false,
+      "text":"Regelbares Dämpfungsglied"
+    }
   ]
     }
   ,
@@ -546,13 +978,25 @@
      "id":"ATK310",
      "text":"<p>Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter sollte man am besten in das Fernsehantennenkabel einschleifen, um die Störwahrscheinlichkeit zu verringern?</p>",
      "answer":[
-    {"correct":true,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACnUlEQVRYw+3YvW/TUBAA8LOTtpRWJVXFwgARExIMYUMoUjMEqQMqjAyoZGShwGQvYEQL3Sh/AYGOXSLB2MEVhbkTs4valK3hozR2HfuwnaF283xnYyFUybc8xbJ/ej6f34sPMGtALpwQwVnruGtGFqELug1aLqQR9lILe1GhXar6w269yQqfb+j+sCHNRYSKUjYQ3QqMRM42fWE5cqhXgjFvcGSlEBbscfx6bUldAID7SigWfWEmfER9DCCpirpwHtf1kNA9g/sgDE8Qxy38roWEw6M5zPBz8OYZzKEVzsPV1SAPJZC5PHhzGgrysDoVyeRO6bI/fIIq+yxWIHgI76VZYT2AwQq2LKwHFP8UCkXqEhc6uSAQbMVwFD2NgMcEUfRIwZRYANuUYFfOsYAFVwjh7XX+Jhp3kRDO8vfgjCIhWBO88HuaEn7d44WtJiloCQSdEgZnOBg/NUrojfGCOUEJWNtkBXeqQwnbIzyxfmmTELB8ihUcGCcEc/ImK+zKc4Tw7AkLYO0NkQeXvwd/fySE7gVeGKzbSE0+5IWt1r8Vst+FkyCTh2QmsdHkiYpOCQeFp6ywXWwSglsaZQWbrGpLqrLCgTxLCK8f8HlovCLy4A7xgE2u1WaCtXp/mhJOylr9Q6ME5zQvWPRafVvniYsGJewkqOqPZFVjhX87XbKqs79Zmd/u7CtMvlb3I/uul33n9T7M+N2/LVG7P36RWQE/DFNCkv/22b8O0n2h/A8hSXsqTuh/wToJBKsYvuJ4D2QjQUG8g/ngVGEPBMsgcYnoAfiTEPdAlEUA8AYq1OfeOXfS9EBiQ9gDUV7yc1BeHM2hFc5DvweCj6DA5QFrMIzxPRCrPs8+i2/1ZX+I64GkiJgeyF9ELuRCLgzGH7s0wheK+J8hAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atg513c'/>"}
+    {
+      "correct":true,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACnUlEQVRYw+3YvW/TUBAA8LOTtpRWJVXFwgARExIMYUMoUjMEqQMqjAyoZGShwGQvYEQL3Sh/AYGOXSLB2MEVhbkTs4valK3hozR2HfuwnaF283xnYyFUybc8xbJ/ej6f34sPMGtALpwQwVnruGtGFqELug1aLqQR9lILe1GhXar6w269yQqfb+j+sCHNRYSKUjYQ3QqMRM42fWE5cqhXgjFvcGSlEBbscfx6bUldAID7SigWfWEmfER9DCCpirpwHtf1kNA9g/sgDE8Qxy38roWEw6M5zPBz8OYZzKEVzsPV1SAPJZC5PHhzGgrysDoVyeRO6bI/fIIq+yxWIHgI76VZYT2AwQq2LKwHFP8UCkXqEhc6uSAQbMVwFD2NgMcEUfRIwZRYANuUYFfOsYAFVwjh7XX+Jhp3kRDO8vfgjCIhWBO88HuaEn7d44WtJiloCQSdEgZnOBg/NUrojfGCOUEJWNtkBXeqQwnbIzyxfmmTELB8ihUcGCcEc/ImK+zKc4Tw7AkLYO0NkQeXvwd/fySE7gVeGKzbSE0+5IWt1r8Vst+FkyCTh2QmsdHkiYpOCQeFp6ywXWwSglsaZQWbrGpLqrLCgTxLCK8f8HlovCLy4A7xgE2u1WaCtXp/mhJOylr9Q6ME5zQvWPRafVvniYsGJewkqOqPZFVjhX87XbKqs79Zmd/u7CtMvlb3I/uul33n9T7M+N2/LVG7P36RWQE/DFNCkv/22b8O0n2h/A8hSXsqTuh/wToJBKsYvuJ4D2QjQUG8g/ngVGEPBMsgcYnoAfiTEPdAlEUA8AYq1OfeOXfS9EBiQ9gDUV7yc1BeHM2hFc5DvweCj6DA5QFrMIzxPRCrPs8+i2/1ZX+I64GkiJgeyF9ELuRCLgzGH7s0wheK+J8hAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atg513c'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACxElEQVRYw+2YTWgTQRSA3yZNYrBqoodikdKbWkHXWynS5qCIF13Bg4cqe/TW1MvkYnvwJ4KIUQ+eSisehF5SFE+priCeBNeLhyIY/KkFtYnkp7VNsuObTXazMZk0IQoV5x0e897MfPPmZZZHHtBOBQRBEP4RQnGe6UQS1bdnqEqJNgkFGfZTehu6NPoWYIIWQrB7A0Kq1q2OflfGsr73D/xFaWohmIwNLYdHapekagmLgSMVx5NjOobgp3TNF8aROj5M6ccTXryXD/1nRi3AC+l8DUEm/cly+AB7KM2w88K4heakNHOeYnaSzoGklzeUXMTtJBS66YfBKCEkMg4gRSLKNDrfbEO15mXz/aY9GA0A9LBlJHK5jz7XHITVHTQHDpFYQFkWSGmAzV80becKjOrHpIOwbsegshjIzd/ybZjq3jWoiSHuzMPh2Uoe8gBb+a9HAdCsPMzuqsnk58CBymmKK84nLMKANXwkneS8h0yTEDClGu89VCXXlBDS6lyCIAiCIAiC0C6huylBb054l0gkHm9BNd9gcwn9CfkGKp1PkO2qmK4nVMvm9r9JeEgqEmlwi3Vrktxqnsm25Q8TUrY0WGnYk2k+4XSwIjsbEPLWZPAQn7AZfs3O3ySTzr4Lk7AZvm5BEARBEIT/geBofLzSURWetklYAjhHSwr0pOkdcGt0KYB2c4Jda3N+VMXg1EJAnxlaDg+veF6/9Brypa9ynBGm7Z28HoihSrgye5DST70eRLlV3BO7i2Uoj8XuC/RaAG4PJAeAq2MYrBHoQ3vObISwf/wGAkMAenkDvweiALiuR83qr46hypiNEBezlQtXsezua60Hwg6m99nFV0fYgXuZPdNaDwRj8ERJ3ExJNd9pM1DCYjhLNuiBrIDZ9+GICl3UygOvB0KvHE/zCT+PTlhDfg+kZeH2QNoWQRAEQaiXX7ePksO8qy7vAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atk310b'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACxElEQVRYw+2YTWgTQRSA3yZNYrBqoodikdKbWkHXWynS5qCIF13Bg4cqe/TW1MvkYnvwJ4KIUQ+eSisehF5SFE+priCeBNeLhyIY/KkFtYnkp7VNsuObTXazMZk0IQoV5x0e897MfPPmZZZHHtBOBQRBEP4RQnGe6UQS1bdnqEqJNgkFGfZTehu6NPoWYIIWQrB7A0Kq1q2OflfGsr73D/xFaWohmIwNLYdHapekagmLgSMVx5NjOobgp3TNF8aROj5M6ccTXryXD/1nRi3AC+l8DUEm/cly+AB7KM2w88K4heakNHOeYnaSzoGklzeUXMTtJBS66YfBKCEkMg4gRSLKNDrfbEO15mXz/aY9GA0A9LBlJHK5jz7XHITVHTQHDpFYQFkWSGmAzV80becKjOrHpIOwbsegshjIzd/ybZjq3jWoiSHuzMPh2Uoe8gBb+a9HAdCsPMzuqsnk58CBymmKK84nLMKANXwkneS8h0yTEDClGu89VCXXlBDS6lyCIAiCIAiC0C6huylBb054l0gkHm9BNd9gcwn9CfkGKp1PkO2qmK4nVMvm9r9JeEgqEmlwi3Vrktxqnsm25Q8TUrY0WGnYk2k+4XSwIjsbEPLWZPAQn7AZfs3O3ySTzr4Lk7AZvm5BEARBEIT/geBofLzSURWetklYAjhHSwr0pOkdcGt0KYB2c4Jda3N+VMXg1EJAnxlaDg+veF6/9Brypa9ynBGm7Z28HoihSrgye5DST70eRLlV3BO7i2Uoj8XuC/RaAG4PJAeAq2MYrBHoQ3vObISwf/wGAkMAenkDvweiALiuR83qr46hypiNEBezlQtXsezua60Hwg6m99nFV0fYgXuZPdNaDwRj8ERJ3ExJNd9pM1DCYjhLNuiBrIDZ9+GICl3UygOvB0KvHE/zCT+PTlhDfg+kZeH2QNoWQRAEQaiXX7ePksO8qy7vAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atk310b'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACQUlEQVRYw+2YT0gUcRTH387uuiyWjXgQQUTw4EGK/lwiozrUVT16MNuTeEo7/TY6LCSy3Vyhq5h1CLys5XHFFcSToHQKDyWiImTOhFay7c683pt0G5vf6LZLtIff9/D4zXtvPvN+b37DwAOsVKAIilDdBCvDdnmVTGHO5c+sk9mdJ2NnzNMIVg80mjgL2iTmWqGz6B+HUBZ3AO5zRsSUEgzHvrixN3zre3hlqQZjfZ97ho6CB5GPr6JW/cSavrrQ9GG82XVHkbCt3+QKw1R8MDWJmBqIIuZqEZfuZRGHaVex55cQN5saTLTb+I7FQP8JwmXRSjv9VkfLmRCZQ0iQvYoFHWrRitD6KxDK1ls4gx5haSLoJuTP4cb1ZDz2gNb7UW4IcOtSvY8AAvGR87TOaZwY443tNybjIy24kHURDi/QM0hpXl9kzzU27+CXbjOznT1TTgb7uvFLwkX44dQgnjgXv1ttJakGGHxsFt22438tnBrS7j5cmeY+eJUHCEvPkaVNN5zo5JbeIU3El9AvD7wNdMnOg6QIzSfw53nwVT50RoIiKIIiKIIiVEgoVER4L4QY1Z6RzZZJmIFjJf4bYTdzrPUyCaXp3xIq30U1vIs39SRgM1YmwTYM41OQjIFlEljV8G0qgiIogiIoQvUQ/H4qOV+CdAYi0RQ8lAfkMxCvCgDyIuQzEOFR/Cn9uHuFJOA3A/kLyWcgXo2eVkPa3Qe/GQjegRqfPpQ6A9m5OyYPlDwD8VepM5CzpQiKoAhe/QSpUhb8TfhdLgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atg513a'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACQUlEQVRYw+2YT0gUcRTH387uuiyWjXgQQUTw4EGK/lwiozrUVT16MNuTeEo7/TY6LCSy3Vyhq5h1CLys5XHFFcSToHQKDyWiImTOhFay7c683pt0G5vf6LZLtIff9/D4zXtvPvN+b37DwAOsVKAIilDdBCvDdnmVTGHO5c+sk9mdJ2NnzNMIVg80mjgL2iTmWqGz6B+HUBZ3AO5zRsSUEgzHvrixN3zre3hlqQZjfZ97ho6CB5GPr6JW/cSavrrQ9GG82XVHkbCt3+QKw1R8MDWJmBqIIuZqEZfuZRGHaVex55cQN5saTLTb+I7FQP8JwmXRSjv9VkfLmRCZQ0iQvYoFHWrRitD6KxDK1ls4gx5haSLoJuTP4cb1ZDz2gNb7UW4IcOtSvY8AAvGR87TOaZwY443tNybjIy24kHURDi/QM0hpXl9kzzU27+CXbjOznT1TTgb7uvFLwkX44dQgnjgXv1ttJakGGHxsFt22438tnBrS7j5cmeY+eJUHCEvPkaVNN5zo5JbeIU3El9AvD7wNdMnOg6QIzSfw53nwVT50RoIiKIIiKIIiVEgoVER4L4QY1Z6RzZZJmIFjJf4bYTdzrPUyCaXp3xIq30U1vIs39SRgM1YmwTYM41OQjIFlEljV8G0qgiIogiIoQvUQ/H4qOV+CdAYi0RQ8lAfkMxCvCgDyIuQzEOFR/Cn9uHuFJOA3A/kLyWcgXo2eVkPa3Qe/GQjegRqfPpQ6A9m5OyYPlDwD8VepM5CzpQiKoAhe/QSpUhb8TfhdLgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atg513a'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACPElEQVRYw2P4TylgGDVh0Jrwb/f9/7vPU2LCb4b6fwz2FJvgPyhNAAfN633ggHpPjgkTGVn2/3/OwBD7/28AA/t7rCa8xWfCY/Z7mzn/CM69KXD+gOTdiTJgwXuoJjwVsME04YjJfggjAeiHhMl6QKM4mN///6cMEjvMGIdigkGFwn0w4w/ChD8CDNxgxl92IPGFAWjcPwE5IHPDfKAYUzszsgm/ef4/VC8HgVKQCRBmIQMDI5hRxAtU8pMJ7Jp8IPFJHCgm9//AfiQTvvMD7YACoAnoAOSmv+oghYvWg1RDxD7UI5nwC+gGiw4QaAOZoAFmNgLVVYAYnYjA/wcmV3R0NAPdsB45HAxXYYbDbwYGVpzp6C/TKmHUuBDUxoyLRQxxOE34v0kQNS7+v8OSHn4z/ccDYDrwpcnfLP+JAMPYBHtKTPjbcf7/jPWUmIDinlETRk0YNWGYmvCHIhOupaWlpTACibT9ZJqwAV5p1g+YCX/OwMB7Mk0gHtDOhFerYOA+mSYMhrg4pKSkpMgAJJTmk2kCCPwaBDlr1IRRE0ZNGDVh1IThZsIdLHI/mPHpPItqwhUGbUw1DQy+uA3YBJOEmPBPcZbDeQxPMDDgdsQflpVC75FM+MX7/6NoKBoIBFbcpqE4QKD8/wvrkUxAHgMhEqCNgfzm/n/BaxUaWA5UV7UKB1jC+3/DfuSQdOgQfI/h1wQGDpzh8E+wgwUlLr4p+WCq+pm2HndcHFHKRzGBAjBqwqgJoybQwgQASYPlJ0eKbKEAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg513d'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACPElEQVRYw2P4TylgGDVh0Jrwb/f9/7vPU2LCb4b6fwz2FJvgPyhNAAfN633ggHpPjgkTGVn2/3/OwBD7/28AA/t7rCa8xWfCY/Z7mzn/CM69KXD+gOTdiTJgwXuoJjwVsME04YjJfggjAeiHhMl6QKM4mN///6cMEjvMGIdigkGFwn0w4w/ChD8CDNxgxl92IPGFAWjcPwE5IHPDfKAYUzszsgm/ef4/VC8HgVKQCRBmIQMDI5hRxAtU8pMJ7Jp8IPFJHCgm9//AfiQTvvMD7YACoAnoAOSmv+oghYvWg1RDxD7UI5nwC+gGiw4QaAOZoAFmNgLVVYAYnYjA/wcmV3R0NAPdsB45HAxXYYbDbwYGVpzp6C/TKmHUuBDUxoyLRQxxOE34v0kQNS7+v8OSHn4z/ccDYDrwpcnfLP+JAMPYBHtKTPjbcf7/jPWUmIDinlETRk0YNWGYmvCHIhOupaWlpTACibT9ZJqwAV5p1g+YCX/OwMB7Mk0gHtDOhFerYOA+mSYMhrg4pKSkpMgAJJTmk2kCCPwaBDlr1IRRE0ZNGDVh1IThZsIdLHI/mPHpPItqwhUGbUw1DQy+uA3YBJOEmPBPcZbDeQxPMDDgdsQflpVC75FM+MX7/6NoKBoIBFbcpqE4QKD8/wvrkUxAHgMhEqCNgfzm/n/BaxUaWA5UV7UKB1jC+3/DfuSQdOgQfI/h1wQGDpzh8E+wgwUlLr4p+WCq+pm2HndcHFHKRzGBAjBqwqgJoybQwgQASYPlJ0eKbKEAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg513d'/>"
+    }
   ]
     }
   ,
@@ -561,13 +1005,25 @@
      "id":"ATK311",
      "text":"<p>Die Einfügungsdämpfung im Durchlassbereich eines passiven Hochpassfilters für ein Fernsehantennenkabel sollte</p>",
      "answer":[
-    {"correct":true,"text":"höchstens 2 bis 3 dB betragen."}
+    {
+      "correct":true,
+      "text":"höchstens 2 bis 3 dB betragen."
+    }
   ,
-    {"correct":false,"text":"höchstens 10 bis 15 dB betragen."}
+    {
+      "correct":false,
+      "text":"höchstens 10 bis 15 dB betragen."
+    }
   ,
-    {"correct":false,"text":"mindestens 40 bis 60 dB betragen."}
+    {
+      "correct":false,
+      "text":"mindestens 40 bis 60 dB betragen."
+    }
   ,
-    {"correct":false,"text":"mindestens 80 bis 100 dB betragen."}
+    {
+      "correct":false,
+      "text":"mindestens 80 bis 100 dB betragen."
+    }
   ]
     }
   ,
@@ -576,13 +1032,25 @@
      "id":"ATK312",
      "text":"<p>Ein Nachbar beschwert sich über Störungen seines Fernsehempfängers, die allerdings auch bei abgeschalteter TV-Antenne auftreten. Die Störungen fallen zeitlich mit den Übertragungszeiten des Funkamateurs zusammen. Als erster Schritt</p>",
      "answer":[
-    {"correct":true,"text":"ist ein Netzfilter vorzusehen."}
+    {
+      "correct":true,
+      "text":"ist ein Netzfilter vorzusehen."
+    }
   ,
-    {"correct":false,"text":"ist das Fernsehgerät und der Sender von der Bundesnetzagentur zu überprüfen."}
+    {
+      "correct":false,
+      "text":"ist das Fernsehgerät und der Sender von der Bundesnetzagentur zu überprüfen."
+    }
   ,
-    {"correct":false,"text":"ist die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."}
+    {
+      "correct":false,
+      "text":"ist die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden."
+    }
   ,
-    {"correct":false,"text":"ist der EMV-Beauftragte des RTA um Prüfung des Fernsehgeräts zu bitten."}
+    {
+      "correct":false,
+      "text":"ist der EMV-Beauftragte des RTA um Prüfung des Fernsehgeräts zu bitten."
+    }
   ]
     }
   ,
@@ -591,13 +1059,25 @@
      "id":"ATK313",
      "text":"<p>Welches der nachfolgenden Filter könnte vor einem Netzanschlusskabel eingeschleift werden, um darüber fließende HF-Ströme wirksam zu dämpfen?</p>",
      "answer":[
-    {"correct":true,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADE0lEQVRYw+2Yz0sUYRjHH/eXRSpjHbTAEAqCoFroVpB7eKOiQA8dgqg8ekoFYRci1gJbb7v9uEWs+gfkRh2KSWeDPAUtdJGQ2KCDlOSAWus6u/P0PLPuarszsw4mJMwD87zz/pjP+8wz78w7fAG3a+ASdpbwQc7ospwtlg61IL/FBXnKAUEHaNEAunIA0WUA5SuAmgKvkxiE6C4IEc0LkcwJkVkRAt+LC7stk4gL0+SKspHWDDltyiFhHuAGFnugTcVH4FVwXqJ6PcKiunFeaH32WcqMnfk5cO63/+NMQA/e/RGc3OjPmhFyUjsX+tBF8ssnEb8d8hPK25tETDxuQvzVQqGJOA+a8MRNCL1PQzQWVwD66RKFWNJhqqcajUauEzAEAaqu+R4Eagn6Hlxpi4UjPQD+WGy/wSQULjWTy3u43tM3AgDXwpHBbhxWawhaE65CxXhiHOcbz3XxMznG9bFKdxzTilUMo50cQ9hImr6RLmNGLXzfLgbs7QvxdWmAbqs1ggUAH9+U741JHnC18zgXa1JAtSTgONzm4l5D1Gw9FEtFwjoEnr10y4tm66FsKTuC5qtpcgkuwSW4BJfglJC2IxTqEOj3TZaHz5Iz+91YoPbXXh6StSRof++b1bdX6Y3uIKEYLtsdE8JspVexz6RT+9eExbKpJkP1Sq81QWstW7sJ4UWlN25N+A+e5vbXpGHbei9KwdoRds33wSW4BJewU4Rq7WPOOKYdEKq1jwH6cAZhnwNCtfbxRFzCIXFll2USNwsfuqySn1McEl6CJ4l5CS6zENKo4itoSNYlrG+3qVPkDOEDWfhIpg9+ediR9z6fZTlK85TGZs0I6xrIWqefSCmaMBFuIlTjARX1o4l+2oqiiBNwkwfZaiC0O95CPMJIY38MGUIIB59r5o3Vj3U0kJgEEIiN7KWWInCsPDsuGXXv6CBtu31b00A6uOk0u0+TPP0JPg1uSQPhGNpikU2ZMsyY8XuEYmiI1NNA3gEoaGUFiV+OOhpI4ep1tLaZ8wbeXgPZitlrIE7NJbgEl1BrfwA4AnFu5auC4QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atk313a'/>"}
+    {
+      "correct":true,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADE0lEQVRYw+2Yz0sUYRjHH/eXRSpjHbTAEAqCoFroVpB7eKOiQA8dgqg8ekoFYRci1gJbb7v9uEWs+gfkRh2KSWeDPAUtdJGQ2KCDlOSAWus6u/P0PLPuarszsw4mJMwD87zz/pjP+8wz78w7fAG3a+ASdpbwQc7ospwtlg61IL/FBXnKAUEHaNEAunIA0WUA5SuAmgKvkxiE6C4IEc0LkcwJkVkRAt+LC7stk4gL0+SKspHWDDltyiFhHuAGFnugTcVH4FVwXqJ6PcKiunFeaH32WcqMnfk5cO63/+NMQA/e/RGc3OjPmhFyUjsX+tBF8ssnEb8d8hPK25tETDxuQvzVQqGJOA+a8MRNCL1PQzQWVwD66RKFWNJhqqcajUauEzAEAaqu+R4Eagn6Hlxpi4UjPQD+WGy/wSQULjWTy3u43tM3AgDXwpHBbhxWawhaE65CxXhiHOcbz3XxMznG9bFKdxzTilUMo50cQ9hImr6RLmNGLXzfLgbs7QvxdWmAbqs1ggUAH9+U741JHnC18zgXa1JAtSTgONzm4l5D1Gw9FEtFwjoEnr10y4tm66FsKTuC5qtpcgkuwSW4BJfglJC2IxTqEOj3TZaHz5Iz+91YoPbXXh6StSRof++b1bdX6Y3uIKEYLtsdE8JspVexz6RT+9eExbKpJkP1Sq81QWstW7sJ4UWlN25N+A+e5vbXpGHbei9KwdoRds33wSW4BJewU4Rq7WPOOKYdEKq1jwH6cAZhnwNCtfbxRFzCIXFll2USNwsfuqySn1McEl6CJ4l5CS6zENKo4itoSNYlrG+3qVPkDOEDWfhIpg9+ediR9z6fZTlK85TGZs0I6xrIWqefSCmaMBFuIlTjARX1o4l+2oqiiBNwkwfZaiC0O95CPMJIY38MGUIIB59r5o3Vj3U0kJgEEIiN7KWWInCsPDsuGXXv6CBtu31b00A6uOk0u0+TPP0JPg1uSQPhGNpikU2ZMsyY8XuEYmiI1NNA3gEoaGUFiV+OOhpI4ep1tLaZ8wbeXgPZitlrIE7NJbgEl1BrfwA4AnFu5auC4QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atk313a'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADMUlEQVRYw+2YsU8TcRTHX6EtRVC7wWBiE+PiIEyMthFNdBEGBxMTi05MFhKTNiFaMFHcisHNoZF/gFsMccDWGFnbwcQQhqKLAwmNQCilvT7flQLl7n7v/UhjIknfcC937X36u3ff3/fX3wNsNaBNOCuEpef4Y6olwkQPGl1twikJm0V9QsGNUAr2W6n27A5D+H0rZaWFjpQLYex9JE1pByB2fMc0EQJNhAj46bjvfe13EmoB3OmbjSdGAXyz8UYkIkTwHp3GXwHAg3hicgSniw5CpRf3wBlEcLmawmxGNYY3IWYMiZfcGHBsPLJIKQswoqxDFcBLqez95FIH3Atds9J+0N/0Vu3v4gM8tdKMJ+mmB/MgzTUNwUEoew8eedNND4dhcISK1/H9NkFJCNNhrXBwsvYZN5YdhAJP+NmZo99OomuY8IKU088Tqk+61ASc9yxiqYsnkJTTagJ+79Eg7F5mCDisQah147u0kpDPSHWgGEImtpLSu6DoEwgoEciuljLMU5jLEuFXmKvkTbmS1cEcQ9g9JxLKg5cYRa2E0iJhx1ovlIQI3S0Rah87i+pKroSSWL4rVdJQl5GmVbftghuhfIEh4GMNAgY4Va+nK1MiYYjTw3ZMnlk0BobwJykTqA4MwcjJhGyUIdSuyKpeJT0cOq0zvvaiVMkSDKA65j052xXFvDBVhIkOFAn1uTmTUhDMuRsaqp5LtTa7qRIXW3QYy6sZQj6joUlW1VsamiSvZpx2KylXkryaibwN7urVUY4wjCJhNVhg/IFWXlnV97jVv0Ne/UsQ5rzaL3t1fW4qCRujMQ1Fsf5QDmgQyKPU/oATYiXR8kkm1tMnzxWqNtWE7ZgGIaD2B8urZVW37tW0bjJefVVv7VYSzLfnRcI27eTUdRjzFUSCcR3VXl2FDH0o/BM7sTuw90DOzg7lbBMaPRBjgCM0Ft6CG6HRA9kP+YpqwgI8qieuB2IARI/vsO39KwA+FHogs0EAv7L/MAkA4/+8B2KNoY8bgych9UC+ABzhnT2QIA1K6oFU7z9k3ua323U83wM5EYqeGN8D0SE0R5ugRbD3QE5P0Ig24f8h/AVWE3KN9LEOTAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atk313b'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADMUlEQVRYw+2YsU8TcRTHX6EtRVC7wWBiE+PiIEyMthFNdBEGBxMTi05MFhKTNiFaMFHcisHNoZF/gFsMccDWGFnbwcQQhqKLAwmNQCilvT7flQLl7n7v/UhjIknfcC937X36u3ff3/fX3wNsNaBNOCuEpef4Y6olwkQPGl1twikJm0V9QsGNUAr2W6n27A5D+H0rZaWFjpQLYex9JE1pByB2fMc0EQJNhAj46bjvfe13EmoB3OmbjSdGAXyz8UYkIkTwHp3GXwHAg3hicgSniw5CpRf3wBlEcLmawmxGNYY3IWYMiZfcGHBsPLJIKQswoqxDFcBLqez95FIH3Atds9J+0N/0Vu3v4gM8tdKMJ+mmB/MgzTUNwUEoew8eedNND4dhcISK1/H9NkFJCNNhrXBwsvYZN5YdhAJP+NmZo99OomuY8IKU088Tqk+61ASc9yxiqYsnkJTTagJ+79Eg7F5mCDisQah147u0kpDPSHWgGEImtpLSu6DoEwgoEciuljLMU5jLEuFXmKvkTbmS1cEcQ9g9JxLKg5cYRa2E0iJhx1ovlIQI3S0Rah87i+pKroSSWL4rVdJQl5GmVbftghuhfIEh4GMNAgY4Va+nK1MiYYjTw3ZMnlk0BobwJykTqA4MwcjJhGyUIdSuyKpeJT0cOq0zvvaiVMkSDKA65j052xXFvDBVhIkOFAn1uTmTUhDMuRsaqp5LtTa7qRIXW3QYy6sZQj6joUlW1VsamiSvZpx2KylXkryaibwN7urVUY4wjCJhNVhg/IFWXlnV97jVv0Ne/UsQ5rzaL3t1fW4qCRujMQ1Fsf5QDmgQyKPU/oATYiXR8kkm1tMnzxWqNtWE7ZgGIaD2B8urZVW37tW0bjJefVVv7VYSzLfnRcI27eTUdRjzFUSCcR3VXl2FDH0o/BM7sTuw90DOzg7lbBMaPRBjgCM0Ft6CG6HRA9kP+YpqwgI8qieuB2IARI/vsO39KwA+FHogs0EAv7L/MAkA4/+8B2KNoY8bgych9UC+ABzhnT2QIA1K6oFU7z9k3ua323U83wM5EYqeGN8D0SE0R5ugRbD3QE5P0Ig24f8h/AVWE3KN9LEOTAAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atk313b'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAABnUlEQVRYw+3YK0/DUBQH8DNaNgSiFQTkNHaCYKCCBFBDIidREBKSLUzwCgw3PILHF2BIFBN8h8nhSBCtWbIX9NKmW9a73p6cpQSy5PxFT+7a/HbvyVUHRNIACyxMi9AvyilPLLS1nJQMQbAdSViXP1yRVk2V0DaW/OIebSHCx0bVL48zVYVQuLXuvNICOIgXLEh7z55+lY4K7pxoLVaKpR2A2YrXuYsxIef/eAkAu8XSYV6cOhGhPy86EE5eFqzwu6qov8bt4TqL7KF0ju1BFPasJ6/UB/+u7MMXgO6Vrv6i6IPoZJf90jPSTnwnH2DfL2epE4UgvoNyEzSgnZHvZHCjunpwZFt1H4apBUJXvpK51aDfeuT7WEEdFlhg4TeEt23R2kwk1DLiXUss6Cz8m7Bmj3LvC6H1J0lImaOAJ0BobVCEZxMRzAWC4NrIKWybIMhHGuukIixMlaAlEhpl0TlOJBDCAgsssMDCHwryDARPUyUMZiCkoDMQStAZCCXUGQgWbAaSYA/DGQgl+AyEFHwGQgk+A5k0LLDAQjQ/5e7xaJafJHUAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atk313c'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAABnUlEQVRYw+3YK0/DUBQH8DNaNgSiFQTkNHaCYKCCBFBDIidREBKSLUzwCgw3PILHF2BIFBN8h8nhSBCtWbIX9NKmW9a73p6cpQSy5PxFT+7a/HbvyVUHRNIACyxMi9AvyilPLLS1nJQMQbAdSViXP1yRVk2V0DaW/OIebSHCx0bVL48zVYVQuLXuvNICOIgXLEh7z55+lY4K7pxoLVaKpR2A2YrXuYsxIef/eAkAu8XSYV6cOhGhPy86EE5eFqzwu6qov8bt4TqL7KF0ju1BFPasJ6/UB/+u7MMXgO6Vrv6i6IPoZJf90jPSTnwnH2DfL2epE4UgvoNyEzSgnZHvZHCjunpwZFt1H4apBUJXvpK51aDfeuT7WEEdFlhg4TeEt23R2kwk1DLiXUss6Cz8m7Bmj3LvC6H1J0lImaOAJ0BobVCEZxMRzAWC4NrIKWybIMhHGuukIixMlaAlEhpl0TlOJBDCAgsssMDCHwryDARPUyUMZiCkoDMQStAZCCXUGQgWbAaSYA/DGQgl+AyEFHwGQgk+A5k0LLDAQjQ/5e7xaJafJHUAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atk313c'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACWklEQVRYw+2Yv04bQRDGx74LIVEKp4iS0jWVyxRRTIEUioiQB0C4pAqm8onGFyWC8h4ghUl4gKRFCgIJejooz1XofLL4Y5uzb3JHhO3zTm7PfCkg8tfY8rf+eXd2dtY3xKhoQrjDhO4u936KY2VHJdQNPiNPIsiOQDD5/C8E0fnvCA0vPcGVCK3cC5XQmfsgEb5lHYFQ+jJbi16b4bjMzYdlMgbT6TtX5saUSgim+fz5ZqVilaNfsirX2iCil5t/3g8ca+0d255C8J9wm64VjZPVdxze30s3h8/jzIFLK7PflTjkKSPEoWPuCHHgdn5G3YsDeivtxcdMVcqHnpA3veGMGzhBQ8oHIW9G/FtldTD8jXtFGK5EcULKGtVe5yuLJULMSSDEFMjnfCyCDqC9L3JOWOXfIISvxh77BkIIth+zbyIE5vcwoV7DVsF8UQx2MUKrmOzrCWfL3MAIP478ZxCha4J70S2/Bgl2lkHC4VOHwTicTDO6F4Pb6baEZhXNycsiei5CAng2m1WUYLvgKjpTYJ08LaxqRugIW3QEEg5yNTQnjx+h54IXPbhWOyjhAs7JVhGNA16rt9xkX0vwHzBWH04LC+DtbxtorY5OFrib4elGq5ztYvUhqnLJfppKixN66+gq4Eii9SG8ecHbP3y2xFaRXwof15BI4v/t/wXBAwkpdlvtgYz4rvg1VyLc9EBiOqRXEiC5BxILQ46yAiC5BzIs6xMRzVdGpe2BpFBiD0SZw0raOfR7ILE4FOihEAdNDySmX3M1gaDpgaRRcg9kXE0IE8KEoOo3lkf+9ZgP1RkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atk313d'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIIAAABlBAAAAABh2YkaAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAACWklEQVRYw+2Yv04bQRDGx74LIVEKp4iS0jWVyxRRTIEUioiQB0C4pAqm8onGFyWC8h4ghUl4gKRFCgIJejooz1XofLL4Y5uzb3JHhO3zTm7PfCkg8tfY8rf+eXd2dtY3xKhoQrjDhO4u936KY2VHJdQNPiNPIsiOQDD5/C8E0fnvCA0vPcGVCK3cC5XQmfsgEb5lHYFQ+jJbi16b4bjMzYdlMgbT6TtX5saUSgim+fz5ZqVilaNfsirX2iCil5t/3g8ca+0d255C8J9wm64VjZPVdxze30s3h8/jzIFLK7PflTjkKSPEoWPuCHHgdn5G3YsDeivtxcdMVcqHnpA3veGMGzhBQ8oHIW9G/FtldTD8jXtFGK5EcULKGtVe5yuLJULMSSDEFMjnfCyCDqC9L3JOWOXfIISvxh77BkIIth+zbyIE5vcwoV7DVsF8UQx2MUKrmOzrCWfL3MAIP478ZxCha4J70S2/Bgl2lkHC4VOHwTicTDO6F4Pb6baEZhXNycsiei5CAng2m1WUYLvgKjpTYJ08LaxqRugIW3QEEg5yNTQnjx+h54IXPbhWOyjhAs7JVhGNA16rt9xkX0vwHzBWH04LC+DtbxtorY5OFrib4elGq5ztYvUhqnLJfppKixN66+gq4Eii9SG8ecHbP3y2xFaRXwof15BI4v/t/wXBAwkpdlvtgYz4rvg1VyLc9EBiOqRXEiC5BxILQ46yAiC5BzIs6xMRzVdGpe2BpFBiD0SZw0raOfR7ILE4FOihEAdNDySmX3M1gaDpgaRRcg9kXE0IE8KEoOo3lkf+9ZgP1RkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atk313d'/>"
+    }
   ]
     }
   ,
@@ -606,13 +1086,25 @@
      "id":"ATK314",
      "text":"<p>Beim Betrieb eines Funkempfängers mit digitalen Schaltungen auf einer gedruckten Leiterplatte treten erhebliche Störungen auf. Diese könnten verringert werden, indem die Leiterplatte</p>",
      "answer":[
-    {"correct":true,"text":"in einem geerdeten Metallgehäuse untergebracht wird."}
+    {
+      "correct":true,
+      "text":"in einem geerdeten Metallgehäuse untergebracht wird."
+    }
   ,
-    {"correct":false,"text":"in Epoxydharz eingegossen wird."}
+    {
+      "correct":false,
+      "text":"in Epoxydharz eingegossen wird."
+    }
   ,
-    {"correct":false,"text":"über kunststoffisolierte Leitungen angeschlossen wird."}
+    {
+      "correct":false,
+      "text":"über kunststoffisolierte Leitungen angeschlossen wird."
+    }
   ,
-    {"correct":false,"text":"in einem Kunststoffgehäuse untergebracht wird."}
+    {
+      "correct":false,
+      "text":"in einem Kunststoffgehäuse untergebracht wird."
+    }
   ]
     }
   ,
@@ -621,13 +1113,25 @@
      "id":"ATL201",
      "text":"<p>Sie besitzen eine λ/4-Vertikalantenne. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von weniger als 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass Sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung ohne Berücksichtigung der Kabelverluste dabei sein?</p>",
      "answer":[
-    {"correct":true,"text":"3 Watt"}
+    {
+      "correct":true,
+      "text":"3 Watt"
+    }
   ,
-    {"correct":false,"text":"10 Watt"}
+    {
+      "correct":false,
+      "text":"10 Watt"
+    }
   ,
-    {"correct":false,"text":"5 Watt"}
+    {
+      "correct":false,
+      "text":"5 Watt"
+    }
   ,
-    {"correct":false,"text":"2 Watt"}
+    {
+      "correct":false,
+      "text":"2 Watt"
+    }
   ]
     }
   ,
@@ -636,13 +1140,25 @@
      "id":"ATL202",
      "text":"<p>Eine Amateurfunkstelle sendet in FM mit einer äquivalenten Strahlungsleistung (ERP) von 100 W. Wie groß ist die Feldstärke im freien Raum in einer Entfernung von 100 m?</p>",
      "answer":[
-    {"correct":true,"text":"0,7 V/m"}
+    {
+      "correct":true,
+      "text":"0,7 V/m"
+    }
   ,
-    {"correct":false,"text":"0,35 V/m"}
+    {
+      "correct":false,
+      "text":"0,35 V/m"
+    }
   ,
-    {"correct":false,"text":"0,43 V/m"}
+    {
+      "correct":false,
+      "text":"0,43 V/m"
+    }
   ,
-    {"correct":false,"text":"0,55 V/m"}
+    {
+      "correct":false,
+      "text":"0,55 V/m"
+    }
   ]
     }
   ,
@@ -651,13 +1167,25 @@
      "id":"ATL203",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 700 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
      "answer":[
-    {"correct":true,"text":"6,3 m"}
+    {
+      "correct":true,
+      "text":"6,3 m"
+    }
   ,
-    {"correct":false,"text":"8,9 m"}
+    {
+      "correct":false,
+      "text":"8,9 m"
+    }
   ,
-    {"correct":false,"text":"2,1 m"}
+    {
+      "correct":false,
+      "text":"2,1 m"
+    }
   ,
-    {"correct":false,"text":"5,2 m"}
+    {
+      "correct":false,
+      "text":"5,2 m"
+    }
   ]
     }
   ,
@@ -666,13 +1194,25 @@
      "id":"ATL204",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 10,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
      "answer":[
-    {"correct":true,"text":"7,1 m"}
+    {
+      "correct":true,
+      "text":"7,1 m"
+    }
   ,
-    {"correct":false,"text":"6,6 m"}
+    {
+      "correct":false,
+      "text":"6,6 m"
+    }
   ,
-    {"correct":false,"text":"2,1 m"}
+    {
+      "correct":false,
+      "text":"2,1 m"
+    }
   ,
-    {"correct":false,"text":"5,0 m"}
+    {
+      "correct":false,
+      "text":"5,0 m"
+    }
   ]
     }
   ,
@@ -681,13 +1221,25 @@
      "id":"ATL205",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 300 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
      "answer":[
-    {"correct":true,"text":"4,1 m"}
+    {
+      "correct":true,
+      "text":"4,1 m"
+    }
   ,
-    {"correct":false,"text":"5,8 m"}
+    {
+      "correct":false,
+      "text":"5,8 m"
+    }
   ,
-    {"correct":false,"text":"3,4 m"}
+    {
+      "correct":false,
+      "text":"3,4 m"
+    }
   ,
-    {"correct":false,"text":"1,4 m"}
+    {
+      "correct":false,
+      "text":"1,4 m"
+    }
   ]
     }
   ,
@@ -696,13 +1248,25 @@
      "id":"ATL206",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein?</p>",
      "answer":[
-    {"correct":true,"text":"2,50 m"}
+    {
+      "correct":true,
+      "text":"2,50 m"
+    }
   ,
-    {"correct":false,"text":"1,96 m"}
+    {
+      "correct":false,
+      "text":"1,96 m"
+    }
   ,
-    {"correct":false,"text":"5,01 m"}
+    {
+      "correct":false,
+      "text":"5,01 m"
+    }
   ,
-    {"correct":false,"text":"13,7 m"}
+    {
+      "correct":false,
+      "text":"13,7 m"
+    }
   ]
     }
   ,
@@ -711,13 +1275,25 @@
      "id":"ATL207",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
      "answer":[
-    {"correct":true,"text":"5,01 m"}
+    {
+      "correct":true,
+      "text":"5,01 m"
+    }
   ,
-    {"correct":false,"text":"3,91 m"}
+    {
+      "correct":false,
+      "text":"3,91 m"
+    }
   ,
-    {"correct":false,"text":"2,50 m"}
+    {
+      "correct":false,
+      "text":"2,50 m"
+    }
   ,
-    {"correct":false,"text":"20,70 m"}
+    {
+      "correct":false,
+      "text":"20,70 m"
+    }
   ]
     }
   ,
@@ -726,13 +1302,25 @@
      "id":"ATL208",
      "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
      "answer":[
-    {"correct":true,"text":"6,86 m"}
+    {
+      "correct":true,
+      "text":"6,86 m"
+    }
   ,
-    {"correct":false,"text":"5,35 m"}
+    {
+      "correct":false,
+      "text":"5,35 m"
+    }
   ,
-    {"correct":false,"text":"2,17 m"}
+    {
+      "correct":false,
+      "text":"2,17 m"
+    }
   ,
-    {"correct":false,"text":"36,3 m"}
+    {
+      "correct":false,
+      "text":"36,3 m"
+    }
   ]
     }
   ,
@@ -741,13 +1329,25 @@
      "id":"ATL209",
      "text":"<p>Warum ist im Nahfeld einer Strahlungsquelle keine einfache Umrechnung zwischen den Feldgrößen E, H und S und damit auch keine vereinfachte Berechnung des Schutzabstandes möglich?</p>",
      "answer":[
-    {"correct":true,"text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld keine konstante Phasenbeziehung zueinander aufweisen."}
+    {
+      "correct":true,
+      "text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld keine konstante Phasenbeziehung zueinander aufweisen."
+    }
   ,
-    {"correct":false,"text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld immer senkrecht aufeinander stehen und eine Phasendifferenz von 90° aufweisen."}
+    {
+      "correct":false,
+      "text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld immer senkrecht aufeinander stehen und eine Phasendifferenz von 90° aufweisen."
+    }
   ,
-    {"correct":false,"text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht senkrecht zur Ausbreitungsrichtung stehen und auf Grund des Einflusses der Erdoberfläche eine Phasendifferenz von größer 180° aufweisen."}
+    {
+      "correct":false,
+      "text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht senkrecht zur Ausbreitungsrichtung stehen und auf Grund des Einflusses der Erdoberfläche eine Phasendifferenz von größer 180° aufweisen."
+    }
   ,
-    {"correct":false,"text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht exakt senkrecht aufeinander stehen und sich durch die nicht ideale Leitfähigkeit des Erdbodens am Sendeort der Feldwellenwiderstand des freien Raumes verändert."}
+    {
+      "correct":false,
+      "text":"Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht exakt senkrecht aufeinander stehen und sich durch die nicht ideale Leitfähigkeit des Erdbodens am Sendeort der Feldwellenwiderstand des freien Raumes verändert."
+    }
   ]
     }
   ,
@@ -756,28 +1356,52 @@
      "id":"ATL211",
      "text":"<p>Wie errechnen Sie die Leistung am Einspeisepunkt der Antenne (Antenneneingangsleistung) bei bekannter Senderausgangsleistung?</p>",
      "answer":[
-    {"correct":true,"text":"Sie addieren die Verluste zwischen Senderausgang und Antenneneingang und berechnen aus dieser Dämpfung einen Dämpfungsfaktor D; die Antenneneingangsleistung ist dann P<sub>Ant</sub> = D·P<sub>Sender</sub>."}
+    {
+      "correct":true,
+      "text":"Sie addieren die Verluste zwischen Senderausgang und Antenneneingang und berechnen aus dieser Dämpfung einen Dämpfungsfaktor D; die Antenneneingangsleistung ist dann P<sub>Ant</sub> = D·P<sub>Sender</sub>."
+    }
   ,
-    {"correct":false,"text":"Antenneneingangsleistung und Senderausgangsleistung sind gleich, da die Kabelverluste bei Amateurfunkstationen vernachlässigbar klein sind, d. h. es gilt P<sub>Ant</sub> = P<sub>Sender</sub>."}
+    {
+      "correct":false,
+      "text":"Antenneneingangsleistung und Senderausgangsleistung sind gleich, da die Kabelverluste bei Amateurfunkstationen vernachlässigbar klein sind, d. h. es gilt P<sub>Ant</sub> = P<sub>Sender</sub>."
+    }
   ,
-    {"correct":false,"text":"Die Antenneneingangsleistung ist der Spitzenwert der Senderausgangsleistung, also P<sub>Ant</sub> = √(2·P<sub>Sender</sub>)."}
+    {
+      "correct":false,
+      "text":"Die Antenneneingangsleistung ist der Spitzenwert der Senderausgangsleistung, also P<sub>Ant</sub> = √(2·P<sub>Sender</sub>)."
+    }
   ,
-    {"correct":false,"text":"Die Antenneneingangsleistung ist der Spitzen-Spitzen-Wert der Senderausgangsleistung, also P<sub>Ant</sub> = 2·√(2·P<sub>Sender</sub>)."}
+    {
+      "correct":false,
+      "text":"Die Antenneneingangsleistung ist der Spitzen-Spitzen-Wert der Senderausgangsleistung, also P<sub>Ant</sub> = 2·√(2·P<sub>Sender</sub>)."
+    }
   ]
     }
   ,
     {
      "name":"A/TL213",
      "id":"ATL213",
-     "text":"<p>Wann hat die folgende Formel zur Berechnung des Sicherheitsabstandes Gültigkeit und was sollten Sie tun, wenn die Gültigkeit nicht mehr sichergestellt ist?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAA4CAAAAAAd0t9IAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADq0lEQVRYw+2YMWwcRRSG/0EUyBGhAIqNlMJwkgEhJXLDOIUrujiOxF5JP9cg0bBuaCmy0K87mkhp9iwF5mokK3NcFRmE0J5kuMLKbJFEKJbmRPdT7N7Zeza+m/OaM5Jfc7u3895+996bf25GEJfBXls0wBXGFcb/AuN1X4e8Wy/AxytzZePh83oxXs6XjSfbQb0cAADhqaLDaxciu75FOVAXQeGN8dvtS4Hx581LgfGkAeRbQnQAAN01sTUsrr4VQqy188nxa0IIIZpTZzn9DCQTxwSGpJGWsSLJFJEldQgz6aAkyfjk9yfDelimSONIypRkmJJOalJDkSStRDbhEUUkHaJaMXRSfFpYMkNWvmf8dj35PgtN0k7D8OyNg6JDO1+YANjHdQDLu+j35ErxvIHdqsMADQBPsV5ri+41AKC10X4M4G+8BeDd3vAlbpXPb6I3rDj8iuvA9kZ8t9YWLYfbCDGZwpFM4SzCcQ1k0SNl8RiqCFB6Wly/NaVfamjw4NXOV3gDr5aA53JpKXxWDjjEZxWHvK3vPpgh8KxF6d/vAti/Pbq/B6CBQwCDdeCbXqEj+EF+DgDBz63ivmgNAE0hhGh3hWg2hRDb6AoxEh+PokSbH0Ykk3F2k4jHJiyN1CQZh7bqF8txtRytpg5p4TJYJjENxqNnxMhcCkuqjGSkDI20LOQrUqR2ZGLIVJPmuFBliMsrEzMhqVKamFo6Kk3njUFaJOVoDSApAhiJ2JEpAGgyBnBcLxWAMh0pEJMOhikQWzpYRiFPxbDAv/d0Apdtzgp9wpS2mjRwVEZp0sgQ6qiC1WzYE1p8PMGpjjmnlflPFR2sjsmJUNWZMhip4Sm2or47eM9reh+zPRkg38Kje9iTwWqU48ePqgOqiT9L+g02M85nGgAQAdCApgSAypyqYoRnyt0m3LxFmWZHGFrC4Myfm03V5PNjxMq68EhsRmbnjOtpozWls7MT4J33y7ugugvID+dtzVlsBePtUr6hAwx/+fr0gQ9fXCTGl8F4pmhJMh23xqKK8vstoP9orBrBf30iVsrXmy+G+U+frnfOF+zcGPefXXvaGvyxuigM3630xWZj0VY7RksU1lwsxnYiSdJ84uXlfdoz1QbrAHDnr8VmA7vrQDfHtP3RBWP0e6vIH/uej9WOsY8b4sayr1ftGLsRabyPhOrHWAbebvh61a2i/Q/MnTnc6s7GPoq+aC8UY/h9GADotHynSq3/XvQoqvR0vFphLyHGPxYfnGuw2Un3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atl213'/>",
+     "text":"<p>Wann hat die folgende Formel zur Berechnung des Sicherheitsabstandes Gültigkeit und was sollten Sie tun, wenn die Gültigkeit nicht mehr sichergestellt ist?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAA4CAAAAAAd0t9IAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADq0lEQVRYw+2YMWwcRRSG/0EUyBGhAIqNlMJwkgEhJXLDOIUrujiOxF5JP9cg0bBuaCmy0K87mkhp9iwF5mokK3NcFRmE0J5kuMLKbJFEKJbmRPdT7N7Zeza+m/OaM5Jfc7u3895+996bf25GEJfBXls0wBXGFcb/AuN1X4e8Wy/AxytzZePh83oxXs6XjSfbQb0cAADhqaLDaxciu75FOVAXQeGN8dvtS4Hx581LgfGkAeRbQnQAAN01sTUsrr4VQqy188nxa0IIIZpTZzn9DCQTxwSGpJGWsSLJFJEldQgz6aAkyfjk9yfDelimSONIypRkmJJOalJDkSStRDbhEUUkHaJaMXRSfFpYMkNWvmf8dj35PgtN0k7D8OyNg6JDO1+YANjHdQDLu+j35ErxvIHdqsMADQBPsV5ri+41AKC10X4M4G+8BeDd3vAlbpXPb6I3rDj8iuvA9kZ8t9YWLYfbCDGZwpFM4SzCcQ1k0SNl8RiqCFB6Wly/NaVfamjw4NXOV3gDr5aA53JpKXxWDjjEZxWHvK3vPpgh8KxF6d/vAti/Pbq/B6CBQwCDdeCbXqEj+EF+DgDBz63ivmgNAE0hhGh3hWg2hRDb6AoxEh+PokSbH0Ykk3F2k4jHJiyN1CQZh7bqF8txtRytpg5p4TJYJjENxqNnxMhcCkuqjGSkDI20LOQrUqR2ZGLIVJPmuFBliMsrEzMhqVKamFo6Kk3njUFaJOVoDSApAhiJ2JEpAGgyBnBcLxWAMh0pEJMOhikQWzpYRiFPxbDAv/d0Apdtzgp9wpS2mjRwVEZp0sgQ6qiC1WzYE1p8PMGpjjmnlflPFR2sjsmJUNWZMhip4Sm2or47eM9reh+zPRkg38Kje9iTwWqU48ePqgOqiT9L+g02M85nGgAQAdCApgSAypyqYoRnyt0m3LxFmWZHGFrC4Myfm03V5PNjxMq68EhsRmbnjOtpozWls7MT4J33y7ugugvID+dtzVlsBePtUr6hAwx/+fr0gQ9fXCTGl8F4pmhJMh23xqKK8vstoP9orBrBf30iVsrXmy+G+U+frnfOF+zcGPefXXvaGvyxuigM3630xWZj0VY7RksU1lwsxnYiSdJ84uXlfdoz1QbrAHDnr8VmA7vrQDfHtP3RBWP0e6vIH/uej9WOsY8b4sayr1ftGLsRabyPhOrHWAbebvh61a2i/Q/MnTnc6s7GPoq+aC8UY/h9GADotHynSq3/XvQoqvR0vFphLyHGPxYfnGuw2Un3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atl213'/>",
      "answer":[
-    {"correct":true,"text":" Die Formel gilt nur für Abstände d>λ/(2·π) bei Dipol-Antennen (Drahtdipole, Yagi-Antennen etc.). Für andere Antennenarten und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen, Nahfeldberechnungen oder Verfahren sein, die die Situation im reaktiven Nahfeld berücksichtigen."}
+    {
+      "correct":true,
+      "text":"Die Formel gilt nur für Abstände d>λ/(2·π) bei Dipol-Antennen (Drahtdipole, Yagi-Antennen etc.). Für andere Antennenarten und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen, Nahfeldberechnungen oder Verfahren sein, die die Situation im reaktiven Nahfeld berücksichtigen."
+    }
   ,
-    {"correct":false,"text":"Die angegebene Formel gilt nur im Nahfeld der Antenne d. h. für Abstände d<λ/(2·π). Sie kann jedoch auch im Fernfeld verwendet werden, weil die damit errechneten Feldstärken stets höher liegen als die wirklich auftretenden Feldstärken, so dass die Sicherheit immer erhalten bleibt."}
+    {
+      "correct":false,
+      "text":"Die angegebene Formel gilt nur im Nahfeld der Antenne d. h. für Abstände d<λ/(2·π). Sie kann jedoch auch im Fernfeld verwendet werden, weil die damit errechneten Feldstärken stets höher liegen als die wirklich auftretenden Feldstärken, so dass die Sicherheit immer erhalten bleibt."
+    }
   ,
-    {"correct":false,"text":"Im Bereich von Amateurfunkstellen ist der Unterschied zwischen Nah- und Fernfeld so gering, dass obige Formel, die zwar nur im Fernfeld gilt, trotzdem für alle Raumbereiche verwendet werden kann."}
+    {
+      "correct":false,
+      "text":"Im Bereich von Amateurfunkstellen ist der Unterschied zwischen Nah- und Fernfeld so gering, dass obige Formel, die zwar nur im Fernfeld gilt, trotzdem für alle Raumbereiche verwendet werden kann."
+    }
   ,
-    {"correct":false,"text":"Die Formel gilt nur für Abstände d>λ/(2·π) bei horizontal polarisierten Antennen. Bei vertikal oder zirkular polarisierten Antennen und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen,  Nahfeldberechnungen oder Verfahren sein, die Situation im reaktiven Nahfeld berücksichtigen."}
+    {
+      "correct":false,
+      "text":"Die Formel gilt nur für Abstände d>λ/(2·π) bei horizontal polarisierten Antennen. Bei vertikal oder zirkular polarisierten Antennen und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen, Nahfeldberechnungen oder Verfahren sein, die Situation im reaktiven Nahfeld berücksichtigen."
+    }
   ]
     }
   ,
@@ -786,13 +1410,25 @@
      "id":"ATL214",
      "text":"<p>Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?</p>",
      "answer":[
-    {"correct":true,"text":"Mit dem Mittelwert der Ausgangsleistung gemittelt über ein Intervall von 6 Minuten."}
+    {
+      "correct":true,
+      "text":"Mit dem Mittelwert der Ausgangsleistung gemittelt über ein Intervall von 6 Minuten."
+    }
   ,
-    {"correct":false,"text":"Mit der größten Ausgangsleistung des Transceivers zuzüglich Antennengewinn, korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart."}
+    {
+      "correct":false,
+      "text":"Mit der größten Ausgangsleistung des Transceivers zuzüglich Antennengewinn, korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart."
+    }
   ,
-    {"correct":false,"text":"Mit der durchschnittlich benutzten Ausgangsleistung gemittelt über den Betriebszeitraum und korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart."}
+    {
+      "correct":false,
+      "text":"Mit der durchschnittlich benutzten Ausgangsleistung gemittelt über den Betriebszeitraum und korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart."
+    }
   ,
-    {"correct":false,"text":"Mit der maximalen Ausgangsleistung des verwendeten Senders zuzüglich 3 dB Messfehler."}
+    {
+      "correct":false,
+      "text":"Mit der maximalen Ausgangsleistung des verwendeten Senders zuzüglich 3 dB Messfehler."
+    }
   ]
     }
   ,
@@ -801,13 +1437,25 @@
      "id":"ATL215",
      "text":"<p>Sie betreiben eine Amateurfunkstelle auf dem 2-m-Band mit einer Rundstrahlantenne mit 6 dB Gewinn über dem Dipol. Wie hoch darf die maximale Ausgangsleistung Ihres Senders unter Vernachlässigung der Kabeldämpfung sein, wenn der Grenzwert für den Personenschutz 28 V/m und der zur Verfügung stehende Sicherheitsabstand 5 m beträgt.</p>",
      "answer":[
-    {"correct":true,"text":"ca. 100 Watt"}
+    {
+      "correct":true,
+      "text":"ca. 100 Watt"
+    }
   ,
-    {"correct":false,"text":"ca. 75 Watt"}
+    {
+      "correct":false,
+      "text":"ca. 75 Watt"
+    }
   ,
-    {"correct":false,"text":"ca. 160 Watt"}
+    {
+      "correct":false,
+      "text":"ca. 160 Watt"
+    }
   ,
-    {"correct":false,"text":"ca. 265 Watt"}
+    {
+      "correct":false,
+      "text":"ca. 265 Watt"
+    }
   ]
     }
   ,
@@ -816,13 +1464,25 @@
      "id":"ATL216",
      "text":"<p>Muss ein Funkamateur als Betreiber einer ortsfesten 2-m-Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn und vernachlässigbaren Kabelverlusten die Einhaltung der Personenschutzgrenzwerte nachweisen?</p>",
      "answer":[
-    {"correct":true,"text":"Ja, er ist in diesem Fall verpflichtet, die Einhaltung der Personenschutzgrenzwerte nachzuweisen."}
+    {
+      "correct":true,
+      "text":"Ja, er ist in diesem Fall verpflichtet, die Einhaltung der Personenschutzgrenzwerte nachzuweisen."
+    }
   ,
-    {"correct":false,"text":"Nein, der Schutz von Personen in elektromagnetischen Feldern ist durch den Funkamateur erst bei einer Strahlungsleistung von mehr als 10 W EIRP sicherzustellen."}
+    {
+      "correct":false,
+      "text":"Nein, der Schutz von Personen in elektromagnetischen Feldern ist durch den Funkamateur erst bei einer Strahlungsleistung von mehr als 10 W EIRP sicherzustellen."
+    }
   ,
-    {"correct":false,"text":"Nur wenn die Antenne vertikal polarisiert ist. Bei horizontaler Polarisation kann er davon ausgehen, dass eine Richtantenne mit diesem Gewinn einen sehr kleinen vertikalen Öffnungswinkel hat und die Personenschutzgrenzwerte auf jeden Fall eingehalten werden."}
+    {
+      "correct":false,
+      "text":"Nur wenn die Antenne vertikal polarisiert ist. Bei horizontaler Polarisation kann er davon ausgehen, dass eine Richtantenne mit diesem Gewinn einen sehr kleinen vertikalen Öffnungswinkel hat und die Personenschutzgrenzwerte auf jeden Fall eingehalten werden."
+    }
   ,
-    {"correct":false,"text":"Nein, bei der Sendeart F3E und Sendezeiten unter 6 Minuten in der Stunde kann der Schutz von Personen in elektromagnetischen Feldern durch den Funkamateur vernachlässigt werden."}
+    {
+      "correct":false,
+      "text":"Nein, bei der Sendeart F3E und Sendezeiten unter 6 Minuten in der Stunde kann der Schutz von Personen in elektromagnetischen Feldern durch den Funkamateur vernachlässigt werden."
+    }
   ]
     }
   ,
@@ -831,13 +1491,25 @@
      "id":"ATL301",
      "text":"<p>Unter welchen Bedingungen darf das Standrohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutzanlage verbunden werden?</p>",
      "answer":[
-    {"correct":true,"text":"Wenn die vorhandene Blitzschutzanlage fachgerecht aufgebaut ist und das Standrohr mit ihr auf einem sehr kurzen Weg verbunden werden kann."}
+    {
+      "correct":true,
+      "text":"Wenn die vorhandene Blitzschutzanlage fachgerecht aufgebaut ist und das Standrohr mit ihr auf einem sehr kurzen Weg verbunden werden kann."
+    }
   ,
-    {"correct":false,"text":"Nach den geltenden Vorschriften muss das Standrohr der Amateurfunkantenne mit einer vorhandenen Gebäude-Blitzschutzanlage verbunden werden."}
+    {
+      "correct":false,
+      "text":"Nach den geltenden Vorschriften muss das Standrohr der Amateurfunkantenne mit einer vorhandenen Gebäude-Blitzschutzanlage verbunden werden."
+    }
   ,
-    {"correct":false,"text":"Nach den geltenden Vorschriften muss immer eine eigene Blitzschutzanlage für eine Amateurfunkantenne aufgebaut werden."}
+    {
+      "correct":false,
+      "text":"Nach den geltenden Vorschriften muss immer eine eigene Blitzschutzanlage für eine Amateurfunkantenne aufgebaut werden."
+    }
   ,
-    {"correct":false,"text":"Die Bedingung ist ein ausreichend großer Querschnitt für die Verbindungsleitung zur Blitzschutzanlage."}
+    {
+      "correct":false,
+      "text":"Die Bedingung ist ein ausreichend großer Querschnitt für die Verbindungsleitung zur Blitzschutzanlage."
+    }
   ]
     }
   ,
@@ -846,13 +1518,25 @@
      "id":"ATL302",
      "text":"<p>Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?</p>",
      "answer":[
-    {"correct":true,"text":"Als geeigneter Erdungsleiter gilt ein Einzelmassivdraht mit einem Mindestquerschnitt von 16 mm² Kupfer, isoliert oder blank, oder 25 mm² Aluminium isoliert oder 50 mm² Stahl."}
+    {
+      "correct":true,
+      "text":"Als geeigneter Erdungsleiter gilt ein Einzelmassivdraht mit einem Mindestquerschnitt von 16 mm² Kupfer, isoliert oder blank, oder 25 mm² Aluminium isoliert oder 50 mm² Stahl."
+    }
   ,
-    {"correct":false,"text":"Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 10 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 16 mm²2 Querschnitt."}
+    {
+      "correct":false,
+      "text":"Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 10 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 16 mm²2 Querschnitt."
+    }
   ,
-    {"correct":false,"text":"Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 25 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 50 mm2 Querschnitt."}
+    {
+      "correct":false,
+      "text":"Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 25 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 50 mm2 Querschnitt."
+    }
   ,
-    {"correct":false,"text":"Als geeigneter Erdungsleiter gilt ein Einzeldraht mit einem Mindestquerschnitt von 4 mm² Kupfer, isoliert oder blank, oder 10 mm² Aluminium isoliert."}
+    {
+      "correct":false,
+      "text":"Als geeigneter Erdungsleiter gilt ein Einzeldraht mit einem Mindestquerschnitt von 4 mm² Kupfer, isoliert oder blank, oder 10 mm² Aluminium isoliert."
+    }
   ]
     }
   ,
@@ -861,13 +1545,25 @@
      "id":"ATL303",
      "text":"<p>Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?</p>",
      "answer":[
-    {"correct":true,"text":"Jeder ordnungsgemäß verlegte Fundamenterder kann verwendet werden, sofern alle Blitzschutzleitungen bis zur Potentialausgleichsschiene getrennt geführt werden."}
+    {
+      "correct":true,
+      "text":"Jeder ordnungsgemäß verlegte Fundamenterder kann verwendet werden, sofern alle Blitzschutzleitungen bis zur Potentialausgleichsschiene getrennt geführt werden."
+    }
   ,
-    {"correct":false,"text":"Nach den geltenden Vorschriften muss immer eine eigene Blitzschutzanlage, also auch ein eigener Fundamenterder, für eine Amateurfunkantenne aufgebaut werden."}
+    {
+      "correct":false,
+      "text":"Nach den geltenden Vorschriften muss immer eine eigene Blitzschutzanlage, also auch ein eigener Fundamenterder, für eine Amateurfunkantenne aufgebaut werden."
+    }
   ,
-    {"correct":false,"text":"Die in den Sicherheitsvorschriften festgelegte zulässige Leitungslänge des Erdungsleiters darf auf keinen Fall überschritten werden."}
+    {
+      "correct":false,
+      "text":"Die in den Sicherheitsvorschriften festgelegte zulässige Leitungslänge des Erdungsleiters darf auf keinen Fall überschritten werden."
+    }
   ,
-    {"correct":false,"text":"Die Ausdehnung des Fundamenterders muss größer oder wenigstens gleich der Ausdehnung der Antennenanlage sein."}
+    {
+      "correct":false,
+      "text":"Die Ausdehnung des Fundamenterders muss größer oder wenigstens gleich der Ausdehnung der Antennenanlage sein."
+    }
   ]
     }
   ,
@@ -876,13 +1572,25 @@
      "id":"ATL304",
      "text":"<p>Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?</p>",
      "answer":[
-    {"correct":true,"text":"Die Außenleiter (Abschirmung) aller Koaxialkabel-Niederführungen müssen über einen Potentialausgleichsleiter normgerecht mit Erde verbunden werden."}
+    {
+      "correct":true,
+      "text":"Die Außenleiter (Abschirmung) aller Koaxialkabel-Niederführungen müssen über einen Potentialausgleichsleiter normgerecht mit Erde verbunden werden."
+    }
   ,
-    {"correct":false,"text":"Für alle Koaxialkabel-Niederführungen sind entsprechend den Sicherheitsvorschriften Überspannungsableiter vorzusehen."}
+    {
+      "correct":false,
+      "text":"Für alle Koaxialkabel-Niederführungen sind entsprechend den Sicherheitsvorschriften Überspannungsableiter vorzusehen."
+    }
   ,
-    {"correct":false,"text":"Neben der Erdung des Antennenmastes sind keine weiteren Maßnahmen erforderlich."}
+    {
+      "correct":false,
+      "text":"Neben der Erdung des Antennenmastes sind keine weiteren Maßnahmen erforderlich."
+    }
   ,
-    {"correct":false,"text":"Die Koaxialkabel müssen das entsprechende Schirmungsmaß aufweisen und entsprechend isoliert sein."}
+    {
+      "correct":false,
+      "text":"Die Koaxialkabel müssen das entsprechende Schirmungsmaß aufweisen und entsprechend isoliert sein."
+    }
   ]
     }
   ,
@@ -891,13 +1599,25 @@
      "id":"ATL305",
      "text":"<p>Welche der Antworten a bis d enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?</p>",
      "answer":[
-    {"correct":true,"text":"grüngelb, braun, blau"}
+    {
+      "correct":true,
+      "text":"grüngelb, braun, blau"
+    }
   ,
-    {"correct":false,"text":"braun, grüngelb, blau"}
+    {
+      "correct":false,
+      "text":"braun, grüngelb, blau"
+    }
   ,
-    {"correct":false,"text":"grau, schwarz, rot"}
+    {
+      "correct":false,
+      "text":"grau, schwarz, rot"
+    }
   ,
-    {"correct":false,"text":"grüngelb, blau, braun oder schwarz"}
+    {
+      "correct":false,
+      "text":"grüngelb, blau, braun oder schwarz"
+    }
   ]
     }
   ,
@@ -906,13 +1626,25 @@
      "id":"ATL306",
      "text":"<p>Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich</p>",
      "answer":[
-    {"correct":true,"text":"die Anweisungen des Kfz-Herstellers zu beachten."}
+    {
+      "correct":true,
+      "text":"die Anweisungen des Kfz-Herstellers zu beachten."
+    }
   ,
-    {"correct":false,"text":"die Bedingungen der Bundesnetzagentur für den Einbau mobiler Sendeanlagen einzuhalten."}
+    {
+      "correct":false,
+      "text":"die Bedingungen der Bundesnetzagentur für den Einbau mobiler Sendeanlagen einzuhalten."
+    }
   ,
-    {"correct":false,"text":"die Ratschläge des Kfz-Händlers einzuhalten."}
+    {
+      "correct":false,
+      "text":"die Ratschläge des Kfz-Händlers einzuhalten."
+    }
   ,
-    {"correct":false,"text":"die Anweisungen des Amateurfunkgeräte-Herstellers zu beachten."}
+    {
+      "correct":false,
+      "text":"die Anweisungen des Amateurfunkgeräte-Herstellers zu beachten."
+    }
   ]
     }
   ,
@@ -921,13 +1653,25 @@
      "id":"ATL307",
      "text":"<p>Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel</p>",
      "answer":[
-    {"correct":true,"text":"möglichst weit von der Fahrzeugverkabelung entfernt verlegt werden."}
+    {
+      "correct":true,
+      "text":"möglichst weit von der Fahrzeugverkabelung entfernt verlegt werden."
+    }
   ,
-    {"correct":false,"text":"im Kabelbaum des Kraftfahrzeugs geführt werden."}
+    {
+      "correct":false,
+      "text":"im Kabelbaum des Kraftfahrzeugs geführt werden."
+    }
   ,
-    {"correct":false,"text":"über das Fahrzeugdach verlegt sein."}
+    {
+      "correct":false,
+      "text":"über das Fahrzeugdach verlegt sein."
+    }
   ,
-    {"correct":false,"text":"entlang der Innenseite des Motorraumes verlegt werden."}
+    {
+      "correct":false,
+      "text":"entlang der Innenseite des Motorraumes verlegt werden."
+    }
   ]
     }
   

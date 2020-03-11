@@ -6,13 +6,25 @@
      "id":"ATB801",
      "text":"<p>Wie groß ist die HF-Bandbreite, die für die Übertragung eines SSB-Signals erforderlich ist?</p>",
      "answer":[
-    {"correct":true,"text":"Sie entspricht der Differenz zwischen der höchsten und der niedrigsten Frequenz des NF-Signals."}
+    {
+      "correct":true,
+      "text":"Sie entspricht der Differenz zwischen der höchsten und der niedrigsten Frequenz des NF-Signals."
+    }
   ,
-    {"correct":false,"text":"Sie entspricht der Hälfte der Bandbreite des NF-Signals."}
+    {
+      "correct":false,
+      "text":"Sie entspricht der Hälfte der Bandbreite des NF-Signals."
+    }
   ,
-    {"correct":false,"text":"Sie entspricht der doppelten Bandbreite des NF-Signals."}
+    {
+      "correct":false,
+      "text":"Sie entspricht der doppelten Bandbreite des NF-Signals."
+    }
   ,
-    {"correct":false,"text":"Sie ist Null, weil bei SSB-Modulation der HF-Träger unterdrückt wird."}
+    {
+      "correct":false,
+      "text":"Sie ist Null, weil bei SSB-Modulation der HF-Träger unterdrückt wird."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"ATD231",
      "text":"<p>Ein Quarzfilter mit einer der 3-dB-Bandbreite von 2,3 kHz eignet sich besonders zur Verwendung in einem Sendeempfänger für</p>",
      "answer":[
-    {"correct":true,"text":"SSB."}
+    {
+      "correct":true,
+      "text":"SSB."
+    }
   ,
-    {"correct":false,"text":"AM."}
+    {
+      "correct":false,
+      "text":"AM."
+    }
   ,
-    {"correct":false,"text":"FM."}
+    {
+      "correct":false,
+      "text":"FM."
+    }
   ,
-    {"correct":false,"text":"CW."}
+    {
+      "correct":false,
+      "text":"CW."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"ATD232",
      "text":"<p>Ein Quarzfilter mit einer der 3-dB-Bandbreite von 6 kHz eignet sich besonders zur Verwendung in einem Empfänger für</p>",
      "answer":[
-    {"correct":true,"text":"AM."}
+    {
+      "correct":true,
+      "text":"AM."
+    }
   ,
-    {"correct":false,"text":"SSB."}
+    {
+      "correct":false,
+      "text":"SSB."
+    }
   ,
-    {"correct":false,"text":"FM."}
+    {
+      "correct":false,
+      "text":"FM."
+    }
   ,
-    {"correct":false,"text":"CW."}
+    {
+      "correct":false,
+      "text":"CW."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"ATD233",
      "text":"<p>Ein Quarzfilter mit einer der 3-dB-Bandbreite von 12 kHz eignet sich besonders zur Verwendung in einem Sendeempfänger für</p>",
      "answer":[
-    {"correct":true,"text":"FM."}
+    {
+      "correct":true,
+      "text":"FM."
+    }
   ,
-    {"correct":false,"text":"SSB."}
+    {
+      "correct":false,
+      "text":"SSB."
+    }
   ,
-    {"correct":false,"text":"AM."}
+    {
+      "correct":false,
+      "text":"AM."
+    }
   ,
-    {"correct":false,"text":"CW."}
+    {
+      "correct":false,
+      "text":"CW."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"ATD234",
      "text":"<p>Ein Quarzfilter mit einer der 3-dB-Bandbreite von 500 Hz eignet sich besonders zur Verwendung in einem Sendeempfänger für</p>",
      "answer":[
-    {"correct":true,"text":"CW."}
+    {
+      "correct":true,
+      "text":"CW."
+    }
   ,
-    {"correct":false,"text":"SSB."}
+    {
+      "correct":false,
+      "text":"SSB."
+    }
   ,
-    {"correct":false,"text":"AM."}
+    {
+      "correct":false,
+      "text":"AM."
+    }
   ,
-    {"correct":false,"text":"FM."}
+    {
+      "correct":false,
+      "text":"FM."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ATD428",
      "text":"<p>Welche Baugruppe sollte für die Begrenzung der NF-Bandbreite eines Mikrofonverstärkers verwendet werden?</p>",
      "answer":[
-    {"correct":true,"text":"Bandpassfilter"}
+    {
+      "correct":true,
+      "text":"Bandpassfilter"
+    }
   ,
-    {"correct":false,"text":"Tiefpassfilter"}
+    {
+      "correct":false,
+      "text":"Tiefpassfilter"
+    }
   ,
-    {"correct":false,"text":"Hochpassfilter"}
+    {
+      "correct":false,
+      "text":"Hochpassfilter"
+    }
   ,
-    {"correct":false,"text":"Amplitudenbegrenzer"}
+    {
+      "correct":false,
+      "text":"Amplitudenbegrenzer"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ATE102",
      "text":"<p>Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen?</p>",
      "answer":[
-    {"correct":true,"text":"Durch zu steile Flanken der Tastimpulse"}
+    {
+      "correct":true,
+      "text":"Durch zu steile Flanken der Tastimpulse"
+    }
   ,
-    {"correct":false,"text":"Durch prellende Kontakte der verwendeten Taste"}
+    {
+      "correct":false,
+      "text":"Durch prellende Kontakte der verwendeten Taste"
+    }
   ,
-    {"correct":false,"text":"Durch direkte Tastung der Oszillatorstufe"}
+    {
+      "correct":false,
+      "text":"Durch direkte Tastung der Oszillatorstufe"
+    }
   ,
-    {"correct":false,"text":"Durch ein unterdimensioniertes Netzteil, dessen Spannung beim Auftasten kurzzeitig zusammenbricht"}
+    {
+      "correct":false,
+      "text":"Durch ein unterdimensioniertes Netzteil, dessen Spannung beim Auftasten kurzzeitig zusammenbricht"
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"ATE217",
      "text":"<p>Der typische Hub eines NBFM-Signals (Schmalband-FM) im Amateurfunk beträgt</p>",
      "answer":[
-    {"correct":true,"text":"3 kHz."}
+    {
+      "correct":true,
+      "text":"3 kHz."
+    }
   ,
-    {"correct":false,"text":"25 kHz."}
+    {
+      "correct":false,
+      "text":"25 kHz."
+    }
   ,
-    {"correct":false,"text":"7,5 kHz."}
+    {
+      "correct":false,
+      "text":"7,5 kHz."
+    }
   ,
-    {"correct":false,"text":"500 Hz."}
+    {
+      "correct":false,
+      "text":"500 Hz."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"ATE301",
      "text":"<p>Wie wird ein Sender mit einem 1200-Bd-Packet-Radio-Signal moduliert? Ein weit verbreitetes Verfahren ist, das Signal</p>",
      "answer":[
-    {"correct":true,"text":"im NF-Bereich zu erzeugen und auf den Mikrofoneingang des Senders zu geben."}
+    {
+      "correct":true,
+      "text":"im NF-Bereich zu erzeugen und auf den Mikrofoneingang des Senders zu geben."
+    }
   ,
-    {"correct":false,"text":"mit einem digitalen Modulator zu erzeugen und auf den ZF-Eingang des Senders zu geben."}
+    {
+      "correct":false,
+      "text":"mit einem digitalen Modulator zu erzeugen und auf den ZF-Eingang des Senders zu geben."
+    }
   ,
-    {"correct":false,"text":"mit einem digitalen Modulator zu erzeugen und auf den CW-Eingang des Senders zu geben."}
+    {
+      "correct":false,
+      "text":"mit einem digitalen Modulator zu erzeugen und auf den CW-Eingang des Senders zu geben."
+    }
   ,
-    {"correct":false,"text":"im NF-Bereich zu erzeugen und auf den PTTEingang des Senders zu geben."}
+    {
+      "correct":false,
+      "text":"im NF-Bereich zu erzeugen und auf den PTTEingang des Senders zu geben."
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"ATE302",
      "text":"<p>Welche NF-Bandbreite beansprucht ein 1200-Bd-Packet-Radio-AFSK-Signal?</p>",
      "answer":[
-    {"correct":true,"text":"ca. 3 kHz"}
+    {
+      "correct":true,
+      "text":"ca. 3 kHz"
+    }
   ,
-    {"correct":false,"text":"ca. 6,6 kHz"}
+    {
+      "correct":false,
+      "text":"ca. 6,6 kHz"
+    }
   ,
-    {"correct":false,"text":"12,5 kHz"}
+    {
+      "correct":false,
+      "text":"12,5 kHz"
+    }
   ,
-    {"correct":false,"text":"25 kHz"}
+    {
+      "correct":false,
+      "text":"25 kHz"
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"ATE303",
      "text":"<p>Welche NF-Zwischenträgerfrequenzen werden in der Regel in Packet-Radio bei 1200 Bd benutzt?</p>",
      "answer":[
-    {"correct":true,"text":"1200 / 2200 Hz"}
+    {
+      "correct":true,
+      "text":"1200 / 2200 Hz"
+    }
   ,
-    {"correct":false,"text":"500 / 1750 Hz"}
+    {
+      "correct":false,
+      "text":"500 / 1750 Hz"
+    }
   ,
-    {"correct":false,"text":"850 / 1200 kHz"}
+    {
+      "correct":false,
+      "text":"850 / 1200 kHz"
+    }
   ,
-    {"correct":false,"text":"300 / 2700 Hz"}
+    {
+      "correct":false,
+      "text":"300 / 2700 Hz"
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"ATE304",
      "text":"<p>Wie erfolgt die Datenübertragung bei Packet-Radio?</p>",
      "answer":[
-    {"correct":true,"text":"Die Daten werden paketweise gesendet. Der Beginn eines Paketes wird durch ein Synchronisationszeichen eingeleitet. Der Takt wird im Empfänger aus den Daten zurückgewonnen."}
+    {
+      "correct":true,
+      "text":"Die Daten werden paketweise gesendet. Der Beginn eines Paketes wird durch ein Synchronisationszeichen eingeleitet. Der Takt wird im Empfänger aus den Daten zurückgewonnen."
+    }
   ,
-    {"correct":false,"text":"Die Daten werden paketweise gesendet. Am Anfang erfolgt ein Startzeichen und am Ende ein Stoppzeichen."}
+    {
+      "correct":false,
+      "text":"Die Daten werden paketweise gesendet. Am Anfang erfolgt ein Startzeichen und am Ende ein Stoppzeichen."
+    }
   ,
-    {"correct":false,"text":"Die Daten werden parallel ausgesendet. Der Takt wird im Empfänger aus den Daten zurückgewonnen."}
+    {
+      "correct":false,
+      "text":"Die Daten werden parallel ausgesendet. Der Takt wird im Empfänger aus den Daten zurückgewonnen."
+    }
   ,
-    {"correct":false,"text":"Die Daten werden seriell ausgesendet. Es ist ein asynchrones Verfahren."}
+    {
+      "correct":false,
+      "text":"Die Daten werden seriell ausgesendet. Es ist ein asynchrones Verfahren."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"ATE305",
      "text":"<p>Wie erfolgt die synchrone Datenübertragung?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Übertragung wird durch eine Synchronisationssequenz eingeleitet. Nach erfolgreicher Synchronisation werden die Pakete aus dem Binärstrom gelesen."}
+    {
+      "correct":true,
+      "text":"Eine Übertragung wird durch eine Synchronisationssequenz eingeleitet. Nach erfolgreicher Synchronisation werden die Pakete aus dem Binärstrom gelesen."
+    }
   ,
-    {"correct":false,"text":"Sende- und Empfangsstelle werden mit Hilfe der Netzfrequenz in Gleichtakt gebracht."}
+    {
+      "correct":false,
+      "text":"Sende- und Empfangsstelle werden mit Hilfe der Netzfrequenz in Gleichtakt gebracht."
+    }
   ,
-    {"correct":false,"text":"Sender und Empfänger werden nach jedem einzelnen Zeichen aufeinander synchronisiert. Die Zeichen enthalten Start- und Stoppbit, die zur Synchronisation dienen."}
+    {
+      "correct":false,
+      "text":"Sender und Empfänger werden nach jedem einzelnen Zeichen aufeinander synchronisiert. Die Zeichen enthalten Start- und Stoppbit, die zur Synchronisation dienen."
+    }
   ,
-    {"correct":false,"text":"Sender und Empfänger synchronisieren ihre Taktfrequenzen mit einem Normalfrequenzsender."}
+    {
+      "correct":false,
+      "text":"Sender und Empfänger synchronisieren ihre Taktfrequenzen mit einem Normalfrequenzsender."
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"ATE306",
      "text":"<p>Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal?</p>",
      "answer":[
-    {"correct":true,"text":"12 kHz"}
+    {
+      "correct":true,
+      "text":"12 kHz"
+    }
   ,
-    {"correct":false,"text":"25 kHz"}
+    {
+      "correct":false,
+      "text":"25 kHz"
+    }
   ,
-    {"correct":false,"text":"ca. 6,6 kHz"}
+    {
+      "correct":false,
+      "text":"ca. 6,6 kHz"
+    }
   ,
-    {"correct":false,"text":"ca. 3 kHz"}
+    {
+      "correct":false,
+      "text":"ca. 3 kHz"
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"ATE307",
      "text":"<p>Welche der nachfolgend genannten Einrichtungen würden Sie an einen Terminal-Node-Controller (TNC) anschließen um am Packet-Radio-Betrieb teilzunehmen?</p>",
      "answer":[
-    {"correct":true,"text":"Einen geeigneten Transceiver und ein Terminal oder Computersystem"}
+    {
+      "correct":true,
+      "text":"Einen geeigneten Transceiver und ein Terminal oder Computersystem"
+    }
   ,
-    {"correct":false,"text":"Eine IBM-MF-kompatible Tastatur und ein Modem"}
+    {
+      "correct":false,
+      "text":"Eine IBM-MF-kompatible Tastatur und ein Modem"
+    }
   ,
-    {"correct":false,"text":"Ein Multifunktionsmikrofon mit DTMF-Tastatur, einen Monitor und ein Modem"}
+    {
+      "correct":false,
+      "text":"Ein Multifunktionsmikrofon mit DTMF-Tastatur, einen Monitor und ein Modem"
+    }
   ,
-    {"correct":false,"text":"Einen Up- /Down-Converter und einen Monitor"}
+    {
+      "correct":false,
+      "text":"Einen Up- /Down-Converter und einen Monitor"
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"ATE308",
      "text":"<p>Beim Aussenden von Daten in der Betriebsart Packet-Radio muss nach dem Hochtasten des Senders eine gewisse Zeitspanne gewartet werden, bevor mit der Datenübertragung begonnen werden kann. Wie heißt der Parameter mit dem diese Zeitspanne eingestellt wird?</p>",
      "answer":[
-    {"correct":true,"text":"TX-Delay"}
+    {
+      "correct":true,
+      "text":"TX-Delay"
+    }
   ,
-    {"correct":false,"text":"DWAIT"}
+    {
+      "correct":false,
+      "text":"DWAIT"
+    }
   ,
-    {"correct":false,"text":"RX-Delay"}
+    {
+      "correct":false,
+      "text":"RX-Delay"
+    }
   ,
-    {"correct":false,"text":"Frack"}
+    {
+      "correct":false,
+      "text":"Frack"
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"ATE309",
      "text":"<p>Beim Aussenden von Daten in der Betriebsart Packet-Radio muss nach dem Hochtasten des Senders eine gewisse Zeitspanne gewartet werden, bevor mit der Datenübertragung begonnen werden kann. Diese Zeitspanne hängt ab</p>",
      "answer":[
-    {"correct":true,"text":"vom Einschwingverhalten des Senders und der Zeit bis alle Geräte von Empfang auf Sendung durchgeschaltet haben."}
+    {
+      "correct":true,
+      "text":"vom Einschwingverhalten des Senders und der Zeit bis alle Geräte von Empfang auf Sendung durchgeschaltet haben."
+    }
   ,
-    {"correct":false,"text":"vom Einschwingverhalten des Empfängers der Gegenstation und der Anzahl der Benutzer auf der verwendeten Frequenz."}
+    {
+      "correct":false,
+      "text":"vom Einschwingverhalten des Empfängers der Gegenstation und der Anzahl der Benutzer auf der verwendeten Frequenz."
+    }
   ,
-    {"correct":false,"text":"von dem im Computer verwendeten Prozessortyp und dessen Taktgeschwindigkeit."}
+    {
+      "correct":false,
+      "text":"von dem im Computer verwendeten Prozessortyp und dessen Taktgeschwindigkeit."
+    }
   ,
-    {"correct":false,"text":"von der Zeit bis die Gegenstelle empfangsbereit ist und der Geschwindigkeit des eigenen Computers."}
+    {
+      "correct":false,
+      "text":"von der Zeit bis die Gegenstelle empfangsbereit ist und der Geschwindigkeit des eigenen Computers."
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"ATE310",
      "text":"<p>Welche Anforderungen muss ein FM-Funkgerät erfüllen, damit es für die Übertragung von Packet-Radio mit 9600 Baud geeignet ist?</p>",
      "answer":[
-    {"correct":true,"text":"Es muss sende- und empfangsseitig den NF-Frequenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können. Die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein, z.B. < 10...100 ms."}
+    {
+      "correct":true,
+      "text":"Es muss sende- und empfangsseitig den NF-Frequenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können. Die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein, z.B. < 10...100 ms."
+    }
   ,
-    {"correct":false,"text":"Es muss sende- und empfangsseitig den HF-Frequenzbereich von 300 Hz bis 3,4 kHz möglichst linear übertragen können. Die Zeit für die Sende-Empfangsumschaltung muss zwischen 100...300 ms liegen."}
+    {
+      "correct":false,
+      "text":"Es muss sende- und empfangsseitig den HF-Frequenzbereich von 300 Hz bis 3,4 kHz möglichst linear übertragen können. Die Zeit für die Sende-Empfangsumschaltung muss zwischen 100...300 ms liegen."
+    }
   ,
-    {"correct":false,"text":"Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein Terminal-Node-Controller (TNC) oder Modem für 9600 Baud angeschlossen werden kann."}
+    {
+      "correct":false,
+      "text":"Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein Terminal-Node-Controller (TNC) oder Modem für 9600 Baud angeschlossen werden kann."
+    }
   ,
-    {"correct":false,"text":"Es muss den NF-Frequenzbereich um 9600 Hz linear übertragen können und ein TX-Delay von kleiner 1 ms haben."}
+    {
+      "correct":false,
+      "text":"Es muss den NF-Frequenzbereich um 9600 Hz linear übertragen können und ein TX-Delay von kleiner 1 ms haben."
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"ATE311",
      "text":"<p>Welche Punkte in einem FM-Transceiver sind für die Zuführung bzw. das Abgreifen eines 9600-Baud-FSK-Signals geeignet?</p>",
      "answer":[
-    {"correct":true,"text":"Die Zuführung des Sendesignals könnte z.B. direkt am FM-Modulator einer Sende-ZFAufbereitung erfolgen. Der Abgriff des Empfangssignals könnte z.B. an einem geeigneten Punkt direkt am Demodulator erfolgen."}
+    {
+      "correct":true,
+      "text":"Die Zuführung des Sendesignals könnte z.B. direkt am FM-Modulator einer Sende-ZFAufbereitung erfolgen. Der Abgriff des Empfangssignals könnte z.B. an einem geeigneten Punkt direkt am Demodulator erfolgen."
+    }
   ,
-    {"correct":false,"text":"Die Zuführung des Sendesignals könnte z.B. am Eingang des Mikrofonverstärkers erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen."}
+    {
+      "correct":false,
+      "text":"Die Zuführung des Sendesignals könnte z.B. am Eingang des Mikrofonverstärkers erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen."
+    }
   ,
-    {"correct":false,"text":"Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am seriellen Bus des Mikrocontrollers erfolgen. Der Abgriff des Empfangssignals könnte an einem geeigneten Punkt direkt am Demodulator erfolgen."}
+    {
+      "correct":false,
+      "text":"Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am seriellen Bus des Mikrocontrollers erfolgen. Der Abgriff des Empfangssignals könnte an einem geeigneten Punkt direkt am Demodulator erfolgen."
+    }
   ,
-    {"correct":false,"text":"Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am Eingang des Ringmodulators erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen."}
+    {
+      "correct":false,
+      "text":"Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am Eingang des Ringmodulators erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"ATE312",
      "text":"<p>Was versteht man unter \"DAMA\" bei der Betriebsart Packet-Radio?</p>",
      "answer":[
-    {"correct":true,"text":"Anforderungsbezogener Mehrfachzugriff. Die TNC der Teilnehmer werden vom Netzknoten gepollt (angesprochen) und gehen nur nach Aufforderung des Netzknotens auf Sendung."}
+    {
+      "correct":true,
+      "text":"Anforderungsbezogener Mehrfachzugriff. Die TNC der Teilnehmer werden vom Netzknoten gepollt (angesprochen) und gehen nur nach Aufforderung des Netzknotens auf Sendung."
+    }
   ,
-    {"correct":false,"text":"Automatische Bitratenerkennung. Ein Netzknoten stellt sich automatisch auf die Bitrate des Anwenders ein."}
+    {
+      "correct":false,
+      "text":"Automatische Bitratenerkennung. Ein Netzknoten stellt sich automatisch auf die Bitrate des Anwenders ein."
+    }
   ,
-    {"correct":false,"text":"Automatische Speicherbereichszuweisung bei Digipeatern. Nach Verbindungsaufbau wird der Speicher für Store & Forward Betrieb bereitgestellt."}
+    {
+      "correct":false,
+      "text":"Automatische Speicherbereichszuweisung bei Digipeatern. Nach Verbindungsaufbau wird der Speicher für Store & Forward Betrieb bereitgestellt."
+    }
   ,
-    {"correct":false,"text":"Asynchrone Zusammenführung der Netzzugänge. Die Signale der Teilnehmer und Linkstrecken werden dem Netzknoten asynchron zugeführt."}
+    {
+      "correct":false,
+      "text":"Asynchrone Zusammenführung der Netzzugänge. Die Signale der Teilnehmer und Linkstrecken werden dem Netzknoten asynchron zugeführt."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"ATE313",
      "text":"<p>Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal?</p>",
      "answer":[
-    {"correct":true,"text":"20 kHz"}
+    {
+      "correct":true,
+      "text":"20 kHz"
+    }
   ,
-    {"correct":false,"text":"12,5 kHz"}
+    {
+      "correct":false,
+      "text":"12,5 kHz"
+    }
   ,
-    {"correct":false,"text":"ca. 6,6 kHz"}
+    {
+      "correct":false,
+      "text":"ca. 6,6 kHz"
+    }
   ,
-    {"correct":false,"text":"ca. 3 kHz"}
+    {
+      "correct":false,
+      "text":"ca. 3 kHz"
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"ATE314",
      "text":"<p>Eine Packet-Radio-Mailbox ist</p>",
      "answer":[
-    {"correct":true,"text":"ein Rechnersystem bei dem Texte und Daten über Funk eingespeichert und abgerufen werden können."}
+    {
+      "correct":true,
+      "text":"ein Rechnersystem bei dem Texte und Daten über Funk eingespeichert und abgerufen werden können."
+    }
   ,
-    {"correct":false,"text":"die Softwaresteuerung einer automatischen Funkstelle."}
+    {
+      "correct":false,
+      "text":"die Softwaresteuerung einer automatischen Funkstelle."
+    }
   ,
-    {"correct":false,"text":"eine fernbedient oder automatisch arbeitende Funkstelle die Internetnachrichten zwischenspeichert."}
+    {
+      "correct":false,
+      "text":"eine fernbedient oder automatisch arbeitende Funkstelle die Internetnachrichten zwischenspeichert."
+    }
   ,
-    {"correct":false,"text":"eine Zusatzeinrichtung die E-Mails umwandelt und anschließend zwischenspeichert."}
+    {
+      "correct":false,
+      "text":"eine Zusatzeinrichtung die E-Mails umwandelt und anschließend zwischenspeichert."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"ATE315",
      "text":"<p>Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)? Ein TNC</p>",
      "answer":[
-    {"correct":true,"text":"besteht aus einem Modem und dem Controller für die digitale Aufbereitung der Daten."}
+    {
+      "correct":true,
+      "text":"besteht aus einem Modem und dem Controller für die digitale Aufbereitung der Daten."
+    }
   ,
-    {"correct":false,"text":"wandelt nur die Töne in digitale Daten und schickt diese an den PC."}
+    {
+      "correct":false,
+      "text":"wandelt nur die Töne in digitale Daten und schickt diese an den PC."
+    }
   ,
-    {"correct":false,"text":"wandelt nur die Töne in digitale Daten und schickt diese an den Sender."}
+    {
+      "correct":false,
+      "text":"wandelt nur die Töne in digitale Daten und schickt diese an den Sender."
+    }
   ,
-    {"correct":false,"text":"ist ein Modem (Modulator und Demodulator) für digitale Signale."}
+    {
+      "correct":false,
+      "text":"ist ein Modem (Modulator und Demodulator) für digitale Signale."
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"ATE316",
      "text":"<p>Warum können auf einer Frequenz mehrere Stationen gleichzeitig Verbindungen in der Betriebsart Packet Radio haben?</p>",
      "answer":[
-    {"correct":true,"text":"Weil die Gesamtinformation einer Station in Teilinformationen zerlegt wird, die zeitversetzt gesendet werden, dazwischen ist genügend Zeit für andere Stationen."}
+    {
+      "correct":true,
+      "text":"Weil die Gesamtinformation einer Station in Teilinformationen zerlegt wird, die zeitversetzt gesendet werden, dazwischen ist genügend Zeit für andere Stationen."
+    }
   ,
-    {"correct":false,"text":"Weil es sich um digitale Übertragung handelt, die weit weniger störanfällig ist als analoge Übertragung."}
+    {
+      "correct":false,
+      "text":"Weil es sich um digitale Übertragung handelt, die weit weniger störanfällig ist als analoge Übertragung."
+    }
   ,
-    {"correct":false,"text":"Weil in dieser Betriebsart das so genannte \"Multitasking\" möglich ist."}
+    {
+      "correct":false,
+      "text":"Weil in dieser Betriebsart das so genannte \"Multitasking\" möglich ist."
+    }
   ,
-    {"correct":false,"text":"Weil bei Packet-Radio die dazu benutzten Frequenzen im so genannten \"Timesharing\" genutzt werden."}
+    {
+      "correct":false,
+      "text":"Weil bei Packet-Radio die dazu benutzten Frequenzen im so genannten \"Timesharing\" genutzt werden."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"ATE317",
      "text":"<p>Was versteht man bei Packet-Radio unter dem Begriff \"TX-Delay\"?</p>",
      "answer":[
-    {"correct":true,"text":"Das Zeitintervall zwischen dem Einschalten des Senders und dem Beginn der Datenübertragung."}
+    {
+      "correct":true,
+      "text":"Das Zeitintervall zwischen dem Einschalten des Senders und dem Beginn der Datenübertragung."
+    }
   ,
-    {"correct":false,"text":"Die Zeit, bis eine gesendete Nachricht beim Empfänger ankommt."}
+    {
+      "correct":false,
+      "text":"Die Zeit, bis eine gesendete Nachricht beim Empfänger ankommt."
+    }
   ,
-    {"correct":false,"text":"Die maximale Zeitspanne, die eine Station senden darf."}
+    {
+      "correct":false,
+      "text":"Die maximale Zeitspanne, die eine Station senden darf."
+    }
   ,
-    {"correct":false,"text":"Die Zeit, die der Funkamateur warten muss, bis er senden darf."}
+    {
+      "correct":false,
+      "text":"Die Zeit, die der Funkamateur warten muss, bis er senden darf."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"ATE318",
      "text":"<p>Welches der genannten Übertragungsverfahren passt die Übertragungsgeschwindigkeit automatisch den Kanaleigenschaften an?</p>",
      "answer":[
-    {"correct":true,"text":"Pactor."}
+    {
+      "correct":true,
+      "text":"Pactor."
+    }
   ,
-    {"correct":false,"text":"SSTV."}
+    {
+      "correct":false,
+      "text":"SSTV."
+    }
   ,
-    {"correct":false,"text":"Packet-Radio."}
+    {
+      "correct":false,
+      "text":"Packet-Radio."
+    }
   ,
-    {"correct":false,"text":"RTTY."}
+    {
+      "correct":false,
+      "text":"RTTY."
+    }
   ]
     }
   ,
@@ -396,13 +708,25 @@
      "id":"ATE319",
      "text":"<p>Bei welchem Übertragungsverfahren für Digitalsignale wird ein niederfrequenter Zwischenträger vom Digitalsignal in der Frequenz umgetastet und wie wird das Sendesignal dem Sender zugeführt?</p>",
      "answer":[
-    {"correct":true,"text":"AFSK, das Sendesignal wird über den Mikrofoneingang zugeführt."}
+    {
+      "correct":true,
+      "text":"AFSK, das Sendesignal wird über den Mikrofoneingang zugeführt."
+    }
   ,
-    {"correct":false,"text":"AFSK, das Sendesignal wird direkt dem Modulator zugeführt."}
+    {
+      "correct":false,
+      "text":"AFSK, das Sendesignal wird direkt dem Modulator zugeführt."
+    }
   ,
-    {"correct":false,"text":"FSK, das Sendesignal wird über den Mikrofoneingang zugeführt."}
+    {
+      "correct":false,
+      "text":"FSK, das Sendesignal wird über den Mikrofoneingang zugeführt."
+    }
   ,
-    {"correct":false,"text":"FSK, das Sendesignal wird direkt dem Modulator zugeführt."}
+    {
+      "correct":false,
+      "text":"FSK, das Sendesignal wird direkt dem Modulator zugeführt."
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"ATE320",
      "text":"<p>Der Baudot-Code ist ein</p>",
      "answer":[
-    {"correct":true,"text":"5-Bit-Code mit zusätzlichen Start- und Stoppbits."}
+    {
+      "correct":true,
+      "text":"5-Bit-Code mit zusätzlichen Start- und Stoppbits."
+    }
   ,
-    {"correct":false,"text":"Fernschreibcode, der Fehlerkorrektur verwendet."}
+    {
+      "correct":false,
+      "text":"Fernschreibcode, der Fehlerkorrektur verwendet."
+    }
   ,
-    {"correct":false,"text":"7-Bit-Code mit Start-, Stopp- und Paritybits."}
+    {
+      "correct":false,
+      "text":"7-Bit-Code mit Start-, Stopp- und Paritybits."
+    }
   ,
-    {"correct":false,"text":"Fernschreibcode, der \"Mark\" und \"Space\" verwendet."}
+    {
+      "correct":false,
+      "text":"Fernschreibcode, der \"Mark\" und \"Space\" verwendet."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"ATE321",
      "text":"<p>Was ist ein wesentlicher Unterschied zwischen den Betriebsarten RTTY und PACTOR?</p>",
      "answer":[
-    {"correct":true,"text":"Pactor besitzt eine Fehlerkorrektur, RTTY nicht."}
+    {
+      "correct":true,
+      "text":"Pactor besitzt eine Fehlerkorrektur, RTTY nicht."
+    }
   ,
-    {"correct":false,"text":"Pactor belegt eine größere Bandbreite als RTTY."}
+    {
+      "correct":false,
+      "text":"Pactor belegt eine größere Bandbreite als RTTY."
+    }
   ,
-    {"correct":false,"text":"Pactor wird auf UKW, RTTY auf Kurzwelle verwendet."}
+    {
+      "correct":false,
+      "text":"Pactor wird auf UKW, RTTY auf Kurzwelle verwendet."
+    }
   ,
-    {"correct":false,"text":"Pactor ist ein digitales Verfahren, RTTY analog."}
+    {
+      "correct":false,
+      "text":"Pactor ist ein digitales Verfahren, RTTY analog."
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"ATE322",
      "text":"<p>Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielsweise</p>",
      "answer":[
-    {"correct":true,"text":"einen PC mit Soundkarte und entsprechender Software."}
+    {
+      "correct":true,
+      "text":"einen PC mit Soundkarte und entsprechender Software."
+    }
   ,
-    {"correct":false,"text":"einen Fernschreiber."}
+    {
+      "correct":false,
+      "text":"einen Fernschreiber."
+    }
   ,
-    {"correct":false,"text":"einen RTTY-Microcontroller."}
+    {
+      "correct":false,
+      "text":"einen RTTY-Microcontroller."
+    }
   ,
-    {"correct":false,"text":"eine Zusatzeinrichtung, die RTTY-Signale umwandelt und anschließend zwischenspeichert."}
+    {
+      "correct":false,
+      "text":"eine Zusatzeinrichtung, die RTTY-Signale umwandelt und anschließend zwischenspeichert."
+    }
   ]
     }
   ,
@@ -456,13 +816,25 @@
      "id":"ATE323",
      "text":"<p>Welches der folgenden digitalen Übertragungsverfahren hat die geringste Bandbreite?</p>",
      "answer":[
-    {"correct":true,"text":"PSK31."}
+    {
+      "correct":true,
+      "text":"PSK31."
+    }
   ,
-    {"correct":false,"text":"RTTY."}
+    {
+      "correct":false,
+      "text":"RTTY."
+    }
   ,
-    {"correct":false,"text":"Pactor."}
+    {
+      "correct":false,
+      "text":"Pactor."
+    }
   ,
-    {"correct":false,"text":"Amtor."}
+    {
+      "correct":false,
+      "text":"Amtor."
+    }
   ]
     }
   ,
@@ -471,13 +843,25 @@
      "id":"ATE324",
      "text":"<p>Pactor ist ein digitales Übertragungsverfahren</p>",
      "answer":[
-    {"correct":true,"text":"für Texte und Daten."}
+    {
+      "correct":true,
+      "text":"für Texte und Daten."
+    }
   ,
-    {"correct":false,"text":"nur für Texte."}
+    {
+      "correct":false,
+      "text":"nur für Texte."
+    }
   ,
-    {"correct":false,"text":"für bewegte Bilder."}
+    {
+      "correct":false,
+      "text":"für bewegte Bilder."
+    }
   ,
-    {"correct":false,"text":"für Audio-Streams."}
+    {
+      "correct":false,
+      "text":"für Audio-Streams."
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"ATE325",
      "text":"<p>Die theoretische Bandbreite bei PSK31 beträgt</p>",
      "answer":[
-    {"correct":true,"text":"31 Hz"}
+    {
+      "correct":true,
+      "text":"31 Hz"
+    }
   ,
-    {"correct":false,"text":"500 Hz"}
+    {
+      "correct":false,
+      "text":"500 Hz"
+    }
   ,
-    {"correct":false,"text":"2,4 kHz"}
+    {
+      "correct":false,
+      "text":"2,4 kHz"
+    }
   ,
-    {"correct":false,"text":"3,1 kHz"}
+    {
+      "correct":false,
+      "text":"3,1 kHz"
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"ATE326",
      "text":"<p>Wie nennt man eine Darstellung der Empfangssignale auf einem Computer, wobei als horizontale Achse die Frequenz, als vertikale Achse die Zeit und als Stärke des Signals die Breite einer Linie dargestellt wird?</p>",
      "answer":[
-    {"correct":true,"text":"Wasserfalldiagramm"}
+    {
+      "correct":true,
+      "text":"Wasserfalldiagramm"
+    }
   ,
-    {"correct":false,"text":"Fourieranalyse"}
+    {
+      "correct":false,
+      "text":"Fourieranalyse"
+    }
   ,
-    {"correct":false,"text":"Schmetterlingsdarstellung"}
+    {
+      "correct":false,
+      "text":"Schmetterlingsdarstellung"
+    }
   ,
-    {"correct":false,"text":"Lissajous-Figuren"}
+    {
+      "correct":false,
+      "text":"Lissajous-Figuren"
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"ATE327",
      "text":"<p>Was ist ein Unterschied zwischen den Betriebsarten ATV und SSTV?</p>",
      "answer":[
-    {"correct":true,"text":"SSTV überträgt Standbilder, ATV bewegte Bilder."}
+    {
+      "correct":true,
+      "text":"SSTV überträgt Standbilder, ATV bewegte Bilder."
+    }
   ,
-    {"correct":false,"text":"SSTV wird auf UKW, ATV auf Kurzwelle verwendet."}
+    {
+      "correct":false,
+      "text":"SSTV wird auf UKW, ATV auf Kurzwelle verwendet."
+    }
   ,
-    {"correct":false,"text":"SSTV belegt eine größere Bandbreite als ATV."}
+    {
+      "correct":false,
+      "text":"SSTV belegt eine größere Bandbreite als ATV."
+    }
   ,
-    {"correct":false,"text":"SSTV ist schwarzweiß, ATV in Farbe."}
+    {
+      "correct":false,
+      "text":"SSTV ist schwarzweiß, ATV in Farbe."
+    }
   ]
     }
   ,
@@ -531,13 +951,25 @@
      "id":"ATE328",
      "text":"<p>Welche Aussage über die Übertragungsarten ist richtig?</p>",
      "answer":[
-    {"correct":true,"text":"Bei Halbduplex gibt es nur einen Übertragungskanal, aber es kann durch Umschaltung abwechselnd in beide Richtungen gesendet werden."}
+    {
+      "correct":true,
+      "text":"Bei Halbduplex gibt es nur einen Übertragungskanal, aber es kann durch Umschaltung abwechselnd in beide Richtungen gesendet werden."
+    }
   ,
-    {"correct":false,"text":"Bei Duplex gibt es zwei Übertragungskanäle, aber es kann nur durch Umschaltung abwechselnd in beide Richtungen gesendet werden."}
+    {
+      "correct":false,
+      "text":"Bei Duplex gibt es zwei Übertragungskanäle, aber es kann nur durch Umschaltung abwechselnd in beide Richtungen gesendet werden."
+    }
   ,
-    {"correct":false,"text":"Bei Simplex gibt es zwei unabhängige Übertragungskanäle."}
+    {
+      "correct":false,
+      "text":"Bei Simplex gibt es zwei unabhängige Übertragungskanäle."
+    }
   ,
-    {"correct":false,"text":"Bei Halbduplex kann nur in eine Richtung gesendet werden."}
+    {
+      "correct":false,
+      "text":"Bei Halbduplex kann nur in eine Richtung gesendet werden."
+    }
   ]
     }
   ,
@@ -546,13 +978,25 @@
      "id":"ATE329",
      "text":"<p>Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschaltung abwechselnd in beide Richtungen gesendet werden kann?</p>",
      "answer":[
-    {"correct":true,"text":"Halbduplex"}
+    {
+      "correct":true,
+      "text":"Halbduplex"
+    }
   ,
-    {"correct":false,"text":"Simplex"}
+    {
+      "correct":false,
+      "text":"Simplex"
+    }
   ,
-    {"correct":false,"text":"Duplex"}
+    {
+      "correct":false,
+      "text":"Duplex"
+    }
   ,
-    {"correct":false,"text":"Vollduplex"}
+    {
+      "correct":false,
+      "text":"Vollduplex"
+    }
   ]
     }
   ,
@@ -561,13 +1005,25 @@
      "id":"ATE330",
      "text":"<p>Wie viel verschiedene Zeichen kann man mit 5 Bit (z.B. Baudot-Code bei RTTY) erzeugen?</p>",
      "answer":[
-    {"correct":true,"text":"32"}
+    {
+      "correct":true,
+      "text":"32"
+    }
   ,
-    {"correct":false,"text":"5"}
+    {
+      "correct":false,
+      "text":"5"
+    }
   ,
-    {"correct":false,"text":"64"}
+    {
+      "correct":false,
+      "text":"64"
+    }
   ,
-    {"correct":false,"text":"128"}
+    {
+      "correct":false,
+      "text":"128"
+    }
   ]
     }
   ,
@@ -576,13 +1032,25 @@
      "id":"ATE330",
      "text":"<p>Wie viel verschiedene Zeichen kann man mit 5 Bit (z.B. Baudot-Code bei RTTY) erzeugen?</p>",
      "answer":[
-    {"correct":true,"text":"32"}
+    {
+      "correct":true,
+      "text":"32"
+    }
   ,
-    {"correct":false,"text":"5"}
+    {
+      "correct":false,
+      "text":"5"
+    }
   ,
-    {"correct":false,"text":"64"}
+    {
+      "correct":false,
+      "text":"64"
+    }
   ,
-    {"correct":false,"text":"128"}
+    {
+      "correct":false,
+      "text":"128"
+    }
   ]
     }
   ,
@@ -591,13 +1059,25 @@
      "id":"ATG205",
      "text":"<p>Welche Tastformung eines CW-Senders vermeidet an wirksamsten die Entstehung von Tastklicks?</p>",
      "answer":[
-    {"correct":true,"text":"<br/><img src='data:image/png;base64,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' alt='Atg205a'/>"}
+    {
+      "correct":true,
+      "text":"<img src='data:image/png;base64,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' alt='Atg205a'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABTCAAAAADMqQjLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAkSDQh4AAAAHdElNRQfkAQ0PJQqNcXydAAADrUlEQVRo3u3bP2gbdxTA8W8OrZYqVZUWh5QsiiC4S3FMEzoJk6UNRVUD7lASYQwJ2GqpcTKkoDg4g4fKNTFkUE0gBddUQ9rNxLTuUBNNxS1GWoxNVcwPK5JP2h8dZKe4Lr47gfy7C/dASPx4T/rop3c/6f7ojOCpMHQDfK+rwvf6Xt/re18Xb8A6pbLRk1c+d6lH3tWJnngHf+uRF7IDLFx8n5/+usXGs1xfu3CjvzPQ+pSNZ/doF270M31tgO+CH/Drn7eoLeb6mL42wMLZfweOlNVmtyoXugGLZcwbSyKZeZGZjMj6kIgkN0WGl0SmRkVWhkR2k7siyRWR0SmRpSGRzeSuSHJdJDMjMj8sspkUkaF1keF5kZlRkU3DWLF+6eNhe3trAya0USgA9jrjDaBJ8+DRsZKDMFEoE2gB5j6YUO1mejWuDzWPeX/0krcdTVRfeMjL+Q/52Ute8zMKykNeLqTqP3jJy00WnE+wRu8n6eqil7zku+hgnd5woj7uJS9QeuQlb2guOl3xkNf8OFfPOWthvf3QvJN+/pWHvPBNorjsJW/8IiNOwLq9mCnGHYC1e1s35+oOZli7F25PMmJ7GXaBl4dZJq7bXNbc4CWSTpXeee4db+P8k3T96phnvDTi3z+g+J6NHTp3eIF3E9ny5buWXRwAq3fV1XECx9EIPc5MzK7lzp2UdIkA6vKpeGxEau5qeeTEjL/jAZhsnPw0f5RPybucJ3HlpIQIBIg/tHiaR6fijTBWZDIXt0izdTz1NGK1XB782voQtju8ETVeYtLqg3aNN7L1UTkxl7KT6gpvo0T2vlXnusc7Vozeu20z1wXeu0We2uoFV3iD+WrUPle/l2r0FwcninT/3nnxe/Spk/Nauuf387q9dewwNM/v9XLW7srgAm/oSWnwsbMSvcfPZrnvsESr9yUPHDWvZu9affCO0xqNXpV33A1avYVq2mk36PSqRb5wXqXNG1qrp7q4Ikbf+dgCX3ZRpuv7uK9Kwnn3at3ernRTpNGb8ZY32t9Tbx8QAjjcL3yrcxcBwoQt6w/KgkDoDdjhTeua/wlb29uewqwpTFPRMCvh5stamNaWorGvqJqKbbY7Wfso9kxFjW2aNDolbRQ7VMJNdt6m1VaY+4pVztrbIf5v2Ln+zIgZhhGLde5fxeHgkTiaFTOO18QOblPdXH4mZ6z/z7D8bQuCtAjSguDh7diAvaxXA/murp+04XVV6N7f9L3uCt/re32v731dvP8A7NntsSe8gJQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg205b'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABTCAAAAADMqQjLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAkSDQh4AAAAHdElNRQfkAQ0PJQqNcXydAAADrUlEQVRo3u3bP2gbdxTA8W8OrZYqVZUWh5QsiiC4S3FMEzoJk6UNRVUD7lASYQwJ2GqpcTKkoDg4g4fKNTFkUE0gBddUQ9rNxLTuUBNNxS1GWoxNVcwPK5JP2h8dZKe4Lr47gfy7C/dASPx4T/rop3c/6f7ojOCpMHQDfK+rwvf6Xt/re18Xb8A6pbLRk1c+d6lH3tWJnngHf+uRF7IDLFx8n5/+usXGs1xfu3CjvzPQ+pSNZ/doF270M31tgO+CH/Drn7eoLeb6mL42wMLZfweOlNVmtyoXugGLZcwbSyKZeZGZjMj6kIgkN0WGl0SmRkVWhkR2k7siyRWR0SmRpSGRzeSuSHJdJDMjMj8sspkUkaF1keF5kZlRkU3DWLF+6eNhe3trAya0USgA9jrjDaBJ8+DRsZKDMFEoE2gB5j6YUO1mejWuDzWPeX/0krcdTVRfeMjL+Q/52Ute8zMKykNeLqTqP3jJy00WnE+wRu8n6eqil7zku+hgnd5woj7uJS9QeuQlb2guOl3xkNf8OFfPOWthvf3QvJN+/pWHvPBNorjsJW/8IiNOwLq9mCnGHYC1e1s35+oOZli7F25PMmJ7GXaBl4dZJq7bXNbc4CWSTpXeee4db+P8k3T96phnvDTi3z+g+J6NHTp3eIF3E9ny5buWXRwAq3fV1XECx9EIPc5MzK7lzp2UdIkA6vKpeGxEau5qeeTEjL/jAZhsnPw0f5RPybucJ3HlpIQIBIg/tHiaR6fijTBWZDIXt0izdTz1NGK1XB782voQtju8ETVeYtLqg3aNN7L1UTkxl7KT6gpvo0T2vlXnusc7Vozeu20z1wXeu0We2uoFV3iD+WrUPle/l2r0FwcninT/3nnxe/Spk/Nauuf387q9dewwNM/v9XLW7srgAm/oSWnwsbMSvcfPZrnvsESr9yUPHDWvZu9affCO0xqNXpV33A1avYVq2mk36PSqRb5wXqXNG1qrp7q4Ikbf+dgCX3ZRpuv7uK9Kwnn3at3ernRTpNGb8ZY32t9Tbx8QAjjcL3yrcxcBwoQt6w/KgkDoDdjhTeua/wlb29uewqwpTFPRMCvh5stamNaWorGvqJqKbbY7Wfso9kxFjW2aNDolbRQ7VMJNdt6m1VaY+4pVztrbIf5v2Ln+zIgZhhGLde5fxeHgkTiaFTOO18QOblPdXH4mZ6z/z7D8bQuCtAjSguDh7diAvaxXA/murp+04XVV6N7f9L3uCt/re32v731dvP8A7NntsSe8gJQAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg205b'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABUCAAAAADRrDhzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAADd0lEQVRo3u3bP0gbURwH8G9Khg6CBrmSJQQcTNKhhDYB6eIQks2lixHBP12UEpq2DkoRsSqCQykRsdjB1oIYoQRKKYYLQrMZYktdNHEQghAOjutpydDp0cFIU6m5u9cmP6/cW0J+7717Hx65d++9e7ExmCpdowZY3iuVLK/ltbyW93/x2rlqSccNwbicDfIuLjTEu9Uo7zbCHUj5O5BFNz6X7uHoa6j1dPtPgZT7DrLKxQC6q4GaatmCnqYZRyrfsKUZC6YZG51gbCPI2IGvzJgvx1jfNGOLEcZyPnYWiCwyNt13Fij7DhgLbjA2McpYOshY2Vf+dZ0JW1q7aa777ViGG4AK4KQ2rtZ+kSBdmndSDZyeZ53qbZrLewShlafeP0hc3j0iLK/3vbm8+YLQbibva9xr0X2D0HuLK8JwhYjL411DyEXF5fAWV4UpMi6HNyHf95jIK64ID+m4hr3SY/i1Z1FXxztW8BJqDXs3k4Ep1VgVSm8+jiUHJdegNyYngqTda8zbvxuOkWqNeR8kcZuYa2D9Jg1lvK4Taq/u/pXGMkLqLtW0zLA3H0oGPnh+UHP1eme6CsKTIDVWr7fY/wwJv0xt1evd7E4GdqgHsmrSHh+KM0kIbwmnkBe9Ut0C7+bk8OxQczCqpFHACTvEgbpFZCRiUJrjjWvkh9Zhh8Ndr0gJ6GwOFkB7S/18N2CHa7ZekU+r8tqtZk3Qe7vq5zsAO5x1NZHBeHJ7sknerohmEc3xzJNOIC5/b5L4771ALBtAzxI1VL8Xnty4HH8Kgdqq1wvMb3kXMqZ5HgOIpKKYE6mx+r3wrI/IA/nr1FwD64tlrPT4O6i9BtZvy+Nyps1EXsyP4IuZvJjyZqjHYUNe5xshnjfT/k4wgZiJ9neA3uhunLSDje6nPvfSPuaMep0v0JizDw3yIhItUI4Rxt+3PMKc1rLwSnmDUfmVmbwYxEe6bT8ObyS8m2kxXo3Mi2G8NNP7Y/iFgmKm8yUePxGW0wvCWTuX9+bZhwNAW238t5mFE85L89qqgdbzLN0/L67zcp1A1oHKDnDULmKvIuIQWQeUnAqlKGJfFXEIEUBOhbovoqiIOFREqMiUUNlzoKSI2KmIUJWa65T0NG3j+T+D1KC99i3t/Siu/nVOfmuI161dhKt/CZPZzv9aXstreS2v5bW8etJP+Nl3zCwhc5oAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg205c'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABUCAAAAADRrDhzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAADd0lEQVRo3u3bP0gbURwH8G9Khg6CBrmSJQQcTNKhhDYB6eIQks2lixHBP12UEpq2DkoRsSqCQykRsdjB1oIYoQRKKYYLQrMZYktdNHEQghAOjutpydDp0cFIU6m5u9cmP6/cW0J+7717Hx65d++9e7ExmCpdowZY3iuVLK/ltbyW93/x2rlqSccNwbicDfIuLjTEu9Uo7zbCHUj5O5BFNz6X7uHoa6j1dPtPgZT7DrLKxQC6q4GaatmCnqYZRyrfsKUZC6YZG51gbCPI2IGvzJgvx1jfNGOLEcZyPnYWiCwyNt13Fij7DhgLbjA2McpYOshY2Vf+dZ0JW1q7aa777ViGG4AK4KQ2rtZ+kSBdmndSDZyeZ53qbZrLewShlafeP0hc3j0iLK/3vbm8+YLQbibva9xr0X2D0HuLK8JwhYjL411DyEXF5fAWV4UpMi6HNyHf95jIK64ID+m4hr3SY/i1Z1FXxztW8BJqDXs3k4Ep1VgVSm8+jiUHJdegNyYngqTda8zbvxuOkWqNeR8kcZuYa2D9Jg1lvK4Taq/u/pXGMkLqLtW0zLA3H0oGPnh+UHP1eme6CsKTIDVWr7fY/wwJv0xt1evd7E4GdqgHsmrSHh+KM0kIbwmnkBe9Ut0C7+bk8OxQczCqpFHACTvEgbpFZCRiUJrjjWvkh9Zhh8Ndr0gJ6GwOFkB7S/18N2CHa7ZekU+r8tqtZk3Qe7vq5zsAO5x1NZHBeHJ7sknerohmEc3xzJNOIC5/b5L4771ALBtAzxI1VL8Xnty4HH8Kgdqq1wvMb3kXMqZ5HgOIpKKYE6mx+r3wrI/IA/nr1FwD64tlrPT4O6i9BtZvy+Nyps1EXsyP4IuZvJjyZqjHYUNe5xshnjfT/k4wgZiJ9neA3uhunLSDje6nPvfSPuaMep0v0JizDw3yIhItUI4Rxt+3PMKc1rLwSnmDUfmVmbwYxEe6bT8ObyS8m2kxXo3Mi2G8NNP7Y/iFgmKm8yUePxGW0wvCWTuX9+bZhwNAW238t5mFE85L89qqgdbzLN0/L67zcp1A1oHKDnDULmKvIuIQWQeUnAqlKGJfFXEIEUBOhbovoqiIOFREqMiUUNlzoKSI2KmIUJWa65T0NG3j+T+D1KC99i3t/Siu/nVOfmuI161dhKt/CZPZzv9aXstreS2v5bW8etJP+Nl3zCwhc5oAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atg205c'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABTBAAAAAAJWeXKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAABWUlEQVRYw2P4TxvwgWHU4FGDRw0eRAb/WUU0WE2SwV8YiAaMpBnMMUN8pupM55mJMxsrJ2ZO9pyqOV1ihthMk5lBMws7GysnRU6xnCYJUjNDkDSD+f7r/vf6X/Z/8/9H7z/t/1b/y/6v3n+d/xH/p/y/9P/z+S/zf+T/0f+n+9/qvyKJBgM1eQINXvz/0v1P66EGa4MNPvT/0fnP87/H/wYZbDlq8KjBowaPGjxq8KjBowaPGkxzg89gBYdJMBiL9vMfGP7iaOrJEW2wARbdvB8Y/qVhBYnEu1gBi/a8IRl5owaPGjxq8KjBowaPGjxq8KjBUIP/QwxGGcWCGQwexYonbxSL5630O4t3qe8mvTt07tG8p3kv7F7rvNV65/6u5d2me5fWPe57FvdK7432O4u3JBpMq5HC787GzsYuQGgCgc4mIAEkIYSAKUkGUwpGDR41eNTgATEYALYHohCH8umSAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atg205d'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAABTBAAAAAAJWeXKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAABWUlEQVRYw2P4TxvwgWHU4FGDRw0eRAb/WUU0WE2SwV8YiAaMpBnMMUN8pupM55mJMxsrJ2ZO9pyqOV1ihthMk5lBMws7GysnRU6xnCYJUjNDkDSD+f7r/vf6X/Z/8/9H7z/t/1b/y/6v3n+d/xH/p/y/9P/z+S/zf+T/0f+n+9/qvyKJBgM1eQINXvz/0v1P66EGa4MNPvT/0fnP87/H/wYZbDlq8KjBowaPGjxq8KjBowaPGkxzg89gBYdJMBiL9vMfGP7iaOrJEW2wARbdvB8Y/qVhBYnEu1gBi/a8IRl5owaPGjxq8KjBowaPGjxq8KjBUIP/QwxGGcWCGQwexYonbxSL5630O4t3qe8mvTt07tG8p3kv7F7rvNV65/6u5d2me5fWPe57FvdK7432O4u3JBpMq5HC787GzsYuQGgCgc4mIAEkIYSAKUkGUwpGDR41eNTgATEYALYHohCH8umSAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atg205d'/>"
+    }
   ]
     }
   

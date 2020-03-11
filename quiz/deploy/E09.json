@@ -6,13 +6,25 @@
      "id":"ETI102",
      "text":"<p>Welche ionosphärischen Schichten bestimmen die Fernausbreitung in der Nacht?</p>",
      "answer":[
-    {"correct":true,"text":"Die F2-Schicht"}
+    {
+      "correct":true,
+      "text":"Die F2-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die D-, E- und F2-Schicht"}
+    {
+      "correct":false,
+      "text":"Die D-, E- und F2-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die F1- und F2-Schicht"}
+    {
+      "correct":false,
+      "text":"Die F1- und F2-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die D- und E-Schicht"}
+    {
+      "correct":false,
+      "text":"Die D- und E-Schicht"
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"ETI103",
      "text":"<p>In welcher Höhe befinden sich die für die Fernausbreitung (DX) wichtigen ionosphärischen Schichten? Sie befinden sich in ungefähr</p>",
      "answer":[
-    {"correct":true,"text":"200 bis 500 km Höhe."}
+    {
+      "correct":true,
+      "text":"200 bis 500 km Höhe."
+    }
   ,
-    {"correct":false,"text":"2 bis 5 km Höhe."}
+    {
+      "correct":false,
+      "text":"2 bis 5 km Höhe."
+    }
   ,
-    {"correct":false,"text":"20 bis 50 km Höhe."}
+    {
+      "correct":false,
+      "text":"20 bis 50 km Höhe."
+    }
   ,
-    {"correct":false,"text":"2000 bis 5000 km Höhe."}
+    {
+      "correct":false,
+      "text":"2000 bis 5000 km Höhe."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"ETI104",
      "text":"<p>Welchen Einfluss hat die D-Schicht auf die Fernausbreitung?</p>",
      "answer":[
-    {"correct":true,"text":"Die D-Schicht führt tagsüber zu starker Dämpfung im 80- und 160-m-Band."}
+    {
+      "correct":true,
+      "text":"Die D-Schicht führt tagsüber zu starker Dämpfung im 80- und 160-m-Band."
+    }
   ,
-    {"correct":false,"text":"Die D-Schicht reflektiert tagsüber die Wellen im 80- und 160-m-Band."}
+    {
+      "correct":false,
+      "text":"Die D-Schicht reflektiert tagsüber die Wellen im 80- und 160-m-Band."
+    }
   ,
-    {"correct":false,"text":"Die D-Schicht absorbiert tagsüber die Wellen im 10-m-Band."}
+    {
+      "correct":false,
+      "text":"Die D-Schicht absorbiert tagsüber die Wellen im 10-m-Band."
+    }
   ,
-    {"correct":false,"text":"Die D-Schicht ist im Sonnenfleckenmaximum am wenigsten ausgeprägt."}
+    {
+      "correct":false,
+      "text":"Die D-Schicht ist im Sonnenfleckenmaximum am wenigsten ausgeprägt."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"ETI105",
      "text":"<p>Wie kommt die Fernausbreitung einer Funkwelle auf den Kurzwellenbändern zustande? Sie kommt zustande durch die Reflexion an</p>",
      "answer":[
-    {"correct":true,"text":"elektrisch aufgeladenen Luftschichten in der Ionosphäre."}
+    {
+      "correct":true,
+      "text":"elektrisch aufgeladenen Luftschichten in der Ionosphäre."
+    }
   ,
-    {"correct":false,"text":"Hoch- und Tiefdruckgebieten der hohen Atmosphäre."}
+    {
+      "correct":false,
+      "text":"Hoch- und Tiefdruckgebieten der hohen Atmosphäre."
+    }
   ,
-    {"correct":false,"text":"den Wolken in der niedrigen Atmosphäre."}
+    {
+      "correct":false,
+      "text":"den Wolken in der niedrigen Atmosphäre."
+    }
   ,
-    {"correct":false,"text":"den parasitären Elementen einer Richtantenne."}
+    {
+      "correct":false,
+      "text":"den parasitären Elementen einer Richtantenne."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"ETI106",
      "text":"<p>Welche Schicht ist für die gute Ausbreitung im 10-m-Band in den Sommermonaten verantwortlich?</p>",
      "answer":[
-    {"correct":true,"text":"Die E-Schicht"}
+    {
+      "correct":true,
+      "text":"Die E-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die D-Schicht"}
+    {
+      "correct":false,
+      "text":"Die D-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die F1-Schicht"}
+    {
+      "correct":false,
+      "text":"Die F1-Schicht"
+    }
   ,
-    {"correct":false,"text":"Die F2-Schicht"}
+    {
+      "correct":false,
+      "text":"Die F2-Schicht"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ETI107",
      "text":"<p>Die Sonnenfleckenzahl ist einem regelmäßigen Zyklus unterworfen. Welchen Zeitraum hat dieser Zyklus zirka?</p>",
      "answer":[
-    {"correct":true,"text":"11 Jahre"}
+    {
+      "correct":true,
+      "text":"11 Jahre"
+    }
   ,
-    {"correct":false,"text":"6 Monate"}
+    {
+      "correct":false,
+      "text":"6 Monate"
+    }
   ,
-    {"correct":false,"text":"12 Monate"}
+    {
+      "correct":false,
+      "text":"12 Monate"
+    }
   ,
-    {"correct":false,"text":"100 Jahre"}
+    {
+      "correct":false,
+      "text":"100 Jahre"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ETI202",
      "text":"<p>Unter der \"Toten Zone\" wird der Bereich verstanden,</p>",
      "answer":[
-    {"correct":true,"text":"der durch die Bodenwelle nicht mehr erreicht wird und durch die reflektierte Raumwelle noch nicht erreicht wird."}
+    {
+      "correct":true,
+      "text":"der durch die Bodenwelle nicht mehr erreicht wird und durch die reflektierte Raumwelle noch nicht erreicht wird."
+    }
   ,
-    {"correct":false,"text":"der durch die Bodenwelle überdeckt wird, so dass schwächere DX-Stationen zugedeckt werden."}
+    {
+      "correct":false,
+      "text":"der durch die Bodenwelle überdeckt wird, so dass schwächere DX-Stationen zugedeckt werden."
+    }
   ,
-    {"correct":false,"text":"der durch die Bodenwelle erreicht wird und für die Raumwelle nicht zugänglich ist."}
+    {
+      "correct":false,
+      "text":"der durch die Bodenwelle erreicht wird und für die Raumwelle nicht zugänglich ist."
+    }
   ,
-    {"correct":false,"text":"der durch die Interferenz der Bodenwelle mit der Raumwelle in einer Zone der gegenseitigen Auslöschung liegt."}
+    {
+      "correct":false,
+      "text":"der durch die Interferenz der Bodenwelle mit der Raumwelle in einer Zone der gegenseitigen Auslöschung liegt."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"ETI203",
      "text":"<p>Welche der folgenden Aussagen trifft für KW-Funkverbindungen zu, die über Bodenwellen erfolgen?</p>",
      "answer":[
-    {"correct":true,"text":"Die Bodenwelle folgt der Erdkrümmung und geht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren Frequenzbereichen."}
+    {
+      "correct":true,
+      "text":"Die Bodenwelle folgt der Erdkrümmung und geht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren Frequenzbereichen."
+    }
   ,
-    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und geht nicht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren Frequenzbereichen."}
+    {
+      "correct":false,
+      "text":"Die Bodenwelle folgt der Erdkrümmung und geht nicht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren Frequenzbereichen."
+    }
   ,
-    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und geht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren Frequenzbereichen."}
+    {
+      "correct":false,
+      "text":"Die Bodenwelle folgt der Erdkrümmung und geht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren Frequenzbereichen."
+    }
   ,
-    {"correct":false,"text":"Die Bodenwelle folgt der Erdkrümmung und geht nicht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren Frequenzbereichen."}
+    {
+      "correct":false,
+      "text":"Die Bodenwelle folgt der Erdkrümmung und geht nicht über den geografischen Horizont hinaus. Sie wird in niedrigeren Frequenzbereichen stärker gedämpft als in höheren Frequenzbereichen."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"ETI204",
      "text":"<p>Wie groß ist in etwa die maximale Entfernung, die ein KW-Signal bei Reflexion an der E-Schicht auf der Erdoberfläche mit einem Sprung (Hop) überbrücken kann?</p>",
      "answer":[
-    {"correct":true,"text":"Etwa 2200 km"}
+    {
+      "correct":true,
+      "text":"Etwa 2200 km"
+    }
   ,
-    {"correct":false,"text":"Etwa 1100 km"}
+    {
+      "correct":false,
+      "text":"Etwa 1100 km"
+    }
   ,
-    {"correct":false,"text":"Etwa 4500 km"}
+    {
+      "correct":false,
+      "text":"Etwa 4500 km"
+    }
   ,
-    {"correct":false,"text":"Etwa 9000 km"}
+    {
+      "correct":false,
+      "text":"Etwa 9000 km"
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"ETI205",
      "text":"<p>Von welchem der genannten Parameter ist die Sprungdistanz abhängig, die ein KW-Signal auf der Erdoberfläche überbrücken kann? Sie ist abhängig</p>",
      "answer":[
-    {"correct":true,"text":"vom Abstrahlwinkel der Antenne."}
+    {
+      "correct":true,
+      "text":"vom Abstrahlwinkel der Antenne."
+    }
   ,
-    {"correct":false,"text":"von der Polarisation der Antenne."}
+    {
+      "correct":false,
+      "text":"von der Polarisation der Antenne."
+    }
   ,
-    {"correct":false,"text":"von der Sendeleistung."}
+    {
+      "correct":false,
+      "text":"von der Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"vom Antennengewinn."}
+    {
+      "correct":false,
+      "text":"vom Antennengewinn."
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"ETI206",
      "text":"<p>Bei der Ausbreitung auf Kurzwelle spielt die so genannte \"Grey Line\" eine besondere Rolle. Was ist die \"Grey Line\"?</p>",
      "answer":[
-    {"correct":true,"text":"Der Streifen der Dämmerungsphase vor Sonnenaufgang oder nach Sonnenuntergang."}
+    {
+      "correct":true,
+      "text":"Der Streifen der Dämmerungsphase vor Sonnenaufgang oder nach Sonnenuntergang."
+    }
   ,
-    {"correct":false,"text":"Die instabilen Ausbreitungsbedingungen in der Äquatorialzone."}
+    {
+      "correct":false,
+      "text":"Die instabilen Ausbreitungsbedingungen in der Äquatorialzone."
+    }
   ,
-    {"correct":false,"text":"Die Zeit mit den besten Möglichkeiten für \"Short Skip\" Ausbreitung."}
+    {
+      "correct":false,
+      "text":"Die Zeit mit den besten Möglichkeiten für \"Short Skip\" Ausbreitung."
+    }
   ,
-    {"correct":false,"text":"Die Übergangszeit vor und nach dem Winter, in der sich die D-Schicht ab- und wieder aufbaut."}
+    {
+      "correct":false,
+      "text":"Die Übergangszeit vor und nach dem Winter, in der sich die D-Schicht ab- und wieder aufbaut."
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"ETI207",
      "text":"<p>Was versteht man unter dem Begriff \"Mögel-Dellinger-Effekt\"?</p>",
      "answer":[
-    {"correct":true,"text":"Den totalen, zeitlich begrenzten Ausfall der Reflexion in der Ionosphäre."}
+    {
+      "correct":true,
+      "text":"Den totalen, zeitlich begrenzten Ausfall der Reflexion in der Ionosphäre."
+    }
   ,
-    {"correct":false,"text":"Den zeitlich begrenzten Schwund durch Mehrwegeausbreitung in der Ionosphäre."}
+    {
+      "correct":false,
+      "text":"Den zeitlich begrenzten Schwund durch Mehrwegeausbreitung in der Ionosphäre."
+    }
   ,
-    {"correct":false,"text":"Die zeitlich begrenzt auftretende Verzerrung der Modulation."}
+    {
+      "correct":false,
+      "text":"Die zeitlich begrenzt auftretende Verzerrung der Modulation."
+    }
   ,
-    {"correct":false,"text":"Das Übersprechen der Modulation eines starken Senders auf andere, über die Ionosphäre übertragene HF-Signale."}
+    {
+      "correct":false,
+      "text":"Das Übersprechen der Modulation eines starken Senders auf andere, über die Ionosphäre übertragene HF-Signale."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"ETI208",
      "text":"<p>Ein plötzlicher Anstieg der Intensitäten von UV- und Röntgenstrahlung nach einem Flare (Energieausbruch auf der Sonne) führt zu erhöhter Ionisierung der D-Schicht und damit zu kurzzeitigem Totalausfall der ionosphärischen Kurzwellenausbreitung. Diese Erscheinung wird auch als</p>",
      "answer":[
-    {"correct":true,"text":"Mögel-Dellinger-Effekt bezeichnet."}
+    {
+      "correct":true,
+      "text":"Mögel-Dellinger-Effekt bezeichnet."
+    }
   ,
-    {"correct":false,"text":"sporadische E-Ausbreitung bezeichnet."}
+    {
+      "correct":false,
+      "text":"sporadische E-Ausbreitung bezeichnet."
+    }
   ,
-    {"correct":false,"text":"kritischer Schwund bezeichnet."}
+    {
+      "correct":false,
+      "text":"kritischer Schwund bezeichnet."
+    }
   ,
-    {"correct":false,"text":"Aurora-Effekt bezeichnet."}
+    {
+      "correct":false,
+      "text":"Aurora-Effekt bezeichnet."
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"ETI209",
      "text":"<p>Unter dem Begriff \"Short Skip\" versteht man Funkverbindungen besonders im 10-m-Band mit Sprungentfernungen unter 1000 km, die</p>",
      "answer":[
-    {"correct":true,"text":"durch Reflexion an sporadischen E-Schichten ermöglicht werden."}
+    {
+      "correct":true,
+      "text":"durch Reflexion an sporadischen E-Schichten ermöglicht werden."
+    }
   ,
-    {"correct":false,"text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F1-Schicht ermöglicht werden."}
+    {
+      "correct":false,
+      "text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F1-Schicht ermöglicht werden."
+    }
   ,
-    {"correct":false,"text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F2-Schicht ermöglicht werden."}
+    {
+      "correct":false,
+      "text":"bei entsprechendem Abstrahlwinkel durch Reflexion an der F2-Schicht ermöglicht werden."
+    }
   ,
-    {"correct":false,"text":"durch Reflexion an hochionisierten D-Schichten ermöglicht werden."}
+    {
+      "correct":false,
+      "text":"durch Reflexion an hochionisierten D-Schichten ermöglicht werden."
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"ETI210",
      "text":"<p>Warum sind Signale im 160- und 80-Meter-Band tagsüber nur schwach und nicht für den weltweiten Funkverkehr geeignet? Sie sind ungeeignet wegen der Tagesdämpfung in der</p>",
      "answer":[
-    {"correct":true,"text":"D-Schicht"}
+    {
+      "correct":true,
+      "text":"D-Schicht"
+    }
   ,
-    {"correct":false,"text":"F1-Schicht"}
+    {
+      "correct":false,
+      "text":"F1-Schicht"
+    }
   ,
-    {"correct":false,"text":"F2-Schicht"}
+    {
+      "correct":false,
+      "text":"F2-Schicht"
+    }
   ,
-    {"correct":false,"text":"A-Schicht"}
+    {
+      "correct":false,
+      "text":"A-Schicht"
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"ETI211",
      "text":"<p>In welcher ionosphärischen Schicht treten gelegentlich Aurora-Erscheinungen auf?</p>",
      "answer":[
-    {"correct":true,"text":"In der E-Schicht"}
+    {
+      "correct":true,
+      "text":"In der E-Schicht"
+    }
   ,
-    {"correct":false,"text":"In der F-Schicht"}
+    {
+      "correct":false,
+      "text":"In der F-Schicht"
+    }
   ,
-    {"correct":false,"text":"In der E-Schicht in der Nähe des Äquators"}
+    {
+      "correct":false,
+      "text":"In der E-Schicht in der Nähe des Äquators"
+    }
   ,
-    {"correct":false,"text":"In der D-Schicht"}
+    {
+      "correct":false,
+      "text":"In der D-Schicht"
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"ETI212",
      "text":"<p>Was bedeutet die \"MUF\" bei der Kurzwellenausbreitung?</p>",
      "answer":[
-    {"correct":true,"text":"Höchste brauchbare Frequenz"}
+    {
+      "correct":true,
+      "text":"Höchste brauchbare Frequenz"
+    }
   ,
-    {"correct":false,"text":"Niedrigste brauchbare Frequenz"}
+    {
+      "correct":false,
+      "text":"Niedrigste brauchbare Frequenz"
+    }
   ,
-    {"correct":false,"text":"Kritische Grenzfrequenz"}
+    {
+      "correct":false,
+      "text":"Kritische Grenzfrequenz"
+    }
   ,
-    {"correct":false,"text":"Mittlere Nutzfrequenz"}
+    {
+      "correct":false,
+      "text":"Mittlere Nutzfrequenz"
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"ETI213",
      "text":"<p>Wie nennt man den ionosphärischen Feldstärkeschwund durch Überlagerung von Boden- und Raumwelle, der sich bei der Kurzwellenausbreitung besonders bei AM Sendungenbemerkbar macht?</p>",
      "answer":[
-    {"correct":true,"text":"Fading"}
+    {
+      "correct":true,
+      "text":"Fading"
+    }
   ,
-    {"correct":false,"text":"Flatterfading"}
+    {
+      "correct":false,
+      "text":"Flatterfading"
+    }
   ,
-    {"correct":false,"text":"MUF"}
+    {
+      "correct":false,
+      "text":"MUF"
+    }
   ,
-    {"correct":false,"text":"Mögel-Dellinger-Effekt"}
+    {
+      "correct":false,
+      "text":"Mögel-Dellinger-Effekt"
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"ETI301",
      "text":"<p>Wie weit etwa reicht der Funkhorizont im UKW-Bereich über den geografischen Horizont hinaus? Er reicht etwa</p>",
      "answer":[
-    {"correct":true,"text":"15 % weiter als der geografische Horizont."}
+    {
+      "correct":true,
+      "text":"15 % weiter als der geografische Horizont."
+    }
   ,
-    {"correct":false,"text":"doppelt so weit."}
+    {
+      "correct":false,
+      "text":"doppelt so weit."
+    }
   ,
-    {"correct":false,"text":"bis zur Hälfte der Entfernung bis zum geografischen Horizont."}
+    {
+      "correct":false,
+      "text":"bis zur Hälfte der Entfernung bis zum geografischen Horizont."
+    }
   ,
-    {"correct":false,"text":"bis zum Vierfachen der Entfernung bis zum geografischen Horizont."}
+    {
+      "correct":false,
+      "text":"bis zum Vierfachen der Entfernung bis zum geografischen Horizont."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"ETI302",
      "text":"<p>Überhorizontverbindungen im UHF/VHF-Bereich kommen u.a. zustande durch</p>",
      "answer":[
-    {"correct":true,"text":"Streuung der Wellen an troposphärischen Bereichen unterschiedlicher Beschaffenheit."}
+    {
+      "correct":true,
+      "text":"Streuung der Wellen an troposphärischen Bereichen unterschiedlicher Beschaffenheit."
+    }
   ,
-    {"correct":false,"text":"Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten."}
+    {
+      "correct":false,
+      "text":"Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten."
+    }
   ,
-    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung."}
+    {
+      "correct":false,
+      "text":"Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung."
+    }
   ,
-    {"correct":false,"text":"Polarisationsdrehungen in der Troposphäre an Gewitterfronten."}
+    {
+      "correct":false,
+      "text":"Polarisationsdrehungen in der Troposphäre an Gewitterfronten."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"ETI303",
      "text":"<p>Für VHF-Weitverkehrsverbindungen wird hauptsächlich die</p>",
      "answer":[
-    {"correct":true,"text":"troposphärische Ausbreitung genutzt."}
+    {
+      "correct":true,
+      "text":"troposphärische Ausbreitung genutzt."
+    }
   ,
-    {"correct":false,"text":"ionosphärische Ausbreitung genutzt."}
+    {
+      "correct":false,
+      "text":"ionosphärische Ausbreitung genutzt."
+    }
   ,
-    {"correct":false,"text":"Bodenwellenausbreitung genutzt."}
+    {
+      "correct":false,
+      "text":"Bodenwellenausbreitung genutzt."
+    }
   ,
-    {"correct":false,"text":"Oberflächenwellenausbreitung genutzt."}
+    {
+      "correct":false,
+      "text":"Oberflächenwellenausbreitung genutzt."
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"ETI304",
      "text":"<p>Was ist die \"Troposphäre\"? Die Troposphäre ist der</p>",
      "answer":[
-    {"correct":true,"text":"untere Teil der Atmosphäre, in der die Erscheinungen des Wetters stattfinden."}
+    {
+      "correct":true,
+      "text":"untere Teil der Atmosphäre, in der die Erscheinungen des Wetters stattfinden."
+    }
   ,
-    {"correct":false,"text":"untere Teil der Atmosphäre, der sich nördlich und südlich des Äquators über die Tropen erstreckt."}
+    {
+      "correct":false,
+      "text":"untere Teil der Atmosphäre, der sich nördlich und südlich des Äquators über die Tropen erstreckt."
+    }
   ,
-    {"correct":false,"text":"obere Teil der Atmosphäre, in der es zur Bildung sporadischer E-Schichten kommen kann."}
+    {
+      "correct":false,
+      "text":"obere Teil der Atmosphäre, in der es zur Bildung sporadischer E-Schichten kommen kann."
+    }
   ,
-    {"correct":false,"text":"obere Teil der Atmosphäre, in welcher Aurora-Erscheinungen auftreten können."}
+    {
+      "correct":false,
+      "text":"obere Teil der Atmosphäre, in welcher Aurora-Erscheinungen auftreten können."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"ETI305",
      "text":"<p>Wie wirkt die Antennenhöhe auf die Reichweite einer UKW-Verbindung aus? Die Reichweite steigt mit zunehmender Antennenhöhe, weil</p>",
      "answer":[
-    {"correct":true,"text":"die optische Sichtweite zunimmt."}
+    {
+      "correct":true,
+      "text":"die optische Sichtweite zunimmt."
+    }
   ,
-    {"correct":false,"text":"die dämpfende Wirkung der Erdoberfläche abnimmt."}
+    {
+      "correct":false,
+      "text":"die dämpfende Wirkung der Erdoberfläche abnimmt."
+    }
   ,
-    {"correct":false,"text":"die Entfernung zu den reflektierenden Schichten der Troposphäre abnimmt."}
+    {
+      "correct":false,
+      "text":"die Entfernung zu den reflektierenden Schichten der Troposphäre abnimmt."
+    }
   ,
-    {"correct":false,"text":"in höheren Luftschichten die Temperatur sinkt."}
+    {
+      "correct":false,
+      "text":"in höheren Luftschichten die Temperatur sinkt."
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"ETI306",
      "text":"<p>Was ist die Ursache für Aurora-Erscheinungen? Die Ursache ist</p>",
      "answer":[
-    {"correct":true,"text":"das Eindringen geladener Teilchen von der Sonne in die Atmosphäre."}
+    {
+      "correct":true,
+      "text":"das Eindringen geladener Teilchen von der Sonne in die Atmosphäre."
+    }
   ,
-    {"correct":false,"text":"eine hohe Sonnenfleckenzahl."}
+    {
+      "correct":false,
+      "text":"eine hohe Sonnenfleckenzahl."
+    }
   ,
-    {"correct":false,"text":"eine niedrige Sonnenfleckenzahl."}
+    {
+      "correct":false,
+      "text":"eine niedrige Sonnenfleckenzahl."
+    }
   ,
-    {"correct":false,"text":"das Auftreten von Meteoritenschauern in den polaren Regionen."}
+    {
+      "correct":false,
+      "text":"das Auftreten von Meteoritenschauern in den polaren Regionen."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"ETI307",
      "text":"<p>Wie wirkt sich \"Aurora\" auf die Signalqualität eines Funksignals aus?</p>",
      "answer":[
-    {"correct":true,"text":"CW-Signale haben einen flatternden und verbrummten Ton."}
+    {
+      "correct":true,
+      "text":"CW-Signale haben einen flatternden und verbrummten Ton."
+    }
   ,
-    {"correct":false,"text":"CW-Signale haben einen besseren Ton."}
+    {
+      "correct":false,
+      "text":"CW-Signale haben einen besseren Ton."
+    }
   ,
-    {"correct":false,"text":"Die Lesbarkeit der SSB-Signale verbessert sich."}
+    {
+      "correct":false,
+      "text":"Die Lesbarkeit der SSB-Signale verbessert sich."
+    }
   ,
-    {"correct":false,"text":"Die Lesbarkeit der FM-Signale verbessert sich."}
+    {
+      "correct":false,
+      "text":"Die Lesbarkeit der FM-Signale verbessert sich."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"ETI308",
      "text":"<p>Welche Betriebsart eignet sich am besten für Auroraverbindungen?</p>",
      "answer":[
-    {"correct":true,"text":"CW"}
+    {
+      "correct":true,
+      "text":"CW"
+    }
   ,
-    {"correct":false,"text":"SSB"}
+    {
+      "correct":false,
+      "text":"SSB"
+    }
   ,
-    {"correct":false,"text":"FM"}
+    {
+      "correct":false,
+      "text":"FM"
+    }
   ,
-    {"correct":false,"text":"PSK31"}
+    {
+      "correct":false,
+      "text":"PSK31"
+    }
   ]
     }
   ,
@@ -396,28 +708,52 @@
      "id":"ETI309",
      "text":"<p>Was verstehen Sie unter dem Begriff \"Sporadic-E\"? Ich verstehe darunter</p>",
      "answer":[
-    {"correct":true,"text":"die Reflexion an lokal begrenzten Bereichen mit ungewöhnlich hoher Ionisation innerhalb der E-Schicht."}
+    {
+      "correct":true,
+      "text":"die Reflexion an lokal begrenzten Bereichen mit ungewöhnlich hoher Ionisation innerhalb der E-Schicht."
+    }
   ,
-    {"correct":false,"text":"kurzfristige plötzliche Inversionsänderungen in der E-Schicht, die Fernausbreitung im VHF-Bereich ermöglichen."}
+    {
+      "correct":false,
+      "text":"kurzfristige plötzliche Inversionsänderungen in der E-Schicht, die Fernausbreitung im VHF-Bereich ermöglichen."
+    }
   ,
-    {"correct":false,"text":"kurzzeitig auftretende starke Reflexion von VHF-Signalen an Meteorbahnen innerhalb der E-Schicht."}
+    {
+      "correct":false,
+      "text":"kurzzeitig auftretende starke Reflexion von VHF-Signalen an Meteorbahnen innerhalb der E-Schicht."
+    }
   ,
-    {"correct":false,"text":"lokal begrenzten kurzzeitigen Ausfall der Reflexion durch ungewöhnlich hohe Ionisation innerhalb der E-Schicht."}
+    {
+      "correct":false,
+      "text":"lokal begrenzten kurzzeitigen Ausfall der Reflexion durch ungewöhnlich hohe Ionisation innerhalb der E-Schicht."
+    }
   ]
     }
   ,
     {
      "name":"E/TI310",
      "id":"ETI310",
-     "text":"<p>In dem folgenden Geländeprofil sei S ein Sender im 2-m-Band, E1 bis E4 vier Empfangsstationen. Welche Funkstrecke geht wahrscheinlich am besten, welche am schlechtesten?</p><br/><img src='data:image/png;base64,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' alt='ETI310'/>",
+     "text":"<p>In dem folgenden Geländeprofil sei S ein Sender im 2-m-Band, E1 bis E4 vier Empfangsstationen. Welche Funkstrecke geht wahrscheinlich am besten, welche am schlechtesten?</p><img src='data:image/png;base64,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' alt='ETI310'/>",
      "answer":[
-    {"correct":true,"text":"Am besten S-E3, am schlechtesten S-E1"}
+    {
+      "correct":true,
+      "text":"Am besten S-E3, am schlechtesten S-E1"
+    }
   ,
-    {"correct":false,"text":"Am besten S-E1, am schlechtesten S-E4"}
+    {
+      "correct":false,
+      "text":"Am besten S-E1, am schlechtesten S-E4"
+    }
   ,
-    {"correct":false,"text":"Am besten S-E3, am schlechtesten S-E4"}
+    {
+      "correct":false,
+      "text":"Am besten S-E3, am schlechtesten S-E4"
+    }
   ,
-    {"correct":false,"text":"Am besten S-E4, am schlechtesten S-E1"}
+    {
+      "correct":false,
+      "text":"Am besten S-E4, am schlechtesten S-E1"
+    }
   ]
     }
   

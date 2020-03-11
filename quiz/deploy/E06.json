@@ -4,30 +4,54 @@
     {
      "name":"E/TC301",
      "id":"ETC301",
-     "text":"<p>Wie ändert sich die Induktivität einer Spule von 12 μH, wenn die Windungszahl bei gleicher Wickellänge verdoppelt wird?</p><br/><img src='data:image/png;base64,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' alt='ETC301'/>",
+     "text":"<p>Wie ändert sich die Induktivität einer Spule von 12 μH, wenn die Windungszahl bei gleicher Wickellänge verdoppelt wird?</p><img src='data:image/png;base64,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' alt='ETC301'/>",
      "answer":[
-    {"correct":true,"text":"Die Induktivität steigt auf 48 μH."}
+    {
+      "correct":true,
+      "text":"Die Induktivität steigt auf 48 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität steigt auf 24 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität steigt auf 24 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität sinkt auf 6 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität sinkt auf 6 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität sinkt auf 3 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität sinkt auf 3 μH."
+    }
   ]
     }
   ,
     {
      "name":"E/TC302",
      "id":"ETC302",
-     "text":"<p>Wie ändert sich die Induktivität einer Spule von 12 μH, wenn die Wicklung auf dem Wickelkörper bei gleicher Windungszahl auf die doppelte Länge auseinander gezogen wird?</p><br/><img src='data:image/png;base64,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' alt='ETC301'/>",
+     "text":"<p>Wie ändert sich die Induktivität einer Spule von 12 μH, wenn die Wicklung auf dem Wickelkörper bei gleicher Windungszahl auf die doppelte Länge auseinander gezogen wird?</p><img src='data:image/png;base64,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' alt='ETC301'/>",
      "answer":[
-    {"correct":true,"text":"Die Induktivität sinkt auf 6 μH."}
+    {
+      "correct":true,
+      "text":"Die Induktivität sinkt auf 6 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität steigt auf 24 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität steigt auf 24 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität steigt auf 48 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität steigt auf 48 μH."
+    }
   ,
-    {"correct":false,"text":"Die Induktivität sinkt auf 3 μH."}
+    {
+      "correct":false,
+      "text":"Die Induktivität sinkt auf 3 μH."
+    }
   ]
     }
   ,
@@ -36,43 +60,79 @@
      "id":"ETC303",
      "text":"<p>Wie kann man die Induktivität einer Spule vergrößern?</p>",
      "answer":[
-    {"correct":true,"text":"Durch Stauchen der Spule (Verkürzen der Spulenlänge)."}
+    {
+      "correct":true,
+      "text":"Durch Stauchen der Spule (Verkürzen der Spulenlänge)."
+    }
   ,
-    {"correct":false,"text":"Durch Auseinanderziehen der Spule (Vergrößerung der Spulenlänge)."}
+    {
+      "correct":false,
+      "text":"Durch Auseinanderziehen der Spule (Vergrößerung der Spulenlänge)."
+    }
   ,
-    {"correct":false,"text":"Durch Einführen eines Kupferkerns in die Spule."}
+    {
+      "correct":false,
+      "text":"Durch Einführen eines Kupferkerns in die Spule."
+    }
   ,
-    {"correct":false,"text":"Durch Einbau der Spule in einen Abschirmbecher."}
+    {
+      "correct":false,
+      "text":"Durch Einbau der Spule in einen Abschirmbecher."
+    }
   ]
     }
   ,
     {
      "name":"E/TC304",
      "id":"ETC304",
-     "text":"<p>Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus</p><br/><img src='data:image/png;base64,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' alt='ETC304'/>",
+     "text":"<p>Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus</p><img src='data:image/png;base64,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' alt='ETC304'/>",
      "answer":[
-    {"correct":true,"text":"Ferrit bestehen."}
+    {
+      "correct":true,
+      "text":"Ferrit bestehen."
+    }
   ,
-    {"correct":false,"text":"Kunststoff bestehen."}
+    {
+      "correct":false,
+      "text":"Kunststoff bestehen."
+    }
   ,
-    {"correct":false,"text":"Stahl bestehen."}
+    {
+      "correct":false,
+      "text":"Stahl bestehen."
+    }
   ,
-    {"correct":false,"text":"aus gut leitendem Material bestehen."}
+    {
+      "correct":false,
+      "text":"aus gut leitendem Material bestehen."
+    }
   ]
     }
   ,
     {
      "name":"E/TC305",
      "id":"ETC305",
-     "text":"<p>Schaltet man zwei Glühlampen gleichzeitig an eine Spannungsquelle, wobei eine Glühlampe zum Helligkeitsausgleich über einen Widerstand und die andere über eine Spule mit vielen Windungen und Eisenkern angeschlossen ist, so</p><br/><img src='data:image/png;base64,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' alt='ETC305'/>",
+     "text":"<p>Schaltet man zwei Glühlampen gleichzeitig an eine Spannungsquelle, wobei eine Glühlampe zum Helligkeitsausgleich über einen Widerstand und die andere über eine Spule mit vielen Windungen und Eisenkern angeschlossen ist, so</p><img src='data:image/png;base64,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' alt='ETC305'/>",
      "answer":[
-    {"correct":true,"text":"leuchtet H1 zuerst."}
+    {
+      "correct":true,
+      "text":"leuchtet H1 zuerst."
+    }
   ,
-    {"correct":false,"text":"leuchtet H2 zuerst."}
+    {
+      "correct":false,
+      "text":"leuchtet H2 zuerst."
+    }
   ,
-    {"correct":false,"text":"leuchten H1 und H2 genau gleich schnell."}
+    {
+      "correct":false,
+      "text":"leuchten H1 und H2 genau gleich schnell."
+    }
   ,
-    {"correct":false,"text":"leuchtet H2 kurz auf und geht wieder aus. H1 leuchtet."}
+    {
+      "correct":false,
+      "text":"leuchtet H2 kurz auf und geht wieder aus. H1 leuchtet."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ETC306",
      "text":"<p>Mit zunehmender Frequenz</p>",
      "answer":[
-    {"correct":true,"text":"steigt der Wechselstromwiderstand einer Spule."}
+    {
+      "correct":true,
+      "text":"steigt der Wechselstromwiderstand einer Spule."
+    }
   ,
-    {"correct":false,"text":"sinkt der Wechselstromwiderstand einer Spule."}
+    {
+      "correct":false,
+      "text":"sinkt der Wechselstromwiderstand einer Spule."
+    }
   ,
-    {"correct":false,"text":"sinkt der Wechselstromwiderstand einer Spule bis zu einem Minimum und steigt dann wieder."}
+    {
+      "correct":false,
+      "text":"sinkt der Wechselstromwiderstand einer Spule bis zu einem Minimum und steigt dann wieder."
+    }
   ,
-    {"correct":false,"text":"steigt der Wechselstromwiderstand einer Spule bis zu einem Maximum und sinkt dann wieder."}
+    {
+      "correct":false,
+      "text":"steigt der Wechselstromwiderstand einer Spule bis zu einem Maximum und sinkt dann wieder."
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ETC401",
      "text":"<p>Ein Trafo liegt an 230 Volt und gibt 11,5 Volt ab. Seine Primärwicklung hat 600 Windungen. Wie groß ist seine Sekundärwindungszahl?</p>",
      "answer":[
-    {"correct":true,"text":"30 Windungen"}
+    {
+      "correct":true,
+      "text":"30 Windungen"
+    }
   ,
-    {"correct":false,"text":"20 Windungen"}
+    {
+      "correct":false,
+      "text":"20 Windungen"
+    }
   ,
-    {"correct":false,"text":"52 Windungen"}
+    {
+      "correct":false,
+      "text":"52 Windungen"
+    }
   ,
-    {"correct":false,"text":"180 Windungen"}
+    {
+      "correct":false,
+      "text":"180 Windungen"
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"ETC402",
      "text":"<p>Ein Trafo liegt an 45 Volt und gibt 180 Volt ab. Seine Primärwicklung hat 150 Windungen. Wie groß ist seine Sekundärwindungszahl?</p>",
      "answer":[
-    {"correct":true,"text":"600 Windungen"}
+    {
+      "correct":true,
+      "text":"600 Windungen"
+    }
   ,
-    {"correct":false,"text":"850 Windungen"}
+    {
+      "correct":false,
+      "text":"850 Windungen"
+    }
   ,
-    {"correct":false,"text":"46 Windungen"}
+    {
+      "correct":false,
+      "text":"46 Windungen"
+    }
   ,
-    {"correct":false,"text":"30 Windungen"}
+    {
+      "correct":false,
+      "text":"30 Windungen"
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"ETC403",
      "text":"<p>Die Primärspule eines Übertragers hat die fünffache Anzahl von Windungen der Sekundärspule. Wie hoch ist die erwartete Sekundärspannung, wenn die Primärspule an eine 230-V-Stromversorgung angeschlossen wird?</p>",
      "answer":[
-    {"correct":true,"text":"46 Volt"}
+    {
+      "correct":true,
+      "text":"46 Volt"
+    }
   ,
-    {"correct":false,"text":"9,2 Volt"}
+    {
+      "correct":false,
+      "text":"9,2 Volt"
+    }
   ,
-    {"correct":false,"text":"23 Volt"}
+    {
+      "correct":false,
+      "text":"23 Volt"
+    }
   ,
-    {"correct":false,"text":"1150 Volt"}
+    {
+      "correct":false,
+      "text":"1150 Volt"
+    }
   ]
     }
   

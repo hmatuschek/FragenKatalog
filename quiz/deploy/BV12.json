@@ -6,13 +6,25 @@
      "id":"BBE301",
      "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
      "answer":[
-    {"correct":true,"text":"CW, Pactor, PSK31."}
+    {
+      "correct":true,
+      "text":"CW, Pactor, PSK31."
+    }
   ,
-    {"correct":false,"text":"RTTY, SSB, CW."}
+    {
+      "correct":false,
+      "text":"RTTY, SSB, CW."
+    }
   ,
-    {"correct":false,"text":"Pactor, RTTY, SSB."}
+    {
+      "correct":false,
+      "text":"Pactor, RTTY, SSB."
+    }
   ,
-    {"correct":false,"text":"SSTV, PSK31, AM."}
+    {
+      "correct":false,
+      "text":"SSTV, PSK31, AM."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBE302",
      "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
      "answer":[
-    {"correct":true,"text":"CW, Digimodes"}
+    {
+      "correct":true,
+      "text":"CW, Digimodes"
+    }
   ,
-    {"correct":false,"text":"RTTY, Hellschreiben"}
+    {
+      "correct":false,
+      "text":"RTTY, Hellschreiben"
+    }
   ,
-    {"correct":false,"text":"ATV, SSTV"}
+    {
+      "correct":false,
+      "text":"ATV, SSTV"
+    }
   ,
-    {"correct":false,"text":"FM, SSB"}
+    {
+      "correct":false,
+      "text":"FM, SSB"
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBE302",
      "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
      "answer":[
-    {"correct":true,"text":"CW, Digimodes"}
+    {
+      "correct":true,
+      "text":"CW, Digimodes"
+    }
   ,
-    {"correct":false,"text":"RTTY, Hellschreiben"}
+    {
+      "correct":false,
+      "text":"RTTY, Hellschreiben"
+    }
   ,
-    {"correct":false,"text":"ATV, SSTV"}
+    {
+      "correct":false,
+      "text":"ATV, SSTV"
+    }
   ,
-    {"correct":false,"text":"FM, SSB"}
+    {
+      "correct":false,
+      "text":"FM, SSB"
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBE303",
      "text":"<p>Wie teilen Sie Ihrem Funkpartner in der Betriebsart SSTV seinen \"Rapport\" mit?</p>",
      "answer":[
-    {"correct":true,"text":"Ich schreibe den Rapport direkt in das zu übertragende Bild."}
+    {
+      "correct":true,
+      "text":"Ich schreibe den Rapport direkt in das zu übertragende Bild."
+    }
   ,
-    {"correct":false,"text":"Ich teile ihm den Rapport später auf der QSL-Karte mit."}
+    {
+      "correct":false,
+      "text":"Ich teile ihm den Rapport später auf der QSL-Karte mit."
+    }
   ,
-    {"correct":false,"text":"Ich sende den Rapport nach der Bildübertragung in CW."}
+    {
+      "correct":false,
+      "text":"Ich sende den Rapport nach der Bildübertragung in CW."
+    }
   ,
-    {"correct":false,"text":"Ich teile ihm den Rapport während der Bildübertragung in SSB mit."}
+    {
+      "correct":false,
+      "text":"Ich teile ihm den Rapport während der Bildübertragung in SSB mit."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBE305",
      "text":"<p>Wozu dient ein \"Auto-Router\" im Packet- Radio-Betrieb?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Einrichtung, die es ermöglicht automatisch ein Zielrufzeichen zu erreichen."}
+    {
+      "correct":true,
+      "text":"Eine Einrichtung, die es ermöglicht automatisch ein Zielrufzeichen zu erreichen."
+    }
   ,
-    {"correct":false,"text":"Automatische Streckenplanung vom Urlaubsort zum Heimat-Digipeater."}
+    {
+      "correct":false,
+      "text":"Automatische Streckenplanung vom Urlaubsort zum Heimat-Digipeater."
+    }
   ,
-    {"correct":false,"text":"Automatische Streckenführung einer mobilen PR-Station zum Digipeater."}
+    {
+      "correct":false,
+      "text":"Automatische Streckenführung einer mobilen PR-Station zum Digipeater."
+    }
   ,
-    {"correct":false,"text":"Automatische Rubrikzuweisung von in Mailboxen eingehenden Nachrichten."}
+    {
+      "correct":false,
+      "text":"Automatische Rubrikzuweisung von in Mailboxen eingehenden Nachrichten."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBE306",
      "text":"<p>Was versteht man unter \"Forwarding\" im Packet-Radio-Betrieb?</p>",
      "answer":[
-    {"correct":true,"text":"Automatisches Weiterleiten von Nachrichten an andere Mailboxen"}
+    {
+      "correct":true,
+      "text":"Automatisches Weiterleiten von Nachrichten an andere Mailboxen"
+    }
   ,
-    {"correct":false,"text":"Das Übersenden von QSL-Karten"}
+    {
+      "correct":false,
+      "text":"Das Übersenden von QSL-Karten"
+    }
   ,
-    {"correct":false,"text":"Bevorzugtes Weiterleiten der eigenen Nachrichten"}
+    {
+      "correct":false,
+      "text":"Bevorzugtes Weiterleiten der eigenen Nachrichten"
+    }
   ,
-    {"correct":false,"text":"Bevorzugtes Weiterleiten von Nachrichten in englischer Sprache"}
+    {
+      "correct":false,
+      "text":"Bevorzugtes Weiterleiten von Nachrichten in englischer Sprache"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBE307",
      "text":"<p>Warum soll das \"TX-Delay\" beim Packet-Radio-Betrieb so kurz wie möglich eingestellt sein?</p>",
      "answer":[
-    {"correct":true,"text":"Um die Frequenz möglichst ökonomisch zu nutzen"}
+    {
+      "correct":true,
+      "text":"Um die Frequenz möglichst ökonomisch zu nutzen"
+    }
   ,
-    {"correct":false,"text":"TX-Delay dient zur Bevorzugung von Sendern mit kurzer Umschaltzeit"}
+    {
+      "correct":false,
+      "text":"TX-Delay dient zur Bevorzugung von Sendern mit kurzer Umschaltzeit"
+    }
   ,
-    {"correct":false,"text":"Zur Verlängerung der Akku-Lebensdauer von batteriebetriebenen Geräten"}
+    {
+      "correct":false,
+      "text":"Zur Verlängerung der Akku-Lebensdauer von batteriebetriebenen Geräten"
+    }
   ,
-    {"correct":false,"text":"Um die Dauer eines QSO zu verkürzen"}
+    {
+      "correct":false,
+      "text":"Um die Dauer eines QSO zu verkürzen"
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"BBE309",
      "text":"<p>Was sind \"Linkstrecken\" und wozu dienen sie?</p>",
      "answer":[
-    {"correct":true,"text":"Es sind fest eingerichtete Funkverbindungen zur Vernetzung von Relaisfunkstellen oder Digipeatern."}
+    {
+      "correct":true,
+      "text":"Es sind fest eingerichtete Funkverbindungen zur Vernetzung von Relaisfunkstellen oder Digipeatern."
+    }
   ,
-    {"correct":false,"text":"Es sind Einrichtungen bei Relaisfunkstellen oder Digipeatern, die eine Verbindungsherstellung über das Telefonnetz erlauben."}
+    {
+      "correct":false,
+      "text":"Es sind Einrichtungen bei Relaisfunkstellen oder Digipeatern, die eine Verbindungsherstellung über das Telefonnetz erlauben."
+    }
   ,
-    {"correct":false,"text":"Es sind Verbindungen zwischen Netzwerken mit unterschiedlichen Protokollen, z.B. zwischen Packet-Radio-Netz und Pactor."}
+    {
+      "correct":false,
+      "text":"Es sind Verbindungen zwischen Netzwerken mit unterschiedlichen Protokollen, z.B. zwischen Packet-Radio-Netz und Pactor."
+    }
   ,
-    {"correct":false,"text":"Es sind Digipeater-Einstiege auf einem zweiten Empfangskanal."}
+    {
+      "correct":false,
+      "text":"Es sind Digipeater-Einstiege auf einem zweiten Empfangskanal."
+    }
   ]
     }
   ,
@@ -126,28 +222,52 @@
      "id":"BBE310",
      "text":"<p>Was ist Simplexbetrieb?</p>",
      "answer":[
-    {"correct":true,"text":"Senden bzw. Empfangen auf der gleichen Frequenz"}
+    {
+      "correct":true,
+      "text":"Senden bzw. Empfangen auf der gleichen Frequenz"
+    }
   ,
-    {"correct":false,"text":"Senden bzw. Empfangen über kurze Entfernung"}
+    {
+      "correct":false,
+      "text":"Senden bzw. Empfangen über kurze Entfernung"
+    }
   ,
-    {"correct":false,"text":"Senden bzw. Empfangen mit unterschiedlichen Sende- und Empfangsfrequenzen"}
+    {
+      "correct":false,
+      "text":"Senden bzw. Empfangen mit unterschiedlichen Sende- und Empfangsfrequenzen"
+    }
   ,
-    {"correct":false,"text":"Senden bzw. Empfangen mit minimaler Senderleistung"}
+    {
+      "correct":false,
+      "text":"Senden bzw. Empfangen mit minimaler Senderleistung"
+    }
   ]
     }
   ,
     {
      "name":"B/BE410",
      "id":"BBE410",
-     "text":"<p>Welche Gruppe enthält die richtig dargestellte Bedeutung der nachfolgend genannten Begriffe in der richtigen Reihenfolge?<br></p>",
+     "text":"<p>Welche Gruppe enthält die richtig dargestellte Bedeutung der nachfolgend genannten Begriffe in der richtigen Reihenfolge?<br>1) Repeater, 2) Digipeater, 3) Mailbox</p>",
      "answer":[
-    {"correct":true,"text":"1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)<br>"}
+    {
+      "correct":true,
+      "text":"1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)<br>2) Relaisfunkstelle für Packet Radio<br>3) Datenbank mit allgemeinen Zugriff zum Einspeichern und Auslesen von Informationen"
+    }
   ,
-    {"correct":false,"text":"1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird<br>"}
+    {
+      "correct":false,
+      "text":"1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird<br>2) Digitale Multimedia Funkbake<br>3) Datenbank mit allgemeinen Zugriff zum Einspeichern und Auslesen von Informationen"
+    }
   ,
-    {"correct":false,"text":"1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird<br>"}
+    {
+      "correct":false,
+      "text":"1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird<br>2) Relaisfunkstelle für digitales Amateurfunkfernsehen<br>3) Einrichtung zur automatischen Antennenanpassung bei Relaisfunkstellen und Funkbaken"
+    }
   ,
-    {"correct":false,"text":"1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)<br>"}
+    {
+      "correct":false,
+      "text":"1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)<br>2) Relaisfunkstelle für digitales Amateurfunkfernsehen<br>3) Einrichtung zur automatischen Antennenanpassung bei Relaisfunkstellen und Funkbaken"
+    }
   ]
     }
   

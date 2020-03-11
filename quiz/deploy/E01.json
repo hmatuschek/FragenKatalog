@@ -6,13 +6,25 @@
      "id":"ETA101",
      "text":"<p>0,042 A entspricht</p>",
      "answer":[
-    {"correct":true,"text":"42·10<sup>-3</sup> A."}
+    {
+      "correct":true,
+      "text":"42·10<sup>-3</sup>A."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>3</sup> A."}
+    {
+      "correct":false,
+      "text":"42·10<sup>3</sup>A."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>-2</sup> A."}
+    {
+      "correct":false,
+      "text":"42·10<sup>-2</sup>A."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>-1</sup> A."}
+    {
+      "correct":false,
+      "text":"42·10<sup>-1</sup>A."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"ETA102",
      "text":"<p>0,00042 A entspricht</p>",
      "answer":[
-    {"correct":true,"text":"420·10<sup>-6</sup> A."}
+    {
+      "correct":true,
+      "text":"420·10<sup>-6</sup>A."
+    }
   ,
-    {"correct":false,"text":"420·10<sup>6</sup> A."}
+    {
+      "correct":false,
+      "text":"420·10<sup>6</sup>A."
+    }
   ,
-    {"correct":false,"text":"420·10<sup>-5</sup> A."}
+    {
+      "correct":false,
+      "text":"420·10<sup>-5</sup>A."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>-6</sup> A."}
+    {
+      "correct":false,
+      "text":"42·10<sup>-6</sup>A."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"ETA103",
      "text":"<p>100 mW entspricht</p>",
      "answer":[
-    {"correct":true,"text":"10<sup>-1</sup> W."}
+    {
+      "correct":true,
+      "text":"10<sup>-1</sup>W."
+    }
   ,
-    {"correct":false,"text":"0,001 W."}
+    {
+      "correct":false,
+      "text":"0,001 W."
+    }
   ,
-    {"correct":false,"text":"0,01 W."}
+    {
+      "correct":false,
+      "text":"0,01 W."
+    }
   ,
-    {"correct":false,"text":"10<sup>-2</sup> W."}
+    {
+      "correct":false,
+      "text":"10<sup>-2</sup>W."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"ETA104",
      "text":"<p>4 200 000 Hz entspricht</p>",
      "answer":[
-    {"correct":true,"text":"4,2·10<sup>6</sup> Hz."}
+    {
+      "correct":true,
+      "text":"4,2·10<sup>6</sup>Hz."
+    }
   ,
-    {"correct":false,"text":"4,2·10<sup>5</sup> Hz."}
+    {
+      "correct":false,
+      "text":"4,2·10<sup>5</sup>Hz."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>6</sup> Hz."}
+    {
+      "correct":false,
+      "text":"42·10<sup>6</sup>Hz."
+    }
   ,
-    {"correct":false,"text":"42·10<sup>-5</sup> Hz."}
+    {
+      "correct":false,
+      "text":"42·10<sup>-5</sup>Hz."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"ETA201",
      "text":"<p>Welche Einheit wird für die elektrische Spannung verwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Volt (V)"}
+    {
+      "correct":true,
+      "text":"Volt (V)"
+    }
   ,
-    {"correct":false,"text":"Ampere (A)"}
+    {
+      "correct":false,
+      "text":"Ampere (A)"
+    }
   ,
-    {"correct":false,"text":"Ohm (Ω)"}
+    {
+      "correct":false,
+      "text":"Ohm (Ω)"
+    }
   ,
-    {"correct":false,"text":"Amperestunden (Ah)"}
+    {
+      "correct":false,
+      "text":"Amperestunden (Ah)"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ETA202",
      "text":"<p>Welche Einheit wird für die elektrische Ladung verwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Amperesekunde (As)"}
+    {
+      "correct":true,
+      "text":"Amperesekunde (As)"
+    }
   ,
-    {"correct":false,"text":"Kilowatt (kW)"}
+    {
+      "correct":false,
+      "text":"Kilowatt (kW)"
+    }
   ,
-    {"correct":false,"text":"Joule (J)"}
+    {
+      "correct":false,
+      "text":"Joule (J)"
+    }
   ,
-    {"correct":false,"text":"Ampere (A)"}
+    {
+      "correct":false,
+      "text":"Ampere (A)"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ETA203",
      "text":"<p>Welche Einheit wird für die elektrische Leistung verwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Watt (W)"}
+    {
+      "correct":true,
+      "text":"Watt (W)"
+    }
   ,
-    {"correct":false,"text":"Kilowattstunden (kWh)"}
+    {
+      "correct":false,
+      "text":"Kilowattstunden (kWh)"
+    }
   ,
-    {"correct":false,"text":"Joule (J)"}
+    {
+      "correct":false,
+      "text":"Joule (J)"
+    }
   ,
-    {"correct":false,"text":"Amperestunden (Ah)"}
+    {
+      "correct":false,
+      "text":"Amperestunden (Ah)"
+    }
   ]
     }
   ,
@@ -111,28 +195,52 @@
      "id":"ETA204",
      "text":"<p>In welcher Einheit wird der elektrische Widerstand angegeben?</p>",
      "answer":[
-    {"correct":true,"text":"Ohm"}
+    {
+      "correct":true,
+      "text":"Ohm"
+    }
   ,
-    {"correct":false,"text":"Farad"}
+    {
+      "correct":false,
+      "text":"Farad"
+    }
   ,
-    {"correct":false,"text":"Siemens"}
+    {
+      "correct":false,
+      "text":"Siemens"
+    }
   ,
-    {"correct":false,"text":"Henry"}
+    {
+      "correct":false,
+      "text":"Henry"
+    }
   ]
     }
   ,
     {
      "name":"E/TA205",
      "id":"ETA205",
-     "text":"<p>Welche der nachfolgenden Antworten enthält nur Basiseinheiten nach dem internationalen Einheitensystem?</p>",
+     "text":"<p>Welche der nachfolgenden Antworten enthältnurBasiseinheiten nach dem internationalen Einheitensystem?</p>",
      "answer":[
-    {"correct":true,"text":"Ampere, Kelvin, Meter, Sekunde"}
+    {
+      "correct":true,
+      "text":"Ampere, Kelvin, Meter, Sekunde"
+    }
   ,
-    {"correct":false,"text":"Sekunde, Meter, Volt, Watt"}
+    {
+      "correct":false,
+      "text":"Sekunde, Meter, Volt, Watt"
+    }
   ,
-    {"correct":false,"text":"Farad, Henry, Ohm, Sekunde"}
+    {
+      "correct":false,
+      "text":"Farad, Henry, Ohm, Sekunde"
+    }
   ,
-    {"correct":false,"text":"Grad, Hertz, Ohm, Sekunde"}
+    {
+      "correct":false,
+      "text":"Grad, Hertz, Ohm, Sekunde"
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"ETA206",
      "text":"<p>0,22 μF sind</p>",
      "answer":[
-    {"correct":true,"text":"220 nF."}
+    {
+      "correct":true,
+      "text":"220 nF."
+    }
   ,
-    {"correct":false,"text":"22 nF."}
+    {
+      "correct":false,
+      "text":"22 nF."
+    }
   ,
-    {"correct":false,"text":"220 pF."}
+    {
+      "correct":false,
+      "text":"220 pF."
+    }
   ,
-    {"correct":false,"text":"22 pF."}
+    {
+      "correct":false,
+      "text":"22 pF."
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"ETA207",
      "text":"<p>3,75 MHz sind</p>",
      "answer":[
-    {"correct":true,"text":"3750 kHz."}
+    {
+      "correct":true,
+      "text":"3750 kHz."
+    }
   ,
-    {"correct":false,"text":"375 kHz."}
+    {
+      "correct":false,
+      "text":"375 kHz."
+    }
   ,
-    {"correct":false,"text":"0,0375 GHz."}
+    {
+      "correct":false,
+      "text":"0,0375 GHz."
+    }
   ,
-    {"correct":false,"text":"0,375 GHz."}
+    {
+      "correct":false,
+      "text":"0,375 GHz."
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"ETA208",
      "text":"<p>Welche Einheit wird für die Kapazität verwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Farad (F)"}
+    {
+      "correct":true,
+      "text":"Farad (F)"
+    }
   ,
-    {"correct":false,"text":"Ohm (Ω)"}
+    {
+      "correct":false,
+      "text":"Ohm (Ω)"
+    }
   ,
-    {"correct":false,"text":"Siemens (S)"}
+    {
+      "correct":false,
+      "text":"Siemens (S)"
+    }
   ,
-    {"correct":false,"text":"Henry (H)"}
+    {
+      "correct":false,
+      "text":"Henry (H)"
+    }
   ]
     }
   

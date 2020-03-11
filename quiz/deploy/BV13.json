@@ -6,13 +6,25 @@
      "id":"BBB301",
      "text":"<p>Was versteht man unter dem RST-Rapport? Es ist eine Kurzformel,</p>",
      "answer":[
-    {"correct":true,"text":"um die Empfangsqualität zu beschreiben."}
+    {
+      "correct":true,
+      "text":"um die Empfangsqualität zu beschreiben."
+    }
   ,
-    {"correct":false,"text":"um die Sendeleistung zu beschreiben."}
+    {
+      "correct":false,
+      "text":"um die Sendeleistung zu beschreiben."
+    }
   ,
-    {"correct":false,"text":"um den Ionosphärenzustand zu beschreiben."}
+    {
+      "correct":false,
+      "text":"um den Ionosphärenzustand zu beschreiben."
+    }
   ,
-    {"correct":false,"text":"um die Sonnenfleckenaktivität zu beschreiben."}
+    {
+      "correct":false,
+      "text":"um die Sonnenfleckenaktivität zu beschreiben."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBB302",
      "text":"<p>Was bedeuten die Buchstaben RST, mit denen Sie die Sendung Ihrer Gegenstation beurteilen können?</p>",
      "answer":[
-    {"correct":true,"text":"R = Lesbarkeit,<br>"}
+    {
+      "correct":true,
+      "text":"R = Lesbarkeit,<br>S = Signalstärke,<br>T = Tonqualität"
+    }
   ,
-    {"correct":false,"text":"R = Rufzeichen,<br>"}
+    {
+      "correct":false,
+      "text":"R = Rufzeichen,<br>S = Signalstärke,<br>T = Tonqualität"
+    }
   ,
-    {"correct":false,"text":"R = Lesbarkeit,<br>"}
+    {
+      "correct":false,
+      "text":"R = Lesbarkeit,<br>S = Signalstärke,<br>T = Trägerfrequenz"
+    }
   ,
-    {"correct":false,"text":"R = Rufzeichen,<br>"}
+    {
+      "correct":false,
+      "text":"R = Rufzeichen,<br>S = Standort,<br>T = Tonqualität"
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBB303",
      "text":"<p>Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 100 Watt auf 400 Watt erhöht?</p>",
      "answer":[
-    {"correct":true,"text":"Um eine S-Stufe"}
+    {
+      "correct":true,
+      "text":"Um eine S-Stufe"
+    }
   ,
-    {"correct":false,"text":"Um zwei S-Stufen"}
+    {
+      "correct":false,
+      "text":"Um zwei S-Stufen"
+    }
   ,
-    {"correct":false,"text":"Um vier S-Stufen"}
+    {
+      "correct":false,
+      "text":"Um vier S-Stufen"
+    }
   ,
-    {"correct":false,"text":"Um acht S-Stufen"}
+    {
+      "correct":false,
+      "text":"Um acht S-Stufen"
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBB304",
      "text":"<p>Wie groß ist der Unterschied zwischen S4 und S7 in Dezibel?</p>",
      "answer":[
-    {"correct":true,"text":"18 dB"}
+    {
+      "correct":true,
+      "text":"18 dB"
+    }
   ,
-    {"correct":false,"text":"9 dB"}
+    {
+      "correct":false,
+      "text":"9 dB"
+    }
   ,
-    {"correct":false,"text":"28 dB"}
+    {
+      "correct":false,
+      "text":"28 dB"
+    }
   ,
-    {"correct":false,"text":"3 dB"}
+    {
+      "correct":false,
+      "text":"3 dB"
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBB305",
      "text":"<p>In welcher Weise werden nach dem RST-System die Aussendungen einer Amateurfunkstelle beurteilt?</p>",
      "answer":[
-    {"correct":true,"text":"Lesbarkeit in Stufen von 1-5,<br>"}
+    {
+      "correct":true,
+      "text":"Lesbarkeit in Stufen von 1-5,<br>Signalstärke in Stufen von 1-9 und<br>Tonqualität in Stufen von 1-9"
+    }
   ,
-    {"correct":false,"text":"Lesbarkeit in Stufen von 1-5,<br>"}
+    {
+      "correct":false,
+      "text":"Lesbarkeit in Stufen von 1-5,<br>Signalstärke in Stufen von 1-5 und<br>Tonhöhe in Stufen von 1-9"
+    }
   ,
-    {"correct":false,"text":"Signalqualität in Stufen von 1-5,<br>"}
+    {
+      "correct":false,
+      "text":"Signalqualität in Stufen von 1-5,<br>Signalstärke in Stufen von 1-5 und<br>Tonqualität in Stufen von 1-9"
+    }
   ,
-    {"correct":false,"text":"Lesbarkeit in Stufen von 1-9,<br>"}
+    {
+      "correct":false,
+      "text":"Lesbarkeit in Stufen von 1-9,<br>Signalqualität in Stufen von 1-5 und<br>Tonhöhe in Stufen von 1-4"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBB306",
      "text":"<p>Um wie viel dB ist die Empfängereingangsspannung abgesunken, wenn die S-Meter-Anzeige durch Änderung der Ausbreitungsbedingungen von S9+20 dB auf S8 zurückgeht? Die Empfängereingangsspannung sinkt um</p>",
      "answer":[
-    {"correct":true,"text":"26 dB."}
+    {
+      "correct":true,
+      "text":"26 dB."
+    }
   ,
-    {"correct":false,"text":"23 dB."}
+    {
+      "correct":false,
+      "text":"23 dB."
+    }
   ,
-    {"correct":false,"text":"6 dB."}
+    {
+      "correct":false,
+      "text":"6 dB."
+    }
   ,
-    {"correct":false,"text":"20 dB."}
+    {
+      "correct":false,
+      "text":"20 dB."
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBB307",
      "text":"<p>Durch \"Fading\" sinkt die S-Meter-Anzeige von S9 auf S8. Auf welchen Wert sinkt dabei die Empfänger-Eingangsspannung ab, wenn bei S9 am Empfängereingang 50 μV anliegen? Die Empfänger-Eingangsspannung sinkt auf</p>",
      "answer":[
-    {"correct":true,"text":"25 μV."}
+    {
+      "correct":true,
+      "text":"25 μV."
+    }
   ,
-    {"correct":false,"text":"37 μV."}
+    {
+      "correct":false,
+      "text":"37 μV."
+    }
   ,
-    {"correct":false,"text":"40 μV."}
+    {
+      "correct":false,
+      "text":"40 μV."
+    }
   ,
-    {"correct":false,"text":"30 μV."}
+    {
+      "correct":false,
+      "text":"30 μV."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"BBB308",
      "text":"<p>Bei einer SSB-Verbindung auf VHF/UHF sagt Ihnen Ihr Gesprächspartner: \"Ich empfange Sie mit R5 und 30 dB über Rauschen\". Was meint er damit?</p>",
      "answer":[
-    {"correct":true,"text":"Er kann mich einwandfrei lesen und mein Signal ist ausreichend stark. Bei seinem Empfänger ist die relative Signalstärke in dB ablesbar."}
+    {
+      "correct":true,
+      "text":"Er kann mich einwandfrei lesen und mein Signal ist ausreichend stark. Bei seinem Empfänger ist die relative Signalstärke in dB ablesbar."
+    }
   ,
-    {"correct":false,"text":"Er kann mich einwandfrei lesen, mein Signal ist stark und fast rauschfrei. Bei seinem Empfänger ist die relative Signalstärke in dBµV ablesbar."}
+    {
+      "correct":false,
+      "text":"Er kann mich einwandfrei lesen, mein Signal ist stark und fast rauschfrei. Bei seinem Empfänger ist die relative Signalstärke in dBµV ablesbar."
+    }
   ,
-    {"correct":false,"text":"Er kann mich ohne Schwierigkeiten lesen, obwohl mein Signal sehr schwach ist. Bei seinem Empfänger wird das Signal-/Rauschverhältnis in dB angezeigt."}
+    {
+      "correct":false,
+      "text":"Er kann mich ohne Schwierigkeiten lesen, obwohl mein Signal sehr schwach ist. Bei seinem Empfänger wird das Signal-/Rauschverhältnis in dB angezeigt."
+    }
   ,
-    {"correct":false,"text":"Er kann mich nur mit Schwierigkeiten lesen, da mein Signal mit 30 dB stark verrauscht ist. Bei ihm ist die relative Signalstärke auf einem Messgerät in dB ablesbar."}
+    {
+      "correct":false,
+      "text":"Er kann mich nur mit Schwierigkeiten lesen, da mein Signal mit 30 dB stark verrauscht ist. Bei ihm ist die relative Signalstärke auf einem Messgerät in dB ablesbar."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"BBB309",
      "text":"<p>Sie bekommen von Ihrer Gegenstation den Rapport \"4 und 8\". Was sagt Ihnen der Rapport?</p>",
      "answer":[
-    {"correct":true,"text":"Die Station kann mich ohne Schwierigkeiten mit einem starken Signal empfangen."}
+    {
+      "correct":true,
+      "text":"Die Station kann mich ohne Schwierigkeiten mit einem starken Signal empfangen."
+    }
   ,
-    {"correct":false,"text":"Die Station kann mich ohne Schwierigkeiten mit einem relativ schwachen Signal empfangen."}
+    {
+      "correct":false,
+      "text":"Die Station kann mich ohne Schwierigkeiten mit einem relativ schwachen Signal empfangen."
+    }
   ,
-    {"correct":false,"text":"Die Station kann mich nur mit Schwierigkeiten mit einem schwachen Signal empfangen."}
+    {
+      "correct":false,
+      "text":"Die Station kann mich nur mit Schwierigkeiten mit einem schwachen Signal empfangen."
+    }
   ,
-    {"correct":false,"text":"Die Station kann mich nur zeitweise aber mit einem starken Signal empfangen."}
+    {
+      "correct":false,
+      "text":"Die Station kann mich nur zeitweise aber mit einem starken Signal empfangen."
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"BBB310",
      "text":"<p>Eine Station kommt mit einem schwachen, störungsbehafteten Signal bei Ihnen an. Welchen Rapport geben Sie?</p>",
      "answer":[
-    {"correct":true,"text":"Ich gebe einen Rapport von zum Beispiel 33 bzw. 339, damit der Funkpartner weiß, dass er seine Angaben deutlich und mit eventuell mehreren Wiederholungen durchgeben muss."}
+    {
+      "correct":true,
+      "text":"Ich gebe einen Rapport von zum Beispiel 33 bzw. 339, damit der Funkpartner weiß, dass er seine Angaben deutlich und mit eventuell mehreren Wiederholungen durchgeben muss."
+    }
   ,
-    {"correct":false,"text":"Ich gebe den Rapport 59 bzw. 599 nach subjektiver Einschätzung, denn auf die S-Meter-Anzeige kann ich mich in diesem Fall nicht verlassen."}
+    {
+      "correct":false,
+      "text":"Ich gebe den Rapport 59 bzw. 599 nach subjektiver Einschätzung, denn auf die S-Meter-Anzeige kann ich mich in diesem Fall nicht verlassen."
+    }
   ,
-    {"correct":false,"text":"Ich bestätige z.B. mit 57 bzw. 579, frage aber zur Sicherheit im nächsten Durchgang noch einmal nach Name und Standort."}
+    {
+      "correct":false,
+      "text":"Ich bestätige z.B. mit 57 bzw. 579, frage aber zur Sicherheit im nächsten Durchgang noch einmal nach Name und Standort."
+    }
   ,
-    {"correct":false,"text":"Ich gebe grundsätzlich 59 oder 599, da ich ja das Rufzeichen der Station einwandfrei aufgenommen habe."}
+    {
+      "correct":false,
+      "text":"Ich gebe grundsätzlich 59 oder 599, da ich ja das Rufzeichen der Station einwandfrei aufgenommen habe."
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"BBB311",
      "text":"<p>Wie wird ein Aurora-Signal in Telegrafie beurteilt? Es wird beurteilt mit</p>",
      "answer":[
-    {"correct":true,"text":"R, S und \"A\" für Aurora, da der Ton bei Aurora sehr rau ist und nicht beurteilt werden kann."}
+    {
+      "correct":true,
+      "text":"R, S und \"A\" für Aurora, da der Ton bei Aurora sehr rau ist und nicht beurteilt werden kann."
+    }
   ,
-    {"correct":false,"text":"R, S, T."}
+    {
+      "correct":false,
+      "text":"R, S, T."
+    }
   ,
-    {"correct":false,"text":"R und T, da Aurora als Lineartransponder wirkt."}
+    {
+      "correct":false,
+      "text":"R und T, da Aurora als Lineartransponder wirkt."
+    }
   ,
-    {"correct":false,"text":"R, S, T und \"A\" für Aurora."}
+    {
+      "correct":false,
+      "text":"R, S, T und \"A\" für Aurora."
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"BBE402",
      "text":"<p>Wie wird eine Funkverbindung beurteilt, wenn über eine F3E-Relaisfunkstelle gearbeitet wird?</p>",
      "answer":[
-    {"correct":true,"text":"Es wird nur die Lesbarkeit R beurteilt, weil sich die Signalstärke S auf die Relaisfunkstelle bezieht."}
+    {
+      "correct":true,
+      "text":"Es wird nur die Lesbarkeit R beurteilt, weil sich die Signalstärke S auf die Relaisfunkstelle bezieht."
+    }
   ,
-    {"correct":false,"text":"Es werden die Lesbarkeit R und die Signalstärke S beurteilt, weil das zu einem vollständigen Rapport dazugehört."}
+    {
+      "correct":false,
+      "text":"Es werden die Lesbarkeit R und die Signalstärke S beurteilt, weil das zu einem vollständigen Rapport dazugehört."
+    }
   ,
-    {"correct":false,"text":"Es werden die Lesbarkeit R und die Signalstärke S vermindert um eine S-Stufe beurteilt, weil die Relaisfunkstelle meist eine höhere Leistung als die anderen Stationen haben."}
+    {
+      "correct":false,
+      "text":"Es werden die Lesbarkeit R und die Signalstärke S vermindert um eine S-Stufe beurteilt, weil die Relaisfunkstelle meist eine höhere Leistung als die anderen Stationen haben."
+    }
   ,
-    {"correct":false,"text":"Es werden nur verbale Aussagen gemacht, da die exakte Einschätzung bei Betrieb über eine Relaisfunkstelle nicht möglich ist."}
+    {
+      "correct":false,
+      "text":"Es werden nur verbale Aussagen gemacht, da die exakte Einschätzung bei Betrieb über eine Relaisfunkstelle nicht möglich ist."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"BBG101",
      "text":"<p>Welche Uhrzeit tragen Sie in die QSL Karte an XE2AS ein, mit dem Sie um 13:30 MESZ eine Funkverbindung hatten?</p>",
      "answer":[
-    {"correct":true,"text":"11:30 UTC"}
+    {
+      "correct":true,
+      "text":"11:30 UTC"
+    }
   ,
-    {"correct":false,"text":"13:30 UTC"}
+    {
+      "correct":false,
+      "text":"13:30 UTC"
+    }
   ,
-    {"correct":false,"text":"12:30 UTC"}
+    {
+      "correct":false,
+      "text":"12:30 UTC"
+    }
   ,
-    {"correct":false,"text":"14:30 UTC"}
+    {
+      "correct":false,
+      "text":"14:30 UTC"
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"BBG102",
      "text":"<p>Was sollten sie bei der Eintragung der Uhrzeit in das Funktagebuch beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Sie sollte in UTC eingetragen werden."}
+    {
+      "correct":true,
+      "text":"Sie sollte in UTC eingetragen werden."
+    }
   ,
-    {"correct":false,"text":"Sie sollte in meiner aktuellen Ortszeit eingetragen werden."}
+    {
+      "correct":false,
+      "text":"Sie sollte in meiner aktuellen Ortszeit eingetragen werden."
+    }
   ,
-    {"correct":false,"text":"Sie sollte in der Ortszeit der Gegenstation eingetragen werden."}
+    {
+      "correct":false,
+      "text":"Sie sollte in der Ortszeit der Gegenstation eingetragen werden."
+    }
   ,
-    {"correct":false,"text":"Sie sollte in MEZ erfolgen."}
+    {
+      "correct":false,
+      "text":"Sie sollte in MEZ erfolgen."
+    }
   ]
     }
   ,
@@ -216,28 +384,52 @@
      "id":"BBG103",
      "text":"<p>Was verstehen Funkamateure unter einem Logbuch (logbook)?</p>",
      "answer":[
-    {"correct":true,"text":"Es ist das Stationstagebuch, das ein Funkamateur freiwillig führt oder in besonderen Fällen führen muss."}
+    {
+      "correct":true,
+      "text":"Es ist das Stationstagebuch, das ein Funkamateur freiwillig führt oder in besonderen Fällen führen muss."
+    }
   ,
-    {"correct":false,"text":"Es ist das Stationstagebuch, das jeder Funkamateur führen muss."}
+    {
+      "correct":false,
+      "text":"Es ist das Stationstagebuch, das jeder Funkamateur führen muss."
+    }
   ,
-    {"correct":false,"text":"Es ist die Dokumentation aller Geräte und Antennen des Funkamateurs."}
+    {
+      "correct":false,
+      "text":"Es ist die Dokumentation aller Geräte und Antennen des Funkamateurs."
+    }
   ,
-    {"correct":false,"text":"Es ist die Dokumentation über die Einhaltung der Sicherheitsabstände bezüglich des Personenschutzes."}
+    {
+      "correct":false,
+      "text":"Es ist die Dokumentation über die Einhaltung der Sicherheitsabstände bezüglich des Personenschutzes."
+    }
   ]
     }
   ,
     {
      "name":"B/BG104",
      "id":"BBG104",
-     "text":"<p>In welchen Fällen muss ein Stationstagebuch geführt werden?<br></p>",
+     "text":"<p>In welchen Fällen muss ein Stationstagebuch geführt werden?<br>Es muss geführt werden</p>",
      "answer":[
-    {"correct":true,"text":"auf Anordnung der zuständigen Behörde."}
+    {
+      "correct":true,
+      "text":"auf Anordnung der zuständigen Behörde."
+    }
   ,
-    {"correct":false,"text":"wenn die zulässigen Grenzwerte zum Personenschutz überschritten werden."}
+    {
+      "correct":false,
+      "text":"wenn die zulässigen Grenzwerte zum Personenschutz überschritten werden."
+    }
   ,
-    {"correct":false,"text":"wenn die effektive isotrope Strahlungsleistung (EIRP) mehr als 10 Watt beträgt."}
+    {
+      "correct":false,
+      "text":"wenn die effektive isotrope Strahlungsleistung (EIRP) mehr als 10 Watt beträgt."
+    }
   ,
-    {"correct":false,"text":"in den ersten zwei Jahren nach der Zulassung am Amateurfunkdienst."}
+    {
+      "correct":false,
+      "text":"in den ersten zwei Jahren nach der Zulassung am Amateurfunkdienst."
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"BBG105",
      "text":"<p>Welche Uhrzeit tragen Sie in die QSL-Karte an die Funkstation DH4KYL ein, mit der Sie um 15:30 MEZ ein QSO hatten?</p>",
      "answer":[
-    {"correct":true,"text":"14:30 UTC"}
+    {
+      "correct":true,
+      "text":"14:30 UTC"
+    }
   ,
-    {"correct":false,"text":"13:30 UTC"}
+    {
+      "correct":false,
+      "text":"13:30 UTC"
+    }
   ,
-    {"correct":false,"text":"17:30 UTC"}
+    {
+      "correct":false,
+      "text":"17:30 UTC"
+    }
   ,
-    {"correct":false,"text":"16:30 UTC"}
+    {
+      "correct":false,
+      "text":"16:30 UTC"
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"BBG108",
      "text":"<p>Was ist bei der Erstellung eines \"Computer-Logbuchs\" bei angeordneter Logbuchführung zu beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Die Daten müssen, wie auch beim Papierlogbuch, über eine bestimmte Zeit einsehbar sein."}
+    {
+      "correct":true,
+      "text":"Die Daten müssen, wie auch beim Papierlogbuch, über eine bestimmte Zeit einsehbar sein."
+    }
   ,
-    {"correct":false,"text":"Es dürfen ausschließlich IBM-Kompatible PCs verwendet werden."}
+    {
+      "correct":false,
+      "text":"Es dürfen ausschließlich IBM-Kompatible PCs verwendet werden."
+    }
   ,
-    {"correct":false,"text":"Es muss zusätzlich ein herkömmliches Papierlogbuch geführt werden."}
+    {
+      "correct":false,
+      "text":"Es muss zusätzlich ein herkömmliches Papierlogbuch geführt werden."
+    }
   ,
-    {"correct":false,"text":"Es muss jederzeit ein Ausdruck des Logbuches vorhanden sein."}
+    {
+      "correct":false,
+      "text":"Es muss jederzeit ein Ausdruck des Logbuches vorhanden sein."
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"BBG109",
      "text":"<p>Was ist bei angeordneter Logbuchführung bei einem Wechsel der \"Logbuchsoftware\" zu berücksichtigen?</p>",
      "answer":[
-    {"correct":true,"text":"Die alte Software muss verfügbar bleiben, um die Betriebsdaten bei eventuellen späteren Überprüfungen einsehen zu können."}
+    {
+      "correct":true,
+      "text":"Die alte Software muss verfügbar bleiben, um die Betriebsdaten bei eventuellen späteren Überprüfungen einsehen zu können."
+    }
   ,
-    {"correct":false,"text":"Es sollte auf eine Software für ein 32-Bit-System gewechselt werden."}
+    {
+      "correct":false,
+      "text":"Es sollte auf eine Software für ein 32-Bit-System gewechselt werden."
+    }
   ,
-    {"correct":false,"text":"Die alte Software muss auf jeden Fall gelöscht werden, um Kollisionen bei den Datenformaten zu vermeiden."}
+    {
+      "correct":false,
+      "text":"Die alte Software muss auf jeden Fall gelöscht werden, um Kollisionen bei den Datenformaten zu vermeiden."
+    }
   ,
-    {"correct":false,"text":"Es sollte ein Logbuchprogramm mit Druckfunktion verwendet werden, um zu vermeiden, dass weiterhin ein herkömmliches Papierlogbuch geführt werden muss."}
+    {
+      "correct":false,
+      "text":"Es sollte ein Logbuchprogramm mit Druckfunktion verwendet werden, um zu vermeiden, dass weiterhin ein herkömmliches Papierlogbuch geführt werden muss."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"BBG110",
      "text":"<p>Welches ist der Sinn der QSL-Karte und wozu kann sie dienen?</p>",
      "answer":[
-    {"correct":true,"text":"Die QSL-Karte ist die schriftliche Bestätigung einer Amateurfunkverbindung. Sie dient zur Bestätigung der Angaben, die im QSO gemacht wurden. Ihr weiterer Wert liegt in der Verwendung als Beleg bei der Beantragung von Amateurfunk-Diplomen"}
+    {
+      "correct":true,
+      "text":"Die QSL-Karte ist die schriftliche Bestätigung einer Amateurfunkverbindung. Sie dient zur Bestätigung der Angaben, die im QSO gemacht wurden. Ihr weiterer Wert liegt in der Verwendung als Beleg bei der Beantragung von Amateurfunk-Diplomen"
+    }
   ,
-    {"correct":false,"text":"Die QSL-Karte ist eine Ansichtskarte, die die Station des Funkamateurs zeigt. Sie dient als Werbung für die Gerätehersteller."}
+    {
+      "correct":false,
+      "text":"Die QSL-Karte ist eine Ansichtskarte, die die Station des Funkamateurs zeigt. Sie dient als Werbung für die Gerätehersteller."
+    }
   ,
-    {"correct":false,"text":"Die QSL-Karte ist eine Einladung zum Besuch eines Funkamateurs. Sie dient dem näheren Kennenlernen der Funkamateure untereinander."}
+    {
+      "correct":false,
+      "text":"Die QSL-Karte ist eine Einladung zum Besuch eines Funkamateurs. Sie dient dem näheren Kennenlernen der Funkamateure untereinander."
+    }
   ,
-    {"correct":false,"text":"Die QSL-Karte ist eine Reservierungsbestätigung in einer Amateurfunkrunde. Sie sichert dem Funkamateur die Teilnahme an der Runde."}
+    {
+      "correct":false,
+      "text":"Die QSL-Karte ist eine Reservierungsbestätigung in einer Amateurfunkrunde. Sie sichert dem Funkamateur die Teilnahme an der Runde."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"BBG111",
      "text":"<p>Welche Angaben sollten QSL-Karten mindestens enthalten?</p>",
      "answer":[
-    {"correct":true,"text":"Verwendetes Rufzeichen, Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und die Unterschrift des Operators."}
+    {
+      "correct":true,
+      "text":"Verwendetes Rufzeichen, Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und die Unterschrift des Operators."
+    }
   ,
-    {"correct":false,"text":"Verwendetes Rufzeichen, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport, die Unterschrift des Operators sowie den eigenen Namen, Standort, Locator, die eigene Sendeleistung und Angaben zur eingesetzten technischen Ausrüstung."}
+    {
+      "correct":false,
+      "text":"Verwendetes Rufzeichen, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport, die Unterschrift des Operators sowie den eigenen Namen, Standort, Locator, die eigene Sendeleistung und Angaben zur eingesetzten technischen Ausrüstung."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und weitere übliche Angaben wie den eigenen Namen, Standort, Locator und die eigene Sendeleistung."}
+    {
+      "correct":false,
+      "text":"Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und weitere übliche Angaben wie den eigenen Namen, Standort, Locator und die eigene Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Angaben über das Funkwetter und die Unterschrift des Operators."}
+    {
+      "correct":false,
+      "text":"Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Angaben über das Funkwetter und die Unterschrift des Operators."
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"BBG112",
      "text":"<p>HZ1AB sagte Ihnen \"QSL via K8PYD\". Was würden Sie tun, um die QSL-Karte von HZ1AB zu erhalten?</p>",
      "answer":[
-    {"correct":true,"text":"Ich sende meine QSL-Karte an K8PYD, weil dieser der QSL-Manager von HZ1AB ist."}
+    {
+      "correct":true,
+      "text":"Ich sende meine QSL-Karte an K8PYD, weil dieser der QSL-Manager von HZ1AB ist."
+    }
   ,
-    {"correct":false,"text":"Ich muss meine QSL-Karte an HZ1AB senden, weil K8PYD der QSO-Partner war."}
+    {
+      "correct":false,
+      "text":"Ich muss meine QSL-Karte an HZ1AB senden, weil K8PYD der QSO-Partner war."
+    }
   ,
-    {"correct":false,"text":"Ich schaue im Callbook nach der Adresse von HZ1AB und schicke ihm die Karte direkt."}
+    {
+      "correct":false,
+      "text":"Ich schaue im Callbook nach der Adresse von HZ1AB und schicke ihm die Karte direkt."
+    }
   ,
-    {"correct":false,"text":"Ich warte, bis HZ1AB die Karte an K8PYD geschickt hat."}
+    {
+      "correct":false,
+      "text":"Ich warte, bis HZ1AB die Karte an K8PYD geschickt hat."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"BBG113",
      "text":"<p>Was können Sie tun, wenn Sie von einer seltenen DX-Station möglichst schnell eine QSL-Karte erhalten möchten?</p>",
      "answer":[
-    {"correct":true,"text":"Ich kann meine QSL-Karte mit Luftpost an den Empfänger schicken und einen Antwortbriefumschlag (SAE) und IRCs beilegen."}
+    {
+      "correct":true,
+      "text":"Ich kann meine QSL-Karte mit Luftpost an den Empfänger schicken und einen Antwortbriefumschlag (SAE) und IRCs beilegen."
+    }
   ,
-    {"correct":false,"text":"Ich kann die QSL-Karte an die QSL-Vermittlung meines Verbandes direkt senden."}
+    {
+      "correct":false,
+      "text":"Ich kann die QSL-Karte an die QSL-Vermittlung meines Verbandes direkt senden."
+    }
   ,
-    {"correct":false,"text":"Ich sende die QSL-Karte mit Luftpost an die QSL-Vermittlung des Verbandes der DX-Station und einen Antwortbriefumschlag (SAE) und IRCs beilegen."}
+    {
+      "correct":false,
+      "text":"Ich sende die QSL-Karte mit Luftpost an die QSL-Vermittlung des Verbandes der DX-Station und einen Antwortbriefumschlag (SAE) und IRCs beilegen."
+    }
   ,
-    {"correct":false,"text":"Ich sende meine QSL-Karte mit Luftpost an den Empfänger, darf aber keine IRCs beilegen."}
+    {
+      "correct":false,
+      "text":"Ich sende meine QSL-Karte mit Luftpost an den Empfänger, darf aber keine IRCs beilegen."
+    }
   ]
     }
   ,
@@ -351,28 +627,52 @@
      "id":"BBG114",
      "text":"<p>Was sollten Sie bei der Eintragung von Uhrzeiten in Stationstagebuch und QSL-Karten beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Sie sollten in UTC eingetragen werden, damit der Funkpartner im Ausland das QSO in seinem Logbuch leichter finden kann."}
+    {
+      "correct":true,
+      "text":"Sie sollten in UTC eingetragen werden, damit der Funkpartner im Ausland das QSO in seinem Logbuch leichter finden kann."
+    }
   ,
-    {"correct":false,"text":"Sie sollten immer in der eigenen Ortszeit erfolgen, da jeder Funkamateur die Zeiten passend umrechnen kann."}
+    {
+      "correct":false,
+      "text":"Sie sollten immer in der eigenen Ortszeit erfolgen, da jeder Funkamateur die Zeiten passend umrechnen kann."
+    }
   ,
-    {"correct":false,"text":"Sie sollten in der Ortszeit des Funkpartners eingetragen werden, damit er das QSO in seinem Logbuch leichter finden kann."}
+    {
+      "correct":false,
+      "text":"Sie sollten in der Ortszeit des Funkpartners eingetragen werden, damit er das QSO in seinem Logbuch leichter finden kann."
+    }
   ,
-    {"correct":false,"text":"Die Uhrzeit kann in jeder beliebigen Uhrzeit eingetragen werden."}
+    {
+      "correct":false,
+      "text":"Die Uhrzeit kann in jeder beliebigen Uhrzeit eingetragen werden."
+    }
   ]
     }
   ,
     {
      "name":"B/BG115",
      "id":"BBG115",
-     "text":"<p>Wo können Sie die Anschriften von ausländischen Funkamateuren finden, denen Sie die QSL-Karte direkt zusenden möchten?<br></p>",
+     "text":"<p>Wo können Sie die Anschriften von ausländischen Funkamateuren finden, denen Sie die QSL-Karte direkt zusenden möchten?<br>Ich finde diese</p>",
      "answer":[
-    {"correct":true,"text":"in der internationalen Amateurfunk-Rufzeichenliste (Callbook) oder aus Informationen des Internets."}
+    {
+      "correct":true,
+      "text":"in der internationalen Amateurfunk-Rufzeichenliste (Callbook) oder aus Informationen des Internets."
+    }
   ,
-    {"correct":false,"text":"in der Amateurfunk-Rufzeichenliste auf den Internetseiten der Bundesnetzagentur."}
+    {
+      "correct":false,
+      "text":"in der Amateurfunk-Rufzeichenliste auf den Internetseiten der Bundesnetzagentur."
+    }
   ,
-    {"correct":false,"text":"in der VO Funk oder aus Informationen des Internets."}
+    {
+      "correct":false,
+      "text":"in der VO Funk oder aus Informationen des Internets."
+    }
   ,
-    {"correct":false,"text":"im internationalen Telefonbuch oder aus Informationen des Internets."}
+    {
+      "correct":false,
+      "text":"im internationalen Telefonbuch oder aus Informationen des Internets."
+    }
   ]
     }
   

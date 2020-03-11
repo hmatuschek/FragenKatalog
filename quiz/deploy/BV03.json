@@ -6,13 +6,25 @@
      "id":"BBB201",
      "text":"<p>Warum wurden die Q-Gruppen im Funkverkehr eingeführt? Sie wurden eingeführt</p>",
      "answer":[
-    {"correct":true,"text":"zur Vereinfachung und Erleichterung des Betriebsablaufs bei Telegrafie, sekundär zur Überwindung sprachlicher Grenzen."}
+    {
+      "correct":true,
+      "text":"zur Vereinfachung und Erleichterung des Betriebsablaufs bei Telegrafie, sekundär zur Überwindung sprachlicher Grenzen."
+    }
   ,
-    {"correct":false,"text":"zur Verschleierung des Funkbetriebes gegenüber unbefugten Zuhörern."}
+    {
+      "correct":false,
+      "text":"zur Verschleierung des Funkbetriebes gegenüber unbefugten Zuhörern."
+    }
   ,
-    {"correct":false,"text":"zur Zeitersparnis im Telefoniefunkverkehr."}
+    {
+      "correct":false,
+      "text":"zur Zeitersparnis im Telefoniefunkverkehr."
+    }
   ,
-    {"correct":false,"text":"um im internationalen Funkverkehr den Betriebsablauf zu erleichtern, weil kein Englisch mehr gesprochen werden muss."}
+    {
+      "correct":false,
+      "text":"um im internationalen Funkverkehr den Betriebsablauf zu erleichtern, weil kein Englisch mehr gesprochen werden muss."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBB202",
      "text":"<p>Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, weil die Abkürzungen für den Telegrafiefunkverkehr vorgesehen sind."}
+    {
+      "correct":true,
+      "text":"Nein, weil die Abkürzungen für den Telegrafiefunkverkehr vorgesehen sind."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die Abkürzungen die Abwicklung des Funkverkehrs beschleunigen."}
+    {
+      "correct":false,
+      "text":"Ja, weil die Abkürzungen die Abwicklung des Funkverkehrs beschleunigen."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die Abkürzungen bei deutschsprachigen Funkverbindungen erlaubt sind."}
+    {
+      "correct":false,
+      "text":"Ja, weil die Abkürzungen bei deutschsprachigen Funkverbindungen erlaubt sind."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die Abkürzungen die Besonderheit der Sprache im Funkverkehr kennzeichnet."}
+    {
+      "correct":false,
+      "text":"Ja, weil die Abkürzungen die Besonderheit der Sprache im Funkverkehr kennzeichnet."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBB203",
      "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRV\", \"QRM?\" und \"QTH\" ?</p>",
      "answer":[
-    {"correct":true,"text":"Ich bin bereit. Werden Sie gestört? Mein Standort ist ..."}
+    {
+      "correct":true,
+      "text":"Ich bin bereit. Werden Sie gestört? Mein Standort ist ..."
+    }
   ,
-    {"correct":false,"text":"Senden Sie eine Reihe V. Soll ich mehr Sendeleistung anwenden? Ihre gesendeten Töne sind kaum hörbar."}
+    {
+      "correct":false,
+      "text":"Senden Sie eine Reihe V. Soll ich mehr Sendeleistung anwenden? Ihre gesendeten Töne sind kaum hörbar."
+    }
   ,
-    {"correct":false,"text":"Ich habe nichts mehr für Sie. Werden Sie gestört? Mein Standort ist ..."}
+    {
+      "correct":false,
+      "text":"Ich habe nichts mehr für Sie. Werden Sie gestört? Mein Standort ist ..."
+    }
   ,
-    {"correct":false,"text":"Ich habe nichts mehr für Sie. Mein Standort ist ... Ich bin bereit."}
+    {
+      "correct":false,
+      "text":"Ich habe nichts mehr für Sie. Mein Standort ist ... Ich bin bereit."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBB205",
      "text":"<p>Was bedeuten die Q-Gruppen \"QRT\", \"QRZ?\" und \"QSL?\" ?</p>",
      "answer":[
-    {"correct":true,"text":"Stellen Sie die Übermittlung ein. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?"}
+    {
+      "correct":true,
+      "text":"Stellen Sie die Übermittlung ein. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?"
+    }
   ,
-    {"correct":false,"text":"Stellen Sie die Übermittlung ein. Ich bin bereit. Schicken Sie eine QSL-Karte?"}
+    {
+      "correct":false,
+      "text":"Stellen Sie die Übermittlung ein. Ich bin bereit. Schicken Sie eine QSL-Karte?"
+    }
   ,
-    {"correct":false,"text":"Stellen Sie die Übermittlung ein. Wie ist Ihr Standort? Können Sie mir Empfangsbestätigung geben?"}
+    {
+      "correct":false,
+      "text":"Stellen Sie die Übermittlung ein. Wie ist Ihr Standort? Können Sie mir Empfangsbestätigung geben?"
+    }
   ,
-    {"correct":false,"text":"Ich habe nichts für Sie. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?"}
+    {
+      "correct":false,
+      "text":"Ich habe nichts für Sie. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?"
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBB206",
      "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRO?\", \"QSO?\" und \"QRX?\" ?</p>",
      "answer":[
-    {"correct":true,"text":"Soll ich die Sendeleistung erhöhen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?"}
+    {
+      "correct":true,
+      "text":"Soll ich die Sendeleistung erhöhen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?"
+    }
   ,
-    {"correct":false,"text":"Soll ich meine Sendeleistung erhöhen? Haben Sie noch etwas für mich vorliegen? Werden Sie mich wieder rufen?"}
+    {
+      "correct":false,
+      "text":"Soll ich meine Sendeleistung erhöhen? Haben Sie noch etwas für mich vorliegen? Werden Sie mich wieder rufen?"
+    }
   ,
-    {"correct":false,"text":"Soll ich die Sendeleistung erniedrigen? Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ?"}
+    {
+      "correct":false,
+      "text":"Soll ich die Sendeleistung erniedrigen? Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ?"
+    }
   ,
-    {"correct":false,"text":"Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?"}
+    {
+      "correct":false,
+      "text":"Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBB207",
      "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRM\", \"QRN\" und \"QSB?\" ?</p>",
      "answer":[
-    {"correct":true,"text":"Ich werde gestört. Ich habe atmosphärische Störungen. Schwankt die Stärke meiner Zeichen?"}
+    {
+      "correct":true,
+      "text":"Ich werde gestört. Ich habe atmosphärische Störungen. Schwankt die Stärke meiner Zeichen?"
+    }
   ,
-    {"correct":false,"text":"Ich habe Störungen. Sie haben Schwankungen Ihrer Zeichen. Werden Sie gestört?"}
+    {
+      "correct":false,
+      "text":"Ich habe Störungen. Sie haben Schwankungen Ihrer Zeichen. Werden Sie gestört?"
+    }
   ,
-    {"correct":false,"text":"Ich habe atmosphärische Störungen. Ich werde gestört. Schwankt die Stärke meiner Zeichen?"}
+    {
+      "correct":false,
+      "text":"Ich habe atmosphärische Störungen. Ich werde gestört. Schwankt die Stärke meiner Zeichen?"
+    }
   ,
-    {"correct":false,"text":"Die Stärke Ihrer Zeichen schwankt. Ich werde gestört. Haben Sie atmosphärische Störungen?"}
+    {
+      "correct":false,
+      "text":"Die Stärke Ihrer Zeichen schwankt. Ich werde gestört. Haben Sie atmosphärische Störungen?"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBB208",
      "text":"<p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qsy\"?</p>",
      "answer":[
-    {"correct":true,"text":"Sie wechseln die Frequenz."}
+    {
+      "correct":true,
+      "text":"Sie wechseln die Frequenz."
+    }
   ,
-    {"correct":false,"text":"Sie erhöhen die Sendeleistung."}
+    {
+      "correct":false,
+      "text":"Sie erhöhen die Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Sie verringern die Sendeleistung."}
+    {
+      "correct":false,
+      "text":"Sie verringern die Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Sie senden eine Bestätigungskarte an die Gegenstation."}
+    {
+      "correct":false,
+      "text":"Sie senden eine Bestätigungskarte an die Gegenstation."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"BBB209",
      "text":"<p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qrp\"?</p>",
      "answer":[
-    {"correct":true,"text":"Sie verringern die Sendeleistung."}
+    {
+      "correct":true,
+      "text":"Sie verringern die Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Sie erhöhen die Sendeleistung."}
+    {
+      "correct":false,
+      "text":"Sie erhöhen die Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Sie wechseln die Frequenz."}
+    {
+      "correct":false,
+      "text":"Sie wechseln die Frequenz."
+    }
   ,
-    {"correct":false,"text":"Sie senden eine Bestätigungskarte an die Gegenstation."}
+    {
+      "correct":false,
+      "text":"Sie senden eine Bestätigungskarte an die Gegenstation."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"VVA406",
      "text":"<p>In welchem Regelungswerk ist die Bedeutung der \"Q-Gruppen\" festgelegt?</p>",
      "answer":[
-    {"correct":true,"text":"In den Radio Regulations der ITU (Internationale Fernmeldeunion)."}
+    {
+      "correct":true,
+      "text":"In den Radio Regulations der ITU (Internationale Fernmeldeunion)."
+    }
   ,
-    {"correct":false,"text":"In den Empfehlungen der IARU (International Amateur Radio Union)."}
+    {
+      "correct":false,
+      "text":"In den Empfehlungen der IARU (International Amateur Radio Union)."
+    }
   ,
-    {"correct":false,"text":"In den Standards der ETSI (European Telecommunications Standards Institute)."}
+    {
+      "correct":false,
+      "text":"In den Standards der ETSI (European Telecommunications Standards Institute)."
+    }
   ,
-    {"correct":false,"text":"In den Anhängen der AFuV (Amateurfunkverordnung)."}
+    {
+      "correct":false,
+      "text":"In den Anhängen der AFuV (Amateurfunkverordnung)."
+    }
   ]
     }
   

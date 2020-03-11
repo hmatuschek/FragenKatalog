@@ -6,13 +6,25 @@
      "id":"ETC201",
      "text":"<p>Welche Aussage zur Kapazität eines Plattenkondensators ist richtig?</p>",
      "answer":[
-    {"correct":true,"text":"Je größer der Plattenabstand ist, desto kleiner ist die Kapazität."}
+    {
+      "correct":true,
+      "text":"Je größer der Plattenabstand ist, desto kleiner ist die Kapazität."
+    }
   ,
-    {"correct":false,"text":"Je größer die angelegte Spannung ist, desto kleiner ist die Kapazität."}
+    {
+      "correct":false,
+      "text":"Je größer die angelegte Spannung ist, desto kleiner ist die Kapazität."
+    }
   ,
-    {"correct":false,"text":"Je größer die Plattenoberfläche ist, desto kleiner ist die Kapazität."}
+    {
+      "correct":false,
+      "text":"Je größer die Plattenoberfläche ist, desto kleiner ist die Kapazität."
+    }
   ,
-    {"correct":false,"text":"Je größer die Dielektrizitätszahl ist, desto kleiner ist die Kapazität."}
+    {
+      "correct":false,
+      "text":"Je größer die Dielektrizitätszahl ist, desto kleiner ist die Kapazität."
+    }
   ]
     }
   ,
@@ -21,73 +33,133 @@
      "id":"ETC202",
      "text":"<p>Ein Bauelement, bei dem sich Platten auf einer isolierten Achse befinden, die zwischen fest stehende Platten hineingedreht werden können, nennt man</p>",
      "answer":[
-    {"correct":true,"text":"Drehkondensator."}
+    {
+      "correct":true,
+      "text":"Drehkondensator."
+    }
   ,
-    {"correct":false,"text":"Tauchkondensator."}
+    {
+      "correct":false,
+      "text":"Tauchkondensator."
+    }
   ,
-    {"correct":false,"text":"Keramischer Kondensator."}
+    {
+      "correct":false,
+      "text":"Keramischer Kondensator."
+    }
   ,
-    {"correct":false,"text":"Rotorkondensator."}
+    {
+      "correct":false,
+      "text":"Rotorkondensator."
+    }
   ]
     }
   ,
     {
      "name":"E/TC203",
      "id":"ETC203",
-     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><br/><img src='data:image/png;base64,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' alt='ETC203'/>",
+     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><img src='data:image/png;base64,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' alt='ETC203'/>",
      "answer":[
-    {"correct":true,"text":"330 μF"}
+    {
+      "correct":true,
+      "text":"330 μF"
+    }
   ,
-    {"correct":false,"text":"3,3 μF"}
+    {
+      "correct":false,
+      "text":"3,3 μF"
+    }
   ,
-    {"correct":false,"text":"33 μF"}
+    {
+      "correct":false,
+      "text":"33 μF"
+    }
   ,
-    {"correct":false,"text":"33000 μF"}
+    {
+      "correct":false,
+      "text":"33000 μF"
+    }
   ]
     }
   ,
     {
      "name":"E/TC204",
      "id":"ETC204",
-     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAACJCAAAAAD/U8LUAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAIK0lEQVRo3u2bz2sexxnHPwk9V0kOQ27GhQHRQ2MZFtGbdFnRk34c+tJL6xpe2qPSwGICbnEPL8JgKacXlYBrcsmrHiT5tLGgSKWHRRhsN4dFRRBXt2UPdZw/YOhh992d2Zn96aSHkAcE884773zn+THPPPM8o7cU3z29/X/A+B6B/KjP4Iur5//KWtdWry12/91bXRWfnh09e51qHXJl6fffLsj50X0A/93N7PNDXqQg1rfWOv1cdaDQB7xJnGh9SRz4gJx1+H0HkNADOY0d30SBBzJ8c5DEAzlN6r4OPRjFLXO0gYQSOW1cRCAQ0+ZJWkBGME6ah6ikdVAjSOwhJqqdZuA1oTSBxALZJu5yNQ36bwAJBaNOEEqpRDah1IPEPTCUUgHUotSC9MRQKqjnpQ6kN4ZSk1peakAGYCgVIN02VgMyGoChEg+vB8gE0c12KygS57ZygsxgCIZSM3B5GBdIIgkGYSg1c4rABTLCH4hRo0wHyAzafGI9xQL7GHNEKw+Yiu5BQoUWt3mQWr0WbIAcykWolFKerVALJBlqWcmEsVJKxYiqtC1x7TLqEVFp8cyvP84FNkp3W8QViUGMJGMg40TFEDWLyx/iT9RMAsVGnFS3QAUkGqKR2M+EMnePiajsgQpI0J+RpDD4WTmLaWAmSNJfI5Gca7e0/KqBmSCzGl9dz0YAgPAxXKNvbnsTxKNLaKstKpOUH48wDqypuVgDJOzHSDzKxDRVUWG/OUlD7AbIuJ+Lz7QxTpQKqDjViXF66SCJrO6idhAvVEolVUZUgqgBCY1vOoFk6w2wAhVPX6/uuw7Z7uan5r58FN0B4BRk5cq1yZHbd3XdJEF+xM5Hz8AKIGLdhqjpr6dQVl3PCIcz0lesieuKn3SR1d5ltecUpHU8rHNctDWQR9zqgPHkpNqzn8KH1rglzlwgz7jWAeSPVs8xiBWrd4uXDsUnnQw4hIoGYnCGUF5p1SUnh52ktedihBXHyHfLZgnydQcI0hdW1xGw4Ri6wiMb5K+stoPctWOqK5dtgW6q+o5famfkU6vrbyncdI1dEafzFRUgF68lrXQXqsHlM3ArUxTepwS5Sq+3BqfpYyz39gKE2/RXi53SK3N3mOJVFJeewII7GrzGV1WQQ6eJmLQHH/VZlCWub3ivbez+pb21HwK/rfvB1/3Fle7BLVEzj4PKI6UAedUKcniJ2MnbT5Z/lzUeQd3+Wiha82xqeuJwciYdl6Z170D3GtfblqeJq8WCz08Qt/P2QSHCVv4rIC30Caxq69gA4HknlBaQ9PzOec7IAWxDmilTTIucsAxrRfD6Im80nSZJICCP833ws7wmMI6L4yWovSkncn6iNIFE+RIjpVQERHlcqh9aTfGNPwdpENed9Vzgp9mfvFo5sAZ1u1/WcjIuhvhKJYXchcmJeiNO9j8FRkH+6WHOlJg97rT0LpxEXiCyYHoE+AUjo1hFnTmJiwDZVT9Jd+/zFPwvip5sO3h/7lZjKGgeILtAdu8DyM/MXrF9e64Y2eqwTaq3rs/MPTY6uzPvCP7ZM8EzBxEiPTe+8JcNxqef58a6MIp2+iaRCnGtHlwZ097TP6z9u2guft4ToUFcstV/t9JZcQbUgbwzPK82p/8U0WsBssnf33jaOipAFrgaOsfFzvKOo7s80HsVM9305BfAHbv/cRFkFZysyZNuZ6lF14Cnzt/O9+y3UPtd9IBDm8HUnxtPCbLCbs0sGzTTJq7L0esyoClB6jaGH7WVeDeAy4tq7xEf2CCr5c1Io+3pF8u00KIP2oU6p1flfcfg5MKeYLlLpXoDjCwHQHoiioOhBBGjdOhO2cK2r5fahV2zrg+c8upCwiOL7zU6YtMFslRcWnrTpi2vUy0O10DWhMbyjV4gG8BTQ6MXV5q56ptxvdxS4w/b5jVo0aNiX2fpqPTjOshWPu4dP/xLz6LAR1V5HWsqMd5IpD/jy6HHyNtAXK4sfV986eZErKZnAzEYY7iWh8Y1w3CQt3gwFGQLOCvtRjdgKvWTYcWT/J6gZVRjYSTrTVe/7vCm3UjcRPP3e6l5TTbXI8TQ6t9MmyyplDRNTsSN9LDLuh30S4AnWfuQG+YWMNcTDq7/qTHzXHoiKvnuak3LY9px0iqFzMsb02qCGWvoUK2U9iWriftqILHmDdWKWMnta//Sr95jbK6HaiXMprM04qpie+0PkGoIIFRjO0tsg0RCSwb0ojEwtuulznp8AD2rNZq8pOtVgiOCfEXfgzGnJQmXl/IP9jcWbAwNL3Za5eUqi9mc3AP4zQUDaAsQrljQyciwWnZmX45yqMXJHuB/Ig526E/7YIeSDk7iTKzRELVMAFzviaogWS6l8SFVHU1hapyPdSBxYR9BX14iCDR/3wAypqgd9eQlFPiJCnFtZBOkZCTjpXvhfJIvznPZlwkyQi+CBS7W3TSF7NXnBGzzN0AMRpRSM4HfxVUmXrF8Z86tUo+vVPMi0eV9ayi1x7YSuxCsg1QZyQXY4vcrr0YnYNWQMSe0D5wZiAaYJBDm09LEIS+jiu30oUlQf4pFAdZLXg/rTZwG4mREKaUiH4Q3qbqLZCpxPBae2NOU95OLnwKR+9J+fvQoBXlzc4E1IH3Oy3989RTkzT9Zt6XznwOJec9pZyRb9iy/nkkpZdYSfugM0Wz7KjhpYmS+xufHvLwEkNe5vVCXJN75GDwja1qA/OrASDfXUfpfgPeabn3p+3LzliHFIqn2YyoZVDeJ9kulsORRKj69+82AbGwn6vxvCG9C359/DfkB5AeQ747+B6FDYjB6Z6KrAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETC204'/>",
+     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><img src='data:image/png;base64,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' alt='ETC204'/>",
      "answer":[
-    {"correct":true,"text":"470 pF"}
+    {
+      "correct":true,
+      "text":"470 pF"
+    }
   ,
-    {"correct":false,"text":"4,7 pF"}
+    {
+      "correct":false,
+      "text":"4,7 pF"
+    }
   ,
-    {"correct":false,"text":"47 pF"}
+    {
+      "correct":false,
+      "text":"47 pF"
+    }
   ,
-    {"correct":false,"text":"47000 pF"}
+    {
+      "correct":false,
+      "text":"47000 pF"
+    }
   ]
     }
   ,
     {
      "name":"E/TC205",
      "id":"ETC205",
-     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><br/><img src='data:image/png;base64,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' alt='ETC205'/>",
+     "text":"<p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p><img src='data:image/png;base64,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' alt='ETC205'/>",
      "answer":[
-    {"correct":true,"text":"8,2 pF"}
+    {
+      "correct":true,
+      "text":"8,2 pF"
+    }
   ,
-    {"correct":false,"text":"820 pF"}
+    {
+      "correct":false,
+      "text":"820 pF"
+    }
   ,
-    {"correct":false,"text":"82 pF"}
+    {
+      "correct":false,
+      "text":"82 pF"
+    }
   ,
-    {"correct":false,"text":"0,82 pF"}
+    {
+      "correct":false,
+      "text":"0,82 pF"
+    }
   ]
     }
   ,
     {
      "name":"E/TC206",
      "id":"ETC206",
-     "text":"<p>Drei Kondensatoren mit den Kapazitäten C<sub>1</sub> = 0,1 μF, C<sub>2</sub> = 150 nF und C<sub>3</sub> = 50000 pF werden parallel geschaltet. Wie groß ist die Gesamtkapazität?</p>",
+     "text":"<p>Drei Kondensatoren mit den Kapazitäten C<sub>1</sub>= 0,1 μF, C<sub>2</sub>= 150 nF und C<sub>3</sub>= 50000 pF werden parallel geschaltet. Wie groß ist die Gesamtkapazität?</p>",
      "answer":[
-    {"correct":true,"text":"0,3 μF"}
+    {
+      "correct":true,
+      "text":"0,3 μF"
+    }
   ,
-    {"correct":false,"text":"2,73 nF"}
+    {
+      "correct":false,
+      "text":"2,73 nF"
+    }
   ,
-    {"correct":false,"text":"0,027 μF"}
+    {
+      "correct":false,
+      "text":"0,027 μF"
+    }
   ,
-    {"correct":false,"text":"0,255 μF"}
+    {
+      "correct":false,
+      "text":"0,255 μF"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ETC207",
      "text":"<p>Bei welchem der folgenden Bauformen von Kondensatoren muss beim Einbau auf die Polarität geachtet werden?</p>",
      "answer":[
-    {"correct":true,"text":"Elektrolytkondensator"}
+    {
+      "correct":true,
+      "text":"Elektrolytkondensator"
+    }
   ,
-    {"correct":false,"text":"Keramischer Kondensator"}
+    {
+      "correct":false,
+      "text":"Keramischer Kondensator"
+    }
   ,
-    {"correct":false,"text":"Styroflexkondensator"}
+    {
+      "correct":false,
+      "text":"Styroflexkondensator"
+    }
   ,
-    {"correct":false,"text":"Plattenkondensator"}
+    {
+      "correct":false,
+      "text":"Plattenkondensator"
+    }
   ]
     }
   ,
@@ -111,58 +195,106 @@
      "id":"ETC208",
      "text":"<p>Mit zunehmender Frequenz</p>",
      "answer":[
-    {"correct":true,"text":"sinkt der Wechselstromwiderstand von Kondensatoren."}
+    {
+      "correct":true,
+      "text":"sinkt der Wechselstromwiderstand von Kondensatoren."
+    }
   ,
-    {"correct":false,"text":"sinkt der Wechselstromwiderstand von Kondensatoren bis zu einem Minimum und steigt dann wieder."}
+    {
+      "correct":false,
+      "text":"sinkt der Wechselstromwiderstand von Kondensatoren bis zu einem Minimum und steigt dann wieder."
+    }
   ,
-    {"correct":false,"text":"steigt der Wechselstromwiderstand von Kondensatoren."}
+    {
+      "correct":false,
+      "text":"steigt der Wechselstromwiderstand von Kondensatoren."
+    }
   ,
-    {"correct":false,"text":"steigt der Wechselstromwiderstand von Kondensatoren bis zu einem Maximum und sinkt dann wieder."}
+    {
+      "correct":false,
+      "text":"steigt der Wechselstromwiderstand von Kondensatoren bis zu einem Maximum und sinkt dann wieder."
+    }
   ]
     }
   ,
     {
      "name":"E/TD105",
      "id":"ETD105",
-     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br></p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABpCAAAAABaczMJAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEJ0lEQVR42u2cMWgTURjH/x4uLR1qC8EjVMRBQlZLoRS7lAwlgrqXm9q0qy7HDc4hi4JT2gxiOXAUh9Ah3qKUQEkdhIajIAWlJFSqHaRuDwcv5lKS+N3lvXev5f2X3F2O773f3bvvffe9L7nGcDVkJN0BDaJBFJcGUU0aRDVdF2H08PkN/CzLBbkmYGbP+gDg35UKImBo1f0aY4zJ5RBxR7ITe3IZAAi5IxO/EuC4Ol5LMIiTP+w90Gp1PluXCcR4hUwPiZdOOwCAdDrNt6mh80jr5SRwFH9CqKxsYy5zwZ1M8gWggBxmUvfwPRPf+Noa0CiK6XgUkMxsLD/6ayK0k4ctB2ToMxLvYj5sdLfrO8dyOP7zjMQyWSwZhXOcVgFgIWOqABJTbGMLQMsEHDQlcZDdr2VFMFpmjDETaJW2ZXFQQTbc0xjGbViGISl2oDXjbMUyvs0YY5IygDSQIhthNlEAJORxfiTd0ZFAXifduwga5n5rudPFM9xZS7qPI4Ms7T7eAcATZDwREMy3qWYqY7TzDkLbHjVwWBkZJKSTo2HfxporctQTf1PGBLULbHisUWM0+WGTROEjpYOc5l3qKPnGpzlxIMlLg6gmDaKaKPNIHfPBZ7ChogggXg52EQAWAHXLC2hDazLpbvICuQTSIKpJg6gm+SBnYswKWWcfrJlCkBnnnqOXDHK3s2rEfdVEPyOqKQBx8xucV1nlyMq7PSBZa38r7ca3l5BKhrtvGSEQyz9us4I14J6IS6oRNbADzjJrHyMPIPBa7qYJlLeWnvRLVU/th3bcvkuCnJfML+pTpW8KfeoZqoBZy3VB8AAANtfX/2szyroVL6UajQHfZIB/9+svyGoVwPps/2WpD0532+97xm2ht+Rk+UXfVqcf+QDwJQRSdJwi5kBYVScWYXnjOF/iRjIzoNWmcbMN17K7IDacEuAPsHMeteGSAwC73N7vB3Zgd8FA8BoeuF+b2dv8St4cmzHGJOQp5tmuzYJgpxNrcYx95lKSyk8AzP+7XCJClClpHCFdmVhLaBh/uHdxuanlBQc8gJ9bEw7y1kmdWD05vaaFgyIA5Hgn+4QOLZu1GW5eODgppi3hz8is6AYCiX3V9d4fN/zRzSQEEqpfbn0+okY1o0rA0PL8SmdzpdpMzV1aELOwbhiGEdT73pJUYE4bWmeRbJbLlTH8DobUVzkcFJBsEYsAosRjQamC+2a6cSKpzJQAYnaygpGzg+b0+KInqcxUqPtd4huFDNWVCRo1iGrSIL2iuqaZOMZJtdN8vNYsuRouJPI1fCoP5N3qNOm88W873Z0CMc90n+TE+YCYVeKJ9RAI39/ASn7YIyf7VAURJw2imjSIatIgqkmDqCYNopo0SGydiTErufAsuzn2NxfM/Ue8Iv6pJhHpZ0Q1aRDV9AeLjDz+j+76SgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD105'/>",
+     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br>Gegeben: C<sub>1</sub>= 0,01 μF; C<sub>2</sub>= 5 nF, C<sub>3</sub>= 5000 pF</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABpCAAAAABaczMJAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEJ0lEQVR42u2cMWgTURjH/x4uLR1qC8EjVMRBQlZLoRS7lAwlgrqXm9q0qy7HDc4hi4JT2gxiOXAUh9Ah3qKUQEkdhIajIAWlJFSqHaRuDwcv5lKS+N3lvXev5f2X3F2O773f3bvvffe9L7nGcDVkJN0BDaJBFJcGUU0aRDVdF2H08PkN/CzLBbkmYGbP+gDg35UKImBo1f0aY4zJ5RBxR7ITe3IZAAi5IxO/EuC4Ol5LMIiTP+w90Gp1PluXCcR4hUwPiZdOOwCAdDrNt6mh80jr5SRwFH9CqKxsYy5zwZ1M8gWggBxmUvfwPRPf+Noa0CiK6XgUkMxsLD/6ayK0k4ctB2ToMxLvYj5sdLfrO8dyOP7zjMQyWSwZhXOcVgFgIWOqABJTbGMLQMsEHDQlcZDdr2VFMFpmjDETaJW2ZXFQQTbc0xjGbViGISl2oDXjbMUyvs0YY5IygDSQIhthNlEAJORxfiTd0ZFAXifduwga5n5rudPFM9xZS7qPI4Ms7T7eAcATZDwREMy3qWYqY7TzDkLbHjVwWBkZJKSTo2HfxporctQTf1PGBLULbHisUWM0+WGTROEjpYOc5l3qKPnGpzlxIMlLg6gmDaKaKPNIHfPBZ7ChogggXg52EQAWAHXLC2hDazLpbvICuQTSIKpJg6gm+SBnYswKWWcfrJlCkBnnnqOXDHK3s2rEfdVEPyOqKQBx8xucV1nlyMq7PSBZa38r7ca3l5BKhrtvGSEQyz9us4I14J6IS6oRNbADzjJrHyMPIPBa7qYJlLeWnvRLVU/th3bcvkuCnJfML+pTpW8KfeoZqoBZy3VB8AAANtfX/2szyroVL6UajQHfZIB/9+svyGoVwPps/2WpD0532+97xm2ht+Rk+UXfVqcf+QDwJQRSdJwi5kBYVScWYXnjOF/iRjIzoNWmcbMN17K7IDacEuAPsHMeteGSAwC73N7vB3Zgd8FA8BoeuF+b2dv8St4cmzHGJOQp5tmuzYJgpxNrcYx95lKSyk8AzP+7XCJClClpHCFdmVhLaBh/uHdxuanlBQc8gJ9bEw7y1kmdWD05vaaFgyIA5Hgn+4QOLZu1GW5eODgppi3hz8is6AYCiX3V9d4fN/zRzSQEEqpfbn0+okY1o0rA0PL8SmdzpdpMzV1aELOwbhiGEdT73pJUYE4bWmeRbJbLlTH8DobUVzkcFJBsEYsAosRjQamC+2a6cSKpzJQAYnaygpGzg+b0+KInqcxUqPtd4huFDNWVCRo1iGrSIL2iuqaZOMZJtdN8vNYsuRouJPI1fCoP5N3qNOm88W873Z0CMc90n+TE+YCYVeKJ9RAI39/ASn7YIyf7VAURJw2imjSIatIgqkmDqCYNopo0SGydiTErufAsuzn2NxfM/Ue8Iv6pJhHpZ0Q1aRDV9AeLjDz+j+76SgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD105'/>",
      "answer":[
-    {"correct":true,"text":"5 nF"}
+    {
+      "correct":true,
+      "text":"5 nF"
+    }
   ,
-    {"correct":false,"text":"0,015 nF"}
+    {
+      "correct":false,
+      "text":"0,015 nF"
+    }
   ,
-    {"correct":false,"text":"7,5 nF"}
+    {
+      "correct":false,
+      "text":"7,5 nF"
+    }
   ,
-    {"correct":false,"text":"10 nF"}
+    {
+      "correct":false,
+      "text":"10 nF"
+    }
   ]
     }
   ,
     {
      "name":"E/TD106",
      "id":"ETD106",
-     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br></p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABpCAAAAABaczMJAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEJ0lEQVR42u2cMWgTURjH/x4uLR1qC8EjVMRBQlZLoRS7lAwlgrqXm9q0qy7HDc4hi4JT2gxiOXAUh9Ah3qKUQEkdhIajIAWlJFSqHaRuDwcv5lKS+N3lvXev5f2X3F2O773f3bvvffe9L7nGcDVkJN0BDaJBFJcGUU0aRDVdF2H08PkN/CzLBbkmYGbP+gDg35UKImBo1f0aY4zJ5RBxR7ITe3IZAAi5IxO/EuC4Ol5LMIiTP+w90Gp1PluXCcR4hUwPiZdOOwCAdDrNt6mh80jr5SRwFH9CqKxsYy5zwZ1M8gWggBxmUvfwPRPf+Noa0CiK6XgUkMxsLD/6ayK0k4ctB2ToMxLvYj5sdLfrO8dyOP7zjMQyWSwZhXOcVgFgIWOqABJTbGMLQMsEHDQlcZDdr2VFMFpmjDETaJW2ZXFQQTbc0xjGbViGISl2oDXjbMUyvs0YY5IygDSQIhthNlEAJORxfiTd0ZFAXifduwga5n5rudPFM9xZS7qPI4Ms7T7eAcATZDwREMy3qWYqY7TzDkLbHjVwWBkZJKSTo2HfxporctQTf1PGBLULbHisUWM0+WGTROEjpYOc5l3qKPnGpzlxIMlLg6gmDaKaKPNIHfPBZ7ChogggXg52EQAWAHXLC2hDazLpbvICuQTSIKpJg6gm+SBnYswKWWcfrJlCkBnnnqOXDHK3s2rEfdVEPyOqKQBx8xucV1nlyMq7PSBZa38r7ca3l5BKhrtvGSEQyz9us4I14J6IS6oRNbADzjJrHyMPIPBa7qYJlLeWnvRLVU/th3bcvkuCnJfML+pTpW8KfeoZqoBZy3VB8AAANtfX/2szyroVL6UajQHfZIB/9+svyGoVwPps/2WpD0532+97xm2ht+Rk+UXfVqcf+QDwJQRSdJwi5kBYVScWYXnjOF/iRjIzoNWmcbMN17K7IDacEuAPsHMeteGSAwC73N7vB3Zgd8FA8BoeuF+b2dv8St4cmzHGJOQp5tmuzYJgpxNrcYx95lKSyk8AzP+7XCJClClpHCFdmVhLaBh/uHdxuanlBQc8gJ9bEw7y1kmdWD05vaaFgyIA5Hgn+4QOLZu1GW5eODgppi3hz8is6AYCiX3V9d4fN/zRzSQEEqpfbn0+okY1o0rA0PL8SmdzpdpMzV1aELOwbhiGEdT73pJUYE4bWmeRbJbLlTH8DobUVzkcFJBsEYsAosRjQamC+2a6cSKpzJQAYnaygpGzg+b0+KInqcxUqPtd4huFDNWVCRo1iGrSIL2iuqaZOMZJtdN8vNYsuRouJPI1fCoP5N3qNOm88W873Z0CMc90n+TE+YCYVeKJ9RAI39/ASn7YIyf7VAURJw2imjSIatIgqkmDqCYNopo0SGydiTErufAsuzn2NxfM/Ue8Iv6pJhHpZ0Q1aRDV9AeLjDz+j+76SgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD105'/>",
+     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br>Gegeben: C<sub>1</sub>= 0,02 μF; C<sub>2</sub>= 10 nF; C<sub>3</sub>= 10000 pF</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABpCAAAAABaczMJAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAEJ0lEQVR42u2cMWgTURjH/x4uLR1qC8EjVMRBQlZLoRS7lAwlgrqXm9q0qy7HDc4hi4JT2gxiOXAUh9Ah3qKUQEkdhIajIAWlJFSqHaRuDwcv5lKS+N3lvXev5f2X3F2O773f3bvvffe9L7nGcDVkJN0BDaJBFJcGUU0aRDVdF2H08PkN/CzLBbkmYGbP+gDg35UKImBo1f0aY4zJ5RBxR7ITe3IZAAi5IxO/EuC4Ol5LMIiTP+w90Gp1PluXCcR4hUwPiZdOOwCAdDrNt6mh80jr5SRwFH9CqKxsYy5zwZ1M8gWggBxmUvfwPRPf+Noa0CiK6XgUkMxsLD/6ayK0k4ctB2ToMxLvYj5sdLfrO8dyOP7zjMQyWSwZhXOcVgFgIWOqABJTbGMLQMsEHDQlcZDdr2VFMFpmjDETaJW2ZXFQQTbc0xjGbViGISl2oDXjbMUyvs0YY5IygDSQIhthNlEAJORxfiTd0ZFAXifduwga5n5rudPFM9xZS7qPI4Ms7T7eAcATZDwREMy3qWYqY7TzDkLbHjVwWBkZJKSTo2HfxporctQTf1PGBLULbHisUWM0+WGTROEjpYOc5l3qKPnGpzlxIMlLg6gmDaKaKPNIHfPBZ7ChogggXg52EQAWAHXLC2hDazLpbvICuQTSIKpJg6gm+SBnYswKWWcfrJlCkBnnnqOXDHK3s2rEfdVEPyOqKQBx8xucV1nlyMq7PSBZa38r7ca3l5BKhrtvGSEQyz9us4I14J6IS6oRNbADzjJrHyMPIPBa7qYJlLeWnvRLVU/th3bcvkuCnJfML+pTpW8KfeoZqoBZy3VB8AAANtfX/2szyroVL6UajQHfZIB/9+svyGoVwPps/2WpD0532+97xm2ht+Rk+UXfVqcf+QDwJQRSdJwi5kBYVScWYXnjOF/iRjIzoNWmcbMN17K7IDacEuAPsHMeteGSAwC73N7vB3Zgd8FA8BoeuF+b2dv8St4cmzHGJOQp5tmuzYJgpxNrcYx95lKSyk8AzP+7XCJClClpHCFdmVhLaBh/uHdxuanlBQc8gJ9bEw7y1kmdWD05vaaFgyIA5Hgn+4QOLZu1GW5eODgppi3hz8is6AYCiX3V9d4fN/zRzSQEEqpfbn0+okY1o0rA0PL8SmdzpdpMzV1aELOwbhiGEdT73pJUYE4bWmeRbJbLlTH8DobUVzkcFJBsEYsAosRjQamC+2a6cSKpzJQAYnaygpGzg+b0+KInqcxUqPtd4huFDNWVCRo1iGrSIL2iuqaZOMZJtdN8vNYsuRouJPI1fCoP5N3qNOm88W873Z0CMc90n+TE+YCYVeKJ9RAI39/ASn7YIyf7VAURJw2imjSIatIgqkmDqCYNopo0SGydiTErufAsuzn2NxfM/Ue8Iv6pJhHpZ0Q1aRDV9AeLjDz+j+76SgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD105'/>",
      "answer":[
-    {"correct":true,"text":"10 nF"}
+    {
+      "correct":true,
+      "text":"10 nF"
+    }
   ,
-    {"correct":false,"text":"5 nF"}
+    {
+      "correct":false,
+      "text":"5 nF"
+    }
   ,
-    {"correct":false,"text":"2,5 nF"}
+    {
+      "correct":false,
+      "text":"2,5 nF"
+    }
   ,
-    {"correct":false,"text":"40 nF"}
+    {
+      "correct":false,
+      "text":"40 nF"
+    }
   ]
     }
   ,
     {
      "name":"E/TD107",
      "id":"ETD107",
-     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br></p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABbCAAAAAATwZWvAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADcElEQVR42u2bPWjbQBiG34gOWUywETJempIUYnlpCRScdEjIWtpubbylHYrIboS3bMWYDNlMlnYreAlp6BpMSkK2dihNvBQylGJziYd08CQ6yD8yEZJOd2ef3XsWyYq+u3s43Z90mXEwHWjjLoASUSKSo0RkQ4nIxj2amyvA/Ku4OdWugKI4kZnoIzsx0sDCacyMNKSBP+JEKGrEsN/Hz8dKC5QA6NrIFkM+JyzBvEVYSIrOIJZIyXPeaHQPJGJwtUCGwgldOE+R5+XBOTFN4h4+RAvOba8ZnkKb5q57iBjOU6TyxfND758lokUvOlZ613shRRXOU6TItBY7Amky9H48ReLR7p8Ztoj0KcaRsnnWQWYpXj6Hxsb9zmweQAUiKoRGpJhYBRDzudLPesF2S4QH1aNlOY4Tu33ku8GZ7HWdtatlFemTZchwYfHt9g8BIlSz3x4/GTKMO+kMY2rWI0pENviJpMYaDjiBRE2BYWwoR83nIrCkwb1WFRftkORXUXJHansr7FYfkmbvLCw8ubMeuMYM634jzEi6D8V8zMkLIoY/CF6bqcYuG0pENpTIyEldTolICEpENpTIHW4nXmQegA48YQgH23sAIOaa3YszdBh1+ADVRmTDFSFPrXEXJC4kVxqIVIzU4YRWjWU8+qgRuI2d2C0dlubT4JjfCHDkxvfqfktHyXDcz9OFv0cAtPTwLU0AyLK8VORLbTM7tKpPXvYLqDlujSzbAOrYuxoKTACpg/q4iz9gAzt3Cojv+wAI0N0woK2cnq/6fUWvbdJ18OdfE7eidjcQw68sWvYExutP3QHRyWnw3Q1wAyoyzTSab3S6IDacnIFyEb2RnU9LqDXHsNOzV3Seve7Bs9F79OEpMkf5JHKFedLoR2EOVc/Phvu+shHltWVshAzoy49/e9M1zbrnIAghNVKEpZ3n716fnTQRcvwNefZkxi9yvfdrZcQeXEWqWuVFu7MOLJ1Ca4hs2YJF0DJs4MI1iPHVRx4RvTuy1zOfp6ONFBbaI5+sCBERvKHUlwld4SoR+QkWuU1HTCYaD1mCw9ZrgdsJeG12O2bZstbjHcPOB/2sw26RGexueMmS3HrgX0O6X77D2pbAactIG7vIact/0mtNEEpENpSIbCgR2VAisjE1IhT/4io3U1MjSkQ2lIhs/AMlYjssPtuFjQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD107'/>",
+     "text":"<p>Welche Gesamtkapazität hat die folgende Schaltung?<br>Gegeben: C<sub>1</sub>= 0,01 μF; C<sub>2</sub>= 10 nF; C<sub>3</sub>= 5000 pF</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABbCAAAAAATwZWvAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADcElEQVR42u2bPWjbQBiG34gOWUywETJempIUYnlpCRScdEjIWtpubbylHYrIboS3bMWYDNlMlnYreAlp6BpMSkK2dihNvBQylGJziYd08CQ6yD8yEZJOd2ef3XsWyYq+u3s43Z90mXEwHWjjLoASUSKSo0RkQ4nIxj2amyvA/Ku4OdWugKI4kZnoIzsx0sDCacyMNKSBP+JEKGrEsN/Hz8dKC5QA6NrIFkM+JyzBvEVYSIrOIJZIyXPeaHQPJGJwtUCGwgldOE+R5+XBOTFN4h4+RAvOba8ZnkKb5q57iBjOU6TyxfND758lokUvOlZ613shRRXOU6TItBY7Amky9H48ReLR7p8Ztoj0KcaRsnnWQWYpXj6Hxsb9zmweQAUiKoRGpJhYBRDzudLPesF2S4QH1aNlOY4Tu33ku8GZ7HWdtatlFemTZchwYfHt9g8BIlSz3x4/GTKMO+kMY2rWI0pENviJpMYaDjiBRE2BYWwoR83nIrCkwb1WFRftkORXUXJHansr7FYfkmbvLCw8ubMeuMYM634jzEi6D8V8zMkLIoY/CF6bqcYuG0pENpTIyEldTolICEpENpTIHW4nXmQegA48YQgH23sAIOaa3YszdBh1+ADVRmTDFSFPrXEXJC4kVxqIVIzU4YRWjWU8+qgRuI2d2C0dlubT4JjfCHDkxvfqfktHyXDcz9OFv0cAtPTwLU0AyLK8VORLbTM7tKpPXvYLqDlujSzbAOrYuxoKTACpg/q4iz9gAzt3Cojv+wAI0N0woK2cnq/6fUWvbdJ18OdfE7eidjcQw68sWvYExutP3QHRyWnw3Q1wAyoyzTSab3S6IDacnIFyEb2RnU9LqDXHsNOzV3Seve7Bs9F79OEpMkf5JHKFedLoR2EOVc/Phvu+shHltWVshAzoy49/e9M1zbrnIAghNVKEpZ3n716fnTQRcvwNefZkxi9yvfdrZcQeXEWqWuVFu7MOLJ1Ca4hs2YJF0DJs4MI1iPHVRx4RvTuy1zOfp6ONFBbaI5+sCBERvKHUlwld4SoR+QkWuU1HTCYaD1mCw9ZrgdsJeG12O2bZstbjHcPOB/2sw26RGexueMmS3HrgX0O6X77D2pbAactIG7vIact/0mtNEEpENpSIbCgR2VAisjE1IhT/4io3U1MjSkQ2lIhs/AMlYjssPtuFjQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETD107'/>",
      "answer":[
-    {"correct":true,"text":"10 nF"}
+    {
+      "correct":true,
+      "text":"10 nF"
+    }
   ,
-    {"correct":false,"text":"5 nF"}
+    {
+      "correct":false,
+      "text":"5 nF"
+    }
   ,
-    {"correct":false,"text":"2,5 nF"}
+    {
+      "correct":false,
+      "text":"2,5 nF"
+    }
   ,
-    {"correct":false,"text":"0,015 nF"}
+    {
+      "correct":false,
+      "text":"0,015 nF"
+    }
   ]
     }
   

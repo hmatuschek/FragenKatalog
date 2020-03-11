@@ -6,13 +6,25 @@
      "id":"BBB401",
      "text":"<p>Wie wird \"Morsetelegrafie, Zweiseitenband, ein einziger Kanal, der quantisierte oder digitale Information enthält, ohne Verwendung eines modulierten Hilfsträgers\", bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"A1A"}
+    {
+      "correct":true,
+      "text":"A1A"
+    }
   ,
-    {"correct":false,"text":"NØN"}
+    {
+      "correct":false,
+      "text":"NØN"
+    }
   ,
-    {"correct":false,"text":"A2A"}
+    {
+      "correct":false,
+      "text":"A2A"
+    }
   ,
-    {"correct":false,"text":"R3E"}
+    {
+      "correct":false,
+      "text":"R3E"
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBB402",
      "text":"<p>Wie wird \"Frequenzmodulation mit analogen Signalen, für Sprachübertragung\" bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"F3E"}
+    {
+      "correct":true,
+      "text":"F3E"
+    }
   ,
-    {"correct":false,"text":"A3E"}
+    {
+      "correct":false,
+      "text":"A3E"
+    }
   ,
-    {"correct":false,"text":"A2A"}
+    {
+      "correct":false,
+      "text":"A2A"
+    }
   ,
-    {"correct":false,"text":"R3E"}
+    {
+      "correct":false,
+      "text":"R3E"
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBB403",
      "text":"<p>Wie wird \"Einseitenbandmodulation mit analogen Signalen für Sprachübertragung\" (SSB) bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"J3E"}
+    {
+      "correct":true,
+      "text":"J3E"
+    }
   ,
-    {"correct":false,"text":"J2E"}
+    {
+      "correct":false,
+      "text":"J2E"
+    }
   ,
-    {"correct":false,"text":"R2A"}
+    {
+      "correct":false,
+      "text":"R2A"
+    }
   ,
-    {"correct":false,"text":"A1A"}
+    {
+      "correct":false,
+      "text":"A1A"
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBB404",
      "text":"<p>Wie wird \"Morsetelegrafie unter Verwendung eines modulierenden Hilfsträgers\" bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"A2A"}
+    {
+      "correct":true,
+      "text":"A2A"
+    }
   ,
-    {"correct":false,"text":"A2B"}
+    {
+      "correct":false,
+      "text":"A2B"
+    }
   ,
-    {"correct":false,"text":"J2M"}
+    {
+      "correct":false,
+      "text":"J2M"
+    }
   ,
-    {"correct":false,"text":"A2C"}
+    {
+      "correct":false,
+      "text":"A2C"
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBB405",
      "text":"<p>Wie wird \"Fernschreibtelegrafie unter Verwendung eines modulierenden Hilfsträgers\" (RTTY) bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"J2B"}
+    {
+      "correct":true,
+      "text":"J2B"
+    }
   ,
-    {"correct":false,"text":"A1B"}
+    {
+      "correct":false,
+      "text":"A1B"
+    }
   ,
-    {"correct":false,"text":"F3B"}
+    {
+      "correct":false,
+      "text":"F3B"
+    }
   ,
-    {"correct":false,"text":"A2C"}
+    {
+      "correct":false,
+      "text":"A2C"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBB406",
      "text":"<p>Wie wird \"Fernsehen (Video), Restseitenbandübertragung mit analogen Signalen\" bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"C3F"}
+    {
+      "correct":true,
+      "text":"C3F"
+    }
   ,
-    {"correct":false,"text":"J3F"}
+    {
+      "correct":false,
+      "text":"J3F"
+    }
   ,
-    {"correct":false,"text":"F3F"}
+    {
+      "correct":false,
+      "text":"F3F"
+    }
   ,
-    {"correct":false,"text":"A3F"}
+    {
+      "correct":false,
+      "text":"A3F"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBB407",
      "text":"<p>Wie wird die im Amateurfunk verwendete Betriebsart \"PACTOR\" nach den Vorgaben der Radio Regulations (VO Funk) bezeichnet?</p>",
      "answer":[
-    {"correct":true,"text":"J2B"}
+    {
+      "correct":true,
+      "text":"J2B"
+    }
   ,
-    {"correct":false,"text":"J3B"}
+    {
+      "correct":false,
+      "text":"J3B"
+    }
   ,
-    {"correct":false,"text":"F2A"}
+    {
+      "correct":false,
+      "text":"F2A"
+    }
   ,
-    {"correct":false,"text":"J3A"}
+    {
+      "correct":false,
+      "text":"J3A"
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"BBC101",
      "text":"<p>Welchen Frequenzbereich umfasst das 13-cm-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"2320 - 2450 MHz"}
+    {
+      "correct":true,
+      "text":"2320 - 2450 MHz"
+    }
   ,
-    {"correct":false,"text":"1240 - 1300 MHz"}
+    {
+      "correct":false,
+      "text":"1240 - 1300 MHz"
+    }
   ,
-    {"correct":false,"text":"3400 - 3475 MHz"}
+    {
+      "correct":false,
+      "text":"3400 - 3475 MHz"
+    }
   ,
-    {"correct":false,"text":"5650 - 5850 MHz"}
+    {
+      "correct":false,
+      "text":"5650 - 5850 MHz"
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"BBC102",
      "text":"<p>Welchen Frequenzbereich umfasst das 23-cm-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"1240 - 1300 MHz"}
+    {
+      "correct":true,
+      "text":"1240 - 1300 MHz"
+    }
   ,
-    {"correct":false,"text":"2320 - 2450 MHz"}
+    {
+      "correct":false,
+      "text":"2320 - 2450 MHz"
+    }
   ,
-    {"correct":false,"text":"3400 - 3475 MHz"}
+    {
+      "correct":false,
+      "text":"3400 - 3475 MHz"
+    }
   ,
-    {"correct":false,"text":"5650 - 5850 MHz"}
+    {
+      "correct":false,
+      "text":"5650 - 5850 MHz"
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"BBC103",
      "text":"<p>Welchen Frequenzbereich umfasst das 70-cm-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"430 - 440 MHz"}
+    {
+      "correct":true,
+      "text":"430 - 440 MHz"
+    }
   ,
-    {"correct":false,"text":"50,08 - 51 MHz"}
+    {
+      "correct":false,
+      "text":"50,08 - 51 MHz"
+    }
   ,
-    {"correct":false,"text":"144 - 146 MHz"}
+    {
+      "correct":false,
+      "text":"144 - 146 MHz"
+    }
   ,
-    {"correct":false,"text":"1240 - 1300 MHz"}
+    {
+      "correct":false,
+      "text":"1240 - 1300 MHz"
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"BBC104",
      "text":"<p>Welchen Frequenzbereich umfasst das 2-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"144 - 146 MHz"}
+    {
+      "correct":true,
+      "text":"144 - 146 MHz"
+    }
   ,
-    {"correct":false,"text":"50,08 - 51 MHz"}
+    {
+      "correct":false,
+      "text":"50,08 - 51 MHz"
+    }
   ,
-    {"correct":false,"text":"430 - 440 MHz"}
+    {
+      "correct":false,
+      "text":"430 - 440 MHz"
+    }
   ,
-    {"correct":false,"text":"70 - 70,5 MHz"}
+    {
+      "correct":false,
+      "text":"70 - 70,5 MHz"
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"BBC106",
      "text":"<p>Welchen Frequenzbereich umfasst das 10-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"28000 - 29700 kHz"}
+    {
+      "correct":true,
+      "text":"28000 - 29700 kHz"
+    }
   ,
-    {"correct":false,"text":"18068 - 18168 kHz"}
+    {
+      "correct":false,
+      "text":"18068 - 18168 kHz"
+    }
   ,
-    {"correct":false,"text":"24890 - 24990 kHz"}
+    {
+      "correct":false,
+      "text":"24890 - 24990 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz"
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"BBC107",
      "text":"<p>Welchen Frequenzbereich umfasst das 12-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"24890 - 24990 kHz"}
+    {
+      "correct":true,
+      "text":"24890 - 24990 kHz"
+    }
   ,
-    {"correct":false,"text":"14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"18068 - 18168 kHz"}
+    {
+      "correct":false,
+      "text":"18068 - 18168 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz"
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"BBC108",
      "text":"<p>Welchen Frequenzbereich umfasst das 15-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"21000 - 21450 kHz"}
+    {
+      "correct":true,
+      "text":"21000 - 21450 kHz"
+    }
   ,
-    {"correct":false,"text":"14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"24890 - 24990 kHz"}
+    {
+      "correct":false,
+      "text":"24890 - 24990 kHz"
+    }
   ,
-    {"correct":false,"text":"18068 - 18168 kHz"}
+    {
+      "correct":false,
+      "text":"18068 - 18168 kHz"
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"BBC109",
      "text":"<p>Welchen Frequenzbereich umfasst das 17-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"18068 - 18168 kHz"}
+    {
+      "correct":true,
+      "text":"18068 - 18168 kHz"
+    }
   ,
-    {"correct":false,"text":"14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"24890 - 24990 kHz"}
+    {
+      "correct":false,
+      "text":"24890 - 24990 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz"
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"BBC112",
      "text":"<p>Welchen Frequenzbereich umfasst das 40-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"7000 - 7200 kHz"}
+    {
+      "correct":true,
+      "text":"7000 - 7200 kHz"
+    }
   ,
-    {"correct":false,"text":"3500 - 3800 kHz"}
+    {
+      "correct":false,
+      "text":"3500 - 3800 kHz"
+    }
   ,
-    {"correct":false,"text":"14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"10100 - 10150 kHz"}
+    {
+      "correct":false,
+      "text":"10100 - 10150 kHz"
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"BBC113",
      "text":"<p>Welchen Frequenzbereich umfasst das 80-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"3500 - 3800 kHz"}
+    {
+      "correct":true,
+      "text":"3500 - 3800 kHz"
+    }
   ,
-    {"correct":false,"text":"7000 - 7200 kHz"}
+    {
+      "correct":false,
+      "text":"7000 - 7200 kHz"
+    }
   ,
-    {"correct":false,"text":"1810 - 2000 kHz"}
+    {
+      "correct":false,
+      "text":"1810 - 2000 kHz"
+    }
   ,
-    {"correct":false,"text":"135,7 - 137,8 kHz"}
+    {
+      "correct":false,
+      "text":"135,7 - 137,8 kHz"
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"BBC114",
      "text":"<p>Welchen Frequenzbereich umfasst das 160-m-Amateurfunkband in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"1810 - 2000 kHz"}
+    {
+      "correct":true,
+      "text":"1810 - 2000 kHz"
+    }
   ,
-    {"correct":false,"text":"3500 - 3800 kHz"}
+    {
+      "correct":false,
+      "text":"3500 - 3800 kHz"
+    }
   ,
-    {"correct":false,"text":"135,7 - 137,8 kHz"}
+    {
+      "correct":false,
+      "text":"135,7 - 137,8 kHz"
+    }
   ,
-    {"correct":false,"text":"7000 - 7200 kHz"}
+    {
+      "correct":false,
+      "text":"7000 - 7200 kHz"
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"BBC201",
      "text":"<p>Welchen Verbindlichkeitsgrad haben die von der IARU (Internationale Amateur Radio Union) aufgestellten Bandpläne?</p>",
      "answer":[
-    {"correct":true,"text":"Die IARU-Bandpläne haben den Charakter einer Empfehlung. Dennoch kommt eine freiwillige möglichst ausnahmslose Einhaltung der Bandpläne allen Teilnehmern am Amateurfunk zugute."}
+    {
+      "correct":true,
+      "text":"Die IARU-Bandpläne haben den Charakter einer Empfehlung. Dennoch kommt eine freiwillige möglichst ausnahmslose Einhaltung der Bandpläne allen Teilnehmern am Amateurfunk zugute."
+    }
   ,
-    {"correct":false,"text":"Die IARU-Bandpläne sind nur in den Ländern oder Regionen mit hoher Amateurfunkstellendichte (z. B. Europa) von praktischem Wert. Dort müssen die Bandpläne grundsätzlich eingehalten werden."}
+    {
+      "correct":false,
+      "text":"Die IARU-Bandpläne sind nur in den Ländern oder Regionen mit hoher Amateurfunkstellendichte (z. B. Europa) von praktischem Wert. Dort müssen die Bandpläne grundsätzlich eingehalten werden."
+    }
   ,
-    {"correct":false,"text":"IARU-Bandpläne sind aufgestellte Frequenzraster nur für solche Amateurfunkstellen, die unbesetzt und automatisch betrieben werden, d. h. Relaisfunkstellen, Digipeater und Funkbaken."}
+    {
+      "correct":false,
+      "text":"IARU-Bandpläne sind aufgestellte Frequenzraster nur für solche Amateurfunkstellen, die unbesetzt und automatisch betrieben werden, d. h. Relaisfunkstellen, Digipeater und Funkbaken."
+    }
   ,
-    {"correct":false,"text":"IARU-Bandpläne haben den Sinn, für die einzelnen Sende- und Betriebsarten eigene, geschützte Frequenzteilbereiche auszuweisen. Jeder Funkamateur hat sich daher verbindlich an die IARU-Bandpläne zu halten."}
+    {
+      "correct":false,
+      "text":"IARU-Bandpläne haben den Sinn, für die einzelnen Sende- und Betriebsarten eigene, geschützte Frequenzteilbereiche auszuweisen. Jeder Funkamateur hat sich daher verbindlich an die IARU-Bandpläne zu halten."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"BBC202",
      "text":"<p>Dürfen Sie im Bereich 145,800 - 146,000 MHz lokalen Funkverkehr abwickeln?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, weil ich dann den Amateurfunkdienst über Satelliten stören würde, der in diesem Bereich arbeitet."}
+    {
+      "correct":true,
+      "text":"Nein, weil ich dann den Amateurfunkdienst über Satelliten stören würde, der in diesem Bereich arbeitet."
+    }
   ,
-    {"correct":false,"text":"Nein, weil ich dann die Amateurfunkbaken stören würde, die in diesem Bereich arbeiten."}
+    {
+      "correct":false,
+      "text":"Nein, weil ich dann die Amateurfunkbaken stören würde, die in diesem Bereich arbeiten."
+    }
   ,
-    {"correct":false,"text":"Ja, denn die beim lokalen Funkverkehr angewandten Sendeleistungen und Antennengewinne sind zu gering, um den in diesem Bereich angesiedelten Amateurfunkdienst über Satelliten zu stören."}
+    {
+      "correct":false,
+      "text":"Ja, denn die beim lokalen Funkverkehr angewandten Sendeleistungen und Antennengewinne sind zu gering, um den in diesem Bereich angesiedelten Amateurfunkdienst über Satelliten zu stören."
+    }
   ,
-    {"correct":false,"text":"Ja, ich darf in diesem Bereich immer arbeiten, wenn ich den dort ansässigen Amateurfunkverkehr nur gering störe."}
+    {
+      "correct":false,
+      "text":"Ja, ich darf in diesem Bereich immer arbeiten, wenn ich den dort ansässigen Amateurfunkverkehr nur gering störe."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"BBC203",
      "text":"<p>Auf welcher Frequenz würden Sie im 2-Meter-Band ein Telefonie QSO führen und zwar 1. in SSB und 2. in FM?</p>",
      "answer":[
-    {"correct":true,"text":"SSB: 144,250 MHz, FM: 145,450 MHz"}
+    {
+      "correct":true,
+      "text":"SSB: 144,250 MHz, FM: 145,450 MHz"
+    }
   ,
-    {"correct":false,"text":"SSB: 144,250 MHz, FM: 144,450 MHz"}
+    {
+      "correct":false,
+      "text":"SSB: 144,250 MHz, FM: 144,450 MHz"
+    }
   ,
-    {"correct":false,"text":"SSB: 144,300 MHz, FM: 145,050 MHz"}
+    {
+      "correct":false,
+      "text":"SSB: 144,300 MHz, FM: 145,050 MHz"
+    }
   ,
-    {"correct":false,"text":"SSB: 145,250 MHz, FM: 144,350 MHz"}
+    {
+      "correct":false,
+      "text":"SSB: 145,250 MHz, FM: 144,350 MHz"
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"BBC204",
      "text":"<p>Sie rufen auf der Frequenz 144,300 MHz CQ und erhalten einen Anruf. Was tun Sie als nächstes?</p>",
      "answer":[
-    {"correct":true,"text":"Ich schlage der anrufenden Station QSY vor, warte auf die Bestätigung und wechsle die Frequenz."}
+    {
+      "correct":true,
+      "text":"Ich schlage der anrufenden Station QSY vor, warte auf die Bestätigung und wechsle die Frequenz."
+    }
   ,
-    {"correct":false,"text":"Ich gebe zunächst einen Rapport und den Standortkenner durch."}
+    {
+      "correct":false,
+      "text":"Ich gebe zunächst einen Rapport und den Standortkenner durch."
+    }
   ,
-    {"correct":false,"text":"Ich gebe zunächst die wichtigsten QSO-Daten durch. Wenn ein längeres Gespräch geführt werden soll, schlage ich Frequenzwechsel vor."}
+    {
+      "correct":false,
+      "text":"Ich gebe zunächst die wichtigsten QSO-Daten durch. Wenn ein längeres Gespräch geführt werden soll, schlage ich Frequenzwechsel vor."
+    }
   ,
-    {"correct":false,"text":"Ich frage die Gegenstation, ob sie eine andere Station auf der Frequenz hört. Wenn nicht, tauschen wir auf dieser Frequenz die Daten aus."}
+    {
+      "correct":false,
+      "text":"Ich frage die Gegenstation, ob sie eine andere Station auf der Frequenz hört. Wenn nicht, tauschen wir auf dieser Frequenz die Daten aus."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"BBC205",
      "text":"<p>Welches ist die internationale Anruffrequenz für SSB im 2-m-Band?</p>",
      "answer":[
-    {"correct":true,"text":"144,300 MHz"}
+    {
+      "correct":true,
+      "text":"144,300 MHz"
+    }
   ,
-    {"correct":false,"text":"144,000 MHz"}
+    {
+      "correct":false,
+      "text":"144,000 MHz"
+    }
   ,
-    {"correct":false,"text":"144,500 MHz"}
+    {
+      "correct":false,
+      "text":"144,500 MHz"
+    }
   ,
-    {"correct":false,"text":"145,300 MHz"}
+    {
+      "correct":false,
+      "text":"145,300 MHz"
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"BBC206",
      "text":"<p>Sie hören eine französische Station auf 10,143 MHz in SSB CQ rufen. Dürfen Sie in SSB antworten?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, denn im 30-m-Band ist für deutsche Stationen nur eine Bandbreite bis 800 Hz erlaubt."}
+    {
+      "correct":true,
+      "text":"Nein, denn im 30-m-Band ist für deutsche Stationen nur eine Bandbreite bis 800 Hz erlaubt."
+    }
   ,
-    {"correct":false,"text":"Ja, denn wenn dort eine Station in SSB ruft, wird SSB auch für deutsche Stationen erlaubt sein."}
+    {
+      "correct":false,
+      "text":"Ja, denn wenn dort eine Station in SSB ruft, wird SSB auch für deutsche Stationen erlaubt sein."
+    }
   ,
-    {"correct":false,"text":"Ja, denn in diesem Bandsektor ist SSB grundsätzlich erlaubt."}
+    {
+      "correct":false,
+      "text":"Ja, denn in diesem Bandsektor ist SSB grundsätzlich erlaubt."
+    }
   ,
-    {"correct":false,"text":"Nein, der SSB-Bereich ist von 10,100 bis 10,125 MHz."}
+    {
+      "correct":false,
+      "text":"Nein, der SSB-Bereich ist von 10,100 bis 10,125 MHz."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"BBC207",
      "text":"<p>Sie möchten im 2-m-Band ein SSB-QSO führen. Wie verhalten Sie sich?</p>",
      "answer":[
-    {"correct":true,"text":"Ich suche eine freie Frequenz in dem nach den IARU-Bandplänen für SSB empfohlenen Frequenzbereich im 2-m-Band und rufe \"CQ\"."}
+    {
+      "correct":true,
+      "text":"Ich suche eine freie Frequenz in dem nach den IARU-Bandplänen für SSB empfohlenen Frequenzbereich im 2-m-Band und rufe \"CQ\"."
+    }
   ,
-    {"correct":false,"text":"Ich suche eine freie Frequenz irgendwo im 2-m-Band und rufe \"CQ\"."}
+    {
+      "correct":false,
+      "text":"Ich suche eine freie Frequenz irgendwo im 2-m-Band und rufe \"CQ\"."
+    }
   ,
-    {"correct":false,"text":"Ich suche eine freie Frequenz im FM-Simplex-Bereich und rufe \"CQ\"."}
+    {
+      "correct":false,
+      "text":"Ich suche eine freie Frequenz im FM-Simplex-Bereich und rufe \"CQ\"."
+    }
   ,
-    {"correct":false,"text":"Ich suche eine freie Frequenz unterhalb von 144,150 MHz und rufe \"CQ\"."}
+    {
+      "correct":false,
+      "text":"Ich suche eine freie Frequenz unterhalb von 144,150 MHz und rufe \"CQ\"."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"BBC208",
      "text":"<p>Ist die Annahme richtig, dass man in den Satellitenbereichen z.B. des 2-m- oder 70-cm-Bandes mit einem Handfunkgerät lokalen Funkverkehr in F3E (FM) abwickeln kann, weil die Reichweite zu gering ist, einen Satelliten zu stören?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, weil besonders die niedrig fliegenden Amateurfunksatelliten wegen der hindernisfreien direkten \"Sichtverbindung\" sehr stark gestört würden."}
+    {
+      "correct":true,
+      "text":"Nein, weil besonders die niedrig fliegenden Amateurfunksatelliten wegen der hindernisfreien direkten \"Sichtverbindung\" sehr stark gestört würden."
+    }
   ,
-    {"correct":false,"text":"Ja, weil Amateurfunksatelliten dadurch nicht gestört werden."}
+    {
+      "correct":false,
+      "text":"Ja, weil Amateurfunksatelliten dadurch nicht gestört werden."
+    }
   ,
-    {"correct":false,"text":"Ja, weil Amateurfunksatelliten in anderen als den benutzten Frequenzbereichen arbeiten und deshalb trotz der direkten \"Sichtverbindung\" nicht gestört werden."}
+    {
+      "correct":false,
+      "text":"Ja, weil Amateurfunksatelliten in anderen als den benutzten Frequenzbereichen arbeiten und deshalb trotz der direkten \"Sichtverbindung\" nicht gestört werden."
+    }
   ,
-    {"correct":false,"text":"Nein, weil besonders niedrig fliegende Amateurfunksatelliten wegen der hindernisfreien direkten \"Sichtverbindung\" zu Ihnen sehr stark stören könnten."}
+    {
+      "correct":false,
+      "text":"Nein, weil besonders niedrig fliegende Amateurfunksatelliten wegen der hindernisfreien direkten \"Sichtverbindung\" zu Ihnen sehr stark stören könnten."
+    }
   ]
     }
   ,
@@ -396,13 +708,25 @@
      "id":"BBC209",
      "text":"<p>Welches Seitenband wird bei SSB-Betrieb im 80-m-Band in der Regel benutzt?</p>",
      "answer":[
-    {"correct":true,"text":"In der Regel wird im 80-m-Band das untere Seitenband benutzt."}
+    {
+      "correct":true,
+      "text":"In der Regel wird im 80-m-Band das untere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt."}
+    {
+      "correct":false,
+      "text":"Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"Um den Nachteil der relativ niedrigen Sendefrequenz des 80-m-Bandes auszugleichen, wird das obere Seitenband benutzt."}
+    {
+      "correct":false,
+      "text":"Um den Nachteil der relativ niedrigen Sendefrequenz des 80-m-Bandes auszugleichen, wird das obere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"In der unteren Bandhälfte (d. h. zwischen 3500 und 3650 kHz) das untere Seitenband, in der oberen Bandhälfte (d. h. zwischen 3650 und 3800 kHz) das obere Seitenband."}
+    {
+      "correct":false,
+      "text":"In der unteren Bandhälfte (d. h. zwischen 3500 und 3650 kHz) das untere Seitenband, in der oberen Bandhälfte (d. h. zwischen 3650 und 3800 kHz) das obere Seitenband."
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"BBC210",
      "text":"<p>Welches Seitenband wird bei SSB-Betrieb im 20-m-Band in der Regel benutzt?</p>",
      "answer":[
-    {"correct":true,"text":"In der Regel wird im 20-m-Band das obere Seitenband benutzt."}
+    {
+      "correct":true,
+      "text":"In der Regel wird im 20-m-Band das obere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt."}
+    {
+      "correct":false,
+      "text":"Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"Um den Nachteil der relativ niedrigen Sendefrequenz des 20-m-Bandes auszugleichen, wird das untere Seitenband benutzt."}
+    {
+      "correct":false,
+      "text":"Um den Nachteil der relativ niedrigen Sendefrequenz des 20-m-Bandes auszugleichen, wird das untere Seitenband benutzt."
+    }
   ,
-    {"correct":false,"text":"In der unteren Bandhälfte das untere Seitenband, in der oberen Bandhälfte das obere Seitenband."}
+    {
+      "correct":false,
+      "text":"In der unteren Bandhälfte das untere Seitenband, in der oberen Bandhälfte das obere Seitenband."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"BBC211",
      "text":"<p>Welche nachstehend aufgeführten Frequenzbereiche des 80-m- und des 15-m-Bandes sollen auf Empfehlung der Internationalen Amateur Radio Union bevorzugt nur für Morsetelegrafie genutzt werden?</p>",
      "answer":[
-    {"correct":true,"text":"3500-3580 kHz und 21000-21070 kHz"}
+    {
+      "correct":true,
+      "text":"3500-3580 kHz und 21000-21070 kHz"
+    }
   ,
-    {"correct":false,"text":"3500-3600 kHz und 21000-21100 kHz"}
+    {
+      "correct":false,
+      "text":"3500-3600 kHz und 21000-21100 kHz"
+    }
   ,
-    {"correct":false,"text":"3580-3620 kHz und 21080-21120 kHz"}
+    {
+      "correct":false,
+      "text":"3580-3620 kHz und 21080-21120 kHz"
+    }
   ,
-    {"correct":false,"text":"3500-3540 kHz und 21000-21040 kHz"}
+    {
+      "correct":false,
+      "text":"3500-3540 kHz und 21000-21040 kHz"
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"BBC212",
      "text":"<p>Welcher Frequenzbereich soll im 20-m-Band auf Empfehlung der Internationalen Amateur Radio Union bevorzugt für SSB genutzt werden?</p>",
      "answer":[
-    {"correct":true,"text":"14112-14350 kHz"}
+    {
+      "correct":true,
+      "text":"14112-14350 kHz"
+    }
   ,
-    {"correct":false,"text":"14000-14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000-14350 kHz"
+    }
   ,
-    {"correct":false,"text":"14030-14150 kHz"}
+    {
+      "correct":false,
+      "text":"14030-14150 kHz"
+    }
   ,
-    {"correct":false,"text":"14100-14300 kHz"}
+    {
+      "correct":false,
+      "text":"14100-14300 kHz"
+    }
   ]
     }
   ,
@@ -456,13 +816,25 @@
      "id":"BBC213",
      "text":"<p>Wie gehen Sie vor, wenn Sie auf Kurzwelle Funkbetrieb in einer neuen digitalen Betriebsart machen wollen?</p>",
      "answer":[
-    {"correct":true,"text":"Ich schaue im aktuellen HF-Bandplan der IARU nach, in welchen Frequenzbereichen bevorzugt Funkverkehr in digitalen Betriebsarten stattfinden soll."}
+    {
+      "correct":true,
+      "text":"Ich schaue im aktuellen HF-Bandplan der IARU nach, in welchen Frequenzbereichen bevorzugt Funkverkehr in digitalen Betriebsarten stattfinden soll."
+    }
   ,
-    {"correct":false,"text":"Ich verabrede mich mit meinem Funkpartner auf einer beliebigen freien Frequenz."}
+    {
+      "correct":false,
+      "text":"Ich verabrede mich mit meinem Funkpartner auf einer beliebigen freien Frequenz."
+    }
   ,
-    {"correct":false,"text":"Ich verwende eine Frequenz jeweils in den ersten 30 kHz vom Bandanfang."}
+    {
+      "correct":false,
+      "text":"Ich verwende eine Frequenz jeweils in den ersten 30 kHz vom Bandanfang."
+    }
   ,
-    {"correct":false,"text":"Ich sende auf den Frequenzen, die für das internationale Bakenprojekt (IBP) reserviert sind."}
+    {
+      "correct":false,
+      "text":"Ich sende auf den Frequenzen, die für das internationale Bakenprojekt (IBP) reserviert sind."
+    }
   ]
     }
   ,
@@ -471,13 +843,25 @@
      "id":"BBC214",
      "text":"<p>Aus welchem Grund sollten Sie in der Dunkelheit und im Winter auch tagsüber im Bereich von 3500-3510 kHz keine innerdeutschen oder innereuropäischen Telegrafie-QSOs durchführen?</p>",
      "answer":[
-    {"correct":true,"text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich als \"CW DX\" ausgewiesen und sollte für interkontinentale Verbindungen freigehalten werden."}
+    {
+      "correct":true,
+      "text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich als \"CW DX\" ausgewiesen und sollte für interkontinentale Verbindungen freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Gemäß Frequenzbereichszuweisungsplan ist dieser Bereich auch kommerziellen Stationen zugewiesen und muss nachts und im Winter freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Gemäß Frequenzbereichszuweisungsplan ist dieser Bereich auch kommerziellen Stationen zugewiesen und muss nachts und im Winter freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich für Digimode-Betriebsarten ausgewiesen und sollte von CW-Stationen nicht benutzt werden."}
+    {
+      "correct":false,
+      "text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich für Digimode-Betriebsarten ausgewiesen und sollte von CW-Stationen nicht benutzt werden."
+    }
   ,
-    {"correct":false,"text":"Weil dieser Bereich im Ausland auch für Rundfunkstationen ausgewiesen ist und daher nachts und im Winter durch den Amateurfunkdienst nicht genutzt werden darf."}
+    {
+      "correct":false,
+      "text":"Weil dieser Bereich im Ausland auch für Rundfunkstationen ausgewiesen ist und daher nachts und im Winter durch den Amateurfunkdienst nicht genutzt werden darf."
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"BBC215",
      "text":"<p>Aus welchem Grund sollten Sie in der Dunkelheit und im Winter auch tagsüber im Bereich von 3775-3800 kHz keine innerdeutschen oder innereuropäischen SSB-QSOs durchführen?</p>",
      "answer":[
-    {"correct":true,"text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich als \"Fonie-DX\" ausgewiesen und sollte für DX-Verbindungen freigehalten werden."}
+    {
+      "correct":true,
+      "text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich als \"Fonie-DX\" ausgewiesen und sollte für DX-Verbindungen freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Gemäß Frequenzbereichszuweisungsplan ist dieser Bereich auch kommerziellen Stationen zugewiesen und muss nachts und im Winter freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Gemäß Frequenzbereichszuweisungsplan ist dieser Bereich auch kommerziellen Stationen zugewiesen und muss nachts und im Winter freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich für Digimode-Betriebsarten ausgewiesen und sollte von SSB-Stationen nicht benutzt werden."}
+    {
+      "correct":false,
+      "text":"Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich für Digimode-Betriebsarten ausgewiesen und sollte von SSB-Stationen nicht benutzt werden."
+    }
   ,
-    {"correct":false,"text":"Weil dieser Bereich im Ausland auch für Rundfunkstationen ausgewiesen ist und daher nachts und im Winter durch den Amateurfunkdienst nicht genutzt werden darf."}
+    {
+      "correct":false,
+      "text":"Weil dieser Bereich im Ausland auch für Rundfunkstationen ausgewiesen ist und daher nachts und im Winter durch den Amateurfunkdienst nicht genutzt werden darf."
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"BBC217",
      "text":"<p>Welche Bereiche des 15-m-, des 20-m- und des 80-m-Bandes stehen nach den Empfehlungen der International Amateur Radio Union ausschließlich für die Betriebsart Telegrafie zur Verfügung?</p>",
      "answer":[
-    {"correct":true,"text":"21000-21070 kHz, 14000-14070 kHz und 3500-3580 kHz"}
+    {
+      "correct":true,
+      "text":"21000-21070 kHz, 14000-14070 kHz und 3500-3580 kHz"
+    }
   ,
-    {"correct":false,"text":"21000-21050 kHz, 14000-14080 kHz und 3500-3560 kHz"}
+    {
+      "correct":false,
+      "text":"21000-21050 kHz, 14000-14080 kHz und 3500-3560 kHz"
+    }
   ,
-    {"correct":false,"text":"21000-21200 kHz, 14000-14100 kHz und 3500-3600 kHz"}
+    {
+      "correct":false,
+      "text":"21000-21200 kHz, 14000-14100 kHz und 3500-3600 kHz"
+    }
   ,
-    {"correct":false,"text":"21000-21100 kHz, 14000-14050 kHz und 3500-3620 kHz"}
+    {
+      "correct":false,
+      "text":"21000-21100 kHz, 14000-14050 kHz und 3500-3620 kHz"
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"BBC218",
      "text":"<p>In welchen Bereichen des 2-m- und 70-cm-Bandes arbeiten Amateurfunksatelliten?</p>",
      "answer":[
-    {"correct":true,"text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"}
+    {
+      "correct":true,
+      "text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"
+    }
   ,
-    {"correct":false,"text":"Im 2-m-Band auf 145,300-146,500 MHz, im 70-cm-Band auf 438,000-440,000 MHz"}
+    {
+      "correct":false,
+      "text":"Im 2-m-Band auf 145,300-146,500 MHz, im 70-cm-Band auf 438,000-440,000 MHz"
+    }
   ,
-    {"correct":false,"text":"Im 2-m-Band auf 144,800-145,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"}
+    {
+      "correct":false,
+      "text":"Im 2-m-Band auf 144,800-145,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz"
+    }
   ,
-    {"correct":false,"text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 433,000-435,000 MHz"}
+    {
+      "correct":false,
+      "text":"Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 433,000-435,000 MHz"
+    }
   ]
     }
   ,
@@ -531,13 +951,25 @@
      "id":"VVA405",
      "text":"<p>Was enthält der \"Internationale Frequenzbereichszuweisungsplan\"?</p>",
      "answer":[
-    {"correct":true,"text":"Er enthält die Frequenzbereichszuweisungen für alle Funkdienste in den verschiedenen Funkregionen der Erde."}
+    {
+      "correct":true,
+      "text":"Er enthält die Frequenzbereichszuweisungen für alle Funkdienste in den verschiedenen Funkregionen der Erde."
+    }
   ,
-    {"correct":false,"text":"Er enthält nur die Frequenzbereichszuweisung für die kommerziellen Funkdienste in den verschiedenen Funkregionen der Erde."}
+    {
+      "correct":false,
+      "text":"Er enthält nur die Frequenzbereichszuweisung für die kommerziellen Funkdienste in den verschiedenen Funkregionen der Erde."
+    }
   ,
-    {"correct":false,"text":"Er enthält nur die Frequenzbereichszuweisung für die Amateurfunk-Funkdienste in den verschiedenen Funkregionen der Erde."}
+    {
+      "correct":false,
+      "text":"Er enthält nur die Frequenzbereichszuweisung für die Amateurfunk-Funkdienste in den verschiedenen Funkregionen der Erde."
+    }
   ,
-    {"correct":false,"text":"Er enthält nur die Frequenzbereichszuweisung für die Rundfunkdienste in den verschiedenen Funkregionen der Erde."}
+    {
+      "correct":false,
+      "text":"Er enthält nur die Frequenzbereichszuweisung für die Rundfunkdienste in den verschiedenen Funkregionen der Erde."
+    }
   ]
     }
   ,
@@ -546,13 +978,25 @@
      "id":"VVA409",
      "text":"<p>Darf ein Funkamateur in Deutschland alle in den Radio Regulations (VO Funk) für den Amateurfunkdienst zugewiesenen Frequenzbereiche benutzen?</p>",
      "answer":[
-    {"correct":true,"text":"Nein. Die in Deutschland zulässigen Frequenzbereiche ergeben sich aus den nationalen Regelungen."}
+    {
+      "correct":true,
+      "text":"Nein. Die in Deutschland zulässigen Frequenzbereiche ergeben sich aus den nationalen Regelungen."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die internationalen Regelungen auch in Deutschland gelten."}
+    {
+      "correct":false,
+      "text":"Ja, weil die internationalen Regelungen auch in Deutschland gelten."
+    }
   ,
-    {"correct":false,"text":"Ja, wenn der Betrieb bei der Bundesnetzagentur vorher angemeldet wurde."}
+    {
+      "correct":false,
+      "text":"Ja, wenn der Betrieb bei der Bundesnetzagentur vorher angemeldet wurde."
+    }
   ,
-    {"correct":false,"text":"Nein, es dürfen nur Frequenzen genutzt werden, die durch die CEPT-Empfehlungen umgesetzt wurden."}
+    {
+      "correct":false,
+      "text":"Nein, es dürfen nur Frequenzen genutzt werden, die durch die CEPT-Empfehlungen umgesetzt wurden."
+    }
   ]
     }
   ,
@@ -561,13 +1005,25 @@
      "id":"VVD104",
      "text":"<p>Wo sind die Nutzungsbestimmungen, die maximal zulässigen Sender- bzw. Strahlungsleistungen und die erlaubten Frequenzbereiche für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten zu finden?</p>",
      "answer":[
-    {"correct":true,"text":"In der Anlage 1 der Amateurfunkverordnung (AFuV)."}
+    {
+      "correct":true,
+      "text":"In der Anlage 1 der Amateurfunkverordnung (AFuV)."
+    }
   ,
-    {"correct":false,"text":"Im Gesetz über den Amateurfunk (AFuG)."}
+    {
+      "correct":false,
+      "text":"Im Gesetz über den Amateurfunk (AFuG)."
+    }
   ,
-    {"correct":false,"text":"Im Telekommunikationsgesetz (TKG)."}
+    {
+      "correct":false,
+      "text":"Im Telekommunikationsgesetz (TKG)."
+    }
   ,
-    {"correct":false,"text":"In der Frequenzzuteilungsverordnung (Freq-ZutV)."}
+    {
+      "correct":false,
+      "text":"In der Frequenzzuteilungsverordnung (Freq-ZutV)."
+    }
   ]
     }
   ,
@@ -576,13 +1032,25 @@
      "id":"VVD105",
      "text":"<p>Welche der genannten Bestimmungen enthält Regelungen darüber, welche Frequenzbereiche der Inhaber einer Amateurfunkzulassung entsprechend seiner Zeugnisklasse benutzen darf?</p>",
      "answer":[
-    {"correct":true,"text":"Die Anlage 1 der Amateurfunkverordnung (AFuV)."}
+    {
+      "correct":true,
+      "text":"Die Anlage 1 der Amateurfunkverordnung (AFuV)."
+    }
   ,
-    {"correct":false,"text":"Der internationale Frequenzbereichszuweisungsplan in Artikel 5 der VO Funk."}
+    {
+      "correct":false,
+      "text":"Der internationale Frequenzbereichszuweisungsplan in Artikel 5 der VO Funk."
+    }
   ,
-    {"correct":false,"text":"Das Gesetz über den Amateurfunk (AFuG)."}
+    {
+      "correct":false,
+      "text":"Das Gesetz über den Amateurfunk (AFuG)."
+    }
   ,
-    {"correct":false,"text":"Die Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV)."}
+    {
+      "correct":false,
+      "text":"Die Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV)."
+    }
   ]
     }
   ,
@@ -591,13 +1059,25 @@
      "id":"VVE101",
      "text":"<p>Wo sind die ausführlichen Nutzungsbedingungen und die ausgewiesenen Frequenzbereiche für den Amateurfunkdienst in Deutschland zu finden?</p>",
      "answer":[
-    {"correct":true,"text":"In der Anlage 1 der Amateurfunkverordnung (AFuV)."}
+    {
+      "correct":true,
+      "text":"In der Anlage 1 der Amateurfunkverordnung (AFuV)."
+    }
   ,
-    {"correct":false,"text":"In Artikel 5 der VO Funk."}
+    {
+      "correct":false,
+      "text":"In Artikel 5 der VO Funk."
+    }
   ,
-    {"correct":false,"text":"Im Frequenznutzungsplan."}
+    {
+      "correct":false,
+      "text":"Im Frequenznutzungsplan."
+    }
   ,
-    {"correct":false,"text":"In der Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV)."}
+    {
+      "correct":false,
+      "text":"In der Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV)."
+    }
   ]
     }
   ,,
@@ -606,13 +1086,25 @@
      "id":"VVE103",
      "text":"<p>Darf ein Funkamateur in Deutschland alle in der VO Funk für den Amateurfunkdienst zugewiesenen Frequenzbereiche benutzen?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, es dürfen nur Frequenzen genutzt werden, die durch nationale Regelungen umgesetzt wurden."}
+    {
+      "correct":true,
+      "text":"Nein, es dürfen nur Frequenzen genutzt werden, die durch nationale Regelungen umgesetzt wurden."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die internationalen Regelungen der VO Funk auch in Deutschland gelten."}
+    {
+      "correct":false,
+      "text":"Ja, weil die internationalen Regelungen der VO Funk auch in Deutschland gelten."
+    }
   ,
-    {"correct":false,"text":"Ja, wenn der Betrieb bei der Bundesnetzagentur vorher angemeldet wurde."}
+    {
+      "correct":false,
+      "text":"Ja, wenn der Betrieb bei der Bundesnetzagentur vorher angemeldet wurde."
+    }
   ,
-    {"correct":false,"text":"Nein. Die in Deutschland zulässigen Frequenzbereiche ergeben sich aus der Frequenznutzungsplanaufstellungsverordnung."}
+    {
+      "correct":false,
+      "text":"Nein. Die in Deutschland zulässigen Frequenzbereiche ergeben sich aus der Frequenznutzungsplanaufstellungsverordnung."
+    }
   ]
     }
   ,
@@ -621,13 +1113,25 @@
      "id":"VVE118",
      "text":"<p>Welche Antwort enthält nur Frequenzbereiche, die auch von Rufzeicheninhabern der Klasse E genutzt werden dürfen?</p>",
      "answer":[
-    {"correct":true,"text":"144 - 146 MHz, 430 - 440 MHz und 10 - 10,5 GHz"}
+    {
+      "correct":true,
+      "text":"144 - 146 MHz, 430 - 440 MHz und 10 - 10,5 GHz"
+    }
   ,
-    {"correct":false,"text":"144 - 146 MHz, 430 - 440 MHz und 1240 - 1300 MHz"}
+    {
+      "correct":false,
+      "text":"144 - 146 MHz, 430 - 440 MHz und 1240 - 1300 MHz"
+    }
   ,
-    {"correct":false,"text":"Alle Amateurfunkfrequenzbereiche oberhalb 144 MHz"}
+    {
+      "correct":false,
+      "text":"Alle Amateurfunkfrequenzbereiche oberhalb 144 MHz"
+    }
   ,
-    {"correct":false,"text":"1810 - 2000 kHz, 3500 - 3800 kHz und alle Amateurfunkfrequenzbereiche oberhalb 28 MHz"}
+    {
+      "correct":false,
+      "text":"1810 - 2000 kHz, 3500 - 3800 kHz und alle Amateurfunkfrequenzbereiche oberhalb 28 MHz"
+    }
   ]
     }
   ,
@@ -636,13 +1140,25 @@
      "id":"VVE119",
      "text":"<p>Welche Antwort enthält nur Frequenzbereiche, die auch von Rufzeicheninhabern der Klasse E genutzt werden dürfen?</p>",
      "answer":[
-    {"correct":true,"text":"1810 - 2000 kHz, 3500 - 3800 kHz, 21000 - 21450 kHz und 28000 - 29700 kHz"}
+    {
+      "correct":true,
+      "text":"1810 - 2000 kHz, 3500 - 3800 kHz, 21000 - 21450 kHz und 28000 - 29700 kHz"
+    }
   ,
-    {"correct":false,"text":"135,7 - 137,8 kHz, 1810 - 2000 kHz, 7000 - 7200 kHz und 21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"135,7 - 137,8 kHz, 1810 - 2000 kHz, 7000 - 7200 kHz und 21000 - 21450 kHz"
+    }
   ,
-    {"correct":false,"text":"1815 - 1835 kHz, 10100 - 10150 kHz, 14000 - 14350 kHz und 21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"1815 - 1835 kHz, 10100 - 10150 kHz, 14000 - 14350 kHz und 21000 - 21450 kHz"
+    }
   ,
-    {"correct":false,"text":"1850 - 1890 kHz, 7000 - 7200 kHz, 18068 - 18168 kHz und 24890 - 24990 kHz"}
+    {
+      "correct":false,
+      "text":"1850 - 1890 kHz, 7000 - 7200 kHz, 18068 - 18168 kHz und 24890 - 24990 kHz"
+    }
   ]
     }
   ,
@@ -651,13 +1167,25 @@
      "id":"VVE142",
      "text":"<p>In welchen Amateurfunkfrequenzbereichen beträgt die maximal zulässige belegte Bandbreite einer Aussendung 800 Hz?</p>",
      "answer":[
-    {"correct":true,"text":"135,7 - 137,8 kHz und 10100 - 10150 kHz"}
+    {
+      "correct":true,
+      "text":"135,7 - 137,8 kHz und 10100 - 10150 kHz"
+    }
   ,
-    {"correct":false,"text":"1810 - 2000 kHz und 3500 - 3800 kHz"}
+    {
+      "correct":false,
+      "text":"1810 - 2000 kHz und 3500 - 3800 kHz"
+    }
   ,
-    {"correct":false,"text":"7000 - 7100 kHz und 14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"7000 - 7100 kHz und 14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"18068 - 18168 kHz und 24890 - 24990 kHz"}
+    {
+      "correct":false,
+      "text":"18068 - 18168 kHz und 24890 - 24990 kHz"
+    }
   ]
     }
   ,
@@ -666,13 +1194,25 @@
      "id":"VVE143",
      "text":"<p>In welchen Amateurfunkfrequenzbereichen beträgt die maximal zulässige belegte Bandbreite einer Aussendung 2,7 kHz?</p>",
      "answer":[
-    {"correct":true,"text":"1810 - 2000 kHz und 3500 - 3800 kHz"}
+    {
+      "correct":true,
+      "text":"1810 - 2000 kHz und 3500 - 3800 kHz"
+    }
   ,
-    {"correct":false,"text":"10100 - 10150 kHz und 18068 - 18168 kHz"}
+    {
+      "correct":false,
+      "text":"10100 - 10150 kHz und 18068 - 18168 kHz"
+    }
   ,
-    {"correct":false,"text":"135,7 - 137,8 kHz und 1810 - 1850 kHz"}
+    {
+      "correct":false,
+      "text":"135,7 - 137,8 kHz und 1810 - 1850 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz und 28000 - 29700 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz und 28000 - 29700 kHz"
+    }
   ]
     }
   ,
@@ -681,13 +1221,25 @@
      "id":"VVE144",
      "text":"<p>In welchen Amateurfunkfrequenzbereichen beträgt die maximal zulässige belegte Bandbreite einer Aussendung 2,7 kHz?</p>",
      "answer":[
-    {"correct":true,"text":"7000 - 7200 kHz und 14000 - 14350 kHz"}
+    {
+      "correct":true,
+      "text":"7000 - 7200 kHz und 14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"10100 - 10150 kHz und 18068 - 18168 kHz"}
+    {
+      "correct":false,
+      "text":"10100 - 10150 kHz und 18068 - 18168 kHz"
+    }
   ,
-    {"correct":false,"text":"135,7 - 137,8 kHz und 1810 - 1850 kHz"}
+    {
+      "correct":false,
+      "text":"135,7 - 137,8 kHz und 1810 - 1850 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz und 28000 - 29700 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz und 28000 - 29700 kHz"
+    }
   ]
     }
   ,
@@ -696,13 +1248,25 @@
      "id":"VVE145",
      "text":"<p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 7 kHz?</p>",
      "answer":[
-    {"correct":true,"text":"28000 - 29700 kHz"}
+    {
+      "correct":true,
+      "text":"28000 - 29700 kHz"
+    }
   ,
-    {"correct":false,"text":"14000 - 14350 kHz"}
+    {
+      "correct":false,
+      "text":"14000 - 14350 kHz"
+    }
   ,
-    {"correct":false,"text":"21000 - 21450 kHz"}
+    {
+      "correct":false,
+      "text":"21000 - 21450 kHz"
+    }
   ,
-    {"correct":false,"text":"10100 - 10150 kHz"}
+    {
+      "correct":false,
+      "text":"10100 - 10150 kHz"
+    }
   ]
     }
   ,
@@ -711,13 +1275,25 @@
      "id":"VVE146",
      "text":"<p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 40 kHz?</p>",
      "answer":[
-    {"correct":true,"text":"144 - 146 MHz"}
+    {
+      "correct":true,
+      "text":"144 - 146 MHz"
+    }
   ,
-    {"correct":false,"text":"430 - 440 MHz"}
+    {
+      "correct":false,
+      "text":"430 - 440 MHz"
+    }
   ,
-    {"correct":false,"text":"1240 - 1300 MHz"}
+    {
+      "correct":false,
+      "text":"1240 - 1300 MHz"
+    }
   ,
-    {"correct":false,"text":"28,0 - 29,7 MHz"}
+    {
+      "correct":false,
+      "text":"28,0 - 29,7 MHz"
+    }
   ]
     }
   ,
@@ -726,13 +1302,25 @@
      "id":"VVE147",
      "text":"<p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 2 MHz bzw. für amplitudenmodulierte Fernsehaussendungen 7 MHz?</p>",
      "answer":[
-    {"correct":true,"text":"430 - 440 MHz"}
+    {
+      "correct":true,
+      "text":"430 - 440 MHz"
+    }
   ,
-    {"correct":false,"text":"2320 - 2450 MHz"}
+    {
+      "correct":false,
+      "text":"2320 - 2450 MHz"
+    }
   ,
-    {"correct":false,"text":"3400 - 3475 MHz"}
+    {
+      "correct":false,
+      "text":"3400 - 3475 MHz"
+    }
   ,
-    {"correct":false,"text":"10,0 - 10,5 GHz"}
+    {
+      "correct":false,
+      "text":"10,0 - 10,5 GHz"
+    }
   ]
     }
   ,
@@ -741,13 +1329,25 @@
      "id":"VVE149",
      "text":"<p>Welche Aussage ist richtig?</p>",
      "answer":[
-    {"correct":true,"text":"Der Sekundärfunkdienst hat im Störungsfall gegenüber einem Primärfunkdienst eingeschränkte Nutzungsrechte."}
+    {
+      "correct":true,
+      "text":"Der Sekundärfunkdienst hat im Störungsfall gegenüber einem Primärfunkdienst eingeschränkte Nutzungsrechte."
+    }
   ,
-    {"correct":false,"text":"Eine Funkstelle des Sekundärfunkdienstes muss vor Betriebsaufnahme durch eine Selbsterklärung die Störsicherheit erklären."}
+    {
+      "correct":false,
+      "text":"Eine Funkstelle des Sekundärfunkdienstes muss vor Betriebsaufnahme durch eine Selbsterklärung die Störsicherheit erklären."
+    }
   ,
-    {"correct":false,"text":"Bei einem Sekundärfunkdienst handelt es sich um eine nicht kommerzielle Funknutzung."}
+    {
+      "correct":false,
+      "text":"Bei einem Sekundärfunkdienst handelt es sich um eine nicht kommerzielle Funknutzung."
+    }
   ,
-    {"correct":false,"text":"Der Sekundärfunkdienst hat Vorrang, wenn er zuerst auf Sendung war."}
+    {
+      "correct":false,
+      "text":"Der Sekundärfunkdienst hat Vorrang, wenn er zuerst auf Sendung war."
+    }
   ]
     }
   ,
@@ -756,13 +1356,25 @@
      "id":"VVE151",
      "text":"<p>Was besagt der Hinweis, dass der Frequenzbereich 433,05 - 434,79 MHz als ISM-Frequenzbereich zugewiesen ist?</p>",
      "answer":[
-    {"correct":true,"text":"Dieser Frequenzbereich wird für industrielle, wissenschaftliche, medizinische, häusliche oder ähnliche Anwendungen mitbenutzt."}
+    {
+      "correct":true,
+      "text":"Dieser Frequenzbereich wird für industrielle, wissenschaftliche, medizinische, häusliche oder ähnliche Anwendungen mitbenutzt."
+    }
   ,
-    {"correct":false,"text":"Dieser Frequenzbereich wird für internationale Satellitenmessungen verwendet; hierdurch kann es zu Störungen im normalen Funkverkehr kommen."}
+    {
+      "correct":false,
+      "text":"Dieser Frequenzbereich wird für internationale Satellitenmessungen verwendet; hierdurch kann es zu Störungen im normalen Funkverkehr kommen."
+    }
   ,
-    {"correct":false,"text":"Dieser Frequenzbereich wird für industrielle Sender in Maschinen benutzt und ist für den Amateurfunkverkehr nur auf sekundärer Basis zugelassen."}
+    {
+      "correct":false,
+      "text":"Dieser Frequenzbereich wird für industrielle Sender in Maschinen benutzt und ist für den Amateurfunkverkehr nur auf sekundärer Basis zugelassen."
+    }
   ,
-    {"correct":false,"text":"Dieser Frequenzbereich wird von ISM-Geräten genutzt. Die Sendeleistungen im Amateurfunkdienst sind in diesem Frequenzbereich zu reduzieren."}
+    {
+      "correct":false,
+      "text":"Dieser Frequenzbereich wird von ISM-Geräten genutzt. Die Sendeleistungen im Amateurfunkdienst sind in diesem Frequenzbereich zu reduzieren."
+    }
   ]
     }
   ,
@@ -771,13 +1383,25 @@
      "id":"VVE152",
      "text":"<p>Darf ein Funkamateur mit seinem Amateurfunkgerät Funkverkehr im CB-Funk-Bereich durchführen?</p>",
      "answer":[
-    {"correct":true,"text":"Nein. CB-Funkverkehr darf nur mit speziell für diesen Frequenzbereich hergestellten Geräten durchgeführt werden, für die eine Konformitätsbewertung oder Zulassung vorliegt."}
+    {
+      "correct":true,
+      "text":"Nein. CB-Funkverkehr darf nur mit speziell für diesen Frequenzbereich hergestellten Geräten durchgeführt werden, für die eine Konformitätsbewertung oder Zulassung vorliegt."
+    }
   ,
-    {"correct":false,"text":"Ja. Der Funkamateur ist auf Grund seines technischen Wissens in der Lage, das Amateurfunkgerät so einzustellen, dass die technischen Vorschriften für CB-Funkgeräte eingehalten werden."}
+    {
+      "correct":false,
+      "text":"Ja. Der Funkamateur ist auf Grund seines technischen Wissens in der Lage, das Amateurfunkgerät so einzustellen, dass die technischen Vorschriften für CB-Funkgeräte eingehalten werden."
+    }
   ,
-    {"correct":false,"text":"Nur dann, wenn er außer dem Amateurfunkrufzeichen auch eine Genehmigung zum Betrieb von CB-Funkgeräten besitzt."}
+    {
+      "correct":false,
+      "text":"Nur dann, wenn er außer dem Amateurfunkrufzeichen auch eine Genehmigung zum Betrieb von CB-Funkgeräten besitzt."
+    }
   ,
-    {"correct":false,"text":"Ja, aber nur, wenn er unter Benutzung seines Amateurfunkrufzeichens die Sendeleistung auf 4 Watt begrenzt."}
+    {
+      "correct":false,
+      "text":"Ja, aber nur, wenn er unter Benutzung seines Amateurfunkrufzeichens die Sendeleistung auf 4 Watt begrenzt."
+    }
   ]
     }
   

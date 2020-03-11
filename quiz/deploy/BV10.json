@@ -6,13 +6,25 @@
      "id":"BBB110",
      "text":"<p>Wie gestalten Sie als DO1LEN einen allgemeinen Anruf in Telegrafie?</p>",
      "answer":[
-    {"correct":true,"text":"CQ CQ CQ DE DO1LEN DO1LEN DO1LEN"}
+    {
+      "correct":true,
+      "text":"CQ CQ CQ DE DO1LEN DO1LEN DO1LEN"
+    }
   ,
-    {"correct":false,"text":"CQ CQ CQ CQ CQ CQ DE DO1LEN"}
+    {
+      "correct":false,
+      "text":"CQ CQ CQ CQ CQ CQ DE DO1LEN"
+    }
   ,
-    {"correct":false,"text":"QRZ QRZ QRZ DE DO1LEN DO1LEN DO1LEN"}
+    {
+      "correct":false,
+      "text":"QRZ QRZ QRZ DE DO1LEN DO1LEN DO1LEN"
+    }
   ,
-    {"correct":false,"text":"CQ QRZ CQ QRZ DE DO1LEN DO1LEN DO1LEN"}
+    {
+      "correct":false,
+      "text":"CQ QRZ CQ QRZ DE DO1LEN DO1LEN DO1LEN"
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBE101",
      "text":"<p>Wie würden Sie antworten, wenn jemand \"CQ\" ruft?</p>",
      "answer":[
-    {"correct":true,"text":"Ich nenne das Rufzeichen der rufenden Station einmal, anschließend sage ich einmal: \"Hier ist {eigenes Rufzeichen buchstabieren}, bitte kommen\"."}
+    {
+      "correct":true,
+      "text":"Ich nenne das Rufzeichen der rufenden Station einmal, anschließend sage ich einmal: \"Hier ist {eigenes Rufzeichen buchstabieren}, bitte kommen\"."
+    }
   ,
-    {"correct":false,"text":"Ich nenne das Rufzeichen der rufenden Station mindestens fünfmal und anschließend sage ich mindestens einmal \"Hier ist {eigenes Rufzeichen}\"."}
+    {
+      "correct":false,
+      "text":"Ich nenne das Rufzeichen der rufenden Station mindestens fünfmal und anschließend sage ich mindestens einmal \"Hier ist {eigenes Rufzeichen}\"."
+    }
   ,
-    {"correct":false,"text":"Ich rufe ebenfalls CQ und nenne das Rufzeichen der rufenden Station mindestens dreimal, anschließend sage ich mindestens fünfmal \"Hier ist {eigenes Rufzeichen buchstabieren}\"."}
+    {
+      "correct":false,
+      "text":"Ich rufe ebenfalls CQ und nenne das Rufzeichen der rufenden Station mindestens dreimal, anschließend sage ich mindestens fünfmal \"Hier ist {eigenes Rufzeichen buchstabieren}\"."
+    }
   ,
-    {"correct":false,"text":"Ich nenne mein Rufzeichen und fordere die rufende Station auf, auf einer anderen Frequenz weiter zu rufen {mindestens zweimal}."}
+    {
+      "correct":false,
+      "text":"Ich nenne mein Rufzeichen und fordere die rufende Station auf, auf einer anderen Frequenz weiter zu rufen {mindestens zweimal}."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBE103",
      "text":"<p>Auf welche Arten können Sie eine Amateurfunkverbindung zum Beispiel beginnen?</p>",
      "answer":[
-    {"correct":true,"text":"Durch Benutzen der internationalen Betriebsabkürzung \"CQ\", bzw. mit einem allgemeinen Anruf; mit einem gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen allgemeinen Anruf, jeweils mit Nennung des eigenen Rufzeichens."}
+    {
+      "correct":true,
+      "text":"Durch Benutzen der internationalen Betriebsabkürzung \"CQ\", bzw. mit einem allgemeinen Anruf; mit einem gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen allgemeinen Anruf, jeweils mit Nennung des eigenen Rufzeichens."
+    }
   ,
-    {"correct":false,"text":"Durch wiederholtes Aussenden der internationalen Q-Gruppe \"QRZ?\" mit angehängtem eigenen Rufzeichen und dem Abhören der Frequenz in den Sendepausen. Durch einen gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen an die eigene Station gerichteten Anruf."}
+    {
+      "correct":false,
+      "text":"Durch wiederholtes Aussenden der internationalen Q-Gruppe \"QRZ?\" mit angehängtem eigenen Rufzeichen und dem Abhören der Frequenz in den Sendepausen. Durch einen gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen an die eigene Station gerichteten Anruf."
+    }
   ,
-    {"correct":false,"text":"Durch mehrmaliges, bei schlechten Ausbreitungsbedingungen häufiges Aussenden der Abkürzung \"CQ\", des eigenen Rufzeichens und der Q-Gruppe \"QTH\" mit Zwischenhören."}
+    {
+      "correct":false,
+      "text":"Durch mehrmaliges, bei schlechten Ausbreitungsbedingungen häufiges Aussenden der Abkürzung \"CQ\", des eigenen Rufzeichens und der Q-Gruppe \"QTH\" mit Zwischenhören."
+    }
   ,
-    {"correct":false,"text":"Durch das Aussenden Ihres Rufzeichens und des in der IARU festgelegten Auftast-Tones von 1750 Hz, durch den die abhörenden Stationen Ihren Verbindungswunsch erkennen."}
+    {
+      "correct":false,
+      "text":"Durch das Aussenden Ihres Rufzeichens und des in der IARU festgelegten Auftast-Tones von 1750 Hz, durch den die abhörenden Stationen Ihren Verbindungswunsch erkennen."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBE104",
      "text":"<p>Die deutsche Amateurfunkstelle DC8WV ruft auf dem 80-m-Band oberhalb 3700 kHz in Morsetelegrafie \"CQ de DC8WV pse k\". Dürfen Sie auf diesen allgemeinen Anruf auch in der Betriebsart SSB-Telefonie antworten?</p>",
      "answer":[
-    {"correct":true,"text":"Ja. Es ist allerdings die Regel, zunächst nur in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte."}
+    {
+      "correct":true,
+      "text":"Ja. Es ist allerdings die Regel, zunächst nur in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte."
+    }
   ,
-    {"correct":false,"text":"Nein. Es ist eine nationale Regel, zunächst in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte."}
+    {
+      "correct":false,
+      "text":"Nein. Es ist eine nationale Regel, zunächst in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte."
+    }
   ,
-    {"correct":false,"text":"Ja, weil die Betriebsfrequenz in einem Frequenzbereich liegt, in dem auch die Betriebsart Telefonie benutzt werden darf und weil DC8WV mit dem angehängten \"k\" zum Ausdruck bringt, dass er für die Betriebsart bei der Antwort keine Beschränkung festlegt."}
+    {
+      "correct":false,
+      "text":"Ja, weil die Betriebsfrequenz in einem Frequenzbereich liegt, in dem auch die Betriebsart Telefonie benutzt werden darf und weil DC8WV mit dem angehängten \"k\" zum Ausdruck bringt, dass er für die Betriebsart bei der Antwort keine Beschränkung festlegt."
+    }
   ,
-    {"correct":false,"text":"Ja, da oberhalb 3700 kHz keine Morsetelegrafie angewendet werden darf, und ich DC8WV in Telefonie darauf aufmerksam machen sollte."}
+    {
+      "correct":false,
+      "text":"Ja, da oberhalb 3700 kHz keine Morsetelegrafie angewendet werden darf, und ich DC8WV in Telefonie darauf aufmerksam machen sollte."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBE105",
      "text":"<p>Sollten Sie einen allgemeinen Anruf mit QRZ beginnen?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, weil QRZ nach VO Funk nicht die Bedeutung von CQ hat."}
+    {
+      "correct":true,
+      "text":"Nein, weil QRZ nach VO Funk nicht die Bedeutung von CQ hat."
+    }
   ,
-    {"correct":false,"text":"Ja, weil QRZ? bedeutet: Wer möchte angerufen werden?"}
+    {
+      "correct":false,
+      "text":"Ja, weil QRZ? bedeutet: Wer möchte angerufen werden?"
+    }
   ,
-    {"correct":false,"text":"Ja, weil QRZ nach VO Funk die gleiche Bedeutung wie CQ hat."}
+    {
+      "correct":false,
+      "text":"Ja, weil QRZ nach VO Funk die gleiche Bedeutung wie CQ hat."
+    }
   ,
-    {"correct":false,"text":"Nein, weil QRZ nur für einen gezielten Anruf benutzt wird."}
+    {
+      "correct":false,
+      "text":"Nein, weil QRZ nur für einen gezielten Anruf benutzt wird."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBE106",
      "text":"<p>Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?</p>",
      "answer":[
-    {"correct":true,"text":"CQ Australia this is DL7RBI calling (etwa 3mal wiederholen) and DL7RBI is listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":true,
+      "text":"CQ Australia this is DL7RBI calling (etwa 3mal wiederholen) and DL7RBI is listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"CQ Australien hier ist DL7RBI (etwa 3mal wiederholen) and DL7RBI is listed (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"CQ Australien hier ist DL7RBI (etwa 3mal wiederholen) and DL7RBI is listed (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"Australia, Australia, Australia (etwa 3mal wiederholen) here is DL7RBI listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"Australia, Australia, Australia (etwa 3mal wiederholen) here is DL7RBI listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"CQ this is DL7RBI Australia calling (etwa 3mal wiederholen) and DL7RBI is listening to Australia (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"CQ this is DL7RBI Australia calling (etwa 3mal wiederholen) and DL7RBI is listening to Australia (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBE106",
      "text":"<p>Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?</p>",
      "answer":[
-    {"correct":true,"text":"CQ Australia this is DL7RBI calling (etwa 3mal wiederholen) and DL7RBI is listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":true,
+      "text":"CQ Australia this is DL7RBI calling (etwa 3mal wiederholen) and DL7RBI is listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"CQ Australien hier ist DL7RBI (etwa 3mal wiederholen) and DL7RBI is listed (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"CQ Australien hier ist DL7RBI (etwa 3mal wiederholen) and DL7RBI is listed (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"Australia, Australia, Australia (etwa 3mal wiederholen) here is DL7RBI listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"Australia, Australia, Australia (etwa 3mal wiederholen) here is DL7RBI listening (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ,
-    {"correct":false,"text":"CQ this is DL7RBI Australia calling (etwa 3mal wiederholen) and DL7RBI is listening to Australia (internationales Buchstabieralphabet beim Rufzeichen benutzen)."}
+    {
+      "correct":false,
+      "text":"CQ this is DL7RBI Australia calling (etwa 3mal wiederholen) and DL7RBI is listening to Australia (internationales Buchstabieralphabet beim Rufzeichen benutzen)."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"BBE107",
      "text":"<p>Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?</p>",
      "answer":[
-    {"correct":true,"text":"DH8DAP/p nimmt an einem Fieldday-Kontest teil und sucht vornehmlich Verbindungen mit Stationen, die sich ebenfalls an diesem Kontest beteiligen."}
+    {
+      "correct":true,
+      "text":"DH8DAP/p nimmt an einem Fieldday-Kontest teil und sucht vornehmlich Verbindungen mit Stationen, die sich ebenfalls an diesem Kontest beteiligen."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements)."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements)."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus dem Autokennzeichenbezirk Fulda."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus dem Autokennzeichenbezirk Fulda."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements), die für den Portabel-Kontest gewertet werden können."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements), die für den Portabel-Kontest gewertet werden können."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"BBE107",
      "text":"<p>Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?</p>",
      "answer":[
-    {"correct":true,"text":"DH8DAP/p nimmt an einem Fieldday-Kontest teil und sucht vornehmlich Verbindungen mit Stationen, die sich ebenfalls an diesem Kontest beteiligen."}
+    {
+      "correct":true,
+      "text":"DH8DAP/p nimmt an einem Fieldday-Kontest teil und sucht vornehmlich Verbindungen mit Stationen, die sich ebenfalls an diesem Kontest beteiligen."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements)."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements)."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus dem Autokennzeichenbezirk Fulda."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus dem Autokennzeichenbezirk Fulda."
+    }
   ,
-    {"correct":false,"text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements), die für den Portabel-Kontest gewertet werden können."}
+    {
+      "correct":false,
+      "text":"DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements), die für den Portabel-Kontest gewertet werden können."
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"BBE108",
      "text":"<p>Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL de KA2WEU pse k\". Was beabsichtigt KA2WEU mit diesem Anruf?</p>",
      "answer":[
-    {"correct":true,"text":"KA2WEU sucht eine Verbindung mit einem Funkamateur aus Deutschland."}
+    {
+      "correct":true,
+      "text":"KA2WEU sucht eine Verbindung mit einem Funkamateur aus Deutschland."
+    }
   ,
-    {"correct":false,"text":"Der amerikanische Funkamateur KA2WEU sucht Verbindungen mit Funkamateuren, die weit entfernt sind."}
+    {
+      "correct":false,
+      "text":"Der amerikanische Funkamateur KA2WEU sucht Verbindungen mit Funkamateuren, die weit entfernt sind."
+    }
   ,
-    {"correct":false,"text":"KA2WEU sucht nur Verbindungen mit deutschen Funkamateuren deren Rufzeichenpräfix DL ist."}
+    {
+      "correct":false,
+      "text":"KA2WEU sucht nur Verbindungen mit deutschen Funkamateuren deren Rufzeichenpräfix DL ist."
+    }
   ,
-    {"correct":false,"text":"KA2WEU sucht eine Verbindung mit Stationen, die an einem deutschen Wettbewerb teilnehmen."}
+    {
+      "correct":false,
+      "text":"KA2WEU sucht eine Verbindung mit Stationen, die an einem deutschen Wettbewerb teilnehmen."
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"BBE109",
      "text":"<p>Ihr Rufzeichen sei DH7RW. Sie hören in Telefonie unvollständig \"... 7 Romeo Whiskey\". Wie reagieren Sie?</p>",
      "answer":[
-    {"correct":true,"text":"Ich antworte: \"Hier ist DH7RW, wurde ich gerufen?\""}
+    {
+      "correct":true,
+      "text":"Ich antworte: \"Hier ist DH7RW, wurde ich gerufen?\""
+    }
   ,
-    {"correct":false,"text":"Ich frage: \"Wer hat mich gerufen?\""}
+    {
+      "correct":false,
+      "text":"Ich frage: \"Wer hat mich gerufen?\""
+    }
   ,
-    {"correct":false,"text":"Ich frage erneut: \"QRZ?\""}
+    {
+      "correct":false,
+      "text":"Ich frage erneut: \"QRZ?\""
+    }
   ,
-    {"correct":false,"text":"Ich antworte: \"QRZ, wurde ich gerufen?\""}
+    {
+      "correct":false,
+      "text":"Ich antworte: \"QRZ, wurde ich gerufen?\""
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"BBE110",
      "text":"<p>Sie hören 4U1ITU in Telefonie rufen: \"CQ VK/ZL this is 4U1ITU\". Sollten Sie 4U1ITU anrufen, wenn Sie gerne ein QSO mit ihm führen würden?</p>",
      "answer":[
-    {"correct":true,"text":"Nein! 4U1ITU sucht eine Verbindung mit Australien oder Neuseeland."}
+    {
+      "correct":true,
+      "text":"Nein! 4U1ITU sucht eine Verbindung mit Australien oder Neuseeland."
+    }
   ,
-    {"correct":false,"text":"Ja! 4U1ITU in Australien/Neuseeland sucht eine Verbindung."}
+    {
+      "correct":false,
+      "text":"Ja! 4U1ITU in Australien/Neuseeland sucht eine Verbindung."
+    }
   ,
-    {"correct":false,"text":"Ja! Aber nur wenn Sie geborener Australier oder Neuseeländer sind."}
+    {
+      "correct":false,
+      "text":"Ja! Aber nur wenn Sie geborener Australier oder Neuseeländer sind."
+    }
   ,
-    {"correct":false,"text":"Nein! 4U1ITU sucht nur Verbindungen mit Indien oder Südafrika."}
+    {
+      "correct":false,
+      "text":"Nein! 4U1ITU sucht nur Verbindungen mit Indien oder Südafrika."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"BBE111",
      "text":"<p>Was bedeutet der im 20-m-Band gesendete Anruf \"CQ CQ CQ DX de HB9AFN\"?</p>",
      "answer":[
-    {"correct":true,"text":"HB9AFN sucht eine Überseeverbindung und sollte durch europäische Funkamateure nicht angerufen werden."}
+    {
+      "correct":true,
+      "text":"HB9AFN sucht eine Überseeverbindung und sollte durch europäische Funkamateure nicht angerufen werden."
+    }
   ,
-    {"correct":false,"text":"HB9AFN sucht eine Verbindung mit dem Ausland und sollte durch andere Funkamateure nicht angerufen werden."}
+    {
+      "correct":false,
+      "text":"HB9AFN sucht eine Verbindung mit dem Ausland und sollte durch andere Funkamateure nicht angerufen werden."
+    }
   ,
-    {"correct":false,"text":"HB9AFN sucht eine Verbindung über 500 km und sollte durch Funkamateure aus einer geringeren Entfernung als 500 km nicht angerufen werden."}
+    {
+      "correct":false,
+      "text":"HB9AFN sucht eine Verbindung über 500 km und sollte durch Funkamateure aus einer geringeren Entfernung als 500 km nicht angerufen werden."
+    }
   ,
-    {"correct":false,"text":"HB9AFN sucht eine Verbindung mit Stationen von den Philippinen (Präfix \"DX\")."}
+    {
+      "correct":false,
+      "text":"HB9AFN sucht eine Verbindung mit Stationen von den Philippinen (Präfix \"DX\")."
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"BBE112",
      "text":"<p>Was ist beim Morsetelegrafie-Funkverkehr mit einem offensichtlichen Anfänger zu beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Ich passe mich bei der Verkehrsabwicklung dem Gebetempo des Anfängers an."}
+    {
+      "correct":true,
+      "text":"Ich passe mich bei der Verkehrsabwicklung dem Gebetempo des Anfängers an."
+    }
   ,
-    {"correct":false,"text":"Ich führe nur eine kurze Verbindung um ihn nicht zu sehr zu belasten."}
+    {
+      "correct":false,
+      "text":"Ich führe nur eine kurze Verbindung um ihn nicht zu sehr zu belasten."
+    }
   ,
-    {"correct":false,"text":"Ich gebe alle Zeichen doppelt."}
+    {
+      "correct":false,
+      "text":"Ich gebe alle Zeichen doppelt."
+    }
   ,
-    {"correct":false,"text":"Ich wiederhole alle Angaben dreimal mit langsamem Gebetempo."}
+    {
+      "correct":false,
+      "text":"Ich wiederhole alle Angaben dreimal mit langsamem Gebetempo."
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"BBE113",
      "text":"<p>Eine Station ruft auf VHF/UHF \"CQ\" mit dem Zusatz \"DX\". Wann sollten Sie antworten?</p>",
      "answer":[
-    {"correct":true,"text":"Nur bei Stationen, die erkennbar einige hundert Kilometer entfernt sind, ggf., wenn nach mehrmaligen erfolglosen Anrufen niemand antwortet."}
+    {
+      "correct":true,
+      "text":"Nur bei Stationen, die erkennbar einige hundert Kilometer entfernt sind, ggf., wenn nach mehrmaligen erfolglosen Anrufen niemand antwortet."
+    }
   ,
-    {"correct":false,"text":"Nur wenn die Entfernung zwischen beiden Stationen höchstens 500 km beträgt und sonst niemand auf den Anruf antwortet."}
+    {
+      "correct":false,
+      "text":"Nur wenn die Entfernung zwischen beiden Stationen höchstens 500 km beträgt und sonst niemand auf den Anruf antwortet."
+    }
   ,
-    {"correct":false,"text":"Nur wenn ich als hörende Station die rufende Station mit guter Lautstärke empfange."}
+    {
+      "correct":false,
+      "text":"Nur wenn ich als hörende Station die rufende Station mit guter Lautstärke empfange."
+    }
   ,
-    {"correct":false,"text":"Nur wenn es sich bei der anrufenden Station um eine außereuropäische Station handelt oder wenn - nach mehrmaligen erfolglosen Anrufen - niemand antwortet."}
+    {
+      "correct":false,
+      "text":"Nur wenn es sich bei der anrufenden Station um eine außereuropäische Station handelt oder wenn - nach mehrmaligen erfolglosen Anrufen - niemand antwortet."
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"BBE114",
      "text":"<p>Sie haben eine Funkverbindung mit einer vorher \"CQ\" rufenden Station beendet. Anschließend werden Sie von einer anderen Station gerufen. Wie verhalten Sie sich?</p>",
      "answer":[
-    {"correct":true,"text":"Nach entsprechender Verständigung mit der neuen Gegenstation nehme ich die neue Verbindung mit ihr auf einer anderen, freien Frequenz auf."}
+    {
+      "correct":true,
+      "text":"Nach entsprechender Verständigung mit der neuen Gegenstation nehme ich die neue Verbindung mit ihr auf einer anderen, freien Frequenz auf."
+    }
   ,
-    {"correct":false,"text":"Ich bleibe auf der Frequenz und tätige ein QSO mit der neu rufenden Station."}
+    {
+      "correct":false,
+      "text":"Ich bleibe auf der Frequenz und tätige ein QSO mit der neu rufenden Station."
+    }
   ,
-    {"correct":false,"text":"Ich gehe etwa 1 kHz neben die bisherige Frequenz und rufe dort die anrufende Station."}
+    {
+      "correct":false,
+      "text":"Ich gehe etwa 1 kHz neben die bisherige Frequenz und rufe dort die anrufende Station."
+    }
   ,
-    {"correct":false,"text":"Ich reagiere nicht auf den Anruf, weil die Frequenz der Station gehört, die CQ gerufen hat."}
+    {
+      "correct":false,
+      "text":"Ich reagiere nicht auf den Anruf, weil die Frequenz der Station gehört, die CQ gerufen hat."
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"BBE115",
      "text":"<p>Sie möchten im 20-m-Band einen allgemeinen Anruf starten. Sie finden eine Frequenz die offensichtlich nicht belegt ist. Wie gehen Sie vor?</p>",
      "answer":[
-    {"correct":true,"text":"Ich beobachte die Frequenz und frage dann etwa zwei bis dreimal ob die Frequenz besetzt ist. Erfolgt keine Antwort, kann ich davon ausgehen, dass die Frequenz frei ist und dort CQ rufen."}
+    {
+      "correct":true,
+      "text":"Ich beobachte die Frequenz und frage dann etwa zwei bis dreimal ob die Frequenz besetzt ist. Erfolgt keine Antwort, kann ich davon ausgehen, dass die Frequenz frei ist und dort CQ rufen."
+    }
   ,
-    {"correct":false,"text":"Ich warte und beobachte die Frequenz für einige Sekunden. Höre ich nichts, so kann ich mit meinem CQ-Ruf beginnen."}
+    {
+      "correct":false,
+      "text":"Ich warte und beobachte die Frequenz für einige Sekunden. Höre ich nichts, so kann ich mit meinem CQ-Ruf beginnen."
+    }
   ,
-    {"correct":false,"text":"Da ich auf der Frequenz kein Signal höre kann ich mit meinem CQ-Ruf beginnen."}
+    {
+      "correct":false,
+      "text":"Da ich auf der Frequenz kein Signal höre kann ich mit meinem CQ-Ruf beginnen."
+    }
   ,
-    {"correct":false,"text":"Ich stimme meinen Sender auf der Frequenz ab und starte dann meinen CQ-Ruf."}
+    {
+      "correct":false,
+      "text":"Ich stimme meinen Sender auf der Frequenz ab und starte dann meinen CQ-Ruf."
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"BBE116",
      "text":"<p>Warum erscheint Ihnen auf den höheren Frequenzbändern der Kurzwelle eine Frequenz als frei, obwohl sie sich anschließend als besetzt herausstellt?</p>",
      "answer":[
-    {"correct":true,"text":"Die auf dieser Frequenz sendende Station liegt innerhalb der toten Zone und konnte daher von mir nicht gehört werden."}
+    {
+      "correct":true,
+      "text":"Die auf dieser Frequenz sendende Station liegt innerhalb der toten Zone und konnte daher von mir nicht gehört werden."
+    }
   ,
-    {"correct":false,"text":"Die auf dieser Frequenz sendenden Stationen haben eine zu geringe Sendeleistung."}
+    {
+      "correct":false,
+      "text":"Die auf dieser Frequenz sendenden Stationen haben eine zu geringe Sendeleistung."
+    }
   ,
-    {"correct":false,"text":"Für die auf dieser Frequenz sendenden Stationen sind die Ausbreitungsbedingungen zu schlecht."}
+    {
+      "correct":false,
+      "text":"Für die auf dieser Frequenz sendenden Stationen sind die Ausbreitungsbedingungen zu schlecht."
+    }
   ,
-    {"correct":false,"text":"Die auf dieser Frequenz sendende Station wurde durch den Mögel-Dellinger-Effekt kurzfristig unterbrochen."}
+    {
+      "correct":false,
+      "text":"Die auf dieser Frequenz sendende Station wurde durch den Mögel-Dellinger-Effekt kurzfristig unterbrochen."
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"BBE117",
      "text":"<p>Welche Betriebsbedingungen sollten Sie für die Teilnahme an einem internationalen KW-Wettbewerb unbedingt einhalten?</p>",
      "answer":[
-    {"correct":true,"text":"Ich arbeite nur in den Frequenzbereichen, die nach dem internationalen Kurzwellenbandplan und der jeweiligen Kontestauschreibung für diesen Wettbewerb vorgesehen sind."}
+    {
+      "correct":true,
+      "text":"Ich arbeite nur in den Frequenzbereichen, die nach dem internationalen Kurzwellenbandplan und der jeweiligen Kontestauschreibung für diesen Wettbewerb vorgesehen sind."
+    }
   ,
-    {"correct":false,"text":"Ich nenne mein Rufzeichen nur in größeren Abständen, um die QSO-Anzahl hoch zu halten."}
+    {
+      "correct":false,
+      "text":"Ich nenne mein Rufzeichen nur in größeren Abständen, um die QSO-Anzahl hoch zu halten."
+    }
   ,
-    {"correct":false,"text":"Ich lese vorher die Ausschreibungsbedingungen in den Fachzeitschriften und notiere mir die geforderten Angaben."}
+    {
+      "correct":false,
+      "text":"Ich lese vorher die Ausschreibungsbedingungen in den Fachzeitschriften und notiere mir die geforderten Angaben."
+    }
   ,
-    {"correct":false,"text":"Ich überhole meine Antenneneinrichtungen, stimme die Endstufe sorgfältig ab und optimiere meine Logbuchtechnik."}
+    {
+      "correct":false,
+      "text":"Ich überhole meine Antenneneinrichtungen, stimme die Endstufe sorgfältig ab und optimiere meine Logbuchtechnik."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"BBE118",
      "text":"<p>EA3JQ ruft in englischer Sprache CQ. Wie gestalten Sie Ihren Anruf, wenn Sie mit ihm ein QSO führen möchten?</p>",
      "answer":[
-    {"correct":true,"text":"EA3JQ, this is DH8DAP calling you"}
+    {
+      "correct":true,
+      "text":"EA3JQ, this is DH8DAP calling you"
+    }
   ,
-    {"correct":false,"text":"CQ CQ CQ de DH8DAP for EA3JQ, please go ahead"}
+    {
+      "correct":false,
+      "text":"CQ CQ CQ de DH8DAP for EA3JQ, please go ahead"
+    }
   ,
-    {"correct":false,"text":"EA3JQ, es ruft Sie DH8DAP, bitte kommen"}
+    {
+      "correct":false,
+      "text":"EA3JQ, es ruft Sie DH8DAP, bitte kommen"
+    }
   ,
-    {"correct":false,"text":"QRZ EA3JQ from DH8DAP, over"}
+    {
+      "correct":false,
+      "text":"QRZ EA3JQ from DH8DAP, over"
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"BBE119",
      "text":"<p>Mit welcher Tastgeschwindigkeit würden Sie einen CQ-Ruf in Telegrafie beantworten? Ich würde</p>",
      "answer":[
-    {"correct":true,"text":"mit der gleichen Geschwindigkeit des empfangenen Signals antworten."}
+    {
+      "correct":true,
+      "text":"mit der gleichen Geschwindigkeit des empfangenen Signals antworten."
+    }
   ,
-    {"correct":false,"text":"mit meiner gewohnten Geschwindigkeit antworten."}
+    {
+      "correct":false,
+      "text":"mit meiner gewohnten Geschwindigkeit antworten."
+    }
   ,
-    {"correct":false,"text":"mit einer solch hohen Geschwindigkeit antworten, wie ich sie auch aufnehmen könnte."}
+    {
+      "correct":false,
+      "text":"mit einer solch hohen Geschwindigkeit antworten, wie ich sie auch aufnehmen könnte."
+    }
   ,
-    {"correct":false,"text":"die Geschwindigkeit der eingestellten automatischen Morsetaste nicht ändern, sondern immer mit dieser Geschwindigkeit antworten."}
+    {
+      "correct":false,
+      "text":"die Geschwindigkeit der eingestellten automatischen Morsetaste nicht ändern, sondern immer mit dieser Geschwindigkeit antworten."
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"BBE201",
      "text":"<p>Was verstehen Sie unter dem Begriff \"DX-Pedition\"? Es ist</p>",
      "answer":[
-    {"correct":true,"text":"eine Amateurfunkexpedition zu Ländern oder Inseln, die selten im Amateurfunk zu hören sind."}
+    {
+      "correct":true,
+      "text":"eine Amateurfunkexpedition zu Ländern oder Inseln, die selten im Amateurfunk zu hören sind."
+    }
   ,
-    {"correct":false,"text":"eine weltweite Aktivitätswoche."}
+    {
+      "correct":false,
+      "text":"eine weltweite Aktivitätswoche."
+    }
   ,
-    {"correct":false,"text":"ein internationaler Funkwettbewerb."}
+    {
+      "correct":false,
+      "text":"ein internationaler Funkwettbewerb."
+    }
   ,
-    {"correct":false,"text":"eine Zusammenstellung aller noch von Funkamateuren begehrten Länder."}
+    {
+      "correct":false,
+      "text":"eine Zusammenstellung aller noch von Funkamateuren begehrten Länder."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"BBE202",
      "text":"<p>Was ist mit dem Begriff \"pile up\" gemeint? Man meint damit das gleichzeitige</p>",
      "answer":[
-    {"correct":true,"text":"Anrufen einer selten zu hörenden Station durch viele Amateurfunkstellen."}
+    {
+      "correct":true,
+      "text":"Anrufen einer selten zu hörenden Station durch viele Amateurfunkstellen."
+    }
   ,
-    {"correct":false,"text":"Senden einer Station auf mehreren Amateurfunkfrequenzen in einem Kontest."}
+    {
+      "correct":false,
+      "text":"Senden einer Station auf mehreren Amateurfunkfrequenzen in einem Kontest."
+    }
   ,
-    {"correct":false,"text":"Senden einer Station mit mehreren Antennen bei einem Kontest."}
+    {
+      "correct":false,
+      "text":"Senden einer Station mit mehreren Antennen bei einem Kontest."
+    }
   ,
-    {"correct":false,"text":"Hören einer Station mit mehreren Empfängern bei einem Kontest."}
+    {
+      "correct":false,
+      "text":"Hören einer Station mit mehreren Empfängern bei einem Kontest."
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"BBE203",
      "text":"<p>Was verstehen Sie bei einer seltenen Station unter der Aufforderung zu \"Listenbetrieb\"?</p>",
      "answer":[
-    {"correct":true,"text":"Eine gut hörbare andere Station nimmt anrufenden Stationen in eine Liste und ruft später diese Stationen zur Aufnahme einer Funkverbindung mit der seltenen Station auf."}
+    {
+      "correct":true,
+      "text":"Eine gut hörbare andere Station nimmt anrufenden Stationen in eine Liste und ruft später diese Stationen zur Aufnahme einer Funkverbindung mit der seltenen Station auf."
+    }
   ,
-    {"correct":false,"text":"Eine gut hörbare andere Station schickt per Internet Listen anrufender Stationen an die seltene Station."}
+    {
+      "correct":false,
+      "text":"Eine gut hörbare andere Station schickt per Internet Listen anrufender Stationen an die seltene Station."
+    }
   ,
-    {"correct":false,"text":"Die seltene Station ruft Stationen nach einer Liste der Landeskenner alphabetisch auf."}
+    {
+      "correct":false,
+      "text":"Die seltene Station ruft Stationen nach einer Liste der Landeskenner alphabetisch auf."
+    }
   ,
-    {"correct":false,"text":"Die seltene Station oder ihr QSL-Manager veröffentlicht eine Liste der gearbeiteten Stationen in den Amateurfunkzeitschriften."}
+    {
+      "correct":false,
+      "text":"Die seltene Station oder ihr QSL-Manager veröffentlicht eine Liste der gearbeiteten Stationen in den Amateurfunkzeitschriften."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"BBE204",
      "text":"<p>Was ist gemeint, wenn die Gegenstation sagt: \"split up 14250 to 14280\"?</p>",
      "answer":[
-    {"correct":true,"text":"Die seltene Station hört oberhalb ihrer Sendefrequenz in dem angegebenen Bereich."}
+    {
+      "correct":true,
+      "text":"Die seltene Station hört oberhalb ihrer Sendefrequenz in dem angegebenen Bereich."
+    }
   ,
-    {"correct":false,"text":"Die seltene Station kündigt einen Frequenzwechsel in den angegebenen Bereich an."}
+    {
+      "correct":false,
+      "text":"Die seltene Station kündigt einen Frequenzwechsel in den angegebenen Bereich an."
+    }
   ,
-    {"correct":false,"text":"Die seltene Station bitte anrufende Stationen in dem angegebenen Bereich CW zu verwenden."}
+    {
+      "correct":false,
+      "text":"Die seltene Station bitte anrufende Stationen in dem angegebenen Bereich CW zu verwenden."
+    }
   ,
-    {"correct":false,"text":"Die seltene Station nimmt in dem angegebenen Bereich eine Liste auf."}
+    {
+      "correct":false,
+      "text":"Die seltene Station nimmt in dem angegebenen Bereich eine Liste auf."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"BBE205",
      "text":"<p>Eine \"seltene\" Station, die auf 14205 kHz \"CQ\" gerufen hat, sagt am Ende ihres CQ-Rufes \"tuning 290-300 up\". Was tun Sie,wenn Sie diese Station anrufen wollen?</p>",
      "answer":[
-    {"correct":true,"text":"Ich muss zwischen 14290 und 14300 kHz rufen."}
+    {
+      "correct":true,
+      "text":"Ich muss zwischen 14290 und 14300 kHz rufen."
+    }
   ,
-    {"correct":false,"text":"Ich sende auf 14205 kHz und höre auf 14290 kHz."}
+    {
+      "correct":false,
+      "text":"Ich sende auf 14205 kHz und höre auf 14290 kHz."
+    }
   ,
-    {"correct":false,"text":"Die Funkstelle stimmt auf 14290 kHz ab."}
+    {
+      "correct":false,
+      "text":"Die Funkstelle stimmt auf 14290 kHz ab."
+    }
   ,
-    {"correct":false,"text":"Ich muss auf 14290 kHz oder darüber hören."}
+    {
+      "correct":false,
+      "text":"Ich muss auf 14290 kHz oder darüber hören."
+    }
   ]
     }
   ,
@@ -396,13 +708,25 @@
      "id":"BBE206",
      "text":"<p>Eine Station gibt am Ende ihres CQ-Rufes \"5 up\". Was bedeutet diese Angabe und was ist zu beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Die rufende Station hört 5 kHz oberhalb ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 kHz höher senden."}
+    {
+      "correct":true,
+      "text":"Die rufende Station hört 5 kHz oberhalb ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 kHz höher senden."
+    }
   ,
-    {"correct":false,"text":"Die rufende Station hört 5 Minuten später auf ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 Minuten später senden und vorher prüfen, ob die Frequenz frei ist."}
+    {
+      "correct":false,
+      "text":"Die rufende Station hört 5 Minuten später auf ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 Minuten später senden und vorher prüfen, ob die Frequenz frei ist."
+    }
   ,
-    {"correct":false,"text":"Die rufende Station sendet 5 kHz oberhalb ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 kHz höher empfangen und vorher prüfen, ob die Frequenz frei ist."}
+    {
+      "correct":false,
+      "text":"Die rufende Station sendet 5 kHz oberhalb ihrer eigenen Sendefrequenz. Ich muss also bei meinem Anruf 5 kHz höher empfangen und vorher prüfen, ob die Frequenz frei ist."
+    }
   ,
-    {"correct":false,"text":"Die rufende Station behandelt meinen Anruf an 5ter Stelle. Ich muss also bei meinem Anruf 5 andere Funkverbindungen abwarten."}
+    {
+      "correct":false,
+      "text":"Die rufende Station behandelt meinen Anruf an 5ter Stelle. Ich muss also bei meinem Anruf 5 andere Funkverbindungen abwarten."
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"BBE207",
      "text":"<p>Eine seltene Station ruft in SSB \"only number 3, only suffix\". Was ist damit gemeint?</p>",
      "answer":[
-    {"correct":true,"text":"Die Station möchte nur Anrufe von Stationen mit der Ziffer \"3\" im Rufzeichen und bittet, nur mit den Buchstaben des Suffixes zu rufen."}
+    {
+      "correct":true,
+      "text":"Die Station möchte nur Anrufe von Stationen mit der Ziffer \"3\" im Rufzeichen und bittet, nur mit den Buchstaben des Suffixes zu rufen."
+    }
   ,
-    {"correct":false,"text":"Die Station möchte jeweils drei rufende Stationen in eine Liste aufnehmen."}
+    {
+      "correct":false,
+      "text":"Die Station möchte jeweils drei rufende Stationen in eine Liste aufnehmen."
+    }
   ,
-    {"correct":false,"text":"Die Station möchte nur Stationen mit dreistelligem Suffix aufrufen."}
+    {
+      "correct":false,
+      "text":"Die Station möchte nur Stationen mit dreistelligem Suffix aufrufen."
+    }
   ,
-    {"correct":false,"text":"Die Station möchte, dass anrufende Stationen dreimal nur ihr Suffix durchgeben."}
+    {
+      "correct":false,
+      "text":"Die Station möchte, dass anrufende Stationen dreimal nur ihr Suffix durchgeben."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"BBE208",
      "text":"<p>Was versteht man unter \"Split-Verkehr\"?</p>",
      "answer":[
-    {"correct":true,"text":"Senden und Empfangen erfolgt nicht wie sonst üblich auf der gleichen Frequenz, sondern auf verschiedenen Frequenzen des gleichen Amateurfunkbandes."}
+    {
+      "correct":true,
+      "text":"Senden und Empfangen erfolgt nicht wie sonst üblich auf der gleichen Frequenz, sondern auf verschiedenen Frequenzen des gleichen Amateurfunkbandes."
+    }
   ,
-    {"correct":false,"text":"Zwei Relaisfunkstellen, die sich im gleichen Versorgungsgebiet die gleiche Frequenz zeitlich teilen müssen."}
+    {
+      "correct":false,
+      "text":"Zwei Relaisfunkstellen, die sich im gleichen Versorgungsgebiet die gleiche Frequenz zeitlich teilen müssen."
+    }
   ,
-    {"correct":false,"text":"Wegen örtlicher Funkstörprobleme benutzen beide Funkamateure bei ihrer Funkverbindung unterschiedliche Betriebsarten, z. B. Morsen und Sprechfunk."}
+    {
+      "correct":false,
+      "text":"Wegen örtlicher Funkstörprobleme benutzen beide Funkamateure bei ihrer Funkverbindung unterschiedliche Betriebsarten, z. B. Morsen und Sprechfunk."
+    }
   ,
-    {"correct":false,"text":"Senden und Empfangen erfolgt in zwei unterschiedlichen Amateurfunkgeräten."}
+    {
+      "correct":false,
+      "text":"Senden und Empfangen erfolgt in zwei unterschiedlichen Amateurfunkgeräten."
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"BBE215",
      "text":"<p>Was verstehen Funkamateure unter einer \"Fuchsjagd\" (ARDF = Amateur Radio Direction Finding)?</p>",
      "answer":[
-    {"correct":true,"text":"Es ist ein Funkpeilwettbewerb, wobei mit Hilfe von tragbaren Peilempfängern versteckte Kleinsender im KW- oder UKW-Bereich, die nur kurzzeitig senden, aufzufinden sind."}
+    {
+      "correct":true,
+      "text":"Es ist ein Funkpeilwettbewerb, wobei mit Hilfe von tragbaren Peilempfängern versteckte Kleinsender im KW- oder UKW-Bereich, die nur kurzzeitig senden, aufzufinden sind."
+    }
   ,
-    {"correct":false,"text":"Es ist ein Funkpeilwettbewerb, wobei versucht wird, in einer vorgegebenen Zeit von meistens 24 Stunden, auf einem Amateurfunkband mit möglichst vielen Ländern aus verschiedenen Richtungen Funkverbindungen herzustellen."}
+    {
+      "correct":false,
+      "text":"Es ist ein Funkpeilwettbewerb, wobei versucht wird, in einer vorgegebenen Zeit von meistens 24 Stunden, auf einem Amateurfunkband mit möglichst vielen Ländern aus verschiedenen Richtungen Funkverbindungen herzustellen."
+    }
   ,
-    {"correct":false,"text":"Bei einer Fuchsjagd versuchen kleine Mannschaften von zwei oder drei Funkamateuren von verschiedenen Standorten aus durch Kreuzpeilungen versteckte Peilsender aufzufinden. Dabei übermitteln sich die Funkamateure die Peilergebnisse gegenseitig per Funk."}
+    {
+      "correct":false,
+      "text":"Bei einer Fuchsjagd versuchen kleine Mannschaften von zwei oder drei Funkamateuren von verschiedenen Standorten aus durch Kreuzpeilungen versteckte Peilsender aufzufinden. Dabei übermitteln sich die Funkamateure die Peilergebnisse gegenseitig per Funk."
+    }
   ,
-    {"correct":false,"text":"Es ist ein Funkpeilwettbewerb, der von Funkamateuren ausschließlich für SWL (short wave listener) veranstaltet wird. Da diese Höramateure noch keine eigenen Sender betreiben dürfen, ist die Aufgabe, so schnell wie möglich versteckte Kleinsender mit Hilfe von tragbaren Peilempfängern aufzufinden."}
+    {
+      "correct":false,
+      "text":"Es ist ein Funkpeilwettbewerb, der von Funkamateuren ausschließlich für SWL (short wave listener) veranstaltet wird. Da diese Höramateure noch keine eigenen Sender betreiben dürfen, ist die Aufgabe, so schnell wie möglich versteckte Kleinsender mit Hilfe von tragbaren Peilempfängern aufzufinden."
+    }
   ]
     }
   ,
@@ -456,13 +816,25 @@
      "id":"BBE409",
      "text":"<p>Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?</p>",
      "answer":[
-    {"correct":true,"text":"Diese Frequenzen sind nach der IARU-Empfehlung für das Internationale Bakenprojekt (IBP) vorgesehen und sind für die Beobachtung der Ausbreitungsbedingungen anhand von Bakensignalen freizuhalten."}
+    {
+      "correct":true,
+      "text":"Diese Frequenzen sind nach der IARU-Empfehlung für das Internationale Bakenprojekt (IBP) vorgesehen und sind für die Beobachtung der Ausbreitungsbedingungen anhand von Bakensignalen freizuhalten."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzbereiche sind nach der IARU-Empfehlung für Packet Radio vorgesehen und sollen für die Beobachtung dieser Sendungen freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzbereiche sind nach der IARU-Empfehlung für Packet Radio vorgesehen und sollen für die Beobachtung dieser Sendungen freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzen sind nach der IARU-Empfehlung besonders für DX-Verkehr vorgesehen und sollen möglichst für Funkverkehr bei \"DX-Expeditionen\" genutzt werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzen sind nach der IARU-Empfehlung besonders für DX-Verkehr vorgesehen und sollen möglichst für Funkverkehr bei \"DX-Expeditionen\" genutzt werden."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzbereiche sind nach Empfehlung der Radio Regulations (VO Funk) für besondere Amateurfunk-Zeitzeichen- und Normalfrequenzaussendungen vorgesehen und sollen möglichst freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzbereiche sind nach Empfehlung der Radio Regulations (VO Funk) für besondere Amateurfunk-Zeitzeichen- und Normalfrequenzaussendungen vorgesehen und sollen möglichst freigehalten werden."
+    }
   ]
     }
   ,
@@ -471,13 +843,25 @@
      "id":"BBF101",
      "text":"<p>Das 80-m-Amateurfunkband ist unter anderem dem Amateurfunkdienst und dem Seefunkdienst auf primärer Basis zugewiesen. Unter welchen Umständen dürfen Sie in einer Amateurfunkverbindung fortfahren, wenn Sie erst nach Betriebsaufnahme bemerken, dass Ihre benutzte Frequenz auch von einer Küstenfunkstelle benutzt wird?</p>",
      "answer":[
-    {"correct":true,"text":"Sie dürfen die Frequenz unter keinen Umständen weiterbenutzen (außer im echten Notfall), da der Küstenfunkstelle eine feste Frequenz zugeteilt ist, die sie nicht verändern kann."}
+    {
+      "correct":true,
+      "text":"Sie dürfen die Frequenz unter keinen Umständen weiterbenutzen (außer im echten Notfall), da der Küstenfunkstelle eine feste Frequenz zugeteilt ist, die sie nicht verändern kann."
+    }
   ,
-    {"correct":false,"text":"Sie dürfen die Frequenz weiter benutzen, wenn aus der dauernd wiederholten, automatisch ablaufenden Morseaussendung klar hervorgeht, dass die Küstenfunkstelle keinen zweiseitigen Funkverkehr abwickelt, sondern offenbar nur die Frequenz belegt."}
+    {
+      "correct":false,
+      "text":"Sie dürfen die Frequenz weiter benutzen, wenn aus der dauernd wiederholten, automatisch ablaufenden Morseaussendung klar hervorgeht, dass die Küstenfunkstelle keinen zweiseitigen Funkverkehr abwickelt, sondern offenbar nur die Frequenz belegt."
+    }
   ,
-    {"correct":false,"text":"Sie dürfen die Frequenz weiter benutzen, wenn der Standort Ihrer Amateurfunkstelle mehr als 200 km von einer Meeresküste entfernt ist, und Sie weniger als 100 Watt Sendeleistung anwenden."}
+    {
+      "correct":false,
+      "text":"Sie dürfen die Frequenz weiter benutzen, wenn der Standort Ihrer Amateurfunkstelle mehr als 200 km von einer Meeresküste entfernt ist, und Sie weniger als 100 Watt Sendeleistung anwenden."
+    }
   ,
-    {"correct":false,"text":"Sie dürfen die begonnene Funkverbindung mit Ihrer Gegenfunkstelle solange fortführen, bis Sie von der Küstenfunkstelle zum Frequenzwechsel aufgefordert werden."}
+    {
+      "correct":false,
+      "text":"Sie dürfen die begonnene Funkverbindung mit Ihrer Gegenfunkstelle solange fortführen, bis Sie von der Küstenfunkstelle zum Frequenzwechsel aufgefordert werden."
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"BBF102",
      "text":"<p>Wie heißt das internationale Notzeichen im Sprechfunk?</p>",
      "answer":[
-    {"correct":true,"text":"Mayday"}
+    {
+      "correct":true,
+      "text":"Mayday"
+    }
   ,
-    {"correct":false,"text":"Securité"}
+    {
+      "correct":false,
+      "text":"Securité"
+    }
   ,
-    {"correct":false,"text":"Distresse"}
+    {
+      "correct":false,
+      "text":"Distresse"
+    }
   ,
-    {"correct":false,"text":"Prudence"}
+    {
+      "correct":false,
+      "text":"Prudence"
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"BBF103",
      "text":"<p>Welche Notzeichen werden in der Telefonie verwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Mayday"}
+    {
+      "correct":true,
+      "text":"Mayday"
+    }
   ,
-    {"correct":false,"text":"XXX, TTT"}
+    {
+      "correct":false,
+      "text":"XXX, TTT"
+    }
   ,
-    {"correct":false,"text":"Distresse"}
+    {
+      "correct":false,
+      "text":"Distresse"
+    }
   ,
-    {"correct":false,"text":"DDD, SOS"}
+    {
+      "correct":false,
+      "text":"DDD, SOS"
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"BBF104",
      "text":"<p>Dürfen Sie im Notfall eines der Notzeichen SOS oder Mayday gebrauchen?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, niemals"}
+    {
+      "correct":true,
+      "text":"Nein, niemals"
+    }
   ,
-    {"correct":false,"text":"Unter Umständen schon, wenn ich beispielsweise ein Schiff untergehen sehe"}
+    {
+      "correct":false,
+      "text":"Unter Umständen schon, wenn ich beispielsweise ein Schiff untergehen sehe"
+    }
   ,
-    {"correct":false,"text":"Ja, aber nicht auf der internationalen Notruffrequenz"}
+    {
+      "correct":false,
+      "text":"Ja, aber nicht auf der internationalen Notruffrequenz"
+    }
   ,
-    {"correct":false,"text":"SOS nicht, aber Mayday im Notfall"}
+    {
+      "correct":false,
+      "text":"SOS nicht, aber Mayday im Notfall"
+    }
   ]
     }
   ,
@@ -531,13 +951,25 @@
      "id":"BBF105",
      "text":"<p>Sie haben am 16. August (Ortsdatum) um 20:00 Uhr mitteleuropäischer Sommerzeit (MESZ) von 9J2NG eine Notfunkmeldung aufgenommen und an eine Hilfeleistungsorganisation per Telefon weitergemeldet. Die Amateurfunkstelle 9J2NG hat Sie gebeten, um 23:00 Uhr UTC erneut mit ihr in Verbindung zu treten. Welcher Zeitpunkt ist dies in Deutschland?</p>",
      "answer":[
-    {"correct":true,"text":"01:00 MESZ am 17. August (Ortsdatum)"}
+    {
+      "correct":true,
+      "text":"01:00 MESZ am 17. August (Ortsdatum)"
+    }
   ,
-    {"correct":false,"text":"21:00 MESZ am 16. August (Ortsdatum)"}
+    {
+      "correct":false,
+      "text":"21:00 MESZ am 16. August (Ortsdatum)"
+    }
   ,
-    {"correct":false,"text":"22:00 MESZ am 16. August (Ortsdatum)"}
+    {
+      "correct":false,
+      "text":"22:00 MESZ am 16. August (Ortsdatum)"
+    }
   ,
-    {"correct":false,"text":"00:00 MESZ am 18. August (Ortsdatum)"}
+    {
+      "correct":false,
+      "text":"00:00 MESZ am 18. August (Ortsdatum)"
+    }
   ]
     }
   ,
@@ -546,13 +978,25 @@
      "id":"BBF106",
      "text":"<p>Sie haben auf einer Amateurfunkfrequenz eine Notmeldung von einem Schiff in Seenot empfangen. Wie verhalten Sie sich?</p>",
      "answer":[
-    {"correct":true,"text":"Ich beobachte die Frequenz und achte darauf, ob die Notmeldung von einer Rettungsorganisation bestätigt wird. Wenn dies innerhalb einer kurzen Zeit nicht geschieht, rufe ich die Station an und biete meine Hilfe an."}
+    {
+      "correct":true,
+      "text":"Ich beobachte die Frequenz und achte darauf, ob die Notmeldung von einer Rettungsorganisation bestätigt wird. Wenn dies innerhalb einer kurzen Zeit nicht geschieht, rufe ich die Station an und biete meine Hilfe an."
+    }
   ,
-    {"correct":false,"text":"Ich rufe die Station sofort an und biete meine Hilfe an."}
+    {
+      "correct":false,
+      "text":"Ich rufe die Station sofort an und biete meine Hilfe an."
+    }
   ,
-    {"correct":false,"text":"Da es sich nicht um Amateurfunkverkehr handelt verlasse ich die Frequenz."}
+    {
+      "correct":false,
+      "text":"Da es sich nicht um Amateurfunkverkehr handelt verlasse ich die Frequenz."
+    }
   ,
-    {"correct":false,"text":"Ich wiederhole umgehend die Notmeldung auf der gleichen Frequenz."}
+    {
+      "correct":false,
+      "text":"Ich wiederhole umgehend die Notmeldung auf der gleichen Frequenz."
+    }
   ]
     }
   ,
@@ -561,13 +1005,25 @@
      "id":"BBF107",
      "text":"<p>Sie empfangen einen Notruf einer havarierten privaten Segelyacht auf 14320 kHz. Wie verhalten Sie sich?</p>",
      "answer":[
-    {"correct":true,"text":"Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen."}
+    {
+      "correct":true,
+      "text":"Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen."
+    }
   ,
-    {"correct":false,"text":"Ich nehme Kontakt mit anderen Amateurfunkstationen auf, um gemeinsam eine Rettung zu organisieren."}
+    {
+      "correct":false,
+      "text":"Ich nehme Kontakt mit anderen Amateurfunkstationen auf, um gemeinsam eine Rettung zu organisieren."
+    }
   ,
-    {"correct":false,"text":"Ich beobachte die Frequenz weiter, um festzustellen ob sich Stationen melden, die sich näher am Standort des Havaristen befinden."}
+    {
+      "correct":false,
+      "text":"Ich beobachte die Frequenz weiter, um festzustellen ob sich Stationen melden, die sich näher am Standort des Havaristen befinden."
+    }
   ,
-    {"correct":false,"text":"Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach verständige ich die örtliche Presse und das Lokalradio und bitte um Mithilfe."}
+    {
+      "correct":false,
+      "text":"Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach verständige ich die örtliche Presse und das Lokalradio und bitte um Mithilfe."
+    }
   ]
     }
   ,
@@ -576,13 +1032,25 @@
      "id":"BBF108",
      "text":"<p>Sie haben auf der Ausgabefrequenz einer Relaisfunkstelle eine Notmeldung von einem Fahrzeug empfangen. Wie verhalten Sie sich?</p>",
      "answer":[
-    {"correct":true,"text":"Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen."}
+    {
+      "correct":true,
+      "text":"Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen."
+    }
   ,
-    {"correct":false,"text":"Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich den ADAC oder biete eigene Abschlepphilfe an."}
+    {
+      "correct":false,
+      "text":"Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich den ADAC oder biete eigene Abschlepphilfe an."
+    }
   ,
-    {"correct":false,"text":"Ich versuche Kontakt mit der Polizei aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Funkstelle und beruhige den Betreiber."}
+    {
+      "correct":false,
+      "text":"Ich versuche Kontakt mit der Polizei aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Funkstelle und beruhige den Betreiber."
+    }
   ,
-    {"correct":false,"text":"Ich wiederhole umgehend die Notmeldung auf der Relaiseingabefrequenz."}
+    {
+      "correct":false,
+      "text":"Ich wiederhole umgehend die Notmeldung auf der Relaiseingabefrequenz."
+    }
   ]
     }
   ,
@@ -591,13 +1059,25 @@
      "id":"BBF110",
      "text":"<p>Nach den Empfehlungen der International Amateur Radio Union gibt es bei 14300, 18160 und 21360 kHz so genannte Aktivitätszentren für Notfunkverkehr. Was ist das besondere an diesen Frequenzen?</p>",
      "answer":[
-    {"correct":true,"text":"Sie dürfen weltweit für den Notfunkverkehr im Amateurfunk benutzt werden."}
+    {
+      "correct":true,
+      "text":"Sie dürfen weltweit für den Notfunkverkehr im Amateurfunk benutzt werden."
+    }
   ,
-    {"correct":false,"text":"Sie dürfen nur für den Notfunkverkehr innerhalb der eigenen Landesgrenze benutzt werden."}
+    {
+      "correct":false,
+      "text":"Sie dürfen nur für den Notfunkverkehr innerhalb der eigenen Landesgrenze benutzt werden."
+    }
   ,
-    {"correct":false,"text":"Sie dürfen nur für den Notfunk innerhalb der IARU-Region 1 verwendet werden."}
+    {
+      "correct":false,
+      "text":"Sie dürfen nur für den Notfunk innerhalb der IARU-Region 1 verwendet werden."
+    }
   ,
-    {"correct":false,"text":"Sie haben keine besondere Bedeutung."}
+    {
+      "correct":false,
+      "text":"Sie haben keine besondere Bedeutung."
+    }
   ]
     }
   

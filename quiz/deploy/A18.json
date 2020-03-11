@@ -6,13 +6,25 @@
      "id":"ATB707",
      "text":"<p>Die Leistung eines gleichmäßig über einen Frequenzbereich verteilten Rauschens ist</p>",
      "answer":[
-    {"correct":true,"text":"proportional zur Bandbreite."}
+    {
+      "correct":true,
+      "text":"proportional zur Bandbreite."
+    }
   ,
-    {"correct":false,"text":"umgekehrt proportional zur Empfängerempfindlichkeit."}
+    {
+      "correct":false,
+      "text":"umgekehrt proportional zur Empfängerempfindlichkeit."
+    }
   ,
-    {"correct":false,"text":"proportional zum Signal-Rauschabstand."}
+    {
+      "correct":false,
+      "text":"proportional zum Signal-Rauschabstand."
+    }
   ,
-    {"correct":false,"text":"umgekehrt proportional zum Eingangswiderstand."}
+    {
+      "correct":false,
+      "text":"umgekehrt proportional zum Eingangswiderstand."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"ATB708",
      "text":"<p>Wie verhält sich der Pegel des thermischen Rauschens am Empfängerausgang, wenn von einem Quarzfilter mit einer Bandbreite von 2,5 kHz auf ein Quarzfilter mit einer Bandbreite von 0,5 kHz mit gleicher Durchlassdämpfung und Flankensteilheit umgeschaltet wird? Der Rauschpegel</p>",
      "answer":[
-    {"correct":true,"text":"verringert sich um etwa 7 dB."}
+    {
+      "correct":true,
+      "text":"verringert sich um etwa 7 dB."
+    }
   ,
-    {"correct":false,"text":"erhöht sich um etwa 7 dB."}
+    {
+      "correct":false,
+      "text":"erhöht sich um etwa 7 dB."
+    }
   ,
-    {"correct":false,"text":"verringert sich um etwa 20 dB."}
+    {
+      "correct":false,
+      "text":"verringert sich um etwa 20 dB."
+    }
   ,
-    {"correct":false,"text":"erhöht sich um etwa 20 dB."}
+    {
+      "correct":false,
+      "text":"erhöht sich um etwa 20 dB."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"ATE107",
      "text":"<p>Wodurch wird Kreuzmodulation verursacht?</p>",
      "answer":[
-    {"correct":true,"text":"Durch Vermischung eines starken unerwünschten Signals mit dem Nutzsignal."}
+    {
+      "correct":true,
+      "text":"Durch Vermischung eines starken unerwünschten Signals mit dem Nutzsignal."
+    }
   ,
-    {"correct":false,"text":"Wenn eine Harmonische sich selbst vermischt."}
+    {
+      "correct":false,
+      "text":"Wenn eine Harmonische sich selbst vermischt."
+    }
   ,
-    {"correct":false,"text":"Durch die Übermodulation eines Verstärkers."}
+    {
+      "correct":false,
+      "text":"Durch die Übermodulation eines Verstärkers."
+    }
   ,
-    {"correct":false,"text":"Durch Übermodulation oder zu großem Hub."}
+    {
+      "correct":false,
+      "text":"Durch Übermodulation oder zu großem Hub."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"ATF102",
      "text":"<p>Die Empfindlichkeit eines Empfängers bezieht sich auf die</p>",
      "answer":[
-    {"correct":true,"text":"Fähigkeit des Empfängers, schwache Signale zu empfangen."}
+    {
+      "correct":true,
+      "text":"Fähigkeit des Empfängers, schwache Signale zu empfangen."
+    }
   ,
-    {"correct":false,"text":"Stabilität des VFO."}
+    {
+      "correct":false,
+      "text":"Stabilität des VFO."
+    }
   ,
-    {"correct":false,"text":"Bandbreite des HF-Vorverstärkers."}
+    {
+      "correct":false,
+      "text":"Bandbreite des HF-Vorverstärkers."
+    }
   ,
-    {"correct":false,"text":"Fähigkeit des Empfängers, starke Signale zu unterdrücken."}
+    {
+      "correct":false,
+      "text":"Fähigkeit des Empfängers, starke Signale zu unterdrücken."
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"ATF107",
      "text":"<p>Womit kann die Frequenzanzeige eines durchstimmbaren Empfängers möglichst genau geprüft werden?</p>",
      "answer":[
-    {"correct":true,"text":"Mit einem quarzgesteuerten Frequenzmarken-Generator"}
+    {
+      "correct":true,
+      "text":"Mit einem quarzgesteuerten Frequenzmarken-Generator"
+    }
   ,
-    {"correct":false,"text":"Mit einem LC-Oszillator (Dipmeter)"}
+    {
+      "correct":false,
+      "text":"Mit einem LC-Oszillator (Dipmeter)"
+    }
   ,
-    {"correct":false,"text":"Mit den Oberschwingungen eines 50-Hz-Gleichrichters"}
+    {
+      "correct":false,
+      "text":"Mit den Oberschwingungen eines 50-Hz-Gleichrichters"
+    }
   ,
-    {"correct":false,"text":"Mit einem RC-Oszillator"}
+    {
+      "correct":false,
+      "text":"Mit einem RC-Oszillator"
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"ATF214",
      "text":"<p>An welcher Stelle einer Amateurfunkanlage sollte ein VHF-Vorverstärker eingefügt werden?</p>",
      "answer":[
-    {"correct":true,"text":"Möglichst direkt an der VHF-Antenne"}
+    {
+      "correct":true,
+      "text":"Möglichst direkt an der VHF-Antenne"
+    }
   ,
-    {"correct":false,"text":"Möglichst unmittelbar vor dem Empfängereingang"}
+    {
+      "correct":false,
+      "text":"Möglichst unmittelbar vor dem Empfängereingang"
+    }
   ,
-    {"correct":false,"text":"Zwischen Senderausgang und Antennenkabel"}
+    {
+      "correct":false,
+      "text":"Zwischen Senderausgang und Antennenkabel"
+    }
   ,
-    {"correct":false,"text":"Zwischen Stehwellenmessgerät und Empfängereingang"}
+    {
+      "correct":false,
+      "text":"Zwischen Stehwellenmessgerät und Empfängereingang"
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"ATF302",
      "text":"<p>Welche Signale steuern gewöhnlich die Empfängerstummschaltung (Squelch)?</p>",
      "answer":[
-    {"correct":true,"text":"Es sind die ZF- oder NF-Signale."}
+    {
+      "correct":true,
+      "text":"Es sind die ZF- oder NF-Signale."
+    }
   ,
-    {"correct":false,"text":"Es ist das HF-Signal der Eingangsstufe."}
+    {
+      "correct":false,
+      "text":"Es ist das HF-Signal der Eingangsstufe."
+    }
   ,
-    {"correct":false,"text":"Es ist das HF-Signal des VFO."}
+    {
+      "correct":false,
+      "text":"Es ist das HF-Signal des VFO."
+    }
   ,
-    {"correct":false,"text":"Es ist das ZF-Signal des BFO."}
+    {
+      "correct":false,
+      "text":"Es ist das ZF-Signal des BFO."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"ATF303",
      "text":"<p>Was bewirkt die AGC (automatic gain control) bei einem starken Eingangssignal? Sie reduziert die</p>",
      "answer":[
-    {"correct":true,"text":"Verstärkung der HF-und ZF-Stufen."}
+    {
+      "correct":true,
+      "text":"Verstärkung der HF-und ZF-Stufen."
+    }
   ,
-    {"correct":false,"text":"Amplitude des VFO."}
+    {
+      "correct":false,
+      "text":"Amplitude des VFO."
+    }
   ,
-    {"correct":false,"text":"Amplitude des BFO."}
+    {
+      "correct":false,
+      "text":"Amplitude des BFO."
+    }
   ,
-    {"correct":false,"text":"Höhe der Versorgungsspannungen."}
+    {
+      "correct":false,
+      "text":"Höhe der Versorgungsspannungen."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"ATF308",
      "text":"<p>Welche ungefähren Werte sollte die Bandbreite der ZF-Verstärker eines Amateurfunk-Empfängers für folgende Sendearten aufweisen: J3E, F1B (RTTY Shift 170 Hz), F3E?</p>",
      "answer":[
-    {"correct":true,"text":"J3E : 2,2 kHz,   F1B : 500 Hz,   F3E : 12 kHz"}
+    {
+      "correct":true,
+      "text":"J3E : 2,2 kHz,   F1B : 500 Hz,   F3E : 12 kHz"
+    }
   ,
-    {"correct":false,"text":"J3E : 6 kHz,   F1B : 1,5 kHz,   F3E : 12 kHz"}
+    {
+      "correct":false,
+      "text":"J3E : 6 kHz,   F1B : 1,5 kHz,   F3E : 12 kHz"
+    }
   ,
-    {"correct":false,"text":"J3E : 2,2 kHz,   F1B : 500 Hz,   F3E : 3,6 kHz"}
+    {
+      "correct":false,
+      "text":"J3E : 2,2 kHz,   F1B : 500 Hz,   F3E : 3,6 kHz"
+    }
   ,
-    {"correct":false,"text":"J3E : 3,6 kHz,   F1B : 170 Hz,   F3E : 120 kHz"}
+    {
+      "correct":false,
+      "text":"J3E : 3,6 kHz,   F1B : 170 Hz,   F3E : 120 kHz"
+    }
   ]
     }
   ,
@@ -141,13 +249,25 @@
      "id":"ATF320",
      "text":"<p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?</p>",
      "answer":[
-    {"correct":true,"text":"Notchfilter"}
+    {
+      "correct":true,
+      "text":"Notchfilter"
+    }
   ,
-    {"correct":false,"text":"Dämpfungsglied"}
+    {
+      "correct":false,
+      "text":"Dämpfungsglied"
+    }
   ,
-    {"correct":false,"text":"Hochpass"}
+    {
+      "correct":false,
+      "text":"Hochpass"
+    }
   ,
-    {"correct":false,"text":"Sperrfilter"}
+    {
+      "correct":false,
+      "text":"Sperrfilter"
+    }
   ]
     }
   ,
@@ -156,13 +276,25 @@
      "id":"ATF325",
      "text":"<p>Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC?</p>",
      "answer":[
-    {"correct":true,"text":"Automatische Verstärkungsregelung"}
+    {
+      "correct":true,
+      "text":"Automatische Verstärkungsregelung"
+    }
   ,
-    {"correct":false,"text":"Hilfspegelbegrenzung"}
+    {
+      "correct":false,
+      "text":"Hilfspegelbegrenzung"
+    }
   ,
-    {"correct":false,"text":"Automatische Gleichlaufsteuerung"}
+    {
+      "correct":false,
+      "text":"Automatische Gleichlaufsteuerung"
+    }
   ,
-    {"correct":false,"text":"Wechselstromverstärkung"}
+    {
+      "correct":false,
+      "text":"Wechselstromverstärkung"
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"ATF326",
      "text":"<p>Welches Diagramm stellt den Frequenzverlauf eines Empfänger-Notchfilters dar?</p>",
      "answer":[
-    {"correct":true,"text":"<br/><img src='data:image/png;base64,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' alt='Atf326a'/>"}
+    {
+      "correct":true,
+      "text":"<img src='data:image/png;base64,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' alt='Atf326a'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,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' alt='Atf326b'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,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' alt='Atf326b'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALgAAACHCAAAAACAdMxjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAAEp0lEQVR42u2cP2gTURzHv4qbUOtyw5Fq/ZOAikiLFPpnKNUiLg6dHEQ3C60iiDg6iIOIiAgODS46RYdS6iAiKRn8AxkuSOly10hLjxueSxTqJjhcEt/dNbXee/d7/UG+S5KDvn748fJ+f/P2/AZP7TUN0AVvqvzFNFlK8PlPaVb7ctc1Db7kpFnt05MKMfjs4/C1OCsAAK5XEylW60EPLbiYmw8/VubCVwdenQpBBdyyD0QfO8ByitV+4icteEIfgUqK1UYfjlOB79vyqfCBmrD+e7XhYSruDhZfCrDbN/nW4A4ApDrJqcGD6FM/D+TTnId0au5xO/r0Kc6OPTWNtiPw3Er4WstbAGABB///q0mq5lYZCIoAUPIGlFYrjZSpwJsWv/V2pjKOr3P2TaXV/Gr9HC144fX9N2+AyXtqBzFhrNJyQMPv3A30Faj+rT5woKCB2nysklKjt09Tge9TX0KS8ViFgdiC690qItOI8pd86mkEF6/m/UB9mW00/TwL8PINL1PqmLSBly8AyE9MZQnblwG4ewOYvLf8YIoqVtF1qix6uP1uGAFZvqcLfB6TjwBQF4SU5VZxDaSxiqY97iA/AeDqALdYxUe/BcCi+mpq2yoOyEytF3wNgyzBhY/DxOB69ng9sI8BgGj0UlU19Fh8HTkLABZOLhFxawJ3oFaPMQbu4whLcFFjavGG14w4ubn8DeR7AfBz+fXQ4fNz+V/JHb4m8G84zhJcrDC1eMvhswNvOXygdJGsI6ED3Ed/690HVsmy0w7Gyacn1LSGHBWuVnDXb1ucV0diI7B7m29Hpzm5/DpOtdIeXh2JVRwlw9UKvowzLMHFGuj9pg7whmf3KS9iAtxBzkRDWh38r8MH3JLxSc+dy5H85uKVCh9wuWzIKVYxUDbUAx7LIvjEKsvtLAJAj00+aJNaq3IR6/IE2QiaBovLZUO60Tll8B8msggN4KYOFWVwI6UJHeDr8qHCCdxAL0IPePRQIRxRVQQXaxGL+1UuBaF2LyIUnyCr3YsglyJ4uxcRik9BKNaL4DOiWov2ItgUhIRvoBehA9yYw1cFN+bwVcHl0gSx1L6cTmwwiM28Si2WRXCZV3E3yUex9IBLvQhe4FIvghd4ohfBZV4l0YtgMq8iVuK9CCbzKo3ASC9CHdxQL0Id3KDDV7Y4T/DkCLMgawGpgLvJsuHC+RIDcCfIJ7KIgEOy7EQz/FAc6irm8k01cFFL9h9YxCqNzWSh9hKHWGUjsBOUOn6wvUOl3yp1XDZ5y0N68IqBgVod4O5HI/M16uAvgqFk8O0Ws/P5seteUoKL2ScYSz5enKlkBv545K48DZPqVBFLz6oYupMZ45byq1XYubHBwfDk2tPhvsNDgb3NIgEAe//mVs+3+zMltX+APjR1qdAZvLj6j3Us6iuG3noAYOcGzowX0HmrXCfG+rc2PWmjdLb47lP5+6Dsl/mAx8T20owueBe8o4ojJ4ocwcszfr+U0eq9GCZL1fBabv+ysbjrYF2+S5fNOX7xAzD0+e9nNhZ/OY33C9JnNuDWfvTJOS4b8Li64F3wLvhukRXNZtk4IIhocZgPeEx/APP6KqDodKPNAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atf326c'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALgAAACHCAAAAACAdMxjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAAEp0lEQVR42u2cP2gTURzHv4qbUOtyw5Fq/ZOAikiLFPpnKNUiLg6dHEQ3C60iiDg6iIOIiAgODS46RYdS6iAiKRn8AxkuSOly10hLjxueSxTqJjhcEt/dNbXee/d7/UG+S5KDvn748fJ+f/P2/AZP7TUN0AVvqvzFNFlK8PlPaVb7ctc1Db7kpFnt05MKMfjs4/C1OCsAAK5XEylW60EPLbiYmw8/VubCVwdenQpBBdyyD0QfO8ByitV+4icteEIfgUqK1UYfjlOB79vyqfCBmrD+e7XhYSruDhZfCrDbN/nW4A4ApDrJqcGD6FM/D+TTnId0au5xO/r0Kc6OPTWNtiPw3Er4WstbAGABB///q0mq5lYZCIoAUPIGlFYrjZSpwJsWv/V2pjKOr3P2TaXV/Gr9HC144fX9N2+AyXtqBzFhrNJyQMPv3A30Faj+rT5woKCB2nysklKjt09Tge9TX0KS8ViFgdiC690qItOI8pd86mkEF6/m/UB9mW00/TwL8PINL1PqmLSBly8AyE9MZQnblwG4ewOYvLf8YIoqVtF1qix6uP1uGAFZvqcLfB6TjwBQF4SU5VZxDaSxiqY97iA/AeDqALdYxUe/BcCi+mpq2yoOyEytF3wNgyzBhY/DxOB69ng9sI8BgGj0UlU19Fh8HTkLABZOLhFxawJ3oFaPMQbu4whLcFFjavGG14w4ubn8DeR7AfBz+fXQ4fNz+V/JHb4m8G84zhJcrDC1eMvhswNvOXygdJGsI6ED3Ed/690HVsmy0w7Gyacn1LSGHBWuVnDXb1ucV0diI7B7m29Hpzm5/DpOtdIeXh2JVRwlw9UKvowzLMHFGuj9pg7whmf3KS9iAtxBzkRDWh38r8MH3JLxSc+dy5H85uKVCh9wuWzIKVYxUDbUAx7LIvjEKsvtLAJAj00+aJNaq3IR6/IE2QiaBovLZUO60Tll8B8msggN4KYOFWVwI6UJHeDr8qHCCdxAL0IPePRQIRxRVQQXaxGL+1UuBaF2LyIUnyCr3YsglyJ4uxcRik9BKNaL4DOiWov2ItgUhIRvoBehA9yYw1cFN+bwVcHl0gSx1L6cTmwwiM28Si2WRXCZV3E3yUex9IBLvQhe4FIvghd4ohfBZV4l0YtgMq8iVuK9CCbzKo3ASC9CHdxQL0Id3KDDV7Y4T/DkCLMgawGpgLvJsuHC+RIDcCfIJ7KIgEOy7EQz/FAc6irm8k01cFFL9h9YxCqNzWSh9hKHWGUjsBOUOn6wvUOl3yp1XDZ5y0N68IqBgVod4O5HI/M16uAvgqFk8O0Ws/P5seteUoKL2ScYSz5enKlkBv545K48DZPqVBFLz6oYupMZ45byq1XYubHBwfDk2tPhvsNDgb3NIgEAe//mVs+3+zMltX+APjR1qdAZvLj6j3Us6iuG3noAYOcGzowX0HmrXCfG+rc2PWmjdLb47lP5+6Dsl/mAx8T20owueBe8o4ojJ4ocwcszfr+U0eq9GCZL1fBabv+ysbjrYF2+S5fNOX7xAzD0+e9nNhZ/OY33C9JnNuDWfvTJOS4b8Li64F3wLvhukRXNZtk4IIhocZgPeEx/APP6KqDodKPNAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atf326c'/>"
+    }
   ,
-    {"correct":false,"text":"<br/><img src='data:image/png;base64,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' alt='Atf326d'/>"}
+    {
+      "correct":false,
+      "text":"<img src='data:image/png;base64,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' alt='Atf326d'/>"
+    }
   ]
     }
   ,
@@ -186,43 +330,79 @@
      "id":"ATF406",
      "text":"<p>Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?</p>",
      "answer":[
-    {"correct":true,"text":"Der Quarzkristall"}
+    {
+      "correct":true,
+      "text":"Der Quarzkristall"
+    }
   ,
-    {"correct":false,"text":"Der LC-Bandpass"}
+    {
+      "correct":false,
+      "text":"Der LC-Bandpass"
+    }
   ,
-    {"correct":false,"text":"Der Keramikresonator"}
+    {
+      "correct":false,
+      "text":"Der Keramikresonator"
+    }
   ,
-    {"correct":false,"text":"Der RC-Bandpass"}
+    {
+      "correct":false,
+      "text":"Der RC-Bandpass"
+    }
   ]
     }
   ,
     {
      "name":"A/TF410",
      "id":"ATF410",
-     "text":"<p>Das folgende Bild zeigt die Durchlasskurve eines Empfängerfilters. Es ist besonders für den Empfang von</p><br/><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQUAAAELCAAAAAD198w9AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAkSDQh4AAAAHdElNRQfkAQ0PJQqNcXydAAAZEUlEQVR42u2df2hbV5bHP+PpwrK1LD3sd8N2s15pERHDTjx2kbczZUOqQjB0iknKJls6JFP3jxAobcbJlEL+SGj+2hAmHnc2EPJHMpNSGBJIQxgKxhA3BGYpFrWxhy4CgYQJk+U+i6cfnj+97B9PsiX5/ZJ0n2Snc6CNpXffefd9de85555z7rnf28SepOC7Q99rQEHyXXp3JxS+q9RX+0P2uie7AoW6qfDdA6TP5jsB3zEoXrD+yazko4et4XAvlpx7xFBo8LD4zuiJ718CkHcv/f2ttZ8C8O+bR2b+6x//9/FvNn76Yq971y2yxsLSzLLI/HAqCZnEy8CRz2HuzQ8TXe9Oj0afhcJKWMjE+ELyxh3Gvhmlv9irudCjx1oo5GMIQF4+ef7+zXU28r9j+ZvfJJ47ueD0QlXpGANi+fvhK5y5AxjLJqWHZ4R1X/p2/4Yb72Kknw23y8X9G44cahdcWfhoUO1EMeLGYuOSPQwWCv2rgBkhBowh+498DpnUx1esIbpwM07JrQfhLHHHBuFSuBTOojteBsIlAz0MJeujwzP0sFs3rAauLUrG5IQLCkPLQG6qkAOKUbFRBBKjT6ttQvEHLnJSCuTRsUtuk0eaU2PXcaVM6uIZ1wZez4Crtx5oroJFPj7rcMWymlLRG9woHU6V7sn0Qh6QmfS9+VPVNrms5sJbgMgXXTsoEnm8yBh0vy5MT9GZ1YR7NwacHvICUiCTh2ZnuSjExbNRwgeJ3hwNlzhXGz1Dnq8Q9nzHfk8eHVOo/VtfQIDgyvm1YQFn3lobBvnzn5toSrWW3jmLIKmqI6iOpdqQ2nUqMlil3dc5i65QsD/LXkEhWPorCvBXFCzqGQreXhzps50CeqFzFq3R+7kiESieig2GnCxSaVZYWM5FgOKxyS6s77uFwgbAXO7JglH9YhEYj8DUAABlPV3940EuUlzcvnFxJnUoNhaw5u4WCv3IX31mNH25CMzXPly7Zn+ncfcu8cnzolQMrnfdkQsS5o5eM9q+P3tt9F44stdRIPxkarH9u3Uw3skGuBTpzowQWhUDPfx6dGQwVIFQpZDLrS7bjA89OnYwGaoAUCh/tZQ3thoFZUd3B4WMaf175GyjnJNm5R4MrQPXTuyHoXWGRqL1SkEel0uz84BuPMkkghKSXUEhPZMF0KebtZ4QJKtv+9nR49YfjW8qEBPRW9fAYPHyxaCUZjfkgpy5C3Dk9kfOb2HWRr3YaSclrvzhCMDdaRmQERU4CpLM0bsA52Ym/N1hM+wnZk4DzL+bCWZOBI6CSE/lAc6918lwTnx4AnTmp9OBdDJwuZD5cBHgyPkOfkWJSMyY8wbMF28HIRsCHwsPF3VAT3UylIUAkdMBFh8G0cmgUZC3MGA8nO+cVeoEwBdByMegUXic1UG/hALDLzKtA4tLexCFBxhwbCLbMSOp9SdTAHf2HgpyAdA/RN/olJMwnzKtAwsBTImAUbhvAKmEoqhMMgUYj3uDgo+gT8Th+xzAKWS847GAFoGjOpB3aFDRzSBRqHg3Kdp/LZ8AJ/zZjAMe1/PA4RRwy2FKhAyNNskPCuttx0TWFoGjSOHDOVD2wU8cBbIOP/mgj24W7L/2YzvG9DnngHKoEgLMtN33lRwAadb0p2lnBlb38ulQhZDjwCtEi2ko6AasVEJ2rfJ6usbN7jFUyOkO7+EjA1g+fkd3d5Y5Xtbbd7K5sGubq278yd7+9jEWRIGoW2hey0cN3b5BFohrmGR19+C+ljfiAJqjgNMWGTfDmpkFY9y2Vcli4UaG00jZ9KZf7nvm3uDZgQn771/p6+s7s7m5ubnvlx7PeNb3e48WB85sbm5ununr63vFvsH1Po9ubv5+35f2F/xIxyGvESiwl85mHpjET4DJr5KbBPIZn42byTGXJVCrqWKAPtg5nzoaxGVct02BopADGFbFrQgwrNf47hkU8kBUmY8sAiCiOFuPuxeFmPVn5xZ0lWJ7DQW5BIwCCBX+BYtGgZzqZWWQKJh50CcBpLqxMKnDctvLph6gUDGABCgdC4lwAEoiSBTuAVHVTGWsynmvoLDKlnBUR0Krct4jKGTm8W8T+icTWG7Xeuw+Cho4ul86IPUcg50ROgHMCGJAuG2vUtdRWAPYr5ztfqCkeKIFiELagFp6gkJKAsbKnkFhFbx9qq3TAIDi0HWAKBSDYTsI8LRTLl1DIQfEx5SzHY6jfG0dHArSBDT1uScihnIzJDgUzM4jtM5UUms2BYdCHkD9hLCsMcVKIjgUViCAxRRVE0StkggOheWgUEiCaiURGAoyB0GYC1WjXK2SCAwFYUJVuUtU+B0bN1DbKYn2N20Gm8URHwYrnbVzX1O4xmI4DnZhoIoRaP5CW1t3MyUgptJcqA0nEQPymR0BrxCB5i+0tadzwWD7F/Nzv5cI2Z4RVVWpEGF/uSxteL6fQNUND+Aj1u6ZxVGs/TEK8MCmm4Gi4Cl2pBbZ8Z0J6CO1T54xdc1TtEW3XBUj9m1DcS+5UHZ6iK88aOMTd+G2sZjf0aAIGA8fbfQDbGS9Enc3jNsehtCi9Y4b9G8YQO7qOmzUP/ZJ9lMPGfzUaUj6qWZ34wO3Hyqc1TF2ViQxgK1vDe/xZPhsEC4RXQQ7hp4sMP7b3uvjZyxUWBaOokEAvJT6vHZdSAFSyMNZOPJldeeLHD1Wq0jSzEdIhIS1n8wet79eu2809TmAFJJ35yH+WEght/sluHphIeGcKiGkYO5Nh4u+dwa4SuRw3XVh/VcCYmyVc+h35CNA1FlBTs8R1Z2EAkEMKJlCVO+tkqUpHfvp9gJBWU1rBqgLyzVRP4qjdEGhkIMg3PAWKV9JBIXCAFRXEQGQcr6BRmVGOudhSzHVxW6CnBHRoLY/JqM4JvPuKhSCpYhifkGhUCE44Witp/aAjpALqP/FtimC2j0zAaEgcsDBwFA4yN7QlED8rcBYp+JQ6rJ/oQ3KlAKJS9VIAwyFgZmAUFgwghQLltNNYWAmIBSeQPteQB+kAV/tehS+oc7dFgDtBx6pUxLBoCCzBBOXqlESayPOrkbB1ANcRUDV9agufB8MCnlDfR5aA2lhVKbGB4OC4uQrGyopfUpAY4FgVYRVbze/y1EoAoFWoBMvozJ9LBgUviFYFVHdLLK7UZA1JRZsicq8MvaBoLAEMEK991vZXpkqjQCGsuIkgaBQhmYXqWqn/ODWc3YtCnlgvH4fpcJ9U1UaHqdZSQQds24HhYYEDoX7pmocI8B6w1cd1IkPBIUiTeZtAFJSQ2GiWyAoBOtus2gUhaoyCBRkHni9/hvhebRCy0mBIyhUlf5i1l6rt5JZ3x/TAMrSrLOhsxseHa5Q9mhRKu5o0JjUVvHspqNO8ZPFcfWCL6iqpBu6Aei1XKbqZ6+bWnnE1h1Nt3lz6SCLA/1kzFEPhSqEKjPRU1vXQ6zeBE4OhaiEqBacmYkec2YfqhDKXTsdDVFxri7TzGL9GnDsYF2/lhdODjnfHgKrY7bkoyLJf+771qPFK283lgbp6+v7tqE8yIHOK5K8cqbh49d9fX191+sfct2rcMrml/u+br8iCYZX2NVsmJGrgN7oh/f0jnn7jfLFho9WOYqGh3jPKqcW/nJfPWVxgzMhB5xsXFf7CLV76Yim2uDiGOoMhiA0ZZHmHYR+NFqriwKVUboAUMgssjO7QEFOfLHx8yBN1XoCXkd4s9eam+v1Y0EqWUc0V8sfoGme93wd0SDbcoBRv6IMxvU2BsocsAHMiALdOWVLR1laTwAo5IDR4I/tElGUJbQEgMJTgkzm2SKpsGaRehTkNwS/rgbEIWBJzaoygLFQIoiCAzspCZhqZp56FEwD9A60lm8KAVk1CS0B5S8EG56rPkOdIlKPwgpdUREgRlElHtWjUKA7Q8F6ihqzST0KqwRRk8aO9lPdzb0LUcjRFXOh+hQ1+SzqUSh2FQU1a2vlKGTyoEe7gkJUh5ISs0k5ChUDwl04TJFqkcO1XYlC91SEQotBOQplAs39baCIoag0iXIU0nRLOCoUj8pReEpXVpSAlTqlxA2tHIXumQtWxFaJwaAaBWmCHkSVJjuK6oqqIqtGYS0L4W6spcDKA86qGAyqUeimorSelN+FKOxN8ne6jidtDcs77CzepsY3WNr5lYgBW1U+Ku6BDwkdnq6zFNVcp5+mZWo9Ab0/g9Ygu81K+KmHayxPPuP6jEq0mA5RGa61qYSwzLNcmmGTSqhC/F7MzdNnVnL6oP35v35O17n/gffpOvUH3+g7IuR+8lnaOcGnIaHF+yF6BxVJBFz02Ot/dnRqoAwD5fyMAReb8l4HyoXLo1PuHAofHHvN8xlN3wyUCx+w3bkHCx7dLOSuOV3yk8vieWzNgbc3NzefbW5uftvX13dgZ+tnPnJZvvRoceCMzV0H+vq2Em28T9f5upNcFm/pqFljRgK63W5S4SuXxVWK2paCE1pdaZJBTzlc6CSXxd0glkDeklmCFQy7+p7S1xLYVcSLkt2KYYztVWW+/ei4P3vBTXgLIFo1lORX2G8PCXtmcegeuSwyvN/mp46yvaoMBVvZsOJpDdZQEkWsNU4zUiXPLA7vM602bH7qEepWle0f96bYdswRXE0aOxpEyapSLQrS7FKMskYhNatKtSiY2W0Z0RVKhJUcIKAWhTyK63t6UgyM/C5DIUe3onN1KChwPapHoVvuNovU5H6qRaFLKU11NIgKB6z6sdBNRQkx0HfZWOi6ooSQjtH5xiGlKKxlYbQ7McoaJaLNG4d6jkKObrpeLVKS9agUhQLdi1HWKIICJaF8LES7jEIUBXnASlF4iu2KMlAaYbfNCJNgzlBxozGg2KmSUIpCEca7uooAxPgukwvpfJcRqFG+07QepSi07+zpjIxOB4NKFFbpvliwnvjVLkJhCXit6yi8Vn3yLkFB5un2ihLUGI8KUTABXdmp9r5pWAc63CahEIWK0aUtAY0kop2XzleUvwDudUh8aA//p+s00SFq8am2fwI/KAzprktXidQiEtJNW2rrm4x7xaY0L9NHjjpFIatV4yVxj3khHZ0f/k5U8WigGx7JA62X2miBhX/muvEne++H91iQ3j40A4wO4mO+yGjjiu+W3lkcgjTnhpyvrw+x/ln4vVDuMwNOR20uw/q1+HuOt68PsT60fu3EfpeHADPh96zGzZS/Cfo066vzp/td+7n+9K6TFPWTxeFV6uPZK29vbj7r6+tzaugji2OfZxbH2063HrAeHHhFEq/hYmId4h11kNKi5MEB0/CsQhFxenqsuk0i6IokfiiNpbS6TxqdLq7VVKGg4350QqN0uk3CBYUWHTirdGd79U6KVp+uHgUJgvTHc74ZZeYhfrgnKByOw3JHKwkHTSl/l3/tOMkWfts83Q7ab5GIZTHynUSDHMaCGCme/cHHrcyJFbq3R6aZDtLhVmOnGTExs3x5dfQN/zh8Qa/EgvXchSBQAHF4kmX/ThyTYM5t9kMDdKiinCxoufRJPjo96X+yleh20L7WU8EgkO0kJuGEwidfpD71P8BLkbRRO7e52yRgWDdgqYPfwGlGfLj8edK/xRAupoHJ3qiIamW7lQ5qN9mOhcyn11ceYMaKkSm/4yEH+us+26qn174wWFd/tvkcZkQr+s6O0NgAoydiAYCYARuh9j0ctmMhcR2Ot8LF7L4DXinZoCAFZD5dMrVDx1syALqc0VRPnT7ZZkYIyY3Uo7HXYw9P3vPLxsx1PaOpnhIdBq7tZoSQs8euA3J6ZsTnmxVNiFnDqCc0tkgup1g6LpUuAYiZvM9oh2aWoD+oSo7+qNRBOdEdKEjY2iktwj51sFkyehGi3KaDnYXvd6AgQJZr6Xqa35K0Br1FIQYUFWpKKRAD5r1YYRByfg0GjS7WG7CjqG50ErjegYIAKJ1tHddoL4VCImp0UmbV1mqaeDiMiWZWWvEY9NZwii1iqEVBLj1KjiSsYeFf90V6ikJnZGsvjK3cRhsdGRN+dV+E7ie9NtLoXcUoSCE++kgurfwixuRbAr/2qVvSq58lemeOqijW2XReY9f++gt27aRATIx9lM49GDyOn6hMEXdHk/AhbL2UcnOF9EaKYbm7vMau/fUX7NoJJEKkc7HPAQjppkeVi4huxJ1/Bylk3JdhJ11eQkb3O1yXW+PV9ECh7CQ/7bM4btzJT4c+0I1zVwCuXojjGm4dnQfGTds24RJhyHqosXCWOKWwy1Oii8QdLodLhEsGMJ53fwhZ/1UopMjMvnxqtvSb1MrZ9xJACB9epHFHo6m4f6NYCruz6H+6ENPY7zJiink3Fv0bj7IwFou4tICiYwEE22oNB77d/H3f5uamlVTgeaLKt/v6+lwTFJ7ZlZBobOF1osqzV9xZ/LKuHoWa/IUcCTkQBxm1Phse24Dy7mspich67bn3tNVF04kqzWRtsvVQRi3lLwyAQANhlsFbU8oyrigIX1UoPE9Ucd+0GwPK7S7tbS3ocun9/tX8+9G8NY+8NKVI42E0+emc5/LVXc0MAumWnKVeKAxEl0wtvPRFdNzX4kA+Ab3be+eaaVg3eNKur8t+NVU7edcfV3OxxytKABE1WGy3eL4tCnIJBnMMwIQfHhV6ldFUT4cW299MZ4vC0i9KGHqURf7gB4YcvQvab1OS9g9YsZ8RD7T7Ty4mmJv1FW7K02vvAlg6ZsXX2N1J9hG6hLhzKgETmq+aJwu9Clc3UHS8/VQOp5h1ZAXgGz86Ti7D6wKCPr7agxKHYLnNHjigIA9+kZZcLfnYKSvNLYust3oi1n7FJqfsrvNMHv6bWxd9WAFiBfXHVbdLj2t/tDYonHJZxB/TBaIJHxaDvN3rV6/SIHC7Zj22Niyds7uSYxMJ6YPb/XnUH+DeDhWA+Rtt3eqSAezP95q5A5bLbVfQbKYdIe2Mgj9emcuLgB7p9dvXKHs504aQdsyDzvjao5j+9C7o53bJWDgB3L3cRka0PQry6ugPR1Mv/cyLoVy4CYxe8XFod/BUYeYEcPdW67faxqbE0cjFZGEwdzu17D66Hs8AR2Z6/f41EjPmPHyWbNnNYBubmjP/CMjk8Tfun3G7+d5ZQzfGzybw3BDUDYoixdlcVjfOFs60eKv9jPDnMrn6joFx4tKEFRXqNckCJhO/PmJgXL7RoqKwRWGCN+YyGeZ+Vkw535l59YKOfmKmzWWcchKgwcRvT4Dxwc8yLSkK+7HwaWwqlfqHKS45J3fNHV3EIPV5r31MO8CYOQ3cPep/lw9OFnQyeWktZFfYGSw3XDp92QCs2BW7Qy7UYLgUvYCenZr+uf8fyHFvbdJxCSGQj2/PA/rt2mzYDXIBdBMBiI9GpgzduPDFtG9d4WQ1uZnPmV+dnQfityfosU+hkYza4J2Y1Q1YfOd9vwaU7ViY+8T619Qu7ZR9927PA3DuvKjCpWJGVJRutDkeW7gA3Lx55HKjQ7SV8yMmHl073c8QO2Mtcu3isgEwfmmsbqx0PiMU51Anh0dm54H5+ROnJqopGeCYZGGbxcH5jeL12t/1PZybtcaBfvJKS52SKs6592pQ2e4xiImJqxcA7t49cnbCa3W8Uy4IQHxozXfLm2gdVSLTN954cx5AP7fcGggQ9nJGaZ4RujB+hFDd2370p9M6wPybb9zIZJAu6TYOOwMSM9vsRIgbq0uR3Fbw/1jyMdahGVttzHuO07oMFEqrTvq7PFAeKEOBNAOUnYVDmdw9t5BueWBZvz9Y16eB8sBk0cr5mp8nHuNgrNJaLksj3ag/UUW3cXF6nmTixy3q+9SWFkinqVCKQy7LThSazQQp5Fqd7KqEgEpIMyuh7a/qP9mT5p1MXHEVkV4PoBKiQmirXSVUCWlmZdi0+Frddgqh+RkLzz99p07dchSuzwkK0tdFR3X5nKDgYg5IhKeK3ZsoSJDVNUL1H6siydz222YypNNzmQwC5rzc0nsTBYGcviUBZCoNcG9SAulfbNcI+HTlxk9OTqVSb0gys16xmr2JAnOfLKwKAJMCSAYMgFBdVufSSIzP/ry8kHtXJi5bfkjnaeHnNL7dR5mHuerBLRowl3vLSjDWGOT94n42JifSJPIMI8SDHy5NpEP58nG471hhZW+ikJhKvl8EwGRsbuqkwHg8MFgoAwcroScLB1kYq2Y/JuIrE5cHY2+OJOSd3POFwrYNqPGrhxfPABcphQHOkJk9eYblQ1TN4NgyYZLxhcTS4gMndntULmyT8Vk2BfDgf/78+Nd6AeTRl68gc2/VVl65UUoFJu/w8PTzay/oF09MQS6ugRgzgHdjF2EtIqpLdVmKEh7keD79aBInCblnUSha/5jGWzP5q8Sq2mGQj3O/TUhmUjCgmyDfDR+mVCA5elIbwymevWdRqP6smv5YzM5Uq7iZemHumvbJG+9ezaWgbEy/+upo8bKQYWAye0rIaQfD4fuXev0ybdI/HfgRwF9+cPjFf3nxx3/7b9EXYejFtzd/8KO/G3kp9PqPXkSPvXrg9f+Y/lf+8s8/HmI49taLf/m/5Eu2zJ7TlXW9k8RHMvcenhG2b1/9f/2L+whRPadjoUV6zsZCm/RXFAD+H2Gx7UtoqEA9AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atf410'/>",
+     "text":"<p>Das folgende Bild zeigt die Durchlasskurve eines Empfängerfilters. Es ist besonders für den Empfang von</p><img src='data:image/png;base64,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' alt='Atf410'/>",
      "answer":[
-    {"correct":true,"text":"SSB-Signalen geeignet."}
+    {
+      "correct":true,
+      "text":"SSB-Signalen geeignet."
+    }
   ,
-    {"correct":false,"text":"CW-Signalen geeignet."}
+    {
+      "correct":false,
+      "text":"CW-Signalen geeignet."
+    }
   ,
-    {"correct":false,"text":"Breitbandfernsehsignalen geeignet."}
+    {
+      "correct":false,
+      "text":"Breitbandfernsehsignalen geeignet."
+    }
   ,
-    {"correct":false,"text":"breitbandigen FM-Signalen geeignet."}
+    {
+      "correct":false,
+      "text":"breitbandigen FM-Signalen geeignet."
+    }
   ]
     }
   ,
     {
      "name":"A/TF411",
      "id":"ATF411",
-     "text":"<p>In dem dargestellten Diagramm beträgt die Grenzbandbreite bei -60 dB etwa</p><br/><img src='data:image/png;base64,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' alt='Atf410'/>",
+     "text":"<p>In dem dargestellten Diagramm beträgt die Grenzbandbreite bei -60 dB etwa</p><img src='data:image/png;base64,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' alt='Atf410'/>",
      "answer":[
-    {"correct":true,"text":"4 kHz."}
+    {
+      "correct":true,
+      "text":"4 kHz."
+    }
   ,
-    {"correct":false,"text":"5,6 kHz."}
+    {
+      "correct":false,
+      "text":"5,6 kHz."
+    }
   ,
-    {"correct":false,"text":"6 kHz."}
+    {
+      "correct":false,
+      "text":"6 kHz."
+    }
   ,
-    {"correct":false,"text":"2,5 kHz."}
+    {
+      "correct":false,
+      "text":"2,5 kHz."
+    }
   ]
     }
   ,
@@ -231,13 +411,25 @@
      "id":"ATF422",
      "text":"<p>Um Schwankungen des NF-Ausgangssignals durch Schwankungen des HF-Eingangssignals zu verringern, wird ein Empfänger mit</p>",
      "answer":[
-    {"correct":true,"text":"einer automatischen Verstärkungsregelung ausgestattet."}
+    {
+      "correct":true,
+      "text":"einer automatischen Verstärkungsregelung ausgestattet."
+    }
   ,
-    {"correct":false,"text":"einer NF-Pegelbegrenzung ausgestattet."}
+    {
+      "correct":false,
+      "text":"einer NF-Pegelbegrenzung ausgestattet."
+    }
   ,
-    {"correct":false,"text":"NF-Filtern ausgestattet."}
+    {
+      "correct":false,
+      "text":"NF-Filtern ausgestattet."
+    }
   ,
-    {"correct":false,"text":"einer NF-Vorspannungsregelung ausgestattet."}
+    {
+      "correct":false,
+      "text":"einer NF-Vorspannungsregelung ausgestattet."
+    }
   ]
     }
   ,
@@ -246,13 +438,25 @@
      "id":"ATF424",
      "text":"<p>Bei Empfang eines sehr starken Signals verringert die AGC</p>",
      "answer":[
-    {"correct":true,"text":"die Verstärkung der HF- und ZF-Stufen."}
+    {
+      "correct":true,
+      "text":"die Verstärkung der HF- und ZF-Stufen."
+    }
   ,
-    {"correct":false,"text":"die Versorgungsspannung des VFO."}
+    {
+      "correct":false,
+      "text":"die Versorgungsspannung des VFO."
+    }
   ,
-    {"correct":false,"text":"eine Verstärkung der NF-Stufen."}
+    {
+      "correct":false,
+      "text":"eine Verstärkung der NF-Stufen."
+    }
   ,
-    {"correct":false,"text":"eine Filterreaktion."}
+    {
+      "correct":false,
+      "text":"eine Filterreaktion."
+    }
   ]
     }
   ,
@@ -261,13 +465,25 @@
      "id":"ATF431",
      "text":"<p>Die Ungenauigkeit der digitalen Anzeige eines Empfängers beträgt 0,01 %. Bei welcher Entfernung zur unteren Bandgrenze ist im 10-m-Bereich noch gewährleistet, dass der Träger sich innerhalb des zugelassenen Bandes befindet?</p>",
      "answer":[
-    {"correct":true,"text":"2800 Hz"}
+    {
+      "correct":true,
+      "text":"2800 Hz"
+    }
   ,
-    {"correct":false,"text":"280 Hz"}
+    {
+      "correct":false,
+      "text":"280 Hz"
+    }
   ,
-    {"correct":false,"text":"28 MHz"}
+    {
+      "correct":false,
+      "text":"28 MHz"
+    }
   ,
-    {"correct":false,"text":"28 kHz"}
+    {
+      "correct":false,
+      "text":"28 kHz"
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"ATF434",
      "text":"<p>Die Empfindlichkeit eines Empfängers kann durch</p>",
      "answer":[
-    {"correct":true,"text":"starke HF-Signale auf einer nahen Frequenz beeinträchtigt werden."}
+    {
+      "correct":true,
+      "text":"starke HF-Signale auf einer nahen Frequenz beeinträchtigt werden."
+    }
   ,
-    {"correct":false,"text":"gute Erdung verbessert werden."}
+    {
+      "correct":false,
+      "text":"gute Erdung verbessert werden."
+    }
   ,
-    {"correct":false,"text":"zu starke NF-Filterung beeinträchtigt werden."}
+    {
+      "correct":false,
+      "text":"zu starke NF-Filterung beeinträchtigt werden."
+    }
   ,
-    {"correct":false,"text":"fehlerhafte Einstellung des BFO beeinträchtigt werden."}
+    {
+      "correct":false,
+      "text":"fehlerhafte Einstellung des BFO beeinträchtigt werden."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"ATF435",
      "text":"<p>Was ist die Hauptursache für Intermodulationsprodukte in einem Empfänger?</p>",
      "answer":[
-    {"correct":true,"text":"Es sind Nichtlinearitäten in den HF-Stufen."}
+    {
+      "correct":true,
+      "text":"Es sind Nichtlinearitäten in den HF-Stufen."
+    }
   ,
-    {"correct":false,"text":"Der Empfänger ist nicht genau auf den Kanal eingestellt."}
+    {
+      "correct":false,
+      "text":"Der Empfänger ist nicht genau auf den Kanal eingestellt."
+    }
   ,
-    {"correct":false,"text":"Es wird ein unlineares Quarzfilter verwendet."}
+    {
+      "correct":false,
+      "text":"Es wird ein unlineares Quarzfilter verwendet."
+    }
   ,
-    {"correct":false,"text":"Es wird ein zu hochwertiger Preselektor verwendet."}
+    {
+      "correct":false,
+      "text":"Es wird ein zu hochwertiger Preselektor verwendet."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"ATF437",
      "text":"<p>Welche Empfängereigenschaft beurteilt man mit dem Interception Point IP<sub>3</sub>?</p>",
      "answer":[
-    {"correct":true,"text":"Die Großsignalfestigkeit"}
+    {
+      "correct":true,
+      "text":"Die Großsignalfestigkeit"
+    }
   ,
-    {"correct":false,"text":"Die Trennschärfe"}
+    {
+      "correct":false,
+      "text":"Die Trennschärfe"
+    }
   ,
-    {"correct":false,"text":"Die Grenzempfindlichkeit"}
+    {
+      "correct":false,
+      "text":"Die Grenzempfindlichkeit"
+    }
   ,
-    {"correct":false,"text":"Das Signal-Rausch-Verhältnis"}
+    {
+      "correct":false,
+      "text":"Das Signal-Rausch-Verhältnis"
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"ATF438",
      "text":"<p>Wodurch erreicht man eine Verringerung von Intermodulation und Kreuzmodulation beim Empfang?</p>",
      "answer":[
-    {"correct":true,"text":"Einschalten eines Dämpfungsgliedes vor den Empfängereingang"}
+    {
+      "correct":true,
+      "text":"Einschalten eines Dämpfungsgliedes vor den Empfängereingang"
+    }
   ,
-    {"correct":false,"text":"Einschalten des Vorverstärkers"}
+    {
+      "correct":false,
+      "text":"Einschalten des Vorverstärkers"
+    }
   ,
-    {"correct":false,"text":"Einschalten des Noise-Blankers"}
+    {
+      "correct":false,
+      "text":"Einschalten des Noise-Blankers"
+    }
   ,
-    {"correct":false,"text":"Passband-Tuning"}
+    {
+      "correct":false,
+      "text":"Passband-Tuning"
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"ATF439",
      "text":"<p>Ein Empfänger liefert bei einem Eingangssignal von 0,25 μV ein Ausgangssignal mit einem Signal-Geräuschabstand von 10 dB. Wie kann diese Eigenschaft angegeben werden?</p>",
      "answer":[
-    {"correct":true,"text":"Durch die Empfindlichkeitsangabe 0,25 μV für S/N=10 dB"}
+    {
+      "correct":true,
+      "text":"Durch die Empfindlichkeitsangabe 0,25 μV für S/N=10 dB"
+    }
   ,
-    {"correct":false,"text":"Durch die Grenzempfindlichkeit von 0,25 μV bei 10 dB Rauschen"}
+    {
+      "correct":false,
+      "text":"Durch die Grenzempfindlichkeit von 0,25 μV bei 10 dB Rauschen"
+    }
   ,
-    {"correct":false,"text":"Durch die Rauschzahl F = 10 für 0,25 μV"}
+    {
+      "correct":false,
+      "text":"Durch die Rauschzahl F = 10 für 0,25 μV"
+    }
   ,
-    {"correct":false,"text":"Durch den Interception Point IP<sub>3</sub> = 10 bei 0,25 μV"}
+    {
+      "correct":false,
+      "text":"Durch den Interception Point IP<sub>3</sub>= 10 bei 0,25 μV"
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"ATF440",
      "text":"<p>Was bedeutet Signal-Rauschabstand (S/N) bei einem VHF-Empfänger?</p>",
      "answer":[
-    {"correct":true,"text":"Er gibt an, um wie viel dB das Nutzsignal stärker ist als das Rauschsignal."}
+    {
+      "correct":true,
+      "text":"Er gibt an, um wie viel dB das Nutzsignal stärker ist als das Rauschsignal."
+    }
   ,
-    {"correct":false,"text":"Er gibt an, um wie viel dB das Rauschsignal stärker ist als das Nutzsignal."}
+    {
+      "correct":false,
+      "text":"Er gibt an, um wie viel dB das Rauschsignal stärker ist als das Nutzsignal."
+    }
   ,
-    {"correct":false,"text":"Es ist der Abstand in Kilohertz zwischen Empfangssignal und Störsignal."}
+    {
+      "correct":false,
+      "text":"Es ist der Abstand in Kilohertz zwischen Empfangssignal und Störsignal."
+    }
   ,
-    {"correct":false,"text":"Es ist der Abstand in Kilohertz zwischen Empfangsfrequenz und Spiegelfrequenz."}
+    {
+      "correct":false,
+      "text":"Es ist der Abstand in Kilohertz zwischen Empfangsfrequenz und Spiegelfrequenz."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"ATF441",
      "text":"<p>Was bedeutet die Rauschzahl F=2 bei einem UHF-Vorverstärker? Das Ausgangssignal des Verstärkers hat ein</p>",
      "answer":[
-    {"correct":true,"text":"um 3dB geringeres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":true,
+      "text":"um 3dB geringeres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um 3dB höheres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um 3dB höheres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um 6dB geringeres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um 6dB geringeres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um 6dB höheres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um 6dB höheres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ]
     }
   ,
@@ -381,28 +681,52 @@
      "id":"ATF442",
      "text":"<p>Was bedeutet die Rauschzahl von 1,8 dB bei einem UHF-Vorverstärker? Das Ausgangssignal des Vorverstärkers hat ein</p>",
      "answer":[
-    {"correct":true,"text":"um 1,8 dB geringeres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":true,
+      "text":"um 1,8 dB geringeres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um 1,8 dB höheres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um 1,8 dB höheres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um etwa 151 % höheres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um etwa 151 % höheres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ,
-    {"correct":false,"text":"um etwa 66 % geringeres Signal-Rauschverhältnis als das Eingangssignal."}
+    {
+      "correct":false,
+      "text":"um etwa 66 % geringeres Signal-Rauschverhältnis als das Eingangssignal."
+    }
   ]
     }
   ,
     {
      "name":"A/TF501",
      "id":"ATF501",
-     "text":"<p>Folgendes Blockschaltbild stellt das Prinzip einer DSP-Signalverarbeitung dar. Welche Aufgabe haben die beiden Blöcke 1 und 2?<br>(DSP ... Digital Signal Processing)</p><br/><img src='data:image/png;base64,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' alt='Atf501'/>",
+     "text":"<p>Folgendes Blockschaltbild stellt das Prinzip einer DSP-Signalverarbeitung dar. Welche Aufgabe haben die beiden Blöcke 1 und 2?<br>(DSP ... Digital Signal Processing)</p><img src='data:image/png;base64,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' alt='Atf501'/>",
      "answer":[
-    {"correct":true,"text":"1: AD-Wandler, 2: DA-Wandler"}
+    {
+      "correct":true,
+      "text":"1: AD-Wandler, 2: DA-Wandler"
+    }
   ,
-    {"correct":false,"text":"1: DA-Wandler, 2: AD-Wandler"}
+    {
+      "correct":false,
+      "text":"1: DA-Wandler, 2: AD-Wandler"
+    }
   ,
-    {"correct":false,"text":"beides DA-Wandler"}
+    {
+      "correct":false,
+      "text":"beides DA-Wandler"
+    }
   ,
-    {"correct":false,"text":"beides AD-Wandler"}
+    {
+      "correct":false,
+      "text":"beides AD-Wandler"
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"ATF502",
      "text":"<p>Wozu kann eine DSP-Signalverarbeitung bei einem Amateurfunkgerät beispielsweise dienen?</p>",
      "answer":[
-    {"correct":true,"text":"Zur weitgehenden Unterdrückung von Störgeräuschen oder zur Dynamikkompression."}
+    {
+      "correct":true,
+      "text":"Zur weitgehenden Unterdrückung von Störgeräuschen oder zur Dynamikkompression."
+    }
   ,
-    {"correct":false,"text":"Zur digitalen Erzeugung der Empfänger-Regelspannung aus dem Audiosignal."}
+    {
+      "correct":false,
+      "text":"Zur digitalen Erzeugung der Empfänger-Regelspannung aus dem Audiosignal."
+    }
   ,
-    {"correct":false,"text":"Zur direkten Modulation der Sendeendstufen und zur Unterdrückung von unerwünschten Aussendungen."}
+    {
+      "correct":false,
+      "text":"Zur direkten Modulation der Sendeendstufen und zur Unterdrückung von unerwünschten Aussendungen."
+    }
   ,
-    {"correct":false,"text":"Zur Beseitigung von Spiegelfrequenzen und zur weitgehenden Unterdrückung von Nebenaussendungen."}
+    {
+      "correct":false,
+      "text":"Zur Beseitigung von Spiegelfrequenzen und zur weitgehenden Unterdrückung von Nebenaussendungen."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"ATF503",
      "text":"<p>Wozu eignet sich eine DSP-Signalverarbeitung in einem Empfänger? Sie eignet sich</p>",
      "answer":[
-    {"correct":true,"text":"als Frequenzfilter."}
+    {
+      "correct":true,
+      "text":"als Frequenzfilter."
+    }
   ,
-    {"correct":false,"text":"als Digital-Analog-Wandler."}
+    {
+      "correct":false,
+      "text":"als Digital-Analog-Wandler."
+    }
   ,
-    {"correct":false,"text":"zur Sprachausgabe."}
+    {
+      "correct":false,
+      "text":"zur Sprachausgabe."
+    }
   ,
-    {"correct":false,"text":"zur Unterdrückung der Spiegelfrequenzen."}
+    {
+      "correct":false,
+      "text":"zur Unterdrückung der Spiegelfrequenzen."
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"ATF504",
      "text":"<p>Wofür ist die DSP in einem Transceiver geeignet? Eine DSP eignet sich beispielsweise</p>",
      "answer":[
-    {"correct":true,"text":"als Frequenzfilter oder als Dynamikkompressor."}
+    {
+      "correct":true,
+      "text":"als Frequenzfilter oder als Dynamikkompressor."
+    }
   ,
-    {"correct":false,"text":"zur Frequenzstabilisierung."}
+    {
+      "correct":false,
+      "text":"zur Frequenzstabilisierung."
+    }
   ,
-    {"correct":false,"text":"zur Speicherung von Frequenzen."}
+    {
+      "correct":false,
+      "text":"zur Speicherung von Frequenzen."
+    }
   ,
-    {"correct":false,"text":"als Signalfeinverstimmung zwischen Sender und Empfänger."}
+    {
+      "correct":false,
+      "text":"als Signalfeinverstimmung zwischen Sender und Empfänger."
+    }
   ]
     }
   ,
@@ -456,13 +816,25 @@
      "id":"ATG402",
      "text":"<p>In welcher der folgenden Antworten sind Betriebsarten aufgezählt, die man bei einem üblichen Kurzwellentransceiver einstellen kann?</p>",
      "answer":[
-    {"correct":true,"text":"USB, LSB, FM, RTTY, CW"}
+    {
+      "correct":true,
+      "text":"USB, LSB, FM, RTTY, CW"
+    }
   ,
-    {"correct":false,"text":"USB, PSK31, FM, SSTV, CW"}
+    {
+      "correct":false,
+      "text":"USB, PSK31, FM, SSTV, CW"
+    }
   ,
-    {"correct":false,"text":"USB, LSB, FM, SSTV, CW"}
+    {
+      "correct":false,
+      "text":"USB, LSB, FM, SSTV, CW"
+    }
   ,
-    {"correct":false,"text":"USB, LSB, Amtor, Pactor, CW"}
+    {
+      "correct":false,
+      "text":"USB, LSB, Amtor, Pactor, CW"
+    }
   ]
     }
   ,
@@ -471,13 +843,25 @@
      "id":"ATG403",
      "text":"<p>Wenn man beim Funkbetrieb die Empfangsfrequenz gegenüber der Senderfrequenz geringfügig verstellen möchte, kann man</p>",
      "answer":[
-    {"correct":true,"text":"die RIT bedienen."}
+    {
+      "correct":true,
+      "text":"die RIT bedienen."
+    }
   ,
-    {"correct":false,"text":"das Notchfilter einschalten."}
+    {
+      "correct":false,
+      "text":"das Notchfilter einschalten."
+    }
   ,
-    {"correct":false,"text":"das Passband-Tuning verstellen."}
+    {
+      "correct":false,
+      "text":"das Passband-Tuning verstellen."
+    }
   ,
-    {"correct":false,"text":"die PTT einschalten."}
+    {
+      "correct":false,
+      "text":"die PTT einschalten."
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"ATG404",
      "text":"<p>Wie wird die Taste am Mikrofon bezeichnet, mit der ein Transceiver auf Sendung geschaltet werden kann?</p>",
      "answer":[
-    {"correct":true,"text":"PTT"}
+    {
+      "correct":true,
+      "text":"PTT"
+    }
   ,
-    {"correct":false,"text":"VOX"}
+    {
+      "correct":false,
+      "text":"VOX"
+    }
   ,
-    {"correct":false,"text":"RIT"}
+    {
+      "correct":false,
+      "text":"RIT"
+    }
   ,
-    {"correct":false,"text":"SSB"}
+    {
+      "correct":false,
+      "text":"SSB"
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"ATG405",
      "text":"<p>Wie wird der Funkbetrieb bezeichnet, mit der ein Transceiver allein durch die Stimme auf Sendung geschaltet werden kann?</p>",
      "answer":[
-    {"correct":true,"text":"VOX-Betrieb"}
+    {
+      "correct":true,
+      "text":"VOX-Betrieb"
+    }
   ,
-    {"correct":false,"text":"PTT-Betrieb"}
+    {
+      "correct":false,
+      "text":"PTT-Betrieb"
+    }
   ,
-    {"correct":false,"text":"RIT-Betrieb"}
+    {
+      "correct":false,
+      "text":"RIT-Betrieb"
+    }
   ,
-    {"correct":false,"text":"SSB-Betrieb"}
+    {
+      "correct":false,
+      "text":"SSB-Betrieb"
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"ATG406",
      "text":"<p>Wenn das Grundrauschen auf einer Frequenz im FM-Betrieb ausgeblendet werden soll, verstellt man</p>",
      "answer":[
-    {"correct":true,"text":"den Squelch."}
+    {
+      "correct":true,
+      "text":"den Squelch."
+    }
   ,
-    {"correct":false,"text":"die VOX."}
+    {
+      "correct":false,
+      "text":"die VOX."
+    }
   ,
-    {"correct":false,"text":"die RIT."}
+    {
+      "correct":false,
+      "text":"die RIT."
+    }
   ,
-    {"correct":false,"text":"das Passband-Tuning."}
+    {
+      "correct":false,
+      "text":"das Passband-Tuning."
+    }
   ]
     }
   

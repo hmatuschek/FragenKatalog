@@ -6,13 +6,25 @@
      "id":"BBD102",
      "text":"<p>Was erkennen Sie aus dem Rufzeichen DA5XX?</p>",
      "answer":[
-    {"correct":true,"text":"Es handelt sich um eine Amateurfunkstelle, die für besondere experimentelle und technischwissenschaftliche Studien betrieben wird."}
+    {
+      "correct":true,
+      "text":"Es handelt sich um eine Amateurfunkstelle, die für besondere experimentelle und technischwissenschaftliche Studien betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um eine Versuchsfunkstelle, die zur Erprobung technischer oder wissenschaftlicher Entwicklungen betrieben wird."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um eine Versuchsfunkstelle, die zur Erprobung technischer oder wissenschaftlicher Entwicklungen betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um ein Klasse-A-Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um ein Klasse-A-Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um eine Kurzzeitzuteilung für einen ausländischen Funkamateur, der eine Amateurfunkprüfungsbescheinigung, aber kein individuelles Rufzeichen hat."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um eine Kurzzeitzuteilung für einen ausländischen Funkamateur, der eine Amateurfunkprüfungsbescheinigung, aber kein individuelles Rufzeichen hat."
+    }
   ]
     }
   ,
@@ -21,13 +33,25 @@
      "id":"BBD103",
      "text":"<p>Was erkennen Sie aus dem Rufzeichen DAØXX?</p>",
      "answer":[
-    {"correct":true,"text":"Es handelt sich um eine Zuteilung für eine Kurzzeitklubstation."}
+    {
+      "correct":true,
+      "text":"Es handelt sich um eine Zuteilung für eine Kurzzeitklubstation."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um eine Zuteilung für besondere technisch-wissenschaftliche Studien der Zuteilungsklasse A."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um eine Zuteilung für besondere technisch-wissenschaftliche Studien der Zuteilungsklasse A."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um eine Zuteilung für Gaststreitkräfte."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um eine Zuteilung für Gaststreitkräfte."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um die Zuteilung eines Ausbildungsrufzeichens für Gaststreitkräfte."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um die Zuteilung eines Ausbildungsrufzeichens für Gaststreitkräfte."
+    }
   ]
     }
   ,
@@ -36,13 +60,25 @@
      "id":"BBD104",
      "text":"<p>Was erkennen Sie aus dem Rufzeichen DPØXX?</p>",
      "answer":[
-    {"correct":true,"text":"Es handelt sich um eine exterritoriale deutsche Funkstelle des Amateurfunkdienstes oder des Amateurfunkdienstes über Satelliten."}
+    {
+      "correct":true,
+      "text":"Es handelt sich um eine exterritoriale deutsche Funkstelle des Amateurfunkdienstes oder des Amateurfunkdienstes über Satelliten."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um eine Amateurfunkstelle der Klasse A oder E, die ohne Anzeige nach BEMFV betrieben werden darf."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um eine Amateurfunkstelle der Klasse A oder E, die ohne Anzeige nach BEMFV betrieben werden darf."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um ein Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um ein Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind."
+    }
   ,
-    {"correct":false,"text":"Es handelt sich um ein Ausbildungsrufzeichen der Klasse A für Angehörige der Gaststreitkräfte in Deutschland."}
+    {
+      "correct":false,
+      "text":"Es handelt sich um ein Ausbildungsrufzeichen der Klasse A für Angehörige der Gaststreitkräfte in Deutschland."
+    }
   ]
     }
   ,
@@ -51,13 +87,25 @@
      "id":"BBD112",
      "text":"<p>Zu welcher Rufzeichenart gehören Rufzeichen mit dem Präfix DN1 bis DN8 und zwei bis drei Buchstaben im Suffix?</p>",
      "answer":[
-    {"correct":true,"text":"Ausbildungsrufzeichen"}
+    {
+      "correct":true,
+      "text":"Ausbildungsrufzeichen"
+    }
   ,
-    {"correct":false,"text":"Klubstationsrufzeichen"}
+    {
+      "correct":false,
+      "text":"Klubstationsrufzeichen"
+    }
   ,
-    {"correct":false,"text":"Personengebundene Rufzeichen"}
+    {
+      "correct":false,
+      "text":"Personengebundene Rufzeichen"
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für automatisch arbeitende Stationen"}
+    {
+      "correct":false,
+      "text":"Rufzeichen für automatisch arbeitende Stationen"
+    }
   ]
     }
   ,
@@ -66,13 +114,25 @@
      "id":"BBD113",
      "text":"<p>Rufzeichen, die mit DFØ, DKØ oder DLØ beginnen, sind zumeist</p>",
      "answer":[
-    {"correct":true,"text":"Klubstationsrufzeichen der Klasse A."}
+    {
+      "correct":true,
+      "text":"Klubstationsrufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"Ausbildungsrufzeichen der Klasse E."}
+    {
+      "correct":false,
+      "text":"Ausbildungsrufzeichen der Klasse E."
+    }
   ,
-    {"correct":false,"text":"Personengebundene Rufzeichen der Klasse A."}
+    {
+      "correct":false,
+      "text":"Personengebundene Rufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für automatisch arbeitende Stationen der Klasse E."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für automatisch arbeitende Stationen der Klasse E."
+    }
   ]
     }
   ,
@@ -81,13 +141,25 @@
      "id":"BBE403",
      "text":"<p>Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle</p>",
      "answer":[
-    {"correct":true,"text":"bei der mit besonderer Zulassung auf einer festen Frequenz an einem festgelegten Standort ein Amateurfunksender betrieben wird."}
+    {
+      "correct":true,
+      "text":"bei der mit besonderer Zulassung auf einer festen Frequenz an einem festgelegten Standort ein Amateurfunksender betrieben wird."
+    }
   ,
-    {"correct":false,"text":"die mit einer entsprechenden Sonderzulassung der zuständigen Behörde an mehreren Standorten auf verschiedenen Frequenzen betrieben werden kann."}
+    {
+      "correct":false,
+      "text":"die mit einer entsprechenden Sonderzulassung der zuständigen Behörde an mehreren Standorten auf verschiedenen Frequenzen betrieben werden kann."
+    }
   ,
-    {"correct":false,"text":"die auf einer festen Frequenz arbeitet. Der Standort der Funkanlage kann je nach Notwendigkeit verändert werden."}
+    {
+      "correct":false,
+      "text":"die auf einer festen Frequenz arbeitet. Der Standort der Funkanlage kann je nach Notwendigkeit verändert werden."
+    }
   ,
-    {"correct":false,"text":"die mit geringer Sendeleistung auf einer festen Frequenz nur in den Nachtstunden zur Feststellung der Bandbelegung betrieben wird."}
+    {
+      "correct":false,
+      "text":"die mit geringer Sendeleistung auf einer festen Frequenz nur in den Nachtstunden zur Feststellung der Bandbelegung betrieben wird."
+    }
   ]
     }
   ,
@@ -96,13 +168,25 @@
      "id":"BBE409",
      "text":"<p>Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?</p>",
      "answer":[
-    {"correct":true,"text":"Diese Frequenzen sind nach der IARU-Empfehlung für das Internationale Bakenprojekt (IBP) vorgesehen und sind für die Beobachtung der Ausbreitungsbedingungen anhand von Bakensignalen freizuhalten."}
+    {
+      "correct":true,
+      "text":"Diese Frequenzen sind nach der IARU-Empfehlung für das Internationale Bakenprojekt (IBP) vorgesehen und sind für die Beobachtung der Ausbreitungsbedingungen anhand von Bakensignalen freizuhalten."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzbereiche sind nach der IARU-Empfehlung für Packet Radio vorgesehen und sollen für die Beobachtung dieser Sendungen freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzbereiche sind nach der IARU-Empfehlung für Packet Radio vorgesehen und sollen für die Beobachtung dieser Sendungen freigehalten werden."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzen sind nach der IARU-Empfehlung besonders für DX-Verkehr vorgesehen und sollen möglichst für Funkverkehr bei \"DX-Expeditionen\" genutzt werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzen sind nach der IARU-Empfehlung besonders für DX-Verkehr vorgesehen und sollen möglichst für Funkverkehr bei \"DX-Expeditionen\" genutzt werden."
+    }
   ,
-    {"correct":false,"text":"Diese Frequenzbereiche sind nach Empfehlung der Radio Regulations (VO Funk) für besondere Amateurfunk-Zeitzeichen- und Normalfrequenzaussendungen vorgesehen und sollen möglichst freigehalten werden."}
+    {
+      "correct":false,
+      "text":"Diese Frequenzbereiche sind nach Empfehlung der Radio Regulations (VO Funk) für besondere Amateurfunk-Zeitzeichen- und Normalfrequenzaussendungen vorgesehen und sollen möglichst freigehalten werden."
+    }
   ]
     }
   ,
@@ -111,13 +195,25 @@
      "id":"VVA201",
      "text":"<p>Wie ist die Amateurfunkstelle in den Radio Regulations (VO Funk) definiert?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Amateurfunkstelle ist eine Funkstelle des Amateurfunkdienstes."}
+    {
+      "correct":true,
+      "text":"Eine Amateurfunkstelle ist eine Funkstelle des Amateurfunkdienstes."
+    }
   ,
-    {"correct":false,"text":"Eine Amateurfunkstelle ist eine Funkstelle, die aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der zum Betrieb erforderlichen Zusatzeinrichtungen besteht."}
+    {
+      "correct":false,
+      "text":"Eine Amateurfunkstelle ist eine Funkstelle, die aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der zum Betrieb erforderlichen Zusatzeinrichtungen besteht."
+    }
   ,
-    {"correct":false,"text":"Eine Amateurfunkstelle ist jede Funkstelle, die in einem Frequenzbereich betrieben werden kann, der für den Amateurfunkdienst ausgewiesenen ist."}
+    {
+      "correct":false,
+      "text":"Eine Amateurfunkstelle ist jede Funkstelle, die in einem Frequenzbereich betrieben werden kann, der für den Amateurfunkdienst ausgewiesenen ist."
+    }
   ,
-    {"correct":false,"text":"Eine Amateurfunkstelle ist jede Funkstelle, die aus einer oder mehreren Sendefunkanlagen, Empfangsfunkanlagen, Antennenanlagen und Zusatzeinrichtungen besteht und die auf einer für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann."}
+    {
+      "correct":false,
+      "text":"Eine Amateurfunkstelle ist jede Funkstelle, die aus einer oder mehreren Sendefunkanlagen, Empfangsfunkanlagen, Antennenanlagen und Zusatzeinrichtungen besteht und die auf einer für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann."
+    }
   ]
     }
   ,
@@ -126,13 +222,25 @@
      "id":"VVA202",
      "text":"<p>Wie ist die Funkstelle in den Radio Regulations (VO Funk) definiert?</p>",
      "answer":[
-    {"correct":true,"text":"Funkstelle: Ein oder mehrere Sender oder Empfänger oder eine Zusammenschaltung von Sendern und Empfängern einschließlich der Zusatzeinrichtungen, die zum Ausüben eines Funkdienstes an einem Ort erforderlich sind."}
+    {
+      "correct":true,
+      "text":"Funkstelle: Ein oder mehrere Sender oder Empfänger oder eine Zusammenschaltung von Sendern und Empfängern einschließlich der Zusatzeinrichtungen, die zum Ausüben eines Funkdienstes an einem Ort erforderlich sind."
+    }
   ,
-    {"correct":false,"text":"Eine Funkstelle ist eine Zusammenschaltung technischer Einrichtungen an einem Ort mit der Funkverkehr abgewickelt werden kann."}
+    {
+      "correct":false,
+      "text":"Eine Funkstelle ist eine Zusammenschaltung technischer Einrichtungen an einem Ort mit der Funkverkehr abgewickelt werden kann."
+    }
   ,
-    {"correct":false,"text":"Eine Funkstelle ist eine Zusammenschaltung aller zur Erzeugung und zum Empfang von Funksendungen an einem Ort eingesetzten Einrichtungen."}
+    {
+      "correct":false,
+      "text":"Eine Funkstelle ist eine Zusammenschaltung aller zur Erzeugung und zum Empfang von Funksendungen an einem Ort eingesetzten Einrichtungen."
+    }
   ,
-    {"correct":false,"text":"Eine Funkstelle besteht aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der Antennenanlagen und der zum Betrieb erforderlichen Zusatzeinrichtungen und kann mindestens auf einer für einen jeweiligen Funkdienst zugewiesenen Frequenzen betrieben werden."}
+    {
+      "correct":false,
+      "text":"Eine Funkstelle besteht aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der Antennenanlagen und der zum Betrieb erforderlichen Zusatzeinrichtungen und kann mindestens auf einer für einen jeweiligen Funkdienst zugewiesenen Frequenzen betrieben werden."
+    }
   ]
     }
   ,
@@ -141,28 +249,52 @@
      "id":"VVA203",
      "text":"<p>Was ist eine Amateurfunkstelle im Sinne der Radio Regulations (VO Funk)?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Funkstelle, die im Rahmen der Definition und der Regelungen des Amateurfunkdienstes in der VO Funk von einem Funkamateur betrieben wird."}
+    {
+      "correct":true,
+      "text":"Eine Funkstelle, die im Rahmen der Definition und der Regelungen des Amateurfunkdienstes in der VO Funk von einem Funkamateur betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Jede Funkstelle, die auf einer der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann."}
+    {
+      "correct":false,
+      "text":"Jede Funkstelle, die auf einer der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann."
+    }
   ,
-    {"correct":false,"text":"Eine Funkstelle, die aus einer oder mehreren Sendefunkanlagen-, Empfangsfunkanlagen-, Antennenanlagen und Zusatzeinrichtungen besteht."}
+    {
+      "correct":false,
+      "text":"Eine Funkstelle, die aus einer oder mehreren Sendefunkanlagen-, Empfangsfunkanlagen-, Antennenanlagen und Zusatzeinrichtungen besteht."
+    }
   ,
-    {"correct":false,"text":"Jede Funkstelle, die von einer Person betrieben wird, die auch Funkamateur ist."}
+    {
+      "correct":false,
+      "text":"Jede Funkstelle, die von einer Person betrieben wird, die auch Funkamateur ist."
+    }
   ]
     }
   ,
     {
      "name":"V/VA204",
      "id":"VVA204",
-     "text":"<p>Bei welcher der genannten Einrichtungen handelt es sich um keine Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>",
+     "text":"<p>Bei welcher der genannten Einrichtungen handelt es sich umkeineAmateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>",
      "answer":[
-    {"correct":true,"text":"Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz."}
+    {
+      "correct":true,
+      "text":"Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz."
+    }
   ,
-    {"correct":false,"text":"Je eine Funkbake im 70-cm-, 23-cm- und 13-cm-Band mit gemeinsam gleichen Rufzeichen am gleichen Standort."}
+    {
+      "correct":false,
+      "text":"Je eine Funkbake im 70-cm-, 23-cm- und 13-cm-Band mit gemeinsam gleichen Rufzeichen am gleichen Standort."
+    }
   ,
-    {"correct":false,"text":"Ein Digipeater im 70-cm-Band mit DX-Cluster und Mailbox-Dienst, wobei der für den Digipeater-Betrieb notwendige Datenrechner nicht am Standort des Digipeaters steht."}
+    {
+      "correct":false,
+      "text":"Ein Digipeater im 70-cm-Band mit DX-Cluster und Mailbox-Dienst, wobei der für den Digipeater-Betrieb notwendige Datenrechner nicht am Standort des Digipeaters steht."
+    }
   ,
-    {"correct":false,"text":"Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet."}
+    {
+      "correct":false,
+      "text":"Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet."
+    }
   ]
     }
   ,
@@ -171,13 +303,25 @@
      "id":"VVA205",
      "text":"<p>Bei welcher der genannten Einrichtungen handelt es sich um eine Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>",
      "answer":[
-    {"correct":true,"text":"Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet."}
+    {
+      "correct":true,
+      "text":"Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet."
+    }
   ,
-    {"correct":false,"text":"Eine Versuchsfunkstelle, die auf mindestens einer dem Amateurfunkdienst zugewiesenen Frequenzen betrieben wird."}
+    {
+      "correct":false,
+      "text":"Eine Versuchsfunkstelle, die auf mindestens einer dem Amateurfunkdienst zugewiesenen Frequenzen betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Ein LPD-Funkgerät, das im 70-cm-Amateurfunkband im Rahmen des nicht öffentlichen mobilen Landfunks betrieben wird."}
+    {
+      "correct":false,
+      "text":"Ein LPD-Funkgerät, das im 70-cm-Amateurfunkband im Rahmen des nicht öffentlichen mobilen Landfunks betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz."}
+    {
+      "correct":false,
+      "text":"Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz."
+    }
   ]
     }
   ,
@@ -186,13 +330,25 @@
      "id":"VVB120",
      "text":"<p>Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?</p>",
      "answer":[
-    {"correct":true,"text":"Nein, der Betrieb einer Klubstation bedarf der Beantragung einer Gastgenehmigung."}
+    {
+      "correct":true,
+      "text":"Nein, der Betrieb einer Klubstation bedarf der Beantragung einer Gastgenehmigung."
+    }
   ,
-    {"correct":false,"text":"Ja, aber nur, wenn die Klubstation im Ausland an keinem festen Standort betrieben wird."}
+    {
+      "correct":false,
+      "text":"Ja, aber nur, wenn die Klubstation im Ausland an keinem festen Standort betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Ja, der Betrieb einer Klubstation ist zulässig, wenn der zuständigen Außenstelle der Bundesnetzagentur der vorgesehene Standort im Ausland vorher mitgeteilt worden ist."}
+    {
+      "correct":false,
+      "text":"Ja, der Betrieb einer Klubstation ist zulässig, wenn der zuständigen Außenstelle der Bundesnetzagentur der vorgesehene Standort im Ausland vorher mitgeteilt worden ist."
+    }
   ,
-    {"correct":false,"text":"Nein, weil es in den übrigen CEPT-Ländern keine Klubstationen gibt."}
+    {
+      "correct":false,
+      "text":"Nein, weil es in den übrigen CEPT-Ländern keine Klubstationen gibt."
+    }
   ]
     }
   ,
@@ -201,13 +357,25 @@
      "id":"VVD127",
      "text":"<p>Für welche Zwecke sind Zuteilungen mit Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV möglich?</p>",
      "answer":[
-    {"correct":true,"text":"Für besondere experimentelle und technischwissenschaftliche Studien mit einer Amateurfunkstelle."}
+    {
+      "correct":true,
+      "text":"Für besondere experimentelle und technischwissenschaftliche Studien mit einer Amateurfunkstelle."
+    }
   ,
-    {"correct":false,"text":"Für Übungen zur Abwicklung des Funkverkehrs in Not- und Katastrophenfällen."}
+    {
+      "correct":false,
+      "text":"Für Übungen zur Abwicklung des Funkverkehrs in Not- und Katastrophenfällen."
+    }
   ,
-    {"correct":false,"text":"Für Abgleicharbeiten und Messungen an Sendern ohne Abschlusswiderstand."}
+    {
+      "correct":false,
+      "text":"Für Abgleicharbeiten und Messungen an Sendern ohne Abschlusswiderstand."
+    }
   ,
-    {"correct":false,"text":"Für die Nutzung zusätzlicher Frequenzbereiche, die nicht im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesen sind."}
+    {
+      "correct":false,
+      "text":"Für die Nutzung zusätzlicher Frequenzbereiche, die nicht im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesen sind."
+    }
   ]
     }
   ,
@@ -216,13 +384,25 @@
      "id":"VVD128",
      "text":"<p>Rufzeichenzuteilungen für besondere experimentelle und technisch-wissenschaftliche Studien gemäß § 16 Abs. 2 der AFuV sind Zuteilungen,</p>",
      "answer":[
-    {"correct":true,"text":"die Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV zulassen."}
+    {
+      "correct":true,
+      "text":"die Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV zulassen."
+    }
   ,
-    {"correct":false,"text":"die Ausnahmen vom Rufzeichenplan zulassen."}
+    {
+      "correct":false,
+      "text":"die Ausnahmen vom Rufzeichenplan zulassen."
+    }
   ,
-    {"correct":false,"text":"die Ausnahmen im Ausbildungsfunkbetrieb zulassen."}
+    {
+      "correct":false,
+      "text":"die Ausnahmen im Ausbildungsfunkbetrieb zulassen."
+    }
   ,
-    {"correct":false,"text":"die Ausnahmen zur Nutzung von gewerblichwirtschaftlichen Zwecken zulassen."}
+    {
+      "correct":false,
+      "text":"die Ausnahmen zur Nutzung von gewerblichwirtschaftlichen Zwecken zulassen."
+    }
   ]
     }
   ,
@@ -231,43 +411,79 @@
      "id":"VVD201",
      "text":"<p>Welche Rückschlüsse lässt das Rufzeichen DP1ZZZ zu?</p>",
      "answer":[
-    {"correct":true,"text":"Es ist eine feste deutsche Amateurfunkstelle an einem exterritorialen Standort."}
+    {
+      "correct":true,
+      "text":"Es ist eine feste deutsche Amateurfunkstelle an einem exterritorialen Standort."
+    }
   ,
-    {"correct":false,"text":"Es ist eine Sonderfunkstelle der Deutschen Post AG."}
+    {
+      "correct":false,
+      "text":"Es ist eine Sonderfunkstelle der Deutschen Post AG."
+    }
   ,
-    {"correct":false,"text":"Es ist eine Amateurfunkstelle, die zu einem besonderen Anlass betrieben wird (Sonderrufzeichen)."}
+    {
+      "correct":false,
+      "text":"Es ist eine Amateurfunkstelle, die zu einem besonderen Anlass betrieben wird (Sonderrufzeichen)."
+    }
   ,
-    {"correct":false,"text":"Es ist eine Ausbildungsfunkstelle mit einem speziellen Rufzeichen."}
+    {
+      "correct":false,
+      "text":"Es ist eine Ausbildungsfunkstelle mit einem speziellen Rufzeichen."
+    }
   ]
     }
   ,
     {
      "name":"V/VD205",
      "id":"VVD205",
-     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DGØZZZ?<br></p>",
+     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DGØZZZ?<br>Es ist ein</p>",
      "answer":[
-    {"correct":true,"text":"personengebundenes Rufzeichen oder Klubstationsrufzeichen der Klasse A."}
+    {
+      "correct":true,
+      "text":"personengebundenes Rufzeichen oder Klubstationsrufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"personengebundenes Rufzeichen der Klasse E."}
+    {
+      "correct":false,
+      "text":"personengebundenes Rufzeichen der Klasse E."
+    }
   ,
-    {"correct":false,"text":"personengebundenes Rufzeichen oder Ausbildungsrufzeichen der Klasse A."}
+    {
+      "correct":false,
+      "text":"personengebundenes Rufzeichen oder Ausbildungsrufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"Klubstationsrufzeichen der Klasse E."}
+    {
+      "correct":false,
+      "text":"Klubstationsrufzeichen der Klasse E."
+    }
   ]
     }
   ,
     {
      "name":"V/VD206",
      "id":"VVD206",
-     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DLØZZZ?<br></p>",
+     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DLØZZZ?<br>Es ist ein</p>",
      "answer":[
-    {"correct":true,"text":"Klubstationsrufzeichen der Klasse A."}
+    {
+      "correct":true,
+      "text":"Klubstationsrufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"personengebundenes Rufzeichen der Klasse A."}
+    {
+      "correct":false,
+      "text":"personengebundenes Rufzeichen der Klasse A."
+    }
   ,
-    {"correct":false,"text":"personengebundenes Rufzeichen der Klasse A oder E, keine genaue Bestimmung möglich."}
+    {
+      "correct":false,
+      "text":"personengebundenes Rufzeichen der Klasse A oder E, keine genaue Bestimmung möglich."
+    }
   ,
-    {"correct":false,"text":"Klubstationsrufzeichen der Klasse E."}
+    {
+      "correct":false,
+      "text":"Klubstationsrufzeichen der Klasse E."
+    }
   ]
     }
   ,
@@ -276,13 +492,25 @@
      "id":"VVD213",
      "text":"<p>Was trifft für die Rufzeichenreihe \"DN1AA - DN8ZZZ\" zu?</p>",
      "answer":[
-    {"correct":true,"text":"Rufzeichen für Ausbildungsfunkbetrieb."}
+    {
+      "correct":true,
+      "text":"Rufzeichen für Ausbildungsfunkbetrieb."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Klubstationen."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Klubstationen."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Relaisfunkstellen."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Relaisfunkstellen."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Funkbaken."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Funkbaken."
+    }
   ]
     }
   ,
@@ -291,13 +519,25 @@
      "id":"VVD219",
      "text":"<p>Was trifft für die Rufzeichenreihe \"DBØAA - DBØZZZ\" zu?</p>",
      "answer":[
-    {"correct":true,"text":"Rufzeichen für Relaisfunkstellen oder Funkbaken."}
+    {
+      "correct":true,
+      "text":"Rufzeichen für Relaisfunkstellen oder Funkbaken."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Klubstationen bei besonderen Anlässen allgemeiner Art."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Klubstationen bei besonderen Anlässen allgemeiner Art."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Personal der Gaststreitkräfte."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Personal der Gaststreitkräfte."
+    }
   ]
     }
   ,
@@ -306,13 +546,25 @@
      "id":"VVD220",
      "text":"<p>Was trifft für die Rufzeichenreihe \"DFØAA - DFØZZZ\" zu?</p>",
      "answer":[
-    {"correct":true,"text":"Rufzeichen für Klubstationen (auslaufend Relaisfunkstellen oder Funkbaken)."}
+    {
+      "correct":true,
+      "text":"Rufzeichen für Klubstationen (auslaufend Relaisfunkstellen oder Funkbaken)."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Personal der Gaststreitkräfte."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Personal der Gaststreitkräfte."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Klubstationen bei besonderen allgemeinen Anlässen."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Klubstationen bei besonderen allgemeinen Anlässen."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."
+    }
   ]
     }
   ,
@@ -321,13 +573,25 @@
      "id":"VVD222",
      "text":"<p>Was trifft für das Rufzeichen \"DA5AA\" zu?</p>",
      "answer":[
-    {"correct":true,"text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."}
+    {
+      "correct":true,
+      "text":"Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für exterritoriale Standorte."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für exterritoriale Standorte."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Personal der Gaststreitkräfte."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Personal der Gaststreitkräfte."
+    }
   ,
-    {"correct":false,"text":"Rufzeichen für Klubstationen."}
+    {
+      "correct":false,
+      "text":"Rufzeichen für Klubstationen."
+    }
   ]
     }
   ,
@@ -336,13 +600,25 @@
      "id":"VVD223",
      "text":"<p>Werden von der Bundesnetzagentur Ausbildungsrufzeichen für Klubstationen vergeben?</p>",
      "answer":[
-    {"correct":true,"text":"Nein."}
+    {
+      "correct":true,
+      "text":"Nein."
+    }
   ,
-    {"correct":false,"text":"Ja, aber nur auf Antrag des verantwortlichen Funkamateurs."}
+    {
+      "correct":false,
+      "text":"Ja, aber nur auf Antrag des verantwortlichen Funkamateurs."
+    }
   ,
-    {"correct":false,"text":"Ja."}
+    {
+      "correct":false,
+      "text":"Ja."
+    }
   ,
-    {"correct":false,"text":"Ausbildungsrufzeichen für Klubstationen werden in besonders begründeten Fällen vergeben."}
+    {
+      "correct":false,
+      "text":"Ausbildungsrufzeichen für Klubstationen werden in besonders begründeten Fällen vergeben."
+    }
   ]
     }
   ,
@@ -351,13 +627,25 @@
      "id":"VVD301",
      "text":"<p>Von wem ist während des Ausbildungsfunkbetriebs das zugeteilte Ausbildungsrufzeichen zu benutzen?</p>",
      "answer":[
-    {"correct":true,"text":"Grundsätzlich nur vom Auszubildenden."}
+    {
+      "correct":true,
+      "text":"Grundsätzlich nur vom Auszubildenden."
+    }
   ,
-    {"correct":false,"text":"Grundsätzlich nur vom Ausbilder."}
+    {
+      "correct":false,
+      "text":"Grundsätzlich nur vom Ausbilder."
+    }
   ,
-    {"correct":false,"text":"Vom Auszubildenden und vom Ausbilder."}
+    {
+      "correct":false,
+      "text":"Vom Auszubildenden und vom Ausbilder."
+    }
   ,
-    {"correct":false,"text":"Immer nur vom Inhaber der benutzten Amateurfunkstation."}
+    {
+      "correct":false,
+      "text":"Immer nur vom Inhaber der benutzten Amateurfunkstation."
+    }
   ]
     }
   ,
@@ -366,13 +654,25 @@
      "id":"VVD302",
      "text":"<p>Was ist bei der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Vom Auszubildenden sind Angaben über den Funkverkehr schriftlich festzuhalten und vom Ausbilder zu bestätigen."}
+    {
+      "correct":true,
+      "text":"Vom Auszubildenden sind Angaben über den Funkverkehr schriftlich festzuhalten und vom Ausbilder zu bestätigen."
+    }
   ,
-    {"correct":false,"text":"Beim Ausbildungsfunkverkehr darf nicht an Amateurfunkwettbewerben teilgenommen werden."}
+    {
+      "correct":false,
+      "text":"Beim Ausbildungsfunkverkehr darf nicht an Amateurfunkwettbewerben teilgenommen werden."
+    }
   ,
-    {"correct":false,"text":"Der Ausbildungsfunkverkehr darf ausschließlich in Gegenwart des Ausbilders an einer Klub- oder Schulstation durchgeführt werden."}
+    {
+      "correct":false,
+      "text":"Der Ausbildungsfunkverkehr darf ausschließlich in Gegenwart des Ausbilders an einer Klub- oder Schulstation durchgeführt werden."
+    }
   ,
-    {"correct":false,"text":"Der Ausbildungsfunkverkehr darf ausschließlich in Phonie (SSB oder FM) durchgeführt werden."}
+    {
+      "correct":false,
+      "text":"Der Ausbildungsfunkverkehr darf ausschließlich in Phonie (SSB oder FM) durchgeführt werden."
+    }
   ]
     }
   ,
@@ -381,13 +681,25 @@
      "id":"VVD303",
      "text":"<p>Was ist u.a. im Zusammenhang mit der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>",
      "answer":[
-    {"correct":true,"text":"Der Ausbildungsfunkbetrieb darf nur im Berechtigungsumfang der Rufzeichenzuteilung durchgeführt werden."}
+    {
+      "correct":true,
+      "text":"Der Ausbildungsfunkbetrieb darf nur im Berechtigungsumfang der Rufzeichenzuteilung durchgeführt werden."
+    }
   ,
-    {"correct":false,"text":"Der Ausbildungsfunkverkehr darf nicht in der Betriebsart A1A (Morsen) durchgeführt werden."}
+    {
+      "correct":false,
+      "text":"Der Ausbildungsfunkverkehr darf nicht in der Betriebsart A1A (Morsen) durchgeführt werden."
+    }
   ,
-    {"correct":false,"text":"Der Ausbildungsfunkverkehr darf nur mit einer maximalen Strahlungsleistung von 10 Watt EIRP durchgeführt werden."}
+    {
+      "correct":false,
+      "text":"Der Ausbildungsfunkverkehr darf nur mit einer maximalen Strahlungsleistung von 10 Watt EIRP durchgeführt werden."
+    }
   ,
-    {"correct":false,"text":"Der Ausbildungsfunkverkehr darf nur an einer Klubstation durchgeführt werden."}
+    {
+      "correct":false,
+      "text":"Der Ausbildungsfunkverkehr darf nur an einer Klubstation durchgeführt werden."
+    }
   ]
     }
   ,
@@ -396,13 +708,25 @@
      "id":"VVD304",
      "text":"<p>Wann ist mit dem Entzug eines Ausbildungsrufzeichens zu rechnen?</p>",
      "answer":[
-    {"correct":true,"text":"Wenn das Ausbildungsrufzeichen fortgesetzt in Abwesenheit des Ausbilders benutzt wird."}
+    {
+      "correct":true,
+      "text":"Wenn das Ausbildungsrufzeichen fortgesetzt in Abwesenheit des Ausbilders benutzt wird."
+    }
   ,
-    {"correct":false,"text":"Wenn der Ausbildungsfunkverkehr mobil durchgeführt wird."}
+    {
+      "correct":false,
+      "text":"Wenn der Ausbildungsfunkverkehr mobil durchgeführt wird."
+    }
   ,
-    {"correct":false,"text":"Wenn durch den Ausbildungsfunkverkehr BCI und TVI verursacht wird."}
+    {
+      "correct":false,
+      "text":"Wenn durch den Ausbildungsfunkverkehr BCI und TVI verursacht wird."
+    }
   ,
-    {"correct":false,"text":"Wenn es zu Störungen von Amateurfunk-Kontesten kommt."}
+    {
+      "correct":false,
+      "text":"Wenn es zu Störungen von Amateurfunk-Kontesten kommt."
+    }
   ]
     }
   ,
@@ -411,13 +735,25 @@
      "id":"VVD305",
      "text":"<p>Nicht-Funkamateure dürfen am Ausbildungsfunkbetrieb</p>",
      "answer":[
-    {"correct":true,"text":"nur unter unmittelbarer Anleitung und Aufsicht eines Funkamateurs mit zugeteiltem Ausbildungsrufzeichen teilnehmen."}
+    {
+      "correct":true,
+      "text":"nur unter unmittelbarer Anleitung und Aufsicht eines Funkamateurs mit zugeteiltem Ausbildungsrufzeichen teilnehmen."
+    }
   ,
-    {"correct":false,"text":"nur an Klubstationen unter Aufsicht eines Funkamateurs teilnehmen."}
+    {
+      "correct":false,
+      "text":"nur an Klubstationen unter Aufsicht eines Funkamateurs teilnehmen."
+    }
   ,
-    {"correct":false,"text":"ohne besondere Auflagen teilnehmen."}
+    {
+      "correct":false,
+      "text":"ohne besondere Auflagen teilnehmen."
+    }
   ,
-    {"correct":false,"text":"jederzeit unter Verwendung des persönlichen Rufzeichens des ausbildenden Funkamateurs teilnehmen."}
+    {
+      "correct":false,
+      "text":"jederzeit unter Verwendung des persönlichen Rufzeichens des ausbildenden Funkamateurs teilnehmen."
+    }
   ]
     }
   ,
@@ -426,13 +762,25 @@
      "id":"VVD306",
      "text":"<p>Beim Ausbildungsfunkbetrieb sind</p>",
      "answer":[
-    {"correct":true,"text":"von dem Auszubildenden Angaben über den Funkbetrieb schriftlich festzuhalten."}
+    {
+      "correct":true,
+      "text":"von dem Auszubildenden Angaben über den Funkbetrieb schriftlich festzuhalten."
+    }
   ,
-    {"correct":false,"text":"vom Ausbilder Angaben über die Teilnehmer an die Bundesnetzagentur zu senden."}
+    {
+      "correct":false,
+      "text":"vom Ausbilder Angaben über die Teilnehmer an die Bundesnetzagentur zu senden."
+    }
   ,
-    {"correct":false,"text":"Funkamateure der Klasse E als Ausbilder nicht zugelassen."}
+    {
+      "correct":false,
+      "text":"Funkamateure der Klasse E als Ausbilder nicht zugelassen."
+    }
   ,
-    {"correct":false,"text":"vom Ausbilder Aufzeichnungen über die Sendetätigkeit und die Teilnehmer am Ausbildungsfunkbetrieb zu führen."}
+    {
+      "correct":false,
+      "text":"vom Ausbilder Aufzeichnungen über die Sendetätigkeit und die Teilnehmer am Ausbildungsfunkbetrieb zu führen."
+    }
   ]
     }
   ,
@@ -441,13 +789,25 @@
      "id":"VVD307",
      "text":"<p>Kann der Inhaber einer Amateurfunkzulassung der Klasse E ein Ausbildungsrufzeichen zugeteilt bekommen?</p>",
      "answer":[
-    {"correct":true,"text":"Ja, er darf jedoch nur im Rahmen der Klasse E ausbilden."}
+    {
+      "correct":true,
+      "text":"Ja, er darf jedoch nur im Rahmen der Klasse E ausbilden."
+    }
   ,
-    {"correct":false,"text":"Nein, die Klasse E ist nur als Einstiegsklasse vorgesehen und darf daher nicht ausbilden."}
+    {
+      "correct":false,
+      "text":"Nein, die Klasse E ist nur als Einstiegsklasse vorgesehen und darf daher nicht ausbilden."
+    }
   ,
-    {"correct":false,"text":"Nein, Ausbildungsrufzeichen werden nur Inhabern der höchsten Amateurfunk-Zeugnisklasse zugeteilt."}
+    {
+      "correct":false,
+      "text":"Nein, Ausbildungsrufzeichen werden nur Inhabern der höchsten Amateurfunk-Zeugnisklasse zugeteilt."
+    }
   ,
-    {"correct":false,"text":"Ja, er darf die Ausbildung aber nur in Anwesenheit eines Zulassungsinhabers mit Klasse A durchführen."}
+    {
+      "correct":false,
+      "text":"Ja, er darf die Ausbildung aber nur in Anwesenheit eines Zulassungsinhabers mit Klasse A durchführen."
+    }
   ]
     }
   ,
@@ -456,28 +816,52 @@
      "id":"VVD308",
      "text":"<p>Wird das Ausbildungsrufzeichen auf unbegrenzte Zeit erteilt?</p>",
      "answer":[
-    {"correct":true,"text":"Ja, bis auf Ausnahmen wird es in der Regel unbefristet erteilt."}
+    {
+      "correct":true,
+      "text":"Ja, bis auf Ausnahmen wird es in der Regel unbefristet erteilt."
+    }
   ,
-    {"correct":false,"text":"Nein, es ist auf 2 Jahre befristet."}
+    {
+      "correct":false,
+      "text":"Nein, es ist auf 2 Jahre befristet."
+    }
   ,
-    {"correct":false,"text":"Nein, es ist nach einem Jahr neu zu beantragen."}
+    {
+      "correct":false,
+      "text":"Nein, es ist nach einem Jahr neu zu beantragen."
+    }
   ,
-    {"correct":false,"text":"Nein, es verfällt, wenn es ein Jahr nicht benutzt wurde."}
+    {
+      "correct":false,
+      "text":"Nein, es verfällt, wenn es ein Jahr nicht benutzt wurde."
+    }
   ]
     }
   ,
     {
      "name":"V/VD309",
      "id":"VVD309",
-     "text":"<p>Welche der nachfolgenden Tätigkeiten fällt nicht unter die Ziel- und Zweckbestimmung des Ausbildungsfunkbetriebs?</p>",
+     "text":"<p>Welche der nachfolgenden Tätigkeiten fälltnichtunter die Ziel- und Zweckbestimmung des Ausbildungsfunkbetriebs?</p>",
      "answer":[
-    {"correct":true,"text":"Das alleinige Vorführen von Amateurfunkverkehr."}
+    {
+      "correct":true,
+      "text":"Das alleinige Vorführen von Amateurfunkverkehr."
+    }
   ,
-    {"correct":false,"text":"Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse E."}
+    {
+      "correct":false,
+      "text":"Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse E."
+    }
   ,
-    {"correct":false,"text":"Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse A."}
+    {
+      "correct":false,
+      "text":"Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse A."
+    }
   ,
-    {"correct":false,"text":"Personen, die nicht Inhaber eines entsprechenden Amateurfunkzeugnisses sind, können unter festgelegten Voraussetzungen am Amateurfunkdienst teilnehmen."}
+    {
+      "correct":false,
+      "text":"Personen, die nicht Inhaber eines entsprechenden Amateurfunkzeugnisses sind, können unter festgelegten Voraussetzungen am Amateurfunkdienst teilnehmen."
+    }
   ]
     }
   ,
@@ -486,13 +870,25 @@
      "id":"VVD401",
      "text":"<p>Welche Voraussetzungen müssen für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?</p>",
      "answer":[
-    {"correct":true,"text":"Die Rufzeichenzuteilung für das Betreiben einer Klubstation ist von der Benennung des verantwortlichen Funkamateurs durch den Leiter einer Gruppe von Funkamateuren abhängig."}
+    {
+      "correct":true,
+      "text":"Die Rufzeichenzuteilung für das Betreiben einer Klubstation ist von der Benennung des verantwortlichen Funkamateurs durch den Leiter einer Gruppe von Funkamateuren abhängig."
+    }
   ,
-    {"correct":false,"text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."}
+    {
+      "correct":false,
+      "text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."
+    }
   ,
-    {"correct":false,"text":"Der verantwortliche Funkamateur muss seit mindestens 2 Jahren Inhaber eines Amateurfunkzeugnisses sein."}
+    {
+      "correct":false,
+      "text":"Der verantwortliche Funkamateur muss seit mindestens 2 Jahren Inhaber eines Amateurfunkzeugnisses sein."
+    }
   ,
-    {"correct":false,"text":"Der Leiter einer als eingetragener Verein (e.V.) bestehenden Amateurfunkvereinigung muss auch der für die beantragte Klubstation verantwortliche Funkamateur sein."}
+    {
+      "correct":false,
+      "text":"Der Leiter einer als eingetragener Verein (e.V.) bestehenden Amateurfunkvereinigung muss auch der für die beantragte Klubstation verantwortliche Funkamateur sein."
+    }
   ]
     }
   ,
@@ -501,13 +897,25 @@
      "id":"VVD402",
      "text":"<p>Welche Voraussetzung muss für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG."}
+    {
+      "correct":true,
+      "text":"Eine Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG."
+    }
   ,
-    {"correct":false,"text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Ausbildungsrufzeichens sein."}
+    {
+      "correct":false,
+      "text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Ausbildungsrufzeichens sein."
+    }
   ,
-    {"correct":false,"text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."}
+    {
+      "correct":false,
+      "text":"Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."
+    }
   ,
-    {"correct":false,"text":"Eine HAREC-Bescheinigung oder ein Amateurfunkzeugnis."}
+    {
+      "correct":false,
+      "text":"Eine HAREC-Bescheinigung oder ein Amateurfunkzeugnis."
+    }
   ]
     }
   ,
@@ -516,13 +924,25 @@
      "id":"VVD403",
      "text":"<p>Was ist nötig, damit ein Funkamateur das Rufzeichen einer Klubstation mitbenutzen darf?</p>",
      "answer":[
-    {"correct":true,"text":"Er muss Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst sein."}
+    {
+      "correct":true,
+      "text":"Er muss Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst sein."
+    }
   ,
-    {"correct":false,"text":"Eine Ausbildungsfunkrufzeichenzuteilung nach § 12 der AFuV."}
+    {
+      "correct":false,
+      "text":"Eine Ausbildungsfunkrufzeichenzuteilung nach § 12 der AFuV."
+    }
   ,
-    {"correct":false,"text":"Ein Amateurfunkzeugnis der entsprechenden Klasse."}
+    {
+      "correct":false,
+      "text":"Ein Amateurfunkzeugnis der entsprechenden Klasse."
+    }
   ,
-    {"correct":false,"text":"Er muss Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."}
+    {
+      "correct":false,
+      "text":"Er muss Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."
+    }
   ]
     }
   ,
@@ -531,13 +951,25 @@
      "id":"VVD404",
      "text":"<p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>",
      "answer":[
-    {"correct":true,"text":"Von seiner Zulassung zur Teilnahme am Amateurfunkdienst."}
+    {
+      "correct":true,
+      "text":"Von seiner Zulassung zur Teilnahme am Amateurfunkdienst."
+    }
   ,
-    {"correct":false,"text":"Nur von den Betriebsrechten der Zuteilung der Klubstation."}
+    {
+      "correct":false,
+      "text":"Nur von den Betriebsrechten der Zuteilung der Klubstation."
+    }
   ,
-    {"correct":false,"text":"Von der CEPT-Klasse der Klubstation."}
+    {
+      "correct":false,
+      "text":"Von der CEPT-Klasse der Klubstation."
+    }
   ,
-    {"correct":false,"text":"Er muss Inhaber einer Ausbildungsfunkzuteilung nach § 13 der AFuV sein."}
+    {
+      "correct":false,
+      "text":"Er muss Inhaber einer Ausbildungsfunkzuteilung nach § 13 der AFuV sein."
+    }
   ]
     }
   ,
@@ -546,13 +978,25 @@
      "id":"VVD405",
      "text":"<p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>",
      "answer":[
-    {"correct":true,"text":"Von seiner Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG."}
+    {
+      "correct":true,
+      "text":"Von seiner Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG."
+    }
   ,
-    {"correct":false,"text":"Er muss auf jeden Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."}
+    {
+      "correct":false,
+      "text":"Er muss auf jeden Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein."
+    }
   ,
-    {"correct":false,"text":"Von seiner Benennung durch den verantwortlichen Funkamateur."}
+    {
+      "correct":false,
+      "text":"Von seiner Benennung durch den verantwortlichen Funkamateur."
+    }
   ,
-    {"correct":false,"text":"Nur von den Betriebsrechten der Rufzeichenzuteilung der Klubstation."}
+    {
+      "correct":false,
+      "text":"Nur von den Betriebsrechten der Rufzeichenzuteilung der Klubstation."
+    }
   ]
     }
   ,
@@ -561,13 +1005,25 @@
      "id":"VVD406",
      "text":"<p>Welche der genannten Funkamateure dürfen an einer Klubstation der Klasse A Funkbetrieb im 40-m-Amateurfunkband durchführen?</p>",
      "answer":[
-    {"correct":true,"text":"Inhaber einer Amateurfunkzulassung der Klasse A."}
+    {
+      "correct":true,
+      "text":"Inhaber einer Amateurfunkzulassung der Klasse A."
+    }
   ,
-    {"correct":false,"text":"Inhaber einer Amateurfunkzulassung der Klasse E."}
+    {
+      "correct":false,
+      "text":"Inhaber einer Amateurfunkzulassung der Klasse E."
+    }
   ,
-    {"correct":false,"text":"Inhaber eines Amateurfunkzeugnisses der Klasse E ohne Amateurfunkzulassung."}
+    {
+      "correct":false,
+      "text":"Inhaber eines Amateurfunkzeugnisses der Klasse E ohne Amateurfunkzulassung."
+    }
   ,
-    {"correct":false,"text":"Inhaber eines Amateurfunkzeugnisses der Klasse A ohne Amateurfunkzulassung."}
+    {
+      "correct":false,
+      "text":"Inhaber eines Amateurfunkzeugnisses der Klasse A ohne Amateurfunkzulassung."
+    }
   ]
     }
   ,
@@ -576,13 +1032,25 @@
      "id":"VVD407",
      "text":"<p>Darf ein Funkamateur mit Ausbildungsrufzeichen der Klasse E an einer Klubstation, für deren Betrieb ein Rufzeichen der Klasse A zugeteilt wurde, ausbilden?</p>",
      "answer":[
-    {"correct":true,"text":"Ja, unter Verwendung des Ausbildungsrufzeichens im Rahmen der Betriebsrechte der Klasse E."}
+    {
+      "correct":true,
+      "text":"Ja, unter Verwendung des Ausbildungsrufzeichens im Rahmen der Betriebsrechte der Klasse E."
+    }
   ,
-    {"correct":false,"text":"Ja, der Ausbildungsfunkbetrieb lässt dies in vollem Umfang der Klasse A zu."}
+    {
+      "correct":false,
+      "text":"Ja, der Ausbildungsfunkbetrieb lässt dies in vollem Umfang der Klasse A zu."
+    }
   ,
-    {"correct":false,"text":"Nein, Ausbildungsfunk an Klubstationen ist untersagt."}
+    {
+      "correct":false,
+      "text":"Nein, Ausbildungsfunk an Klubstationen ist untersagt."
+    }
   ,
-    {"correct":false,"text":"Nein, Ausbildungsfunk für Klasse E ist nur an Klubstationen der Klasse E zulässig."}
+    {
+      "correct":false,
+      "text":"Nein, Ausbildungsfunk für Klasse E ist nur an Klubstationen der Klasse E zulässig."
+    }
   ]
     }
   ,
@@ -591,13 +1059,25 @@
      "id":"VVD411",
      "text":"<p>Welche der folgenden Aussagen ist richtig?</p>",
      "answer":[
-    {"correct":true,"text":"Kurzzeitige Standortänderungen einer Klubstation müssen der Bundesnetzagentur nicht angezeigt werden."}
+    {
+      "correct":true,
+      "text":"Kurzzeitige Standortänderungen einer Klubstation müssen der Bundesnetzagentur nicht angezeigt werden."
+    }
   ,
-    {"correct":false,"text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Standortwechsel der Klubstation."}
+    {
+      "correct":false,
+      "text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Standortwechsel der Klubstation."
+    }
   ,
-    {"correct":false,"text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Rufzeichenwechsel bei der Zulassung zur Teilnahme am Amateurfunkdienst."}
+    {
+      "correct":false,
+      "text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Rufzeichenwechsel bei der Zulassung zur Teilnahme am Amateurfunkdienst."
+    }
   ,
-    {"correct":false,"text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Widerruf des Ausbildungsrufzeichens."}
+    {
+      "correct":false,
+      "text":"Die Rufzeichenzuteilung für eine Klubstation endet mit dem Widerruf des Ausbildungsrufzeichens."
+    }
   ]
     }
   ,
@@ -606,13 +1086,25 @@
      "id":"VVD501",
      "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
      "answer":[
-    {"correct":true,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine unbesetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater, Funkbaken usw.)."}
+    {
+      "correct":true,
+      "text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine unbesetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater, Funkbaken usw.)."
+    }
   ,
-    {"correct":false,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."}
+    {
+      "correct":false,
+      "text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."
+    }
   ,
-    {"correct":false,"text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."}
+    {
+      "correct":false,
+      "text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."
+    }
   ,
-    {"correct":false,"text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+    {
+      "correct":false,
+      "text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."
+    }
   ]
     }
   ,
@@ -621,13 +1113,25 @@
      "id":"VVD502",
      "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
      "answer":[
-    {"correct":true,"text":"Eine \"Relaisfunkstelle\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die empfangene Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale fern ausgelöst aussendet und dabei zur Erhöhung der Erreichbarkeit von Amateurfunkstellen dient."}
+    {
+      "correct":true,
+      "text":"Eine \"Relaisfunkstelle\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die empfangene Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale fern ausgelöst aussendet und dabei zur Erhöhung der Erreichbarkeit von Amateurfunkstellen dient."
+    }
   ,
-    {"correct":false,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."}
+    {
+      "correct":false,
+      "text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."
+    }
   ,
-    {"correct":false,"text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."}
+    {
+      "correct":false,
+      "text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."
+    }
   ,
-    {"correct":false,"text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+    {
+      "correct":false,
+      "text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."
+    }
   ]
     }
   ,
@@ -636,13 +1140,25 @@
      "id":"VVD503",
      "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
      "answer":[
-    {"correct":true,"text":"Eine \"Funkbake\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die selbsttätig Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+    {
+      "correct":true,
+      "text":"Eine \"Funkbake\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die selbsttätig Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."
+    }
   ,
-    {"correct":false,"text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."}
+    {
+      "correct":false,
+      "text":"Eine \"fernbediente oder automatisch arbeitende Amateurfunkstelle\" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten)."
+    }
   ,
-    {"correct":false,"text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."}
+    {
+      "correct":false,
+      "text":"Eine \"Relaisfunkstelle\" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet."
+    }
   ,
-    {"correct":false,"text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."}
+    {
+      "correct":false,
+      "text":"Eine \"Funkbake\" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt."
+    }
   ]
     }
   ,
@@ -651,13 +1167,25 @@
      "id":"VVD504",
      "text":"<p>Was ist notwendig, damit ein Funkamateur eine Amateurfunkstelle als Relaisfunkstelle oder Funkbake betreiben darf?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle."}
+    {
+      "correct":true,
+      "text":"Eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle."
+    }
   ,
-    {"correct":false,"text":"Die Meldung des Standortes bei der Bundesnetzagentur, sofern die Relaisfunkstelle oder Funkbake nicht an einem bereits gemeldeten Standort betrieben wird."}
+    {
+      "correct":false,
+      "text":"Die Meldung des Standortes bei der Bundesnetzagentur, sofern die Relaisfunkstelle oder Funkbake nicht an einem bereits gemeldeten Standort betrieben wird."
+    }
   ,
-    {"correct":false,"text":"Für den Betrieb einer Relaisfunkstelle oder Funkbake ist der mindestens 2-jährige Besitz einer gültigen Amateurfunkzulassung erforderlich."}
+    {
+      "correct":false,
+      "text":"Für den Betrieb einer Relaisfunkstelle oder Funkbake ist der mindestens 2-jährige Besitz einer gültigen Amateurfunkzulassung erforderlich."
+    }
   ,
-    {"correct":false,"text":"Der Betrieb sowie die technischen Parameter müssen der Bundesnetzagentur vor der Betriebsaufnahme schriftlich mitgeteilt werden."}
+    {
+      "correct":false,
+      "text":"Der Betrieb sowie die technischen Parameter müssen der Bundesnetzagentur vor der Betriebsaufnahme schriftlich mitgeteilt werden."
+    }
   ]
     }
   ,
@@ -666,13 +1194,25 @@
      "id":"VVD505",
      "text":"<p>Was ist notwendig, damit ein Funkamateur eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle erhalten kann?</p>",
      "answer":[
-    {"correct":true,"text":"Eine Amateurfunkzulassung, ein entsprechender Antrag und eine standortbezogene Verträglichkeitsuntersuchung für die beabsichtigten Betriebsfrequenzen."}
+    {
+      "correct":true,
+      "text":"Eine Amateurfunkzulassung, ein entsprechender Antrag und eine standortbezogene Verträglichkeitsuntersuchung für die beabsichtigten Betriebsfrequenzen."
+    }
   ,
-    {"correct":false,"text":"Eine HAREC-Bescheinigung, ein schriftlicher Antrag mit einer Befürwortung durch eine Amateurfunkvereinigung und ein Mindestalter von 13 Jahren."}
+    {
+      "correct":false,
+      "text":"Eine HAREC-Bescheinigung, ein schriftlicher Antrag mit einer Befürwortung durch eine Amateurfunkvereinigung und ein Mindestalter von 13 Jahren."
+    }
   ,
-    {"correct":false,"text":"Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch die Bundesnetzagentur und eine Rufzeichenzuteilung nach § 14 der AFuV."}
+    {
+      "correct":false,
+      "text":"Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch die Bundesnetzagentur und eine Rufzeichenzuteilung nach § 14 der AFuV."
+    }
   ,
-    {"correct":false,"text":"Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch Beauftragte der Amateurfunkverbände und die Vorlage des Prüfungsergebnisses bei der Bundesnetzagentur."}
+    {
+      "correct":false,
+      "text":"Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch Beauftragte der Amateurfunkverbände und die Vorlage des Prüfungsergebnisses bei der Bundesnetzagentur."
+    }
   ]
     }
   ,
@@ -681,13 +1221,25 @@
      "id":"VVD506",
      "text":"<p>Wie hoch ist die maximal zulässige Strahlungsleistung einer Relaisfunkstelle oberhalb 30 MHz?</p>",
      "answer":[
-    {"correct":true,"text":"15 Watt ERP"}
+    {
+      "correct":true,
+      "text":"15 Watt ERP"
+    }
   ,
-    {"correct":false,"text":"15 Watt Senderausgangsleistung"}
+    {
+      "correct":false,
+      "text":"15 Watt Senderausgangsleistung"
+    }
   ,
-    {"correct":false,"text":"750 Watt Senderausgangsleistung bis 23 cm und 75 Watt auf den Bändern darüber."}
+    {
+      "correct":false,
+      "text":"750 Watt Senderausgangsleistung bis 23 cm und 75 Watt auf den Bändern darüber."
+    }
   ,
-    {"correct":false,"text":"<10 Watt EIRP"}
+    {
+      "correct":false,
+      "text":"<10 Watt EIRP"
+    }
   ]
     }
   ,
@@ -696,13 +1248,25 @@
      "id":"VVD507",
      "text":"<p>Was gilt gemäß AFuV bei Relaisfunkstellen?</p>",
      "answer":[
-    {"correct":true,"text":"Der Inhaber der Rufzeichenzuteilung muss sicherstellen, dass die Relaisfunkstelle jederzeit abgeschaltet werden kann."}
+    {
+      "correct":true,
+      "text":"Der Inhaber der Rufzeichenzuteilung muss sicherstellen, dass die Relaisfunkstelle jederzeit abgeschaltet werden kann."
+    }
   ,
-    {"correct":false,"text":"Ein vorgeschriebenes Mindestalter des Rufzeicheninhabers."}
+    {
+      "correct":false,
+      "text":"Ein vorgeschriebenes Mindestalter des Rufzeicheninhabers."
+    }
   ,
-    {"correct":false,"text":"Das Rufzeichen der Relaisfunkstelle muss nach einer mehr als 10-minütigen Sendepause wiederholt werden."}
+    {
+      "correct":false,
+      "text":"Das Rufzeichen der Relaisfunkstelle muss nach einer mehr als 10-minütigen Sendepause wiederholt werden."
+    }
   ,
-    {"correct":false,"text":"Ein durchlaufender Betrieb des Senders länger als 10 Minuten ist nicht zulässig."}
+    {
+      "correct":false,
+      "text":"Ein durchlaufender Betrieb des Senders länger als 10 Minuten ist nicht zulässig."
+    }
   ]
     }
   ,
@@ -711,13 +1275,25 @@
      "id":"VVD508",
      "text":"<p>Was gilt gemäß AFuV bei Relaisfunkstellen und Funkbaken?</p>",
      "answer":[
-    {"correct":true,"text":"Relaisfunkstellen und Funkbaken dürfen nur auf den in der Rufzeichenzuteilung für sie ausgewiesenen Frequenzen betrieben werden."}
+    {
+      "correct":true,
+      "text":"Relaisfunkstellen und Funkbaken dürfen nur auf den in der Rufzeichenzuteilung für sie ausgewiesenen Frequenzen betrieben werden."
+    }
   ,
-    {"correct":false,"text":"Ein vorgeschriebenes Mindestalter des Rufzeicheninhabers."}
+    {
+      "correct":false,
+      "text":"Ein vorgeschriebenes Mindestalter des Rufzeicheninhabers."
+    }
   ,
-    {"correct":false,"text":"Das Rufzeichen der Relaisfunkstelle muss nach einer mehr als 10-minütigen Sendepause wiederholt werden."}
+    {
+      "correct":false,
+      "text":"Das Rufzeichen der Relaisfunkstelle muss nach einer mehr als 10-minütigen Sendepause wiederholt werden."
+    }
   ,
-    {"correct":false,"text":"Ein durchlaufender Betrieb des Senders länger als 10 Minuten ist nicht zulässig."}
+    {
+      "correct":false,
+      "text":"Ein durchlaufender Betrieb des Senders länger als 10 Minuten ist nicht zulässig."
+    }
   ]
     }
   ,
@@ -726,13 +1302,25 @@
      "id":"VVD511",
      "text":"<p>Welcher Fall ist als störungsfreier Betrieb einer Relaisfunkstelle im Sinne des § 13 Abs. 4 AFuV anzusehen?</p>",
      "answer":[
-    {"correct":true,"text":"Lang andauernder Funkverkehr."}
+    {
+      "correct":true,
+      "text":"Lang andauernder Funkverkehr."
+    }
   ,
-    {"correct":false,"text":"Mutwillige Störungen oder unberechtigte Aussendungen."}
+    {
+      "correct":false,
+      "text":"Mutwillige Störungen oder unberechtigte Aussendungen."
+    }
   ,
-    {"correct":false,"text":"Die Verbreitung von Inhalten, die gegen AFuG, AFuV oder gegen allgemeines Recht verstoßen."}
+    {
+      "correct":false,
+      "text":"Die Verbreitung von Inhalten, die gegen AFuG, AFuV oder gegen allgemeines Recht verstoßen."
+    }
   ,
-    {"correct":false,"text":"Die Benutzung einer Relaisfunkstelle mit falscher Rufzeichenklasse."}
+    {
+      "correct":false,
+      "text":"Die Benutzung einer Relaisfunkstelle mit falscher Rufzeichenklasse."
+    }
   ]
     }
   
