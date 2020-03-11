@@ -1,3 +1,9 @@
+var bookLinkTable = {
+  "E": "https://www.darc.de/der-club/referate/ajw/lehrgang-te",
+  "A": "https://www.darc.de/der-club/referate/ajw/lehrgang-ta",
+  "BV": "https://www.darc.de/der-club/referate/ajw/lehrgang-bv",
+}
+
 function shuffle(a) {
   for (let i = a.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -34,6 +40,7 @@ class Quiz {
     if (updateConfig) {
       window.localStorage.setItem(window.localStorage.getItem("book"), JSON.stringify(settings));
     }
+    this.booklink = bookLinkTable[window.localStorage.getItem("book")]
     this.allweights = settings.weights
     this.weights = {};
     this.questions = {};
@@ -57,7 +64,9 @@ class Quiz {
       }).then((result) => {
         // Add questions and update weighting of questions s
         result.forEach((q, i) => {
+          q["link"] = this.booklink+"/" + ch.toLowerCase() + "/";
           this.questions[q.id] = q;
+
           if (! (q.id in this.allweights)) {
             this.allweights[q.id] = 1.0;
           }
@@ -140,7 +149,7 @@ class Quiz {
 
   view() {
     if (this.current) {
-      var answ = [m("tr", [m("th.qname", this.current.name), m("th.qtext",m.trust(this.current.text))])];
+      var answ = [m("tr.question", [m("th.qname", m("a.qname", {href:this.current.link}, this.current.name)), m("th.qtext",m.trust(this.current.text))])];
       for (var i=0; i<this.current.answer.length; i++) {
         var a = this.current.answer[i];
         var style = {};
@@ -150,23 +159,30 @@ class Quiz {
           style["background-color"] = "red";
         }
         answ.push(m("tr", {style: style}, [
-          m("td", m("input",{type:"radio", name:"answ", checked:(i == this.selected), value:a.correct})),
-          m("td", m.trust(a.text))
+          m("td.input", m("input",{type:"radio", name:"answ", checked:(i == this.selected), value:a.correct})),
+          m("td.answer", m.trust(a.text))
         ]));
       }
+      answ.push(m("tr.buttons", [
+        m("td.submit", m("button.button[type=submit]", {disabled:this.validated}, "Prüfen")),
+        m("td.skip", m("button.button[type=button]", {disabled:false, onclick:(e) => { this.next(); }}, "Nächste"))
+      ]));
       return [
+        m("nav", [
+          m(m.route.Link, {href:"/"}, "Buch"), m("span.sep", ">"),
+          m(m.route.Link, {href:"/chapters"}, window.localStorage.getItem("book")), , m("span.sep", ">"),
+          m(m.route.Link, {href:"/quiz"}, "Quiz")]),
         m("form", {onsubmit: (e) => {this.onsubmit(e);}}, [
-          m("table.question", answ),
-          m("button.button[type=submit]", {disabled:this.validated}, "Prüfen"),
-          m("button.button[type=button]", {disabled:false, onclick:(e) => { this.next(); }}, "Nächste")
+          m("table.question", {width:"100%"}, answ),
         ]),
-        m("div", [
+        m("div.stats", [
+          m("span.statstitle", "Statistik:"),
           m("span.correct",["Korrekt: ", this.correct]),
           m("span.answered", ["Beantwortet: ", this.answered]),
           m("span.questions", ["Fragen: ", Object.keys(this.questions).length]),
-          m("div.", [
-            "Bestehensw'keit: ",
-            m("progress", {id:"prob", max:100, value:100*this.probability}, Math.round(100*this.probability)+"%"),
+          m("div.prob", [
+            m("span.prob","Bestehensw'keit: "),
+            m("progress.prob", {max:100, value:100*this.probability}, Math.round(100*this.probability)+"%"),
           ]),
         ])
       ];
