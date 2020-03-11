@@ -149,7 +149,10 @@ class Quiz {
 
   view() {
     if (this.current) {
-      var answ = [m("tr.question", [m("th.qname", m("a.qname", {href:this.current.link}, this.current.name)), m("th.qtext",m.trust(this.current.text))])];
+      var answ = [m("tr.question", [
+        m("th.qname", m("a.qname", {href:this.current.link, target:"_blank"}, this.current.name)),
+        m("th.qtext",m.trust(this.current.text))
+      ])];
       for (var i=0; i<this.current.answer.length; i++) {
         var a = this.current.answer[i];
         var style = {};
@@ -167,6 +170,7 @@ class Quiz {
         m("td.submit", m("button.button[type=submit]", {disabled:this.validated}, "Prüfen")),
         m("td.skip", m("button.button[type=button]", {disabled:false, onclick:(e) => { this.next(); }}, "Nächste"))
       ]));
+
       return [
         m("nav", [
           m(m.route.Link, {href:"/"}, "Buch"), m("span.sep", ">"),
@@ -187,7 +191,7 @@ class Quiz {
         ])
       ];
     } else {
-      return m("div.loading", "Loading quiz...");
+      return m("div.loading", "Lade Quiz...");
     }
   }
 }

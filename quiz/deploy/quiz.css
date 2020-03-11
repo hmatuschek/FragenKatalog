@@ -1,5 +1,5 @@
 body {
-
+  background-color: #fff;
 }
 
 nav {
@@ -131,4 +131,5 @@ div.stats span.prob {
 div.stats progress.prob {
   width: 100%;
   max-width: 340px;
+  content: attr(value)'%';
 }
