@@ -18,7 +18,7 @@
     }
   </xsl:template>
 
-  <xsl:template match="text"><xsl:variable name="input"><xsl:apply-templates select="p"/></xsl:variable><xsl:variable name="result"><xsl:call-template name="replace"><xsl:with-param name="string" select="$input"/><xsl:with-param name="search" select="'&quot;'" /><xsl:with-param name="replace-with" select="'\&quot;'" /></xsl:call-template></xsl:variable><xsl:value-of select="$result" disable-output-escaping="yes"/><xsl:apply-templates select="img"/></xsl:template>
+  <xsl:template match="text"><xsl:variable name="input"><xsl:apply-templates select="p" mode="qtext"/></xsl:variable><xsl:variable name="result"><xsl:call-template name="replace"><xsl:with-param name="string" select="$input"/><xsl:with-param name="search" select="'&quot;'" /><xsl:with-param name="replace-with" select="'\&quot;'" /></xsl:call-template></xsl:variable><xsl:value-of select="$result" disable-output-escaping="yes"/><xsl:apply-templates select="img" mode="qtext"/></xsl:template>
 
   <xsl:template match="answer">
     {
@@ -28,7 +28,9 @@
   </xsl:template>
 
   <xsl:template match="img"><xsl:variable name="imgid" select="@src"/>&lt;img src='data:image/<xsl:value-of select="/AfuP/pool/img[@id=$imgid]/@type"/>;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/>' alt='<xsl:value-of select="$imgid"/>'/&gt;</xsl:template>
+  <xsl:template match="img" mode="qtext">&lt;br&gt;<xsl:variable name="imgid" select="@src"/>&lt;img src='data:image/<xsl:value-of select="/AfuP/pool/img[@id=$imgid]/@type"/>;base64,<xsl:value-of select="/AfuP/pool/img[@id=$imgid]"/>' alt='<xsl:value-of select="$imgid"/>'/&gt;</xsl:template>
   <xsl:template match="p">&lt;p&gt;<xsl:apply-templates/>&lt;/p&gt;</xsl:template>
+  <xsl:template match="p" mode="qtext"><xsl:apply-templates/></xsl:template>
   <xsl:template match="br">&lt;br&gt;</xsl:template>
   <xsl:template match="sup">&lt;sup&gt;<xsl:value-of select="."/>&lt;/sup&gt;</xsl:template>
   <xsl:template match="sub">&lt;sub&gt;<xsl:value-of select="."/>&lt;/sub&gt;</xsl:template>
