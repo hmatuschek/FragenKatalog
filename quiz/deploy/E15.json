@@ -4,7 +4,7 @@
     {
      "name":"E/TD601",
      "id":"ETD601",
-     "text":"<p>Was verstehen Sie unter einem \"Oszillator\"?</p>",
+     "text":"Was verstehen Sie unter einem \"Oszillator\"?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TD602",
      "id":"ETD602",
-     "text":"<p>Was ist ein LC-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>",
+     "text":"Was ist ein LC-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TD603",
      "id":"ETD603",
-     "text":"<p>Was ist ein Quarz-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>",
+     "text":"Was ist ein Quarz-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TD604",
      "id":"ETD604",
-     "text":"<p>Wie verhält sich die Frequenz eines LC-Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg geringer wird?</p>",
+     "text":"Wie verhält sich die Frequenz eines LC-Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg geringer wird?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TD605",
      "id":"ETD605",
-     "text":"<p>Im VFO eines Senders steigt die Induktivität der Oszillatorspule mit der Temperatur. Der Kondensator bleibt sehr stabil. Welche Auswirkungen hat dies bei steigender Temperatur?</p>",
+     "text":"Im VFO eines Senders steigt die Induktivität der Oszillatorspule mit der Temperatur. Der Kondensator bleibt sehr stabil. Welche Auswirkungen hat dies bei steigender Temperatur?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TD606",
      "id":"ETD606",
-     "text":"<p>Der Vorteil von Quarzoszillatoren gegenüber LC-Oszillatoren liegt darin, dass sie</p>",
+     "text":"Der Vorteil von Quarzoszillatoren gegenüber LC-Oszillatoren liegt darin, dass sie",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TF101",
      "id":"ETF101",
-     "text":"<p>Eine hohe erste ZF vereinfacht die Filterung zur Vermeidung von</p>",
+     "text":"Eine hohe erste ZF vereinfacht die Filterung zur Vermeidung von",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TF102",
      "id":"ETF102",
-     "text":"<p>Eine hohe erste Zwischenfrequenz</p>",
+     "text":"Eine hohe erste Zwischenfrequenz",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TF103",
      "id":"ETF103",
-     "text":"<p>Welche Aussage ist für einen Doppelsuper richtig?</p>",
+     "text":"Welche Aussage ist für einen Doppelsuper richtig?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TF104",
      "id":"ETF104",
-     "text":"<p>Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszillator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welche Frequenz hat die Spielfrequenz?</p>",
+     "text":"Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszillator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welche Frequenz hat die Spielfrequenz?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TF105",
      "id":"ETF105",
-     "text":"<p>Wodurch wird beim Überlagerungsempfänger die Spiegelfrequenzdämpfung bestimmt? Sie wird vor allem bestimmt durch</p>",
+     "text":"Wodurch wird beim Überlagerungsempfänger die Spiegelfrequenzdämpfung bestimmt? Sie wird vor allem bestimmt durch",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TF106",
      "id":"ETF106",
-     "text":"<p>Einem Mischer werden die Frequenzen 136 MHz und 145 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>",
+     "text":"Einem Mischer werden die Frequenzen 136 MHz und 145 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TF107",
      "id":"ETF107",
-     "text":"<p>Einem Mischer werden die Frequenzen 28 MHz und 38,7 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>",
+     "text":"Einem Mischer werden die Frequenzen 28 MHz und 38,7 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"E/TF108",
      "id":"ETF108",
-     "text":"<p>Eine schmale Empfängerbandbreite führt im allgemeinen zu einer</p>",
+     "text":"Eine schmale Empfängerbandbreite führt im allgemeinen zu einer",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"E/TF109",
      "id":"ETF109",
-     "text":"<p>Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal entspricht</p>",
+     "text":"Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal entspricht",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"E/TF110",
      "id":"ETF110",
-     "text":"<p>Durch welchen Vorgang setzt ein Konverter einen Frequenzbereich für einen vorhandenen Empfänger um?</p>",
+     "text":"Durch welchen Vorgang setzt ein Konverter einen Frequenzbereich für einen vorhandenen Empfänger um?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"E/TF201",
      "id":"ETF201",
-     "text":"<p>Um Schwankungen des NF-Ausgangssignals durch Schwankungen des HF-Eingangssignals zu verringern, wird ein Empfänger mit</p>",
+     "text":"Um Schwankungen des NF-Ausgangssignals durch Schwankungen des HF-Eingangssignals zu verringern, wird ein Empfänger mit",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"E/TF202",
      "id":"ETF202",
-     "text":"<p>Bei Empfang eines sehr starken Signals verringert die AGC (automatic gain control)</p>",
+     "text":"Bei Empfang eines sehr starken Signals verringert die AGC (automatic gain control)",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"E/TF203",
      "id":"ETF203",
-     "text":"<p>Was bewirkt die AGC (automatic gain control) bei einem starken Eingangssignal?</p>",
+     "text":"Was bewirkt die AGC (automatic gain control) bei einem starken Eingangssignal?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"E/TF204",
      "id":"ETF204",
-     "text":"<p>Ein Doppelsuper hat eine erste ZF von 10,7 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 28 MHz sein.<br>Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?</p><img src='data:image/png;base64,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' alt='ETF204'/>",
+     "text":"Ein Doppelsuper hat eine erste ZF von 10,7 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 28 MHz sein.<br>Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?<br><img src='data:image/png;base64,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' alt='ETF204'/>",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"E/TF205",
      "id":"ETF205",
-     "text":"<p>Ein Doppelsuper hat eine erste ZF von 9 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 21,1 MHz sein. Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?</p><img src='data:image/png;base64,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' alt='ETF204'/>",
+     "text":"Ein Doppelsuper hat eine erste ZF von 9 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 21,1 MHz sein. Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACNCAAAAAC863PhAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJRaZcCDSAAASfElEQVR42u1dT2gbSbr/9dS7+ZBGBzUSBGtykJAgxBkGCQuWePYgYcHbOFkcGcG+5PEOHgkzmWUNCj5sMnMwaPAwzuKx0GEZv/fAY2H2ZWYCEjLsJmZARmKYOCxISAePhoBE6yA6Bx+7eQdJVutPW9VWtyxt9IPE7nZ1fVX166r6vqqvvmYkTDBKeO+yCzBBOyaEjBgmhIwYJoSMGNoJCRF74bJL9I5DTsgGiaHoCPGXXaZ3Gi1CUiScEFEux8xrl12odxlMww6JriCyCpC0Cykfdv29U0cvu7iXgNPVoYqrExL9vLr8mEOdEGBp35PsmZpcdutcBsShSmMkAKZqeL1+WScEsBd7dhKS8OpbHNOmf/BMzsPsR+sqnyDDJeQ9gCcWsbOU+VyA9JrcT3QuTrWmswBBUPnAsFWc9wAucdR93yZ6jnskPx1y8d49vAeg9zCU7HV76rLLe0nIEGKX9ZVMXRFdSwGY17YPTSx1KggQP5lB5qztX9T/FxDNHDzUVNKEEGpYlhbMsJN5hIj7ZnQe9o3pmt1QwmtNpfzbZVdzPMDCVM0t7HgzRZEUYrnnPxkATBlWjH48eVl4juuaaZ8qe8i7O6kfizacQFiEB7BdR+0KWMBZBSAIf//pn5rJUdlD3tVJXQAHFE8xs/9r1madBXt35W125382v5pPCoIrObiAM0yGLCrMJACkLeDKL/3IRw1zXO540/bEshfHjktTSRNCqMB5AbgAcH4AQQA2G+AF/NB47WIyh9Bivv5jo9C6CukgRiUh7+ocAuCg/uOvzwGAP0C0UIjV7ZKClqbhpIdQoWCyAzwhfLwY5u2mDQ6pFdtzPITJtASHOaWdpEkPocI/LHlgYWtxxu9JH7M74QJ8Oawa91LV7w43PCKrnaSJpU6HmwCElV83IQDZB1s2WEsAcLLssuAKNFS0VGpZ7+qQdW3lNmARpmsQBODOKZAnZa6KIHmV/fRvWkqaGIZU8CZOEkhG8QF2LNxu7Rq2kBC4BJA7nuMsWkqa9BA6eIG6/eEC6qaIF/DWzRFNLUOVc8jVPn8vkCUAs0vIEJy5ePEm6vyN1/okiBOSAsATYG2pcLbHv0brfsGyg7eZrlBFCEFg4/wUTz0GANP7mQdG7Nj4VApIxcFmCkCKR6afemiv+uLnp2DLkW8AAEt8xGBLAAUAPI9THkChr02wlI3Qvx3DRr3oUhuYI+kcMAzzrXQ+vr0nSdI9jrFxEicxnE36mLFVGBsjuTjmiGE+Pv9pF8Pk+wiQvI8kSaowDMM8qjASw9yTbAyTZJgvJBfz7RcMUzn3YYa5109AOyqMuvQXR56RJElS1UOW6+PneXgDAG93xHwVLDzI45dEHta8tZDdRMkobp//9O8BWx8BhYN1ALCWt3YFAEjsoSiK//SI4VRWDJzsitx5T78P3NL3Nb8w1hwAVA5Z12GkS1h3TikkdwiuHPKcAIHFa5Gt9hfg7JfEkQMAFLngawAQfUsAAAEAlnK1Pl4r14F+s9SwkVriASAUqVdMFSEf9H+9pq6FCrgCAGBhemLEnYi5wILlnC9m+9PpxUd9UoSwYEc0xAFATUB81rMPmExXBYCFodRPQBBar84OjMP9EoC1mFgfG1Spva7+hAQBYA+AiCNUAPj9QB55HAGo9JVg7KfGPb4P4O5vkQYeCra0i0USYgauGSRcuZLl6SW06IAwAMBaRGzM6ersEONdnUt3K9gnAcfV/3M1/vcCgAuwwQtbv/kHwLLaKYSjSpVS2MM9uU3VIUOxcvNXCkJMsqHfLP9DrncDLO0rZBTp7bZsL8ou5M8q+XBGlXawHyowIndJjgUoJMQPz36tYUPmrnlLQan5Pmbteb/IUhBi2Yilz3inIKS6fL3XbUNAIf1b65Naz/QKE25RZf744UCh9reUukik55LPaVhJwrN9mYS/CS0JNSUtU8E7ncromSumW8Y+zZCl0O2UGky40bvUT5TyV3jtFAkRlntrz8q++X/oPfAoEmJwHvW8P68oQQAtuksp54NKy6IXNoxsAPYXbUTzah/QpArGiFiWQQwjIV8Mo5/UifE7bf0rRhgX9sHnKXSAqU5FwSK/UGGH3HLrsanfqktGz9wBoKDyQKu8RHT75hkzucBuriC/oCfEuCc+I/Rn2kKt8TZjp3lgzk3iNOma2JCVZYnqiTkHbXMZAADH7tnmjbjjJc1zgjPio6qsMlRZ6pX0CqH1sLh/0CwZ7+5nfgMA2EQiYFfhv/HTSnPlmSeHdI+UE75ZKgn1Icu7m228VfHAFuXJrlXxBhloIFG3H+ISw2a6txGuRLHOSMG8vE31hOAVb5jnqZICwN5yuMGI2dp/CQAAUPKKoCp/vYfAv3uwBADxwFY/g1VWrtwzMsBhf7VODuuigWxQpfSmi7MAeIeHjo96ZY7px61tT50RYs3Tl/8od0j6T1bNSd2/tT8PpAIRej4AWyXhmFWRvh3qvU62xS/phklXLmsHb15W44psqyQC1O9Xcjm8ppIPwFbZdfcNV2Fo/hJMHMynfFvnnIwu9KDXK/4H6dHVN+IUNetUe1n5RfSapZft++eVjdWutAAAsnxrjju7bUu75w9k45WhM3noIdulJnrFqCOsdFI2+vmf/l1Wom1Erq7I+Ogu0Mb17hr4/RvKEjILf/qNRVYo727gQHYg+W1B6Givx/uwfnK3U3IwOGvPA8CL6Juz6ocBODdxPjoJeSzfLogAVstOVzPGGotSc2xn6RCLwcpeaV670m5niw/2yw71XojF4Jze61yUDwZJRASA2U5DjC1Vw2HjLWH6jBF2RW5Tf9M5uQsxwDndtQS8ukpeJQFgtkMAWKEaBjyyO/6AjGf2wNGjDYsrK8aZzpulKs8ByJbOVgKNAJD9UR0hzteyOrEAisUOUaGYp7kk9xHbkZkhC6BoPGsvuJ3ZjVZ3t7wotdceQDb7tmvbKtRokS7lzPD3A6D6Gi0BL5Bt2WLGw9cdDVyX0H3mLISbAIDfd1mAJ0UAx7I6E88T99mU3mPRJhSD9cZnzzt8s+KBuqJRlS+oEs/vPnDhS1WEtC/hmKqe9++75Isv8YBsjfdx13gTdt58aGuNnsR5VHCcNOsg/FfnUEyMt66tdy7upHwo1zPuHlamDjyfejH/tlVAMWQ+K1C1O6wBweK1+7YOCfFAc5m3e25I7Xs+neFCpcYlb/YksRtAk5FuE/76rh9AeydM+dBYnjLKH6CKQHDu0snLjiE+426LgiJ0EVLmAAjNIYs4j2BL+Nhmw3bVpsf6PT9TPUfFDLb/yV4VsQ1HuVkOoeuBXPckBaIYygWAV2wrqdmTBPwIGBSf6C5sYa4aVhsuooVztSybvDZsYdYdFs+3j9pqT4xHALzpiKKa3M3HknlGpFYxTUURwPaiWVl5sXXywc+TZZHSyAOIMwkA/t0A/SLCvOOOeHE+VCwuFh0eNVE/eHND/XHlHDWqArIIxawqRJiq9cR7cChslXXCIp8BKUCsjSHcj0BffxsAgKCuCj1AT0ha3Vrv/52pP7a0+zbNs098RsqGBQBsVJs13zM4qBqBXciiTLEce6agt4rjp1sAZousymYCOrR1ekJUCpIN9y6qVmCP1dVltTUjb9+mq7igsrVkrwfdKEdX004I8ouhHPqkKuUgZ4vpXHuOqFIBA+yHUNS0urLSccctt6UmB3Z6waD6CZY6pdiBNBIlmV5O00PohQ0jG+1EX2R4UYLAC73k9vXVBAQIFZP9bP2HhpDvT3ocCznn6M7raCv91OlZ+qJS+me1Xvmf85ZegUo8vdpLgvJhlxqrUgCbNat8og0Vk6m5g0BBiPXZM1W5T5c+b11UWytVSl6JzkPK/aUmhIN9dQ8Yv1HZQG+zCh4srMID6xe3PATUgIqdNLzEGX2/jpDS25WWfzqAEUaHpT1ds8882PQCsAsVIkJ3Qubfp9+duhCiBmqz+4LgzcOJgmkvQoTuWlbphc7VUDvcqcex3gIayC8C0N0OESjUjIGw3/dAyaD4HqnhnGDY+xDQu4fwevMBlPQW8Arf616JOlYBNYSkMsgUkIpGVbhUHAP6ur8VUKUvzsUikmShYthNrSETQtRup/ee6QA9IZs/46v/xoMffijR535C/wbP2wFECSGZFCHUIc2fqugidh8BsEYIyazRi+CBIr23mBDh8QqH7CcP6BupHfSEXHkDgwFIJlWMqEHjLqUSlBIAICiKsJx4RGq9pgZQ2xh5EXFgXSwbXYZFahFcGSK9Sc9izgIYpoNz9I3UDnpCDBF7bAqsyaTLJxK8O/WfSxEOpRT1dtCe06PCSjDOAYD5JbA/T+05JaiphuC8scAC+6a5izYEvZZV2/WHTiF8p1MshEZQ9v09GIqbJWrjglWxjEISHICU1QZYH+gUZF44IouoUfpq9gI9IW9rqLGoWrRckuuCKQ3UPGpW4t9Sp5y3elGwwZfjuZpFJ3OyVoT1VxVl6gY9ITcN+PAqFvWpCMBaYKoUqg+ElwbVa4d0OGZJ2p07xoJwfFXQqRa/3cXLY+WzYhTQeelE9++BzA+0sUWDAt3+sFaYbFCNGCaEjBgmhIwYJoSMGCaEjBgmhIwYJsH4e6K1nMi1BxjQ1SwGJoQowKx0cSHXRDUYe0J0MuvTlh43uYxb9/roQIg8nBMCshAyWlm8jT2vkgVgS2xBQMkCABBmtHt9ey/ZsZrlrwgdCKmG7wu9KuNQm5ESPs3Kr2TZ0m6+XBjCwDn0hR5DVlfYqpDGvkCqwzONEfRQe4WOa5PGew/qwzONEYYwqReqf7zsWl4U/P9SBk3UDkMwDOe0jVY/RETNf33hG3Jocv0JyVR192XTCamVXD4vsgQANoY1QelJCM8DwM9O+pNLqpAxEYo4MgPAW7aBR95JMvFQON26byJkCVFCCNYIWdNYqH6E8Haz2ZQC/qITHyH3nxNhd709NPwolxzcLDGbUkcedyDWFhdRzO3jdFcU8awsqj3p0A+6TeoFx+IOvvKVX94BMoIOM2Ms7YJ3ndzyAtEVfXZZ7cUEDn3pJAAUZLr80utdTG0eYpvlNLcVdSPkH+F1YO+PZoiIB876e8qLaJB/apgKYs3wh4EMaxGZH697RWL9KAbZeIK1VzfXM19dezi41R4tioB3nSS84NuisH12HPBDqKk/iUgD7b+D0fzGSP7RoyPpHsMxzKP6/fo/RjqyffxIuue6d9Evc3i9kiRJEscwDCNJXzOPKjLBH9u+TkrM1y6VnwnprEMjy68fJaUkw3CMTZIkSTpiKpIkcZLESF98K0mSTZI4jVtPPztkLQJEnNmt09r9NsvdCjzxA4cV/DpQ/nb2mOM/I2Iw2HbI6VUegDMYHDAWJQAg5QMixkr6x1p75IPZ0jJqUwAsxMhq3Gy6ERKNpF2AfTkIIHRmXS0XHt8AGwhosNB4Yw/gtn8hCW/GLQu5xdKEzqUD79sKArP2vAuIv2nFKagAjVBFSe2P7OmmZd0tuwBYYvOZlD0207x72/F6D8IWvTe1MvZ4OzGlkhEfcS/KgmAK2lWBE4MAjoqmTGYt0PvUsVdzbUU3QjjBRAgRxAO3T+Y+7jWygHAKAPFM9sKZA0DcfCMx41tbLefKe7I9vZsLmQKymZBFs5qId9zuyK6aMJiDQEe11/PAspCFyLdte+7MABYWwEsHEgMJ2Nn1wwty28Uh5Wv1uO3Qwkxyd2FmR7uqbG9rNwz2hW6EPA+vg7f8JxE5pHytjQovGjFdbIOOWnUX0pzDeufVQUR2f3u7/lkfLTE8PvQjZBWAOWd7QYxsMazfxpFNjH4+oyaq06hDz+X3uNWGo9T3te90ba/gsEb34UBPQt7koYceMhT0HqQs+gvWk5DVwbO4NPQ+8SboL1gPQlj9i603FM4lTVN952Eg6EHIA4vOhdbJF0sGfePNnAcdCInUhF632ZtaCVAdnmmcoPORNl3AC2zzV252umWmC/8K2u84upJyMhWIfdtSiIZovumHyXGEEcM49hA59J/fh4xxnEMa4M2AsQpjFVDxiahRxxgTghTb+EVLt/fLxjgT0rKmN8fVN7IbYzyH8NmcAEBgLTM/TwgZBRibdgd72SXREBO1d8Qwzj2k2vCrNRQHy2ekMM6T+tKZ6+D9yRwyCvhwCjCgBtUfmxlljDMhPxlwbcVzU6D7rvyYYJyHLACYfTKeW8SKmGhZI4YJISOGCSEjhgkhI4YJISOGcVZ7N6ZwTTgUar2+EDy2GGO1l2/FsRpqZF19McY9hIO18Rt72UXREGPcQ/41MZnURwwTQkYME0JGDBNCRgwTQkYME0JGDBNCRgwTQkYM/w+A0AtrCW14UwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETF204'/>",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"E/TF301",
      "id":"ETF301",
-     "text":"<p>In der folgenden Schaltung können bei einer Empfangsfrequenz von 28,3 MHz und einer Oszillatorfrequenz von 39 MHz Spiegelfrequenzstörungen bei</p><img src='data:image/png;base64,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' alt='ETF301'/>",
+     "text":"In der folgenden Schaltung können bei einer Empfangsfrequenz von 28,3 MHz und einer Oszillatorfrequenz von 39 MHz Spiegelfrequenzstörungen bei<br><img src='data:image/png;base64,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' alt='ETF301'/>",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"E/TF303",
      "id":"ETF303",
-     "text":"<p>Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?</p>",
+     "text":"Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"E/TF401",
      "id":"ETF401",
-     "text":"<p>Die Empfindlichkeit eines Empfängers bezieht sich auf die</p>",
+     "text":"Die Empfindlichkeit eines Empfängers bezieht sich auf die",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"E/TF402",
      "id":"ETF402",
-     "text":"<p>Welchen Vorteil bietet ein Überlagerungsempfänger gegenüber einem Geradeaus-Empfänger?</p>",
+     "text":"Welchen Vorteil bietet ein Überlagerungsempfänger gegenüber einem Geradeaus-Empfänger?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"E/TF407",
      "id":"ETF407",
-     "text":"<p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?</p>",
+     "text":"Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"E/TF408",
      "id":"ETF408",
-     "text":"<p>Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC?</p>",
+     "text":"Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"E/TF409",
      "id":"ETF409",
-     "text":"<p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, impulsförmige Störungen auszublenden?</p>",
+     "text":"Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, impulsförmige Störungen auszublenden?",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"E/TG101",
      "id":"ETG101",
-     "text":"<p>Wie kann die hochfrequente Ausgangsleistung eines SSB-Senders vermindert werden?</p>",
+     "text":"Wie kann die hochfrequente Ausgangsleistung eines SSB-Senders vermindert werden?",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"E/TG102",
      "id":"ETG102",
-     "text":"<p>Welche der nachfolgenden Antworten trifft für die Wirkungsweise eines Transverters zu?</p>",
+     "text":"Welche der nachfolgenden Antworten trifft für die Wirkungsweise eines Transverters zu?",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"E/TG103",
      "id":"ETG103",
-     "text":"<p>Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist?</p>",
+     "text":"Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist?",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"E/TG104",
      "id":"ETG104",
-     "text":"<p>Was bewirkt in der Regel eine zu hohe Mikrofonverstärkung bei einem SSB-Transceiver?</p>",
+     "text":"Was bewirkt in der Regel eine zu hohe Mikrofonverstärkung bei einem SSB-Transceiver?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"E/TG105",
      "id":"ETG105",
-     "text":"<p>Was bewirkt eine zu geringe Mikrofonverstärkung bei einem SSB-Transceiver?</p>",
+     "text":"Was bewirkt eine zu geringe Mikrofonverstärkung bei einem SSB-Transceiver?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"E/TG201",
      "id":"ETG201",
-     "text":"<p>Wie heißt die Stufe in einem Sender, welche die Eigenschaft hat, leise Sprachsignale gegenüber den lauten etwas anzuheben?</p>",
+     "text":"Wie heißt die Stufe in einem Sender, welche die Eigenschaft hat, leise Sprachsignale gegenüber den lauten etwas anzuheben?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"E/TG202",
      "id":"ETG202",
-     "text":"<p>Welche Schaltung in einem Sender bewirkt, dass der Transceiver allein durch die Stimme auf Sendung geschaltet werden kann?</p>",
+     "text":"Welche Schaltung in einem Sender bewirkt, dass der Transceiver allein durch die Stimme auf Sendung geschaltet werden kann?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"E/TG203",
      "id":"ETG203",
-     "text":"<p>Welche Anforderungen muss ein FM-Funkgerät erfüllen, damit es für die Übertragung von Packet Radio mit 9600 Baud geeignet ist?</p>",
+     "text":"Welche Anforderungen muss ein FM-Funkgerät erfüllen, damit es für die Übertragung von Packet Radio mit 9600 Baud geeignet ist?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"E/TG403",
      "id":"ETG403",
-     "text":"<p>Wenn man beim Funkbetrieb mit einem Transceiver die Empfangsfrequenz gegenüber der Senderfrequenz geringfügig verstellen möchte, muss man</p>",
+     "text":"Wenn man beim Funkbetrieb mit einem Transceiver die Empfangsfrequenz gegenüber der Senderfrequenz geringfügig verstellen möchte, muss man",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"E/TG404",
      "id":"ETG404",
-     "text":"<p>Wie wird die Taste am Mikrofon bezeichnet, mit der man einen Transceiver auf Sendung schalten kann?</p>",
+     "text":"Wie wird die Taste am Mikrofon bezeichnet, mit der man einen Transceiver auf Sendung schalten kann?",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"E/TG405",
      "id":"ETG405",
-     "text":"<p>Wie wird der Funkbetrieb bezeichnet, bei dem man einen Transceiver allein durch die Stimme auf Sendung schalten kann?</p>",
+     "text":"Wie wird der Funkbetrieb bezeichnet, bei dem man einen Transceiver allein durch die Stimme auf Sendung schalten kann?",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"E/TG501",
      "id":"ETG501",
-     "text":"<p>Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen?</p>",
+     "text":"Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"E/TG502",
      "id":"ETG502",
-     "text":"<p>Welches Filter wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>",
+     "text":"Welches Filter wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"E/TG503",
      "id":"ETG503",
-     "text":"<p>Um Nachbarkanalstörungen zu minimieren, sollte die Übertragungsbandbreite bei SSB</p>",
+     "text":"Um Nachbarkanalstörungen zu minimieren, sollte die Übertragungsbandbreite bei SSB",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"E/TG504",
      "id":"ETG504",
-     "text":"<p>Welche Schaltung wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>",
+     "text":"Welche Schaltung wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"E/TG505",
      "id":"ETG505",
-     "text":"<p>Bei der erstmaligen Prüfung eines Senders sollten die Signale zunächst</p>",
+     "text":"Bei der erstmaligen Prüfung eines Senders sollten die Signale zunächst",
      "answer":[
     {
       "correct":true,
@@ -1192,7 +1192,7 @@
     {
      "name":"E/TG506",
      "id":"ETG506",
-     "text":"<p>Welche Filtercharakteristik würde sich am besten für einen KW-Mehrband-Sender eignen?</p>",
+     "text":"Welche Filtercharakteristik würde sich am besten für einen KW-Mehrband-Sender eignen?",
      "answer":[
     {
       "correct":true,

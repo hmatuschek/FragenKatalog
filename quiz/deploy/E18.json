@@ -4,7 +4,7 @@
     {
      "name":"E/TD306",
      "id":"ETD306",
-     "text":"<p>Welches ist der Hauptnachteil eines Schaltnetzteils gegenüber einem konventionellen Netzteil?</p>",
+     "text":"Welches ist der Hauptnachteil eines Schaltnetzteils gegenüber einem konventionellen Netzteil?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TK101",
      "id":"ETK101",
-     "text":"<p>Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers?</p>",
+     "text":"Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TK102",
      "id":"ETK102",
-     "text":"<p>Welche Effekte werden durch Intermodulation hervorgerufen?</p>",
+     "text":"Welche Effekte werden durch Intermodulation hervorgerufen?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TK103",
      "id":"ETK103",
-     "text":"<p>Welche Reaktion ist angebracht, wenn Störungen im TV-Rundfunk beim Nachbarn nicht mit den zur Verfügung stehenden Mitteln beseitigt werden können?</p>",
+     "text":"Welche Reaktion ist angebracht, wenn Störungen im TV-Rundfunk beim Nachbarn nicht mit den zur Verfügung stehenden Mitteln beseitigt werden können?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TK104",
      "id":"ETK104",
-     "text":"<p>Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens</p>",
+     "text":"Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TK105",
      "id":"ETK105",
-     "text":"<p>In welchem Fall spricht man von Einströmungen bei EMV? Einströmungen liegen dann vor, wenn die HF</p>",
+     "text":"In welchem Fall spricht man von Einströmungen bei EMV? Einströmungen liegen dann vor, wenn die HF",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TK106",
      "id":"ETK106",
-     "text":"<p>In welchem Fall spricht man von Einstrahlungen bei EMV? Einstrahlungen liegen dann vor, wenn die HF</p>",
+     "text":"In welchem Fall spricht man von Einstrahlungen bei EMV? Einstrahlungen liegen dann vor, wenn die HF",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TK107",
      "id":"ETK107",
-     "text":"<p>Wie nennt man die elektromagnetische Störung, die durch die Aussendung des reinen Nutzsignals beim Empfang anderer Frequenzen in benachbarten Empfängern auftreten kann?</p>",
+     "text":"Wie nennt man die elektromagnetische Störung, die durch die Aussendung des reinen Nutzsignals beim Empfang anderer Frequenzen in benachbarten Empfängern auftreten kann?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TK201",
      "id":"ETK201",
-     "text":"<p>Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?</p>",
+     "text":"Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TK202",
      "id":"ETK202",
-     "text":"<p>Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie dringt das Signal mit größter Wahrscheinlichkeit in das Fernsehgerät ein?</p>",
+     "text":"Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie dringt das Signal mit größter Wahrscheinlichkeit in das Fernsehgerät ein?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TK203",
      "id":"ETK203",
-     "text":"<p>Die Übersteuerung eines Leistungsverstärkers führt zu</p>",
+     "text":"Die Übersteuerung eines Leistungsverstärkers führt zu",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TK204",
      "id":"ETK204",
-     "text":"<p>Die gesamte Bandbreite einer FM-Übertragung beträgt 15 kHz. Wie nah an der Bandgrenze kann ein Träger übertragen werden, ohne dass Außerbandaussendungen erzeugt werden?</p>",
+     "text":"Die gesamte Bandbreite einer FM-Übertragung beträgt 15 kHz. Wie nah an der Bandgrenze kann ein Träger übertragen werden, ohne dass Außerbandaussendungen erzeugt werden?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TK302",
      "id":"ETK302",
-     "text":"<p>Ein Sender sollte so betrieben werden, dass</p>",
+     "text":"Ein Sender sollte so betrieben werden, dass",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"E/TK303",
      "id":"ETK303",
-     "text":"<p>Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel</p>",
+     "text":"Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"E/TK304",
      "id":"ETK304",
-     "text":"<p>Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um störende Beeinflussungen auf ein Mindestmaß zu begrenzen?</p>",
+     "text":"Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um störende Beeinflussungen auf ein Mindestmaß zu begrenzen?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"E/TK305",
      "id":"ETK305",
-     "text":"<p>Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,</p>",
+     "text":"Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"E/TK306",
      "id":"ETK306",
-     "text":"<p>Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist</p>",
+     "text":"Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"E/TK307",
      "id":"ETK307",
-     "text":"<p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>",
+     "text":"Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"E/TK308",
      "id":"ETK308",
-     "text":"<p>Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?</p>",
+     "text":"Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"E/TK309",
      "id":"ETK309",
-     "text":"<p>Was sollte zur Herabsetzung starker Signale eines 28-MHz-Senders in das Fernseh-Antennenzuführungskabel eingeschleift werden?</p>",
+     "text":"Was sollte zur Herabsetzung starker Signale eines 28-MHz-Senders in das Fernseh-Antennenzuführungskabel eingeschleift werden?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"E/TK310",
      "id":"ETK310",
-     "text":"<p>Welche Filter sollten im Störungsfall vor die einzelnen Leitungsanschlüsse eines UKW- oder Fernsehrundfunkgeräts oder angeschlossener Geräte eingeschleift werden, um Kurzwellensignale zu dämpfen?</p>",
+     "text":"Welche Filter sollten im Störungsfall vor die einzelnen Leitungsanschlüsse eines UKW- oder Fernsehrundfunkgeräts oder angeschlossener Geräte eingeschleift werden, um Kurzwellensignale zu dämpfen?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"E/TK311",
      "id":"ETK311",
-     "text":"<p>Die Signale eines 144-MHz-Senders werden in das Koax-Antennenkabel eines FM-Rundfunkempfängers induziert und verursachen Störungen. Eine Möglichkeit zur Verringerung der Störungen besteht darin,</p>",
+     "text":"Die Signale eines 144-MHz-Senders werden in das Koax-Antennenkabel eines FM-Rundfunkempfängers induziert und verursachen Störungen. Eine Möglichkeit zur Verringerung der Störungen besteht darin,",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"E/TK312",
      "id":"ETK312",
-     "text":"<p>Um die Störwahrscheinlichkeit im eigenen Haus zu verringern, empfiehlt es sich vorzugsweise</p>",
+     "text":"Um die Störwahrscheinlichkeit im eigenen Haus zu verringern, empfiehlt es sich vorzugsweise",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"E/TK313",
      "id":"ETK313",
-     "text":"<p>Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF-Endstufe festgestellt.<br>Eine mögliche Abhilfe wäre</p>",
+     "text":"Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF-Endstufe festgestellt.<br>Eine mögliche Abhilfe wäre",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"E/TK314",
      "id":"ETK314",
-     "text":"<p>Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter schleifen Sie in das Fernsehantennenkabel ein, um die Störwahrscheinlichkeit zu verringern?</p>",
+     "text":"Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter schleifen Sie in das Fernsehantennenkabel ein, um die Störwahrscheinlichkeit zu verringern?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"E/TK315",
      "id":"ETK315",
-     "text":"<p>Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden</p>",
+     "text":"Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"E/TK316",
      "id":"ETK316",
-     "text":"<p>Falls sich eine Antenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,</p>",
+     "text":"Falls sich eine Antenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"E/TK317",
      "id":"ETK317",
-     "text":"<p>Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu</p>",
+     "text":"Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"E/TK318",
      "id":"ETK318",
-     "text":"<p>Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch</p>",
+     "text":"Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"E/TK319",
      "id":"ETK319",
-     "text":"<p>Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn</p>",
+     "text":"Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"E/TL101",
      "id":"ETL101",
-     "text":"<p>Um eine Amateurfunkstelle in Bezug auf EMV zu optimieren</p>",
+     "text":"Um eine Amateurfunkstelle in Bezug auf EMV zu optimieren",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"E/TL207",
      "id":"ETL207",
-     "text":"<p>Muss ein Funkamateur als Betreiber einer ortsfesten Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn für 2 m die Einhaltung der Personenschutzgrenzwerte nachweisen?</p>",
+     "text":"Muss ein Funkamateur als Betreiber einer ortsfesten Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn für 2 m die Einhaltung der Personenschutzgrenzwerte nachweisen?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"E/TL208",
      "id":"ETL208",
-     "text":"<p>Sie besitzen einen λ/4-Vertikalstrahler. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von kleiner 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung dabei sein?</p>",
+     "text":"Sie besitzen einen λ/4-Vertikalstrahler. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von kleiner 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung dabei sein?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"E/TL209",
      "id":"ETL209",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"E/TL210",
      "id":"ETL210",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"E/TL211",
      "id":"ETL211",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"E/TL213",
      "id":"ETL213",
-     "text":"<p>Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?</p>",
+     "text":"Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"E/TL301",
      "id":"ETL301",
-     "text":"<p>Unter welchen Bedingungen darf das Standrohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutzanlage verbunden werden?</p>",
+     "text":"Unter welchen Bedingungen darf das Standrohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutzanlage verbunden werden?",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"E/TL302",
      "id":"ETL302",
-     "text":"<p>Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?</p>",
+     "text":"Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"E/TL303",
      "id":"ETL303",
-     "text":"<p>Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?</p>",
+     "text":"Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"E/TL304",
      "id":"ETL304",
-     "text":"<p>Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?</p>",
+     "text":"Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"E/TL306",
      "id":"ETL306",
-     "text":"<p>Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich</p>",
+     "text":"Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"E/TL307",
      "id":"ETL307",
-     "text":"<p>Wo sollte aus funktechnischer Sicht eine mobile VHF-Antenne an einem PKW vorzugsweise installiert werden?</p>",
+     "text":"Wo sollte aus funktechnischer Sicht eine mobile VHF-Antenne an einem PKW vorzugsweise installiert werden?",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"E/TL308",
      "id":"ETL308",
-     "text":"<p>Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel</p>",
+     "text":"Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel",
      "answer":[
     {
       "correct":true,

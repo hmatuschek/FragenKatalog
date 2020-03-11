@@ -4,7 +4,7 @@
     {
      "name":"B/BB110",
      "id":"BBB110",
-     "text":"<p>Wie gestalten Sie als DO1LEN einen allgemeinen Anruf in Telegrafie?</p>",
+     "text":"Wie gestalten Sie als DO1LEN einen allgemeinen Anruf in Telegrafie?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BE101",
      "id":"BBE101",
-     "text":"<p>Wie würden Sie antworten, wenn jemand \"CQ\" ruft?</p>",
+     "text":"Wie würden Sie antworten, wenn jemand \"CQ\" ruft?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BE103",
      "id":"BBE103",
-     "text":"<p>Auf welche Arten können Sie eine Amateurfunkverbindung zum Beispiel beginnen?</p>",
+     "text":"Auf welche Arten können Sie eine Amateurfunkverbindung zum Beispiel beginnen?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BE104",
      "id":"BBE104",
-     "text":"<p>Die deutsche Amateurfunkstelle DC8WV ruft auf dem 80-m-Band oberhalb 3700 kHz in Morsetelegrafie \"CQ de DC8WV pse k\". Dürfen Sie auf diesen allgemeinen Anruf auch in der Betriebsart SSB-Telefonie antworten?</p>",
+     "text":"Die deutsche Amateurfunkstelle DC8WV ruft auf dem 80-m-Band oberhalb 3700 kHz in Morsetelegrafie \"CQ de DC8WV pse k\". Dürfen Sie auf diesen allgemeinen Anruf auch in der Betriebsart SSB-Telefonie antworten?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BE105",
      "id":"BBE105",
-     "text":"<p>Sollten Sie einen allgemeinen Anruf mit QRZ beginnen?</p>",
+     "text":"Sollten Sie einen allgemeinen Anruf mit QRZ beginnen?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BE106",
      "id":"BBE106",
-     "text":"<p>Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?</p>",
+     "text":"Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BE106",
      "id":"BBE106",
-     "text":"<p>Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?</p>",
+     "text":"Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BE107",
      "id":"BBE107",
-     "text":"<p>Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?</p>",
+     "text":"Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"B/BE107",
      "id":"BBE107",
-     "text":"<p>Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?</p>",
+     "text":"Sie hören DH8DAP/p in Morsetelegrafie rufen: \"CQ FD CQ FD de DH8DAP/p\". Was bedeutet das?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"B/BE108",
      "id":"BBE108",
-     "text":"<p>Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL de KA2WEU pse k\". Was beabsichtigt KA2WEU mit diesem Anruf?</p>",
+     "text":"Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL de KA2WEU pse k\". Was beabsichtigt KA2WEU mit diesem Anruf?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"B/BE109",
      "id":"BBE109",
-     "text":"<p>Ihr Rufzeichen sei DH7RW. Sie hören in Telefonie unvollständig \"... 7 Romeo Whiskey\". Wie reagieren Sie?</p>",
+     "text":"Ihr Rufzeichen sei DH7RW. Sie hören in Telefonie unvollständig \"... 7 Romeo Whiskey\". Wie reagieren Sie?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"B/BE110",
      "id":"BBE110",
-     "text":"<p>Sie hören 4U1ITU in Telefonie rufen: \"CQ VK/ZL this is 4U1ITU\". Sollten Sie 4U1ITU anrufen, wenn Sie gerne ein QSO mit ihm führen würden?</p>",
+     "text":"Sie hören 4U1ITU in Telefonie rufen: \"CQ VK/ZL this is 4U1ITU\". Sollten Sie 4U1ITU anrufen, wenn Sie gerne ein QSO mit ihm führen würden?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"B/BE111",
      "id":"BBE111",
-     "text":"<p>Was bedeutet der im 20-m-Band gesendete Anruf \"CQ CQ CQ DX de HB9AFN\"?</p>",
+     "text":"Was bedeutet der im 20-m-Band gesendete Anruf \"CQ CQ CQ DX de HB9AFN\"?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"B/BE112",
      "id":"BBE112",
-     "text":"<p>Was ist beim Morsetelegrafie-Funkverkehr mit einem offensichtlichen Anfänger zu beachten?</p>",
+     "text":"Was ist beim Morsetelegrafie-Funkverkehr mit einem offensichtlichen Anfänger zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"B/BE113",
      "id":"BBE113",
-     "text":"<p>Eine Station ruft auf VHF/UHF \"CQ\" mit dem Zusatz \"DX\". Wann sollten Sie antworten?</p>",
+     "text":"Eine Station ruft auf VHF/UHF \"CQ\" mit dem Zusatz \"DX\". Wann sollten Sie antworten?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"B/BE114",
      "id":"BBE114",
-     "text":"<p>Sie haben eine Funkverbindung mit einer vorher \"CQ\" rufenden Station beendet. Anschließend werden Sie von einer anderen Station gerufen. Wie verhalten Sie sich?</p>",
+     "text":"Sie haben eine Funkverbindung mit einer vorher \"CQ\" rufenden Station beendet. Anschließend werden Sie von einer anderen Station gerufen. Wie verhalten Sie sich?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"B/BE115",
      "id":"BBE115",
-     "text":"<p>Sie möchten im 20-m-Band einen allgemeinen Anruf starten. Sie finden eine Frequenz die offensichtlich nicht belegt ist. Wie gehen Sie vor?</p>",
+     "text":"Sie möchten im 20-m-Band einen allgemeinen Anruf starten. Sie finden eine Frequenz die offensichtlich nicht belegt ist. Wie gehen Sie vor?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"B/BE116",
      "id":"BBE116",
-     "text":"<p>Warum erscheint Ihnen auf den höheren Frequenzbändern der Kurzwelle eine Frequenz als frei, obwohl sie sich anschließend als besetzt herausstellt?</p>",
+     "text":"Warum erscheint Ihnen auf den höheren Frequenzbändern der Kurzwelle eine Frequenz als frei, obwohl sie sich anschließend als besetzt herausstellt?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"B/BE117",
      "id":"BBE117",
-     "text":"<p>Welche Betriebsbedingungen sollten Sie für die Teilnahme an einem internationalen KW-Wettbewerb unbedingt einhalten?</p>",
+     "text":"Welche Betriebsbedingungen sollten Sie für die Teilnahme an einem internationalen KW-Wettbewerb unbedingt einhalten?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"B/BE118",
      "id":"BBE118",
-     "text":"<p>EA3JQ ruft in englischer Sprache CQ. Wie gestalten Sie Ihren Anruf, wenn Sie mit ihm ein QSO führen möchten?</p>",
+     "text":"EA3JQ ruft in englischer Sprache CQ. Wie gestalten Sie Ihren Anruf, wenn Sie mit ihm ein QSO führen möchten?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"B/BE119",
      "id":"BBE119",
-     "text":"<p>Mit welcher Tastgeschwindigkeit würden Sie einen CQ-Ruf in Telegrafie beantworten? Ich würde</p>",
+     "text":"Mit welcher Tastgeschwindigkeit würden Sie einen CQ-Ruf in Telegrafie beantworten? Ich würde",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"B/BE201",
      "id":"BBE201",
-     "text":"<p>Was verstehen Sie unter dem Begriff \"DX-Pedition\"? Es ist</p>",
+     "text":"Was verstehen Sie unter dem Begriff \"DX-Pedition\"? Es ist",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"B/BE202",
      "id":"BBE202",
-     "text":"<p>Was ist mit dem Begriff \"pile up\" gemeint? Man meint damit das gleichzeitige</p>",
+     "text":"Was ist mit dem Begriff \"pile up\" gemeint? Man meint damit das gleichzeitige",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"B/BE203",
      "id":"BBE203",
-     "text":"<p>Was verstehen Sie bei einer seltenen Station unter der Aufforderung zu \"Listenbetrieb\"?</p>",
+     "text":"Was verstehen Sie bei einer seltenen Station unter der Aufforderung zu \"Listenbetrieb\"?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"B/BE204",
      "id":"BBE204",
-     "text":"<p>Was ist gemeint, wenn die Gegenstation sagt: \"split up 14250 to 14280\"?</p>",
+     "text":"Was ist gemeint, wenn die Gegenstation sagt: \"split up 14250 to 14280\"?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"B/BE205",
      "id":"BBE205",
-     "text":"<p>Eine \"seltene\" Station, die auf 14205 kHz \"CQ\" gerufen hat, sagt am Ende ihres CQ-Rufes \"tuning 290-300 up\". Was tun Sie,wenn Sie diese Station anrufen wollen?</p>",
+     "text":"Eine \"seltene\" Station, die auf 14205 kHz \"CQ\" gerufen hat, sagt am Ende ihres CQ-Rufes \"tuning 290-300 up\". Was tun Sie,wenn Sie diese Station anrufen wollen?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"B/BE206",
      "id":"BBE206",
-     "text":"<p>Eine Station gibt am Ende ihres CQ-Rufes \"5 up\". Was bedeutet diese Angabe und was ist zu beachten?</p>",
+     "text":"Eine Station gibt am Ende ihres CQ-Rufes \"5 up\". Was bedeutet diese Angabe und was ist zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"B/BE207",
      "id":"BBE207",
-     "text":"<p>Eine seltene Station ruft in SSB \"only number 3, only suffix\". Was ist damit gemeint?</p>",
+     "text":"Eine seltene Station ruft in SSB \"only number 3, only suffix\". Was ist damit gemeint?",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"B/BE208",
      "id":"BBE208",
-     "text":"<p>Was versteht man unter \"Split-Verkehr\"?</p>",
+     "text":"Was versteht man unter \"Split-Verkehr\"?",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"B/BE215",
      "id":"BBE215",
-     "text":"<p>Was verstehen Funkamateure unter einer \"Fuchsjagd\" (ARDF = Amateur Radio Direction Finding)?</p>",
+     "text":"Was verstehen Funkamateure unter einer \"Fuchsjagd\" (ARDF = Amateur Radio Direction Finding)?",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"B/BE409",
      "id":"BBE409",
-     "text":"<p>Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?</p>",
+     "text":"Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"B/BF101",
      "id":"BBF101",
-     "text":"<p>Das 80-m-Amateurfunkband ist unter anderem dem Amateurfunkdienst und dem Seefunkdienst auf primärer Basis zugewiesen. Unter welchen Umständen dürfen Sie in einer Amateurfunkverbindung fortfahren, wenn Sie erst nach Betriebsaufnahme bemerken, dass Ihre benutzte Frequenz auch von einer Küstenfunkstelle benutzt wird?</p>",
+     "text":"Das 80-m-Amateurfunkband ist unter anderem dem Amateurfunkdienst und dem Seefunkdienst auf primärer Basis zugewiesen. Unter welchen Umständen dürfen Sie in einer Amateurfunkverbindung fortfahren, wenn Sie erst nach Betriebsaufnahme bemerken, dass Ihre benutzte Frequenz auch von einer Küstenfunkstelle benutzt wird?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"B/BF102",
      "id":"BBF102",
-     "text":"<p>Wie heißt das internationale Notzeichen im Sprechfunk?</p>",
+     "text":"Wie heißt das internationale Notzeichen im Sprechfunk?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"B/BF103",
      "id":"BBF103",
-     "text":"<p>Welche Notzeichen werden in der Telefonie verwendet?</p>",
+     "text":"Welche Notzeichen werden in der Telefonie verwendet?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"B/BF104",
      "id":"BBF104",
-     "text":"<p>Dürfen Sie im Notfall eines der Notzeichen SOS oder Mayday gebrauchen?</p>",
+     "text":"Dürfen Sie im Notfall eines der Notzeichen SOS oder Mayday gebrauchen?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"B/BF105",
      "id":"BBF105",
-     "text":"<p>Sie haben am 16. August (Ortsdatum) um 20:00 Uhr mitteleuropäischer Sommerzeit (MESZ) von 9J2NG eine Notfunkmeldung aufgenommen und an eine Hilfeleistungsorganisation per Telefon weitergemeldet. Die Amateurfunkstelle 9J2NG hat Sie gebeten, um 23:00 Uhr UTC erneut mit ihr in Verbindung zu treten. Welcher Zeitpunkt ist dies in Deutschland?</p>",
+     "text":"Sie haben am 16. August (Ortsdatum) um 20:00 Uhr mitteleuropäischer Sommerzeit (MESZ) von 9J2NG eine Notfunkmeldung aufgenommen und an eine Hilfeleistungsorganisation per Telefon weitergemeldet. Die Amateurfunkstelle 9J2NG hat Sie gebeten, um 23:00 Uhr UTC erneut mit ihr in Verbindung zu treten. Welcher Zeitpunkt ist dies in Deutschland?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"B/BF106",
      "id":"BBF106",
-     "text":"<p>Sie haben auf einer Amateurfunkfrequenz eine Notmeldung von einem Schiff in Seenot empfangen. Wie verhalten Sie sich?</p>",
+     "text":"Sie haben auf einer Amateurfunkfrequenz eine Notmeldung von einem Schiff in Seenot empfangen. Wie verhalten Sie sich?",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"B/BF107",
      "id":"BBF107",
-     "text":"<p>Sie empfangen einen Notruf einer havarierten privaten Segelyacht auf 14320 kHz. Wie verhalten Sie sich?</p>",
+     "text":"Sie empfangen einen Notruf einer havarierten privaten Segelyacht auf 14320 kHz. Wie verhalten Sie sich?",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"B/BF108",
      "id":"BBF108",
-     "text":"<p>Sie haben auf der Ausgabefrequenz einer Relaisfunkstelle eine Notmeldung von einem Fahrzeug empfangen. Wie verhalten Sie sich?</p>",
+     "text":"Sie haben auf der Ausgabefrequenz einer Relaisfunkstelle eine Notmeldung von einem Fahrzeug empfangen. Wie verhalten Sie sich?",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"B/BF110",
      "id":"BBF110",
-     "text":"<p>Nach den Empfehlungen der International Amateur Radio Union gibt es bei 14300, 18160 und 21360 kHz so genannte Aktivitätszentren für Notfunkverkehr. Was ist das besondere an diesen Frequenzen?</p>",
+     "text":"Nach den Empfehlungen der International Amateur Radio Union gibt es bei 14300, 18160 und 21360 kHz so genannte Aktivitätszentren für Notfunkverkehr. Was ist das besondere an diesen Frequenzen?",
      "answer":[
     {
       "correct":true,

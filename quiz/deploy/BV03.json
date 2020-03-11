@@ -4,7 +4,7 @@
     {
      "name":"B/BB201",
      "id":"BBB201",
-     "text":"<p>Warum wurden die Q-Gruppen im Funkverkehr eingeführt? Sie wurden eingeführt</p>",
+     "text":"Warum wurden die Q-Gruppen im Funkverkehr eingeführt? Sie wurden eingeführt",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BB202",
      "id":"BBB202",
-     "text":"<p>Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?</p>",
+     "text":"Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BB203",
      "id":"BBB203",
-     "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRV\", \"QRM?\" und \"QTH\" ?</p>",
+     "text":"Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRV\", \"QRM?\" und \"QTH\" ?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BB205",
      "id":"BBB205",
-     "text":"<p>Was bedeuten die Q-Gruppen \"QRT\", \"QRZ?\" und \"QSL?\" ?</p>",
+     "text":"Was bedeuten die Q-Gruppen \"QRT\", \"QRZ?\" und \"QSL?\" ?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BB206",
      "id":"BBB206",
-     "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRO?\", \"QSO?\" und \"QRX?\" ?</p>",
+     "text":"Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRO?\", \"QSO?\" und \"QRX?\" ?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BB207",
      "id":"BBB207",
-     "text":"<p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRM\", \"QRN\" und \"QSB?\" ?</p>",
+     "text":"Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen \"QRM\", \"QRN\" und \"QSB?\" ?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BB208",
      "id":"BBB208",
-     "text":"<p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qsy\"?</p>",
+     "text":"Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qsy\"?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BB209",
      "id":"BBB209",
-     "text":"<p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qrp\"?</p>",
+     "text":"Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: \"pse qrp\"?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"V/VA406",
      "id":"VVA406",
-     "text":"<p>In welchem Regelungswerk ist die Bedeutung der \"Q-Gruppen\" festgelegt?</p>",
+     "text":"In welchem Regelungswerk ist die Bedeutung der \"Q-Gruppen\" festgelegt?",
      "answer":[
     {
       "correct":true,

@@ -4,7 +4,7 @@
     {
      "name":"B/BB101",
      "id":"BBB101",
-     "text":"<p>Warum werden in Telegrafie- und Fernschreib-Betriebsarten Betriebsabkürzungen und Q-Gruppen verwendet?</p>",
+     "text":"Warum werden in Telegrafie- und Fernschreib-Betriebsarten Betriebsabkürzungen und Q-Gruppen verwendet?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BB102",
      "id":"BBB102",
-     "text":"<p>Welche Bedeutung hat für Sie als deutsche Amateurfunkstelle auf Kurzwelle die Abkürzung \"DX\"?</p>",
+     "text":"Welche Bedeutung hat für Sie als deutsche Amateurfunkstelle auf Kurzwelle die Abkürzung \"DX\"?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BB103",
      "id":"BBB103",
-     "text":"<p>Was bedeuten die gebräuchlichen Abkürzungen \"TX\", \"RX\" in dieser Reihenfolge?</p>",
+     "text":"Was bedeuten die gebräuchlichen Abkürzungen \"TX\", \"RX\" in dieser Reihenfolge?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BB104",
      "id":"BBB104",
-     "text":"<p>Was bedeutet die Betriebsabkürzung CQ?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung CQ?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BB105",
      "id":"BBB105",
-     "text":"<p>Was bedeutet die Betriebsabkürzung CW?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung CW?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BB106",
      "id":"BBB106",
-     "text":"<p>Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL DE KA2WEU PSE K\". Was beabsichtigt er damit?</p>",
+     "text":"Sie hören KA2WEU in Morsetelegrafie rufen: \"CQ DL CQ DL DE KA2WEU PSE K\". Was beabsichtigt er damit?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BB107",
      "id":"BBB107",
-     "text":"<p>Was bedeutet die Betriebsabkürzung \"R\" am Anfang eines Durchgangs?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung \"R\" am Anfang eines Durchgangs?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BB108",
      "id":"BBB108",
-     "text":"<p>Was bedeutet die Betriebsabkürzung \"K\" am Ende eines Durchgangs in Telegrafie?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung \"K\" am Ende eines Durchgangs in Telegrafie?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"B/BB109",
      "id":"BBB109",
-     "text":"<p>Was bedeutet die Betriebsabkürzung \"BK\" in Telegrafie?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung \"BK\" in Telegrafie?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"B/BB111",
      "id":"BBB111",
-     "text":"<p>Was bedeutet die Betriebsabkürzung \"MSG\"?</p>",
+     "text":"Was bedeutet die Betriebsabkürzung \"MSG\"?",
      "answer":[
     {
       "correct":true,

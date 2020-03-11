@@ -4,7 +4,7 @@
     {
      "name":"E/TE301",
      "id":"ETE301",
-     "text":"<p>Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal?</p>",
+     "text":"Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TE302",
      "id":"ETE302",
-     "text":"<p>Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal?</p>",
+     "text":"Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TE303",
      "id":"ETE303",
-     "text":"<p>Welche NF-Zwischenträgerfrequenzen werden in der Regel in Packet Radio bei 1200 Baud benutzt?</p>",
+     "text":"Welche NF-Zwischenträgerfrequenzen werden in der Regel in Packet Radio bei 1200 Baud benutzt?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TE304",
      "id":"ETE304",
-     "text":"<p>Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)?<br>Ein TNC</p>",
+     "text":"Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)?<br>Ein TNC",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TE305",
      "id":"ETE305",
-     "text":"<p>Was bedeutet im Prinzip \"Packet Radio\"?<br>Die Daten werden</p>",
+     "text":"Was bedeutet im Prinzip \"Packet Radio\"?<br>Die Daten werden",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TE306",
      "id":"ETE306",
-     "text":"<p>Was versteht man unter 1k2-Packet-Radio?</p>",
+     "text":"Was versteht man unter 1k2-Packet-Radio?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TE307",
      "id":"ETE307",
-     "text":"<p>Welches ist eine gängige Übertragungsrate in Packet Radio?</p>",
+     "text":"Welches ist eine gängige Übertragungsrate in Packet Radio?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TE308",
      "id":"ETE308",
-     "text":"<p>Eine Packet-Radio-Mailbox ist</p>",
+     "text":"Eine Packet-Radio-Mailbox ist",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TE309",
      "id":"ETE309",
-     "text":"<p>Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielsweise</p>",
+     "text":"Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielsweise",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TE310",
      "id":"ETE310",
-     "text":"<p>Welcher Unterschied zwischen den Betriebsarten ATV und SSTV ist richtig?</p>",
+     "text":"Welcher Unterschied zwischen den Betriebsarten ATV und SSTV ist richtig?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TE311",
      "id":"ETE311",
-     "text":"<p>Welches der folgenden digitalen Übertragungsverfahren hat die geringste Bandbreite?</p>",
+     "text":"Welches der folgenden digitalen Übertragungsverfahren hat die geringste Bandbreite?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TE312",
      "id":"ETE312",
-     "text":"<p>Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschaltung abwechselnd in beide Richtungen gesendet werden kann?</p>",
+     "text":"Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschaltung abwechselnd in beide Richtungen gesendet werden kann?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TG402",
      "id":"ETG402",
-     "text":"<p>In welcher der folgenden Antworten sind Betriebsarten üblicher Kurzwellen-Transceiver aufgezählt?</p>",
+     "text":"In welcher der folgenden Antworten sind Betriebsarten üblicher Kurzwellen-Transceiver aufgezählt?",
      "answer":[
     {
       "correct":true,

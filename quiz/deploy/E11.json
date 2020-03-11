@@ -4,7 +4,7 @@
     {
      "name":"E/TH101",
      "id":"ETH101",
-     "text":"<p>Was sind typische Kurzwellen-Amateurfunksendeantennen?</p>",
+     "text":"Was sind typische Kurzwellen-Amateurfunksendeantennen?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TH102",
      "id":"ETH102",
-     "text":"<p>Welche Antennenformen werden im VHF-UHF-Bereich bei den Funkamateuren in der Regelnichtverwendet?</p>",
+     "text":"Welche Antennenformen werden im VHF-UHF-Bereich bei den Funkamateuren in der Regelnichtverwendet?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TH103",
      "id":"ETH103",
-     "text":"<p>Welche magnetischen Antennen eignen sich für Sendebetrieb und strahlen dabei im Nahfeld ein starkes magnetisches Feld ab?</p>",
+     "text":"Welche magnetischen Antennen eignen sich für Sendebetrieb und strahlen dabei im Nahfeld ein starkes magnetisches Feld ab?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TH104",
      "id":"ETH104",
-     "text":"<p>Berechnen Sie die elektrische Länge eines 5/8-λ-langen Vertikalstrahlers für das 10-m-Band (28,5 MHz).</p>",
+     "text":"Berechnen Sie die elektrische Länge eines 5/8-λ-langen Vertikalstrahlers für das 10-m-Band (28,5 MHz).",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TH105",
      "id":"ETH105",
-     "text":"<p>Sie wollen verschiedene Antennen testen, ob sie für den Funkbetrieb auf Kurzwelle für das 80-m-Band geeignet sind. Man stellt Ihnen jeweils drei Antennen zur Verfügung. Welches Angebot wählen sie, um nur die dreibesondersgeeigneten Antennen testen zu müssen?</p>",
+     "text":"Sie wollen verschiedene Antennen testen, ob sie für den Funkbetrieb auf Kurzwelle für das 80-m-Band geeignet sind. Man stellt Ihnen jeweils drei Antennen zur Verfügung. Welches Angebot wählen sie, um nur die dreibesondersgeeigneten Antennen testen zu müssen?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TH106",
      "id":"ETH106",
-     "text":"<p>Welche Antenne gehörtnichtzu den symmetrischen Antennen?</p>",
+     "text":"Welche Antenne gehörtnichtzu den symmetrischen Antennen?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TH107",
      "id":"ETH107",
-     "text":"<p>Wie nennt man eine Schleifenantenne, die aus drei gleich langen Drahtstücken besteht?</p>",
+     "text":"Wie nennt man eine Schleifenantenne, die aus drei gleich langen Drahtstücken besteht?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TH108",
      "id":"ETH108",
-     "text":"<p>Bei welcher Länge hat eine Vertikalantenne die günstigsten Strahlungseigenschaften?</p>",
+     "text":"Bei welcher Länge hat eine Vertikalantenne die günstigsten Strahlungseigenschaften?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TH109",
      "id":"ETH109",
-     "text":"<p>Eine Vertikalantenne erzeugt</p>",
+     "text":"Eine Vertikalantenne erzeugt",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TH110",
      "id":"ETH110",
-     "text":"<p>Sie wollen eine Zweibandantenne für 160 und 80 m selbst bauen. Welche der folgenden Antworten enthält die richtige Drahtlänge l zwischen den Schwingkreisen und die richtige Resonanzfrequenz f<sub>res</sub>der Kreise?</p><img src='data:image/png;base64,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' alt='ETH110'/>",
+     "text":"Sie wollen eine Zweibandantenne für 160 und 80 m selbst bauen. Welche der folgenden Antworten enthält die richtige Drahtlänge l zwischen den Schwingkreisen und die richtige Resonanzfrequenz f<sub>res</sub>der Kreise?<br><img src='data:image/png;base64,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' alt='ETH110'/>",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TH111",
      "id":"ETH111",
-     "text":"<p>Die elektrischen Gegengewichte einer Groundplane-Antenne bezeichnet man auch als</p>",
+     "text":"Die elektrischen Gegengewichte einer Groundplane-Antenne bezeichnet man auch als",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TH112",
      "id":"ETH112",
-     "text":"<p>Das folgende Bild enthält eine einfache Richtantenne. Die Bezeichnungen der Elemente in numerischer Reihenfolge lauten</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACbCAAAAAACKYsbAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADIUlEQVR42u2dvWrbUBiG3xx6AWkHE+OOpZvx0kwlZCmdWwgit+BqKF3k5AqcdDdaS0eRoYSO2TKZdgnZTFahkqGEXIDoEFs++nHqVk31HvE+g5VzAkff4/Mnk+84GynagWk6AIlIhJYEAPCo6TBqs3WdAi3okcF1BwCw4fjyawC0oUcM0uwnpznNBpQ1tAabTYe1JjcXdmneKZaIO52Tm9emFXNkibWPuL1+taZHJMKG+89a8d3F9UeUjNYMLYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNhojQjSCiZNB1XFpBCkB2C4LFaIxE2HvIrYjrKDYOphJytXJPkbADs3TUddYPMcuTNHoT/dXrwCqDp2YYD+xVqN/18GlzBLk1s8BfAC3xcipckeknrgog8cZ6VR2gXwCW8WFaWhtXVNe2rMoPMjV5H0lu+5WyL50K6ew8VTlCV828NhET/M9U9J5AOwW/ce+8aYxK5IjDH7dVt9DYxtjyA/BUr7IQAvrQUQzPr29hWjPwuqHyLWx8sFO0V/dhpFUXaXFRviqzpv3dlkCBhrhRlcpkDo12n0SYTcVB9c3l3Ho3lF1fG92vMmBXB8OHs2Lya94OhfNbvgZH592c1+W0HQqXnHNE09q+W7sVqvzU5w/8h7iAOVBjE+H06GWUXoB+/Re9j96UFOhhoAQ/uzgB8CiLt/2VxzIjjA0W9rnBBpAHd3domQIxE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYk0h2+MOWiByG44joOPfrHavT+GmuAI2I+Kcbv3VdLRHoCfZb+m4/pj9gB8PfOK1fcMrW9Nh5yxnS+eeBX5o6tFkl7T8WcUYky+3B6WE1tWptsQJWRXJbeN188OOnjctMCCkV1IuoD9H1TmOLf8hv54BMAMCycRnBOBQdzF7nkxacq95XeK3pY5j4rJX+71CHD17u2wVOmiSCXuDS2JOIJE2JAIGxJhQyJstEbkF9pyFm/O8CZeAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETH112'/>",
+     "text":"Das folgende Bild enthält eine einfache Richtantenne. Die Bezeichnungen der Elemente in numerischer Reihenfolge lauten<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAACbCAAAAAACKYsbAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADIUlEQVR42u2dvWrbUBiG3xx6AWkHE+OOpZvx0kwlZCmdWwgit+BqKF3k5AqcdDdaS0eRoYSO2TKZdgnZTFahkqGEXIDoEFs++nHqVk31HvE+g5VzAkff4/Mnk+84GynagWk6AIlIhJYEAPCo6TBqs3WdAi3okcF1BwCw4fjyawC0oUcM0uwnpznNBpQ1tAabTYe1JjcXdmneKZaIO52Tm9emFXNkibWPuL1+taZHJMKG+89a8d3F9UeUjNYMLYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNhojQjSCiZNB1XFpBCkB2C4LFaIxE2HvIrYjrKDYOphJytXJPkbADs3TUddYPMcuTNHoT/dXrwCqDp2YYD+xVqN/18GlzBLk1s8BfAC3xcipckeknrgog8cZ6VR2gXwCW8WFaWhtXVNe2rMoPMjV5H0lu+5WyL50K6ew8VTlCV828NhET/M9U9J5AOwW/ce+8aYxK5IjDH7dVt9DYxtjyA/BUr7IQAvrQUQzPr29hWjPwuqHyLWx8sFO0V/dhpFUXaXFRviqzpv3dlkCBhrhRlcpkDo12n0SYTcVB9c3l3Ho3lF1fG92vMmBXB8OHs2Lya94OhfNbvgZH592c1+W0HQqXnHNE09q+W7sVqvzU5w/8h7iAOVBjE+H06GWUXoB+/Re9j96UFOhhoAQ/uzgB8CiLt/2VxzIjjA0W9rnBBpAHd3domQIxE2JMKGRNiQCBsSYUMibEiEDYmwIRE2JMKGRNiQCBsSYUMibEiEDYk0h2+MOWiByG44joOPfrHavT+GmuAI2I+Kcbv3VdLRHoCfZb+m4/pj9gB8PfOK1fcMrW9Nh5yxnS+eeBX5o6tFkl7T8WcUYky+3B6WE1tWptsQJWRXJbeN188OOnjctMCCkV1IuoD9H1TmOLf8hv54BMAMCycRnBOBQdzF7nkxacq95XeK3pY5j4rJX+71CHD17u2wVOmiSCXuDS2JOIJE2JAIGxJhQyJstEbkF9pyFm/O8CZeAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETH112'/>",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TH113",
      "id":"ETH113",
-     "text":"<p>An welchem Element einer Yagi-Antenne erfolgt die Energieeinspeisung? Sie erfolgt am</p>",
+     "text":"An welchem Element einer Yagi-Antenne erfolgt die Energieeinspeisung? Sie erfolgt am",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"E/TH201",
      "id":"ETH201",
-     "text":"<p>Welche elektrische Länge muss eine Dipolantenne haben, damit sie in Resonanz ist?</p>",
+     "text":"Welche elektrische Länge muss eine Dipolantenne haben, damit sie in Resonanz ist?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"E/TH202",
      "id":"ETH202",
-     "text":"<p>Welches Strahlungsdiagramm ist der Antenne richtig zugeordnet?</p>",
+     "text":"Welches Strahlungsdiagramm ist der Antenne richtig zugeordnet?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"E/TH203",
      "id":"ETH203",
-     "text":"<p>Welchen Eingangs- bzw. Fußpunktwiderstand hat die Groundplane?</p>",
+     "text":"Welchen Eingangs- bzw. Fußpunktwiderstand hat die Groundplane?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"E/TH204",
      "id":"ETH204",
-     "text":"<p>Die Impedanz in der Mitte eines Halbwellendipols beträgt je nach Aufbauhöhe ungefähr</p>",
+     "text":"Die Impedanz in der Mitte eines Halbwellendipols beträgt je nach Aufbauhöhe ungefähr",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"E/TH205",
      "id":"ETH205",
-     "text":"<p>Ein Faltdipol hat einen Eingangswiderstand von ungefähr</p>",
+     "text":"Ein Faltdipol hat einen Eingangswiderstand von ungefähr",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"E/TH206",
      "id":"ETH206",
-     "text":"<p>Ein Halbwellendipol wird auf der Grundfrequenz in der Mitte</p>",
+     "text":"Ein Halbwellendipol wird auf der Grundfrequenz in der Mitte",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"E/TH207",
      "id":"ETH207",
-     "text":"<p>Welcher Prozentsatz entspricht dem Korrekturfaktor, der üblicherweise für die Berechnung der Länge einer Drahtantenne verwendet wird?</p>",
+     "text":"Welcher Prozentsatz entspricht dem Korrekturfaktor, der üblicherweise für die Berechnung der Länge einer Drahtantenne verwendet wird?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"E/TH208",
      "id":"ETH208",
-     "text":"<p>Das folgende Bild enthält verschiedene UKW-Vertikalantennen. In welcher der folgenden Zeilen ist die entsprechende Bezeichnung der Antenne richtig zugeordnet?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPoAAADICAAAAADkNaNHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAAIcUlEQVR42u2dX2gbRx7Hvxnu1ULNdZGQQ7BbhIwf0oZiDtxQpYUG4Yem7YMxQlD7XozPHPVxmBDMcXeEEIwLcR8S4ZdeSo0wfmj+PBjhQNMUVVCOXhLDGRlxtThqIbO9ZpHfh3uQ/Efy7mp3Ztez1sznRWuv5rfz0c7OzuzM7p6hkBUiOgNKXakrdaWu1KVUr62W/At+JtDn9URZ2/UteLD3ej/6/AsebPWrvAFqiYjlut+ItvOX52XrdcHe69yEbNZ1ubod3a9elFd9WF51iff6a/KqP5dX3ZIuV6/Lq56SV90OpS4jSl1GlLqMKHUZUeoyotRlRKnLiFKXkaCr/1NedR8JunpcXvUyfwhx6rcSKf4gfuD/1IJ7ZR/3HA/+7/UPOdK+4cH2t8Wp8/CzBzH6T6f6Ox7EsBx7Cra6F1hOp+l+dYn3+iN51d+WV/17edV75FW3RKl3LZq86jYodRlR6jKi1GVEqcuIUpcR/9XDohXFqRuiFcWp94lWFKfuxQjKKVUPLMFWjwL+PbYg2Orw8wQReHX/UOpdzL/kVX9FXvWX8qpX5FW3pNvVw/KqD8mr3mO9qtvVbVDqMqLUZUSpy4hSl5ETUa+JthSn/ly0pTj1YKLUZSTw6s/lVa/zhzit6v87xepn+ZL38yUXqj7Al3ybL7lQddFNOZ1JvXYtIzrjvOxZr7K9k/mnBXwwKjrzbGTvXQaA+nKusPoE2y9RCW+5UeesoRpEeRJrOmPCxXLjKRdZnP1TY+lYpICf3PpYE4YPF62GWm3VfxVtzsMKpZRSoJJvLrhSfw2nmNa2kEl1HfAC7ye26obo3IlT52yIieSVzl/p1gKflFf9kGfyqlvSveobzU9DPvULzc8d+dQ70r3qFXnVjxX09rZs96r/0ukL3aveEaXuL/4NIzjGEKT+H9Hipj2xE1F30JcQwImoe/GwQE5M7hlTBd5fXhctboo6ufnLj6ItmdRDjqJ0IADndQb1J6IzWPEtcqcHJ+84iuILpQ08quBbYeq9XmyE4ajJ/q05PGgIU+c5TPPP7oUNhIGFbyt9uD3sPOXUEuJfpgCg5N9YQCf1PUdRTCgNAlqf8R5wGahfflB+4Vw9oheGSzOfHjwcPg5j5vqJqzMzqO0e/XOeOJ8PVNSrty9Be/+DdxAFUDPuP8DcHKjjAGLVs9ht+88Tx0/IH0YMK6NA6aen/91DT+hq8jpQGiQeu/ulPjUdue/i4G4nfiG1DgC48kzHAoD4jSvrHmfRt9YcxSVCSArYvx64gxpqjmYlFYHy4Dq0FUppfpdSuqahPLY+e1rUszris5MzADIxQghBjsRILOYk6TCg0QL0MdJkRAfo7ILHOfSrwOenC/vlffmzaGmg5mI6UQmaTgCs7dcOtWQZBDdPifrR6xN/D/V9HgLqIdTPOzlHDQAYMsoYgQZA13QA2vuP5zw+v3munjAu5gGk0mN/eS/0bt8AcG3pyGpH2Z9cwp9HgdXQw20g+TrODQM1zx/oZH+saw6jHLL64W6SRAiJLKfLSwsjSQDzjRlMaYuJTCbs4coYIZlQ/dN8Pj+B0FcZQmK61+d1UDvizQy7ABT7SQst/3cRqYo43Uwf/d2Hbm66y8YdXGndLlBt+4pFgS9tsE4QXUsVACBfLrCf1qObgyT++XItCtxKsoX5beevmKsXJx6StTrOMbynJ9WollP46AX7FNEBiqmRxuLQD0wRDl6bYv3EBvNj/eGNgfj2uXM8UwareoxECCGERCIREiGdh/9ayVJavbPiaCqUGd/tL1QsH9lgvtfnyR8vTgE8PYYorX33BQC8moOW/gX4vTvzRWxFp4Axxs3vz6lA+Bt36p70kqKjjfrisT4+7zrxNM2TuDHudQvOgTo7xbt/OFYxMVzv0IojFEB47qX7tK0c1FdGW91joZ4BlgEkyulldxuqXaK/a33zXg/TlPbdzCYAXOduwYUPljbaLviYq+ffnkolhtDjvoaPApW2OvlrJneXP/lxmsXlsJpsv23MXP3NT/rXKYBv3LsXEl/yZhoAkLgxCgDZKdYAHd/1aa4efXGbAkyXQ4e33KcxgVTHv0gCi/qiN/EcqyPqvk72mOhV43otijneW/z6Lds0/r+7kY0CiW/x3THUrGzPZ62+YN9zCwtTH6a8Bb1ZTYUP1A1X6sIJg/W8Hm8W9MUD44n2r5j1VJtoGo522eNu+69NtP3+o1MOr0S1ZsBlmMbGN+OblFI6u9bah6aUmqhb/pBuNmkVw0n2rS69svz2Gt1MNz8n21aZVHOzFu3O84xFzzVvQRvHDtBbD+08vtiPPfTWgSNdEheMJ8oUAJ6SY/2SM55f9mmQrbz1IwCEkw8nKn0buPArzlbqF+5/FJxbifxSPwUEvIZX6kpdqSt1pa7UlbpSV+o86iVS5IufJYRk2JMnEolE5BqP3y3rdbZdvk24H2VuIQ2AvadPq04yacesTS/Zdq+XBm0fsN6ZYg43aRXlLGP6aPXOysoaEGHNwAOboT67nlvxEoBJ1mwDQGo9vQzkR+J8F9oI8xigXUq7vT6BSc5ZS/mVxiCKwReG+fFlq6xv4t4qZP/NmeVRABjBDK8342XpR/jYeqXtdXiOmZ5HyDqcN2VK8W7vTg5pxtQ5/JVR3Rumscae+G4OYB57tC8u/qtHMOR4TvRxPuvd6VlCKs+U+B9I29R0vqtndbBNBGoQnQeyhHFS9CLsWlO+N2SncceDKGw1vI43SyXLxH6rJ6Axj5DzkgVig4NAjJi2TXxWXy0fuxvi5HjXZOkIPh/rY0gXf0aIo54DkGI8rw9QQFg1lwFyOYB9MlqzUFYZk8OuluignsmxDHQdJn8cBgBjhicI4k855hhYJ1UDTzKi1GVEqcvI/wGmeQGkqkDDxgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMOMIxzcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDCSVX+LAAAAAElFTkSuQmCC' alt='ETH208'/>",
+     "text":"Das folgende Bild enthält verschiedene UKW-Vertikalantennen. In welcher der folgenden Zeilen ist die entsprechende Bezeichnung der Antenne richtig zugeordnet?<br><img src='data:image/png;base64,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' alt='ETH208'/>",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"E/TH209",
      "id":"ETH209",
-     "text":"<p>Das folgende Bild enthält verschiedene UKW-Antennen. Welche der folgenden Antworten ist richtig?</p><img src='data:image/png;base64,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' alt='ETH209'/>",
+     "text":"Das folgende Bild enthält verschiedene UKW-Antennen. Welche der folgenden Antworten ist richtig?<br><img src='data:image/png;base64,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' alt='ETH209'/>",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"E/TH210",
      "id":"ETH210",
-     "text":"<p>Eine Drahtantenne für den Amateurfunk im KW-Bereich</p>",
+     "text":"Eine Drahtantenne für den Amateurfunk im KW-Bereich",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"E/TL201",
      "id":"ETL201",
-     "text":"<p>Nach welcher der Antworten kann die ERP (Effective Radiated Power) berechnet werden, und worauf ist die ERP bzw. der zu verwendende Antennengewinn bezogen?</p>",
+     "text":"Nach welcher der Antworten kann die ERP (Effective Radiated Power) berechnet werden, und worauf ist die ERP bzw. der zu verwendende Antennengewinn bezogen?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"E/TL202",
      "id":"ETL202",
-     "text":"<p>Nach welcher der Antworten kann die EIRP berechnet werden, und worauf ist die EIRP bzw. der zu verwendende Antennengewinn bezogen?</p>",
+     "text":"Nach welcher der Antworten kann die EIRP berechnet werden, und worauf ist die EIRP bzw. der zu verwendende Antennengewinn bezogen?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"E/TL203",
      "id":"ETL203",
-     "text":"<p>Was versteht man unter dem Begriff \"EIRP\"?</p>",
+     "text":"Was versteht man unter dem Begriff \"EIRP\"?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"E/TL204",
      "id":"ETL204",
-     "text":"<p>Ein Sender mit 0,6 Watt Ausgangsleistung ist über eine Antennenleitung, die 1 dB Kabelverluste hat, an eine Richtantenne mit 11 dB Gewinn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>",
+     "text":"Ein Sender mit 0,6 Watt Ausgangsleistung ist über eine Antennenleitung, die 1 dB Kabelverluste hat, an eine Richtantenne mit 11 dB Gewinn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"E/TL205",
      "id":"ETL205",
-     "text":"<p>Ein Sender mit 5 Watt Ausgangsleistung ist über eine Antennenleitung, die 2 dB Kabelverluste hat, an eine Antenne mit 5 dB Gewinn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>",
+     "text":"Ein Sender mit 5 Watt Ausgangsleistung ist über eine Antennenleitung, die 2 dB Kabelverluste hat, an eine Antenne mit 5 dB Gewinn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"E/TL206",
      "id":"ETL206",
-     "text":"<p>Ein Sender mit 75 Watt Ausgangsleistung ist über eine Antennenleitung, die 2,15 dB (Faktor 1,64) Kabelverluste hat, an eine Dipol-Antenne angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>",
+     "text":"Ein Sender mit 75 Watt Ausgangsleistung ist über eine Antennenleitung, die 2,15 dB (Faktor 1,64) Kabelverluste hat, an eine Dipol-Antenne angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"E/TL212",
      "id":"ETL212",
-     "text":"<p>Sie errechnen einen Sicherheitsabstand für Ihre Antenne. Von welchem Punkt aus muss dieser Sicherheitsabstand eingehalten werden, wenn Sie bei der Berechnung die Fernfeldnäherung verwendet haben?</p>",
+     "text":"Sie errechnen einen Sicherheitsabstand für Ihre Antenne. Von welchem Punkt aus muss dieser Sicherheitsabstand eingehalten werden, wenn Sie bei der Berechnung die Fernfeldnäherung verwendet haben?",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"E/TL305",
      "id":"ETL305",
-     "text":"<p>Welche der Antworten A bis D enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?</p>",
+     "text":"Welche der Antworten A bis D enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?",
      "answer":[
     {
       "correct":true,

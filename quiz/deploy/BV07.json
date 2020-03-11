@@ -4,7 +4,7 @@
     {
      "name":"V/VB101",
      "id":"VVB101",
-     "text":"<p>Welche Bedeutung haben die CEPT-Empfehlungen T/R 61-01 und 05(06) für den Amateurfunkdienst?</p>",
+     "text":"Welche Bedeutung haben die CEPT-Empfehlungen T/R 61-01 und 05(06) für den Amateurfunkdienst?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"V/VB102",
      "id":"VVB102",
-     "text":"<p>Was beinhalten die CEPT-Empfehlungen T/R 61-01 und (05)06?</p>",
+     "text":"Was beinhalten die CEPT-Empfehlungen T/R 61-01 und (05)06?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"V/VB103",
      "id":"VVB103",
-     "text":"<p>Die deutsche Amateurfunkzulassung der Klasse A entspricht der</p>",
+     "text":"Die deutsche Amateurfunkzulassung der Klasse A entspricht der",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"V/VB104",
      "id":"VVB104",
-     "text":"<p>Die deutsche Amateurfunkzulassung der Klasse E entspricht der</p>",
+     "text":"Die deutsche Amateurfunkzulassung der Klasse E entspricht der",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"V/VB105",
      "id":"VVB105",
-     "text":"<p>Mit einer gültigen deutschen Amateurfunkzulassung der Klasse A, die als \"CEPT-Amateurfunkgenehmigung\" gekennzeichnet ist, dürfen die Betriebsrechte der entsprechenden ausländischen Genehmigung im jeweiligen Beitrittsland gemäß der CEPT-Empfehlung T/R 61-01 wahrgenommen werden,</p>",
+     "text":"Mit einer gültigen deutschen Amateurfunkzulassung der Klasse A, die als \"CEPT-Amateurfunkgenehmigung\" gekennzeichnet ist, dürfen die Betriebsrechte der entsprechenden ausländischen Genehmigung im jeweiligen Beitrittsland gemäß der CEPT-Empfehlung T/R 61-01 wahrgenommen werden,",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"V/VB106",
      "id":"VVB106",
-     "text":"<p>Mit einer gültigen deutschen Amateurfunkzulassung der Klasse E, die als \"CEPT-Novice-Amateurfunkgenehmigung\" gekennzeichnet ist, dürfen die Betriebsrechte der entsprechenden ausländischen Genehmigung im jeweiligen Beitrittsland gemäß der ECC-Empfehlung (05)06 wahrgenommen werden,</p>",
+     "text":"Mit einer gültigen deutschen Amateurfunkzulassung der Klasse E, die als \"CEPT-Novice-Amateurfunkgenehmigung\" gekennzeichnet ist, dürfen die Betriebsrechte der entsprechenden ausländischen Genehmigung im jeweiligen Beitrittsland gemäß der ECC-Empfehlung (05)06 wahrgenommen werden,",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"V/VB107",
      "id":"VVB107",
-     "text":"<p>Wie lange darf ein Funkamateur im Rahmen einer der CEPT-Empfehlungen T/R 61-01 oder (05)06 Amateurfunkverkehr in einem Land durchführen?</p>",
+     "text":"Wie lange darf ein Funkamateur im Rahmen einer der CEPT-Empfehlungen T/R 61-01 oder (05)06 Amateurfunkverkehr in einem Land durchführen?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"V/VB108",
      "id":"VVB108",
-     "text":"<p>Wie muss die Rufzeichennennung von DO1XYZ bei der Nutzung der CEPT-Novice-Amateurfunkgenehmigung in der Schweiz erfolgen?</p>",
+     "text":"Wie muss die Rufzeichennennung von DO1XYZ bei der Nutzung der CEPT-Novice-Amateurfunkgenehmigung in der Schweiz erfolgen?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"V/VB109",
      "id":"VVB109",
-     "text":"<p>Wie muss die Rufzeichennennung von DL1ER bei der Nutzung der CEPT-Amateurfunkgenehmigung in der Schweiz erfolgen?</p>",
+     "text":"Wie muss die Rufzeichennennung von DL1ER bei der Nutzung der CEPT-Amateurfunkgenehmigung in der Schweiz erfolgen?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"V/VB110",
      "id":"VVB110",
-     "text":"<p>Sie hören die Amateurfunkstation mit dem Rufzeichen DL/G3MM. Welcher der nachfolgenden Sachverhalte trifft zu?</p>",
+     "text":"Sie hören die Amateurfunkstation mit dem Rufzeichen DL/G3MM. Welcher der nachfolgenden Sachverhalte trifft zu?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"V/VB111",
      "id":"VVB111",
-     "text":"<p>Darf ein Funkamateur mit einer CEPT-Amateurfunkgenehmigung in allen CEPT-Ländern Amateurfunkverkehr abwickeln?</p>",
+     "text":"Darf ein Funkamateur mit einer CEPT-Amateurfunkgenehmigung in allen CEPT-Ländern Amateurfunkverkehr abwickeln?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"V/VB112",
      "id":"VVB112",
-     "text":"<p>Darf ein Funkamateur mit einer CEPT-Novice-Amateurfunkgenehmigung in allen CEPT-Ländern Amateurfunkverkehr abwickeln?</p>",
+     "text":"Darf ein Funkamateur mit einer CEPT-Novice-Amateurfunkgenehmigung in allen CEPT-Ländern Amateurfunkverkehr abwickeln?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"V/VB113",
      "id":"VVB113",
-     "text":"<p>Wo sind die Informationen und Bedingungen für die Ausstellung und die Nutzung der CEPT-Amateurfunkgenehmigung zu finden?</p>",
+     "text":"Wo sind die Informationen und Bedingungen für die Ausstellung und die Nutzung der CEPT-Amateurfunkgenehmigung zu finden?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"V/VB114",
      "id":"VVB114",
-     "text":"<p>Wo sind die Informationen und Bedingungen für die Ausstellung und die Nutzung der CEPT-Novice-Amateurfunkgenehmigung zu finden?</p>",
+     "text":"Wo sind die Informationen und Bedingungen für die Ausstellung und die Nutzung der CEPT-Novice-Amateurfunkgenehmigung zu finden?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"V/VB115",
      "id":"VVB115",
-     "text":"<p>Aufgrund welcher Regelungen dürfen Funkamateure aus bestimmten Ländern ohne individuelle Gastzulassung vorübergehend in Deutschland Amateurfunk ausüben?</p>",
+     "text":"Aufgrund welcher Regelungen dürfen Funkamateure aus bestimmten Ländern ohne individuelle Gastzulassung vorübergehend in Deutschland Amateurfunk ausüben?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"V/VB116",
      "id":"VVB116",
-     "text":"<p>Entsprechend welcher internationalen Regelungen dürfen Inhaber eines deutschen Amateurfunkrufzeichens auch in anderen Ländern vorübergehend am Amateurfunkverkehr teilnehmen, ohne dass sie dort vorher eine besondere Zulassung beantragen müssen?</p>",
+     "text":"Entsprechend welcher internationalen Regelungen dürfen Inhaber eines deutschen Amateurfunkrufzeichens auch in anderen Ländern vorübergehend am Amateurfunkverkehr teilnehmen, ohne dass sie dort vorher eine besondere Zulassung beantragen müssen?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"V/VB117",
      "id":"VVB117",
-     "text":"<p>Welche der folgenden Aussagen ist richtig?</p>",
+     "text":"Welche der folgenden Aussagen ist richtig?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"V/VB118",
      "id":"VVB118",
-     "text":"<p>Welche Regelungen sind beim Betrieb einer Amateurfunkstelle in einem ausländischen Land zu beachten, das die CEPT-Empfehlungen T/R 61-01 und (05)06 umgesetzt hat?</p>",
+     "text":"Welche Regelungen sind beim Betrieb einer Amateurfunkstelle in einem ausländischen Land zu beachten, das die CEPT-Empfehlungen T/R 61-01 und (05)06 umgesetzt hat?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"V/VB119",
      "id":"VVB119",
-     "text":"<p>Darf ein Funkamateur mit einer gültigen deutschen Amateurfunkzulassung der Klasse A auch im Gastland Amateurfunkverkehr auf dem 6-m-Band durchführen?</p>",
+     "text":"Darf ein Funkamateur mit einer gültigen deutschen Amateurfunkzulassung der Klasse A auch im Gastland Amateurfunkverkehr auf dem 6-m-Band durchführen?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"V/VB120",
      "id":"VVB120",
-     "text":"<p>Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?</p>",
+     "text":"Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"V/VB121",
      "id":"VVB121",
-     "text":"<p>Was hat ein Funkamateur zu veranlassen, wenn er eine Amateurfunkstelle anlässlich einer Urlaubsreise in einem Land betreiben will, das die in seiner Amateurfunkzulassung eingetragene CEPT-Empfehlung nicht anwendet?</p>",
+     "text":"Was hat ein Funkamateur zu veranlassen, wenn er eine Amateurfunkstelle anlässlich einer Urlaubsreise in einem Land betreiben will, das die in seiner Amateurfunkzulassung eingetragene CEPT-Empfehlung nicht anwendet?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"V/VB122",
      "id":"VVB122",
-     "text":"<p>Was ist eine HAREC?</p>",
+     "text":"Was ist eine HAREC?",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"V/VB123",
      "id":"VVB123",
-     "text":"<p>Wozu dient eine HAREC?</p>",
+     "text":"Wozu dient eine HAREC?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"V/VB124",
      "id":"VVB124",
-     "text":"<p>Die CEPT-Empfehlung T/R 61-02 beinhaltet Regelungen für</p>",
+     "text":"Die CEPT-Empfehlung T/R 61-02 beinhaltet Regelungen für",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"V/VB125",
      "id":"VVB125",
-     "text":"<p>Welche der folgenden Aussagen ist richtig?</p>",
+     "text":"Welche der folgenden Aussagen ist richtig?",
      "answer":[
     {
       "correct":true,

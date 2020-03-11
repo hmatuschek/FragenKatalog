@@ -4,7 +4,7 @@
     {
      "name":"B/BD102",
      "id":"BBD102",
-     "text":"<p>Was erkennen Sie aus dem Rufzeichen DA5XX?</p>",
+     "text":"Was erkennen Sie aus dem Rufzeichen DA5XX?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BD103",
      "id":"BBD103",
-     "text":"<p>Was erkennen Sie aus dem Rufzeichen DAØXX?</p>",
+     "text":"Was erkennen Sie aus dem Rufzeichen DAØXX?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BD104",
      "id":"BBD104",
-     "text":"<p>Was erkennen Sie aus dem Rufzeichen DPØXX?</p>",
+     "text":"Was erkennen Sie aus dem Rufzeichen DPØXX?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BD112",
      "id":"BBD112",
-     "text":"<p>Zu welcher Rufzeichenart gehören Rufzeichen mit dem Präfix DN1 bis DN8 und zwei bis drei Buchstaben im Suffix?</p>",
+     "text":"Zu welcher Rufzeichenart gehören Rufzeichen mit dem Präfix DN1 bis DN8 und zwei bis drei Buchstaben im Suffix?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BD113",
      "id":"BBD113",
-     "text":"<p>Rufzeichen, die mit DFØ, DKØ oder DLØ beginnen, sind zumeist</p>",
+     "text":"Rufzeichen, die mit DFØ, DKØ oder DLØ beginnen, sind zumeist",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BE403",
      "id":"BBE403",
-     "text":"<p>Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle</p>",
+     "text":"Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BE409",
      "id":"BBE409",
-     "text":"<p>Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?</p>",
+     "text":"Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"V/VA201",
      "id":"VVA201",
-     "text":"<p>Wie ist die Amateurfunkstelle in den Radio Regulations (VO Funk) definiert?</p>",
+     "text":"Wie ist die Amateurfunkstelle in den Radio Regulations (VO Funk) definiert?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"V/VA202",
      "id":"VVA202",
-     "text":"<p>Wie ist die Funkstelle in den Radio Regulations (VO Funk) definiert?</p>",
+     "text":"Wie ist die Funkstelle in den Radio Regulations (VO Funk) definiert?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"V/VA203",
      "id":"VVA203",
-     "text":"<p>Was ist eine Amateurfunkstelle im Sinne der Radio Regulations (VO Funk)?</p>",
+     "text":"Was ist eine Amateurfunkstelle im Sinne der Radio Regulations (VO Funk)?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"V/VA204",
      "id":"VVA204",
-     "text":"<p>Bei welcher der genannten Einrichtungen handelt es sich umkeineAmateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>",
+     "text":"Bei welcher der genannten Einrichtungen handelt es sich umkeineAmateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"V/VA205",
      "id":"VVA205",
-     "text":"<p>Bei welcher der genannten Einrichtungen handelt es sich um eine Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>",
+     "text":"Bei welcher der genannten Einrichtungen handelt es sich um eine Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"V/VB120",
      "id":"VVB120",
-     "text":"<p>Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?</p>",
+     "text":"Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"V/VD127",
      "id":"VVD127",
-     "text":"<p>Für welche Zwecke sind Zuteilungen mit Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV möglich?</p>",
+     "text":"Für welche Zwecke sind Zuteilungen mit Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV möglich?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"V/VD128",
      "id":"VVD128",
-     "text":"<p>Rufzeichenzuteilungen für besondere experimentelle und technisch-wissenschaftliche Studien gemäß § 16 Abs. 2 der AFuV sind Zuteilungen,</p>",
+     "text":"Rufzeichenzuteilungen für besondere experimentelle und technisch-wissenschaftliche Studien gemäß § 16 Abs. 2 der AFuV sind Zuteilungen,",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"V/VD201",
      "id":"VVD201",
-     "text":"<p>Welche Rückschlüsse lässt das Rufzeichen DP1ZZZ zu?</p>",
+     "text":"Welche Rückschlüsse lässt das Rufzeichen DP1ZZZ zu?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"V/VD205",
      "id":"VVD205",
-     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DGØZZZ?<br>Es ist ein</p>",
+     "text":"Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DGØZZZ?<br>Es ist ein",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"V/VD206",
      "id":"VVD206",
-     "text":"<p>Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DLØZZZ?<br>Es ist ein</p>",
+     "text":"Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DLØZZZ?<br>Es ist ein",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"V/VD213",
      "id":"VVD213",
-     "text":"<p>Was trifft für die Rufzeichenreihe \"DN1AA - DN8ZZZ\" zu?</p>",
+     "text":"Was trifft für die Rufzeichenreihe \"DN1AA - DN8ZZZ\" zu?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"V/VD219",
      "id":"VVD219",
-     "text":"<p>Was trifft für die Rufzeichenreihe \"DBØAA - DBØZZZ\" zu?</p>",
+     "text":"Was trifft für die Rufzeichenreihe \"DBØAA - DBØZZZ\" zu?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"V/VD220",
      "id":"VVD220",
-     "text":"<p>Was trifft für die Rufzeichenreihe \"DFØAA - DFØZZZ\" zu?</p>",
+     "text":"Was trifft für die Rufzeichenreihe \"DFØAA - DFØZZZ\" zu?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"V/VD222",
      "id":"VVD222",
-     "text":"<p>Was trifft für das Rufzeichen \"DA5AA\" zu?</p>",
+     "text":"Was trifft für das Rufzeichen \"DA5AA\" zu?",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"V/VD223",
      "id":"VVD223",
-     "text":"<p>Werden von der Bundesnetzagentur Ausbildungsrufzeichen für Klubstationen vergeben?</p>",
+     "text":"Werden von der Bundesnetzagentur Ausbildungsrufzeichen für Klubstationen vergeben?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"V/VD301",
      "id":"VVD301",
-     "text":"<p>Von wem ist während des Ausbildungsfunkbetriebs das zugeteilte Ausbildungsrufzeichen zu benutzen?</p>",
+     "text":"Von wem ist während des Ausbildungsfunkbetriebs das zugeteilte Ausbildungsrufzeichen zu benutzen?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"V/VD302",
      "id":"VVD302",
-     "text":"<p>Was ist bei der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>",
+     "text":"Was ist bei der Durchführung von Ausbildungsfunkverkehr zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"V/VD303",
      "id":"VVD303",
-     "text":"<p>Was ist u.a. im Zusammenhang mit der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>",
+     "text":"Was ist u.a. im Zusammenhang mit der Durchführung von Ausbildungsfunkverkehr zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"V/VD304",
      "id":"VVD304",
-     "text":"<p>Wann ist mit dem Entzug eines Ausbildungsrufzeichens zu rechnen?</p>",
+     "text":"Wann ist mit dem Entzug eines Ausbildungsrufzeichens zu rechnen?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"V/VD305",
      "id":"VVD305",
-     "text":"<p>Nicht-Funkamateure dürfen am Ausbildungsfunkbetrieb</p>",
+     "text":"Nicht-Funkamateure dürfen am Ausbildungsfunkbetrieb",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"V/VD306",
      "id":"VVD306",
-     "text":"<p>Beim Ausbildungsfunkbetrieb sind</p>",
+     "text":"Beim Ausbildungsfunkbetrieb sind",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"V/VD307",
      "id":"VVD307",
-     "text":"<p>Kann der Inhaber einer Amateurfunkzulassung der Klasse E ein Ausbildungsrufzeichen zugeteilt bekommen?</p>",
+     "text":"Kann der Inhaber einer Amateurfunkzulassung der Klasse E ein Ausbildungsrufzeichen zugeteilt bekommen?",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"V/VD308",
      "id":"VVD308",
-     "text":"<p>Wird das Ausbildungsrufzeichen auf unbegrenzte Zeit erteilt?</p>",
+     "text":"Wird das Ausbildungsrufzeichen auf unbegrenzte Zeit erteilt?",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"V/VD309",
      "id":"VVD309",
-     "text":"<p>Welche der nachfolgenden Tätigkeiten fälltnichtunter die Ziel- und Zweckbestimmung des Ausbildungsfunkbetriebs?</p>",
+     "text":"Welche der nachfolgenden Tätigkeiten fälltnichtunter die Ziel- und Zweckbestimmung des Ausbildungsfunkbetriebs?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"V/VD401",
      "id":"VVD401",
-     "text":"<p>Welche Voraussetzungen müssen für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?</p>",
+     "text":"Welche Voraussetzungen müssen für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"V/VD402",
      "id":"VVD402",
-     "text":"<p>Welche Voraussetzung muss für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?</p>",
+     "text":"Welche Voraussetzung muss für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"V/VD403",
      "id":"VVD403",
-     "text":"<p>Was ist nötig, damit ein Funkamateur das Rufzeichen einer Klubstation mitbenutzen darf?</p>",
+     "text":"Was ist nötig, damit ein Funkamateur das Rufzeichen einer Klubstation mitbenutzen darf?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"V/VD404",
      "id":"VVD404",
-     "text":"<p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>",
+     "text":"Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"V/VD405",
      "id":"VVD405",
-     "text":"<p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>",
+     "text":"Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"V/VD406",
      "id":"VVD406",
-     "text":"<p>Welche der genannten Funkamateure dürfen an einer Klubstation der Klasse A Funkbetrieb im 40-m-Amateurfunkband durchführen?</p>",
+     "text":"Welche der genannten Funkamateure dürfen an einer Klubstation der Klasse A Funkbetrieb im 40-m-Amateurfunkband durchführen?",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"V/VD407",
      "id":"VVD407",
-     "text":"<p>Darf ein Funkamateur mit Ausbildungsrufzeichen der Klasse E an einer Klubstation, für deren Betrieb ein Rufzeichen der Klasse A zugeteilt wurde, ausbilden?</p>",
+     "text":"Darf ein Funkamateur mit Ausbildungsrufzeichen der Klasse E an einer Klubstation, für deren Betrieb ein Rufzeichen der Klasse A zugeteilt wurde, ausbilden?",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"V/VD411",
      "id":"VVD411",
-     "text":"<p>Welche der folgenden Aussagen ist richtig?</p>",
+     "text":"Welche der folgenden Aussagen ist richtig?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"V/VD501",
      "id":"VVD501",
-     "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
+     "text":"Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"V/VD502",
      "id":"VVD502",
-     "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
+     "text":"Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"V/VD503",
      "id":"VVD503",
-     "text":"<p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>",
+     "text":"Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"V/VD504",
      "id":"VVD504",
-     "text":"<p>Was ist notwendig, damit ein Funkamateur eine Amateurfunkstelle als Relaisfunkstelle oder Funkbake betreiben darf?</p>",
+     "text":"Was ist notwendig, damit ein Funkamateur eine Amateurfunkstelle als Relaisfunkstelle oder Funkbake betreiben darf?",
      "answer":[
     {
       "correct":true,
@@ -1192,7 +1192,7 @@
     {
      "name":"V/VD505",
      "id":"VVD505",
-     "text":"<p>Was ist notwendig, damit ein Funkamateur eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle erhalten kann?</p>",
+     "text":"Was ist notwendig, damit ein Funkamateur eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle erhalten kann?",
      "answer":[
     {
       "correct":true,
@@ -1219,7 +1219,7 @@
     {
      "name":"V/VD506",
      "id":"VVD506",
-     "text":"<p>Wie hoch ist die maximal zulässige Strahlungsleistung einer Relaisfunkstelle oberhalb 30 MHz?</p>",
+     "text":"Wie hoch ist die maximal zulässige Strahlungsleistung einer Relaisfunkstelle oberhalb 30 MHz?",
      "answer":[
     {
       "correct":true,
@@ -1246,7 +1246,7 @@
     {
      "name":"V/VD507",
      "id":"VVD507",
-     "text":"<p>Was gilt gemäß AFuV bei Relaisfunkstellen?</p>",
+     "text":"Was gilt gemäß AFuV bei Relaisfunkstellen?",
      "answer":[
     {
       "correct":true,
@@ -1273,7 +1273,7 @@
     {
      "name":"V/VD508",
      "id":"VVD508",
-     "text":"<p>Was gilt gemäß AFuV bei Relaisfunkstellen und Funkbaken?</p>",
+     "text":"Was gilt gemäß AFuV bei Relaisfunkstellen und Funkbaken?",
      "answer":[
     {
       "correct":true,
@@ -1300,7 +1300,7 @@
     {
      "name":"V/VD511",
      "id":"VVD511",
-     "text":"<p>Welcher Fall ist als störungsfreier Betrieb einer Relaisfunkstelle im Sinne des § 13 Abs. 4 AFuV anzusehen?</p>",
+     "text":"Welcher Fall ist als störungsfreier Betrieb einer Relaisfunkstelle im Sinne des § 13 Abs. 4 AFuV anzusehen?",
      "answer":[
     {
       "correct":true,

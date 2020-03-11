@@ -4,7 +4,7 @@
     {
      "name":"A/TC201",
      "id":"ATC201",
-     "text":"<p>Welche Aussage zur Kapazität eines Plattenkondensators ist richtig?</p>",
+     "text":"Welche Aussage zur Kapazität eines Plattenkondensators ist richtig?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"A/TC202",
      "id":"ATC202",
-     "text":"<p>Welchen zeitlichen Verlauf hat die Spannung an einem entladenen Kondensator, wenn dieser über einen Widerstand an eine Gleichspannungsquelle angeschlossen wird?</p>",
+     "text":"Welchen zeitlichen Verlauf hat die Spannung an einem entladenen Kondensator, wenn dieser über einen Widerstand an eine Gleichspannungsquelle angeschlossen wird?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"A/TC203",
      "id":"ATC203",
-     "text":"<p>Ein verlustloser Kondensator wird an eine Wechselspannungsquelle angeschlossen. Welche Phasenverschiebung zwischen Spannung und Strom stellt sich ein?</p>",
+     "text":"Ein verlustloser Kondensator wird an eine Wechselspannungsquelle angeschlossen. Welche Phasenverschiebung zwischen Spannung und Strom stellt sich ein?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"A/TC204",
      "id":"ATC204",
-     "text":"<p>Wie verhält sich der Wechselstromwiderstand eines Kondensators mit zunehmender Frequenz?</p>",
+     "text":"Wie verhält sich der Wechselstromwiderstand eines Kondensators mit zunehmender Frequenz?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"A/TC205",
      "id":"ATC205",
-     "text":"<p>Wie groß ist der kapazitive Widerstand eines 10-pF-Kondensators bei 100 MHz?</p>",
+     "text":"Wie groß ist der kapazitive Widerstand eines 10-pF-Kondensators bei 100 MHz?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"A/TC206",
      "id":"ATC206",
-     "text":"<p>An einem unbekannten Kondensator liegt eine Wechselspannung mit 16 V und 50 Hz. Es wird ein Strom von 32 mA gemessen. Welche Kapazität hat der Kondensator?</p>",
+     "text":"An einem unbekannten Kondensator liegt eine Wechselspannung mit 16 V und 50 Hz. Es wird ein Strom von 32 mA gemessen. Welche Kapazität hat der Kondensator?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"A/TC207",
      "id":"ATC207",
-     "text":"<p>Was versteht man unter dem Blindwiderstand eines Kondensators und von welchen physikalischen Größen hängt er ab?</p>",
+     "text":"Was versteht man unter dem Blindwiderstand eines Kondensators und von welchen physikalischen Größen hängt er ab?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"A/TC208",
      "id":"ATC208",
-     "text":"<p>Neben dem kapazitiven Blindwiderstand treten im Wechselstrom durchflossenen Kondensator auch Verluste auf, die rechnerisch in einem parallelgeschalteten Verlustwiderstand zusammengefasst werden können. Die Kondensatorverluste werden angegeben durch</p>",
+     "text":"Neben dem kapazitiven Blindwiderstand treten im Wechselstrom durchflossenen Kondensator auch Verluste auf, die rechnerisch in einem parallelgeschalteten Verlustwiderstand zusammengefasst werden können. Die Kondensatorverluste werden angegeben durch",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"A/TC301",
      "id":"ATC301",
-     "text":"<p>An eine Spule wird über einen Widerstand eine Gleichspannung angelegt. Welches der nachfolgenden Diagramme zeigt den zeitlichen Verlauf der Spannung über der Spule?</p>",
+     "text":"An eine Spule wird über einen Widerstand eine Gleichspannung angelegt. Welches der nachfolgenden Diagramme zeigt den zeitlichen Verlauf der Spannung über der Spule?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"A/TC302",
      "id":"ATC302",
-     "text":"<p>In einer reinen Induktivität, die an einer Wechselspannungsquelle angeschlossen ist, eilt der Strom der angelegten Spannung</p>",
+     "text":"In einer reinen Induktivität, die an einer Wechselspannungsquelle angeschlossen ist, eilt der Strom der angelegten Spannung",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"A/TC303",
      "id":"ATC303",
-     "text":"<p>Wie verhält sich der Wechselstromwiderstand einer Spule mit zunehmender Frequenz?</p>",
+     "text":"Wie verhält sich der Wechselstromwiderstand einer Spule mit zunehmender Frequenz?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"A/TC304",
      "id":"ATC304",
-     "text":"<p>Beim Anlegen einer Gleichspannung U = 1 V an eine Spule messen Sie einen Strom. Wird der Strom beim Anlegen von einer Wechselspannung mit U<sub>eff</sub> = 1 V größer oder kleiner?</p>",
+     "text":"Beim Anlegen einer Gleichspannung U = 1 V an eine Spule messen Sie einen Strom. Wird der Strom beim Anlegen von einer Wechselspannung mit U<sub>eff</sub> = 1 V größer oder kleiner?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"A/TC305",
      "id":"ATC305",
-     "text":"<p>Wie groß ist der Wechselstromwiderstand einer Spule mit 3 μH Induktivität bei einer Frequenz von 100 MHz?</p>",
+     "text":"Wie groß ist der Wechselstromwiderstand einer Spule mit 3 μH Induktivität bei einer Frequenz von 100 MHz?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"A/TC306",
      "id":"ATC306",
-     "text":"<p>Was versteht man unter dem Blindwiderstand einer Spule und von welchen physikalischen Größen hängt er ab?</p>",
+     "text":"Was versteht man unter dem Blindwiderstand einer Spule und von welchen physikalischen Größen hängt er ab?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"A/TC307",
      "id":"ATC307",
-     "text":"<p>Neben dem induktiven Blindwiderstand treten in der Wechselstrom durchflossenen Spule auch Verluste auf, die rechnerisch in einem seriellen Verlustwiderstand zusammengefasst werden können. Die Verluste einer Spule werden angegeben durch</p>",
+     "text":"Neben dem induktiven Blindwiderstand treten in der Wechselstrom durchflossenen Spule auch Verluste auf, die rechnerisch in einem seriellen Verlustwiderstand zusammengefasst werden können. Die Verluste einer Spule werden angegeben durch",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"A/TC308",
      "id":"ATC308",
-     "text":"<p>Hat ein gerades Leiterstück eine Induktivität?</p>",
+     "text":"Hat ein gerades Leiterstück eine Induktivität?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"A/TC309",
      "id":"ATC309",
-     "text":"<p>Wie kann man die Induktivität einer Spule vergrößern?</p>",
+     "text":"Wie kann man die Induktivität einer Spule vergrößern?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"A/TC310",
      "id":"ATC310",
-     "text":"<p>Mit einem Schalenkern dessen AL-Wert mit 250 angegeben ist, soll eine Spule mit einer Induktivität von 2 mH hergestellt werden. Wie groß ist die erforderliche Windungszahl?</p>",
+     "text":"Mit einem Schalenkern dessen AL-Wert mit 250 angegeben ist, soll eine Spule mit einer Induktivität von 2 mH hergestellt werden. Wie groß ist die erforderliche Windungszahl?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"A/TC311",
      "id":"ATC311",
-     "text":"<p>Wie groß ist die Induktivität einer Spule mit 300 Windungen, die auf einen Kern mit einem AL-Wert von 1250 gewickelt ist?</p>",
+     "text":"Wie groß ist die Induktivität einer Spule mit 300 Windungen, die auf einen Kern mit einem AL-Wert von 1250 gewickelt ist?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"A/TC312",
      "id":"ATC312",
-     "text":"<p>Wie groß ist die Induktivität einer Spule mit 14 Windungen, die auf einen Kern mit einem AL-Wert von 1,5 gewickelt ist?</p>",
+     "text":"Wie groß ist die Induktivität einer Spule mit 14 Windungen, die auf einen Kern mit einem AL-Wert von 1,5 gewickelt ist?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"A/TC313",
      "id":"ATC313",
-     "text":"<p>Ein Spulenkern hat einen AL-Wert von 30. Wie groß ist die erforderliche Windungszahl zur Herstellung einer Induktivität von 12 μH?</p>",
+     "text":"Ein Spulenkern hat einen AL-Wert von 30. Wie groß ist die erforderliche Windungszahl zur Herstellung einer Induktivität von 12 μH?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"A/TC316",
      "id":"ATC316",
-     "text":"<p>Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus</p><img src='data:image/png;base64,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' alt='Atb401'/>",
+     "text":"Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus<br><img src='data:image/png;base64,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' alt='Atb401'/>",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"A/TC317",
      "id":"ATC317",
-     "text":"<p>Für die Unterdrückung parasitärer Schwingungen kann eine verlustbehaftete Drosselspule verwendet werden. Wie wird eine solche Spule gebaut?</p>",
+     "text":"Für die Unterdrückung parasitärer Schwingungen kann eine verlustbehaftete Drosselspule verwendet werden. Wie wird eine solche Spule gebaut?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"A/TC318",
      "id":"ATC318",
-     "text":"<p>Um die Abstrahlungen der Spule eines abgestimmten Schwingkreises zu verringern, sollte die Spule</p>",
+     "text":"Um die Abstrahlungen der Spule eines abgestimmten Schwingkreises zu verringern, sollte die Spule",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"A/TC319",
      "id":"ATC319",
-     "text":"<p>Durch Gegeninduktion wird in einer Spule eine Spannung erzeugt, wenn</p>",
+     "text":"Durch Gegeninduktion wird in einer Spule eine Spannung erzeugt, wenn",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"A/TC401",
      "id":"ATC401",
-     "text":"<p>Ein Trafo liegt an 230 Volt und gibt 11,5 Volt ab. Seine Primärwicklung hat 600 Windungen. Wie groß ist seine Sekundärwindungszahl?</p>",
+     "text":"Ein Trafo liegt an 230 Volt und gibt 11,5 Volt ab. Seine Primärwicklung hat 600 Windungen. Wie groß ist seine Sekundärwindungszahl?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"A/TC402",
      "id":"ATC402",
-     "text":"<p>Ein Transformator setzt die Spannung von 230 Volt auf 6 Volt herunter und liefert dabei einen Strom von 1,15 A. Wie groß ist der dadurch in der Primärwicklung zu erwartende Strom bei Vernachlässigung der Verluste?</p>",
+     "text":"Ein Transformator setzt die Spannung von 230 Volt auf 6 Volt herunter und liefert dabei einen Strom von 1,15 A. Wie groß ist der dadurch in der Primärwicklung zu erwartende Strom bei Vernachlässigung der Verluste?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"A/TC403",
      "id":"ATC403",
-     "text":"<p>Eine Transformatorwicklung hat einen Drahtdurchmesser von 0,5 mm. Die zulässige Stromdichte beträgt 2,5 A/mm². Wie groß ist der zulässige Strom?</p>",
+     "text":"Eine Transformatorwicklung hat einen Drahtdurchmesser von 0,5 mm. Die zulässige Stromdichte beträgt 2,5 A/mm². Wie groß ist der zulässige Strom?",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"A/TC404",
      "id":"ATC404",
-     "text":"<p>In dieser Schaltung ist R = 16 kΩ. Die Impedanz zwischen den Anschlüssen A und B beträgt somit</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAB/BAAAAAC/8rQ+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAEoElEQVRo3u3aX2gjRRgA8MkmvZrWlg29k9M74lLRp4PmCCiKkqJFfJC7FPRBEG8VPO7uJTlQfJLmzcIpCUWkfUpRXyU+6cOhCT74dJDovYh3MT0QRMWuXNuk+bfjzGxrZr1LZmY3H1TYD7rJwuz+Mjs7s9/MFmHw+BsFRmAEhnfjPYvb6X0LYTRRldvLTQMYtokaXDUQhLGGHGPbots9EMN4jBn22QzdK4AYyZ8cA52nW8OAMBotx3glT7bNcAHCwC2uzSszm+DGYqYwBWz00Lweeg7aIDEDZtjPr5DtjRvZaEN0Rk9GFR/eu6SDgLR5O8nq8cIK2/vsWX/G95c8HK9oLLpGWBCjjxC7Hr1rcEYboQXy0U0gL9dcztgJm/SmqU28EwYzKtHaMfJhlnC2tM2HNShtb0vECMOc2dHI6eYw3tLm+XhiUHptXiJKww0j00ZljOfJ5UKumBiUziKJKA41euipd2lnNvN2+vIqF2uckTu5viqIdX240aI/YRbjHyPLk64Su7yxIG7hEcadUDJpREk3SYfyfgx7hJEj569FyJf+L+4SYzSMOE1tyvceNEaDDqzdZPHeg8ZoDI3AOIpGr0q3WVCjRsf93w4yB0CjbUQa0EbuYTHh07DnLDHh02hJpaH+jK3zYMZeqOgYlaKoKAsvRt8IV6WN9dUP0EurH6oa+E8zyow74mtl6wjFEHI/SKXWMvpGg7X5g+KiJ/6q1+u3PRi4lqFGX2sISz7Etl6M5gzrg4UzcobtxehOMWMfPWmBGT3HwOb9nvdjMvanmdGErMfdBWaYLwtLejeyRXZfTYhLejZaYdYHm7NwxlfGOWaQXgJl9BGdV9HxqqRg8JMdiXos04GXGnkF481YLPaMvGF/eowZd1MKxiKdapSkDXJAlRr7EutKAyO68TGbJ8sam3lqdFXu3cU47upxBWM3zvpg+g0F41HyN6tgdJzxak+7Im+crv+MUgrG4ZiYkB8TWZuXVeoxrTy2U+N1rGDsOO2REy+kDIxTnztLPLLG5go1epqoFu42T0QVjE5IOmfgjR8OVzulcp/TsrmPy9g/nEmIDVsPVaVzOFf/SEwpGA11460Uxt89bsleqz/SHq6V8/Nk60Hb3FJucz6k7t3Ciuwcx7tx0AcLJxtwxsFY0kmERYj/PDENmCd6GNuVjYNnlKnwjFI2PDxrVY1OiPXBPdk80cMc52vjlJMnXhAbcxsk1pWNLpq0pPPEBFtFfkDV2NWqWDpPJBNO/f36f1ZWFdYZZPJE7G0N4F+jLfW+y+faklGGN76c+ALc6KdD4pr4MG7S+X/XSEEaTvz/13cDgzOWlpZeLMEaNh0vJ+930BgN/cSryywl+P01C8y4gNsoj3FbR48AGh06aa9MfqL5MfAo4+mNqxFyldJVXPiozsVN3jhTF8XtUQZpc5o0H8d4a+j72pyv97VklhHTtTJ7J1zx9044P9w4t31LT5HTZHqJa9f5+GZQ+tZ1ibBGtTk24xj/qhlRPN7gjT59n4qvzpXAjOPJsyhDv1k+TjfaoK0VGfvpXQZ+++LFS0UQ4oj8n2VgBEZgBMYRMf4By/6KkzVjvDkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atc404'/>",
+     "text":"In dieser Schaltung ist R = 16 kΩ. Die Impedanz zwischen den Anschlüssen A und B beträgt somit<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAB/BAAAAAC/8rQ+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAEoElEQVRo3u3aX2gjRRgA8MkmvZrWlg29k9M74lLRp4PmCCiKkqJFfJC7FPRBEG8VPO7uJTlQfJLmzcIpCUWkfUpRXyU+6cOhCT74dJDovYh3MT0QRMWuXNuk+bfjzGxrZr1LZmY3H1TYD7rJwuz+Mjs7s9/MFmHw+BsFRmAEhnfjPYvb6X0LYTRRldvLTQMYtokaXDUQhLGGHGPbots9EMN4jBn22QzdK4AYyZ8cA52nW8OAMBotx3glT7bNcAHCwC2uzSszm+DGYqYwBWz00Lweeg7aIDEDZtjPr5DtjRvZaEN0Rk9GFR/eu6SDgLR5O8nq8cIK2/vsWX/G95c8HK9oLLpGWBCjjxC7Hr1rcEYboQXy0U0gL9dcztgJm/SmqU28EwYzKtHaMfJhlnC2tM2HNShtb0vECMOc2dHI6eYw3tLm+XhiUHptXiJKww0j00ZljOfJ5UKumBiUziKJKA41euipd2lnNvN2+vIqF2uckTu5viqIdX240aI/YRbjHyPLk64Su7yxIG7hEcadUDJpREk3SYfyfgx7hJEj569FyJf+L+4SYzSMOE1tyvceNEaDDqzdZPHeg8ZoDI3AOIpGr0q3WVCjRsf93w4yB0CjbUQa0EbuYTHh07DnLDHh02hJpaH+jK3zYMZeqOgYlaKoKAsvRt8IV6WN9dUP0EurH6oa+E8zyow74mtl6wjFEHI/SKXWMvpGg7X5g+KiJ/6q1+u3PRi4lqFGX2sISz7Etl6M5gzrg4UzcobtxehOMWMfPWmBGT3HwOb9nvdjMvanmdGErMfdBWaYLwtLejeyRXZfTYhLejZaYdYHm7NwxlfGOWaQXgJl9BGdV9HxqqRg8JMdiXos04GXGnkF481YLPaMvGF/eowZd1MKxiKdapSkDXJAlRr7EutKAyO68TGbJ8sam3lqdFXu3cU47upxBWM3zvpg+g0F41HyN6tgdJzxak+7Im+crv+MUgrG4ZiYkB8TWZuXVeoxrTy2U+N1rGDsOO2REy+kDIxTnztLPLLG5go1epqoFu42T0QVjE5IOmfgjR8OVzulcp/TsrmPy9g/nEmIDVsPVaVzOFf/SEwpGA11460Uxt89bsleqz/SHq6V8/Nk60Hb3FJucz6k7t3Ciuwcx7tx0AcLJxtwxsFY0kmERYj/PDENmCd6GNuVjYNnlKnwjFI2PDxrVY1OiPXBPdk80cMc52vjlJMnXhAbcxsk1pWNLpq0pPPEBFtFfkDV2NWqWDpPJBNO/f36f1ZWFdYZZPJE7G0N4F+jLfW+y+faklGGN76c+ALc6KdD4pr4MG7S+X/XSEEaTvz/13cDgzOWlpZeLMEaNh0vJ+930BgN/cSryywl+P01C8y4gNsoj3FbR48AGh06aa9MfqL5MfAo4+mNqxFyldJVXPiozsVN3jhTF8XtUQZpc5o0H8d4a+j72pyv97VklhHTtTJ7J1zx9044P9w4t31LT5HTZHqJa9f5+GZQ+tZ1ibBGtTk24xj/qhlRPN7gjT59n4qvzpXAjOPJsyhDv1k+TjfaoK0VGfvpXQZ+++LFS0UQ4oj8n2VgBEZgBMYRMf4By/6KkzVjvDkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atc404'/>",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"A/TC405",
      "id":"ATC405",
-     "text":"<p>In dieser Schaltung ist R = 6,4 kΩ. Die Impedanz zwischen den Anschlüssen A und B beträgt somit</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAB/BAAAAAC/8rQ+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAEoElEQVRo3u3aX2gjRRgA8MkmvZrWlg29k9M74lLRp4PmCCiKkqJFfJC7FPRBEG8VPO7uJTlQfJLmzcIpCUWkfUpRXyU+6cOhCT74dJDovYh3MT0QRMWuXNuk+bfjzGxrZr1LZmY3H1TYD7rJwuz+Mjs7s9/MFmHw+BsFRmAEhnfjPYvb6X0LYTRRldvLTQMYtokaXDUQhLGGHGPbots9EMN4jBn22QzdK4AYyZ8cA52nW8OAMBotx3glT7bNcAHCwC2uzSszm+DGYqYwBWz00Lweeg7aIDEDZtjPr5DtjRvZaEN0Rk9GFR/eu6SDgLR5O8nq8cIK2/vsWX/G95c8HK9oLLpGWBCjjxC7Hr1rcEYboQXy0U0gL9dcztgJm/SmqU28EwYzKtHaMfJhlnC2tM2HNShtb0vECMOc2dHI6eYw3tLm+XhiUHptXiJKww0j00ZljOfJ5UKumBiUziKJKA41euipd2lnNvN2+vIqF2uckTu5viqIdX240aI/YRbjHyPLk64Su7yxIG7hEcadUDJpREk3SYfyfgx7hJEj569FyJf+L+4SYzSMOE1tyvceNEaDDqzdZPHeg8ZoDI3AOIpGr0q3WVCjRsf93w4yB0CjbUQa0EbuYTHh07DnLDHh02hJpaH+jK3zYMZeqOgYlaKoKAsvRt8IV6WN9dUP0EurH6oa+E8zyow74mtl6wjFEHI/SKXWMvpGg7X5g+KiJ/6q1+u3PRi4lqFGX2sISz7Etl6M5gzrg4UzcobtxehOMWMfPWmBGT3HwOb9nvdjMvanmdGErMfdBWaYLwtLejeyRXZfTYhLejZaYdYHm7NwxlfGOWaQXgJl9BGdV9HxqqRg8JMdiXos04GXGnkF481YLPaMvGF/eowZd1MKxiKdapSkDXJAlRr7EutKAyO68TGbJ8sam3lqdFXu3cU47upxBWM3zvpg+g0F41HyN6tgdJzxak+7Im+crv+MUgrG4ZiYkB8TWZuXVeoxrTy2U+N1rGDsOO2REy+kDIxTnztLPLLG5go1epqoFu42T0QVjE5IOmfgjR8OVzulcp/TsrmPy9g/nEmIDVsPVaVzOFf/SEwpGA11460Uxt89bsleqz/SHq6V8/Nk60Hb3FJucz6k7t3Ciuwcx7tx0AcLJxtwxsFY0kmERYj/PDENmCd6GNuVjYNnlKnwjFI2PDxrVY1OiPXBPdk80cMc52vjlJMnXhAbcxsk1pWNLpq0pPPEBFtFfkDV2NWqWDpPJBNO/f36f1ZWFdYZZPJE7G0N4F+jLfW+y+faklGGN76c+ALc6KdD4pr4MG7S+X/XSEEaTvz/13cDgzOWlpZeLMEaNh0vJ+930BgN/cSryywl+P01C8y4gNsoj3FbR48AGh06aa9MfqL5MfAo4+mNqxFyldJVXPiozsVN3jhTF8XtUQZpc5o0H8d4a+j72pyv97VklhHTtTJ7J1zx9044P9w4t31LT5HTZHqJa9f5+GZQ+tZ1ibBGtTk24xj/qhlRPN7gjT59n4qvzpXAjOPJsyhDv1k+TjfaoK0VGfvpXQZ+++LFS0UQ4oj8n2VgBEZgBMYRMf4By/6KkzVjvDkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atc404'/>",
+     "text":"In dieser Schaltung ist R = 6,4 kΩ. Die Impedanz zwischen den Anschlüssen A und B beträgt somit<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMUAAAB/BAAAAAC/8rQ+AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAEoElEQVRo3u3aX2gjRRgA8MkmvZrWlg29k9M74lLRp4PmCCiKkqJFfJC7FPRBEG8VPO7uJTlQfJLmzcIpCUWkfUpRXyU+6cOhCT74dJDovYh3MT0QRMWuXNuk+bfjzGxrZr1LZmY3H1TYD7rJwuz+Mjs7s9/MFmHw+BsFRmAEhnfjPYvb6X0LYTRRldvLTQMYtokaXDUQhLGGHGPbots9EMN4jBn22QzdK4AYyZ8cA52nW8OAMBotx3glT7bNcAHCwC2uzSszm+DGYqYwBWz00Lweeg7aIDEDZtjPr5DtjRvZaEN0Rk9GFR/eu6SDgLR5O8nq8cIK2/vsWX/G95c8HK9oLLpGWBCjjxC7Hr1rcEYboQXy0U0gL9dcztgJm/SmqU28EwYzKtHaMfJhlnC2tM2HNShtb0vECMOc2dHI6eYw3tLm+XhiUHptXiJKww0j00ZljOfJ5UKumBiUziKJKA41euipd2lnNvN2+vIqF2uckTu5viqIdX240aI/YRbjHyPLk64Su7yxIG7hEcadUDJpREk3SYfyfgx7hJEj569FyJf+L+4SYzSMOE1tyvceNEaDDqzdZPHeg8ZoDI3AOIpGr0q3WVCjRsf93w4yB0CjbUQa0EbuYTHh07DnLDHh02hJpaH+jK3zYMZeqOgYlaKoKAsvRt8IV6WN9dUP0EurH6oa+E8zyow74mtl6wjFEHI/SKXWMvpGg7X5g+KiJ/6q1+u3PRi4lqFGX2sISz7Etl6M5gzrg4UzcobtxehOMWMfPWmBGT3HwOb9nvdjMvanmdGErMfdBWaYLwtLejeyRXZfTYhLejZaYdYHm7NwxlfGOWaQXgJl9BGdV9HxqqRg8JMdiXos04GXGnkF481YLPaMvGF/eowZd1MKxiKdapSkDXJAlRr7EutKAyO68TGbJ8sam3lqdFXu3cU47upxBWM3zvpg+g0F41HyN6tgdJzxak+7Im+crv+MUgrG4ZiYkB8TWZuXVeoxrTy2U+N1rGDsOO2REy+kDIxTnztLPLLG5go1epqoFu42T0QVjE5IOmfgjR8OVzulcp/TsrmPy9g/nEmIDVsPVaVzOFf/SEwpGA11460Uxt89bsleqz/SHq6V8/Nk60Hb3FJucz6k7t3Ciuwcx7tx0AcLJxtwxsFY0kmERYj/PDENmCd6GNuVjYNnlKnwjFI2PDxrVY1OiPXBPdk80cMc52vjlJMnXhAbcxsk1pWNLpq0pPPEBFtFfkDV2NWqWDpPJBNO/f36f1ZWFdYZZPJE7G0N4F+jLfW+y+faklGGN76c+ALc6KdD4pr4MG7S+X/XSEEaTvz/13cDgzOWlpZeLMEaNh0vJ+930BgN/cSryywl+P01C8y4gNsoj3FbR48AGh06aa9MfqL5MfAo4+mNqxFyldJVXPiozsVN3jhTF8XtUQZpc5o0H8d4a+j72pyv97VklhHTtTJ7J1zx9044P9w4t31LT5HTZHqJa9f5+GZQ+tZ1ibBGtTk24xj/qhlRPN7gjT59n4qvzpXAjOPJsyhDv1k+TjfaoK0VGfvpXQZ+++LFS0UQ4oj8n2VgBEZgBMYRMf4By/6KkzVjvDkAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atc404'/>",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"A/TC406",
      "id":"ATC406",
-     "text":"<p>Für die Anpassung einer 300-Ω-Antenne an eine 75-Ω-Übertragungsleitung kann ein Übertrager mit einem Windungszahlenverhältnis von</p>",
+     "text":"Für die Anpassung einer 300-Ω-Antenne an eine 75-Ω-Übertragungsleitung kann ein Übertrager mit einem Windungszahlenverhältnis von",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"A/TC407",
      "id":"ATC407",
-     "text":"<p>Für die Anpassung einer 50-Ω-Übertragungsleitung an eine 600-Ω-Antenne wird ein Übertrager verwendet. Er sollte ein Windungszahlverhältnis von</p>",
+     "text":"Für die Anpassung einer 50-Ω-Übertragungsleitung an eine 600-Ω-Antenne wird ein Übertrager verwendet. Er sollte ein Windungszahlverhältnis von",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"A/TD102",
      "id":"ATD102",
-     "text":"<p>Eine Reihenschaltung besteht aus drei Kondensatoren von je 0,03 μF. Wie groß ist die Gesamtkapazität dieser Schaltung?</p>",
+     "text":"Eine Reihenschaltung besteht aus drei Kondensatoren von je 0,03 μF. Wie groß ist die Gesamtkapazität dieser Schaltung?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"A/TD103",
      "id":"ATD103",
-     "text":"<p>Wie groß ist die Gesamtkapazität von drei parallel geschalteten Kondensatoren von 20 nF, 0,03 μF und 15000 pF?</p>",
+     "text":"Wie groß ist die Gesamtkapazität von drei parallel geschalteten Kondensatoren von 20 nF, 0,03 μF und 15000 pF?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"A/TD104",
      "id":"ATD104",
-     "text":"<p>Wie groß ist die Gesamtinduktivität von drei in Reihe geschalteten Spulen von 2000 nH, 0,03 mH und 1500 μH?</p>",
+     "text":"Wie groß ist die Gesamtinduktivität von drei in Reihe geschalteten Spulen von 2000 nH, 0,03 mH und 1500 μH?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"A/TD105",
      "id":"ATD105",
-     "text":"<p>Wie groß ist die Gesamtinduktivität von drei parallel geschalteten Spulen von 2000 nH, 0,03 mH und 1500 μH?</p>",
+     "text":"Wie groß ist die Gesamtinduktivität von drei parallel geschalteten Spulen von 2000 nH, 0,03 mH und 1500 μH?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"A/TD106",
      "id":"ATD106",
-     "text":"<p>Wie groß ist die Gesamtkapazität, wenn drei Kondensatoren C<sub>1</sub> = 0,06 nF, C<sub>2</sub> = 40 pF und C<sub>3</sub> = 20 pF in Reihe geschaltet werden?</p>",
+     "text":"Wie groß ist die Gesamtkapazität, wenn drei Kondensatoren C<sub>1</sub> = 0,06 nF, C<sub>2</sub> = 40 pF und C<sub>3</sub> = 20 pF in Reihe geschaltet werden?",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"A/TD110",
      "id":"ATD110",
-     "text":"<p>Was ist bei der Berechnung von Wechselstromkreisen, die Kombinationen von R, L und C enthalten, zu beachten?</p>",
+     "text":"Was ist bei der Berechnung von Wechselstromkreisen, die Kombinationen von R, L und C enthalten, zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"A/TD116",
      "id":"ATD116",
-     "text":"<p>Welche Gesamtkapazität ergibt sich bei einer Parallelschaltung der Kondensatoren 0,1 μF; 150 nF und 50000 pF?</p>",
+     "text":"Welche Gesamtkapazität ergibt sich bei einer Parallelschaltung der Kondensatoren 0,1 μF; 150 nF und 50000 pF?",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"A/TD117",
      "id":"ATD117",
-     "text":"<p>Welche Gesamtkapazität ergibt sich bei einer Reihenschaltung der Kondensatoren 0,1 μF, 150 nF und 50000 pF?</p>",
+     "text":"Welche Gesamtkapazität ergibt sich bei einer Reihenschaltung der Kondensatoren 0,1 μF, 150 nF und 50000 pF?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"A/TD118",
      "id":"ATD118",
-     "text":"<p>Welche Gesamtkapazität hat diese Schaltung, wenn C<sub>1</sub> = 0,01 μF, C<sub>2</sub> = 5 nF und C<sub>3</sub> = 5000 pF betragen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACOBAAAAAB1qeBjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD8UlEQVRo3u3aTWgTQRQH8Jf0K7ZVtgUVqrZp1ZNaC95tkICoBwvas/EgVFRaQfQitOjFg5gqqIceUrypYLUICi2kFS9SNaUoCLZGix9VsUHbpEk3u8/dzddust3dTmaQyP6hbEgmvyazszOTlwCyCtiyLZeG/CvMSH7bXH+aibwMUoIs5DE4eRlaWci+asSOagayyB1GfB9mICfBb6nd6mUeAspReEVbXk7Lx6Gbem/0Ik5jAjxrKMsi147YsyO2MVpFWcaeKqlHasVIzEVbnoXtHrlHHjbSlgU3QGUEk1yItow/zu2X0Kmdxq2I52fB/eADGzkGHPWxkcpCHTCShZkZRr1hGhJZHAlhciTCQE5AE/4xnUvJ5N22bMulIydOdIVM5QCBzLcB5K3Lb7yq7FPkA1fUiViSx2GbO+8ljYEmsqxNyJLc5sJ43mZzrLwzlyOKXN+SS7M1mZcX5vNDWrm2oJ/987n8sCbHdZqN1RTKmhdjSY5B4emgI0fTMn+QtrwEYeU45aItJ2AIsXOI59bQlgXYK21lmya3UpfR5xy4AYF3X+jLX6RrqjyCUfoyXuLqpecZyE2kMk6H0UDmvccw5h0ikpWsKBdmlfLiSuO5aJm/ykpWx5YZyPJYfexlIcvX16B2+qckL8iyw5bZyEKW0pNr0Sh8eunUlZc9GzKP6siDxvKSarM2ny/7nFzjinJcXmMM0pf7pPy87oxWjjtff3NpZPUzfQBbDOCEtLz1ZvqlxRHSyAvS222+kMpZ5UoZyeWJ9MwKA/m39HhDqungJuxv18i/pa7oyO5ZZTkvDhM5kwBGqzWytIAI3J5U3MXIIYy7NHKCG7ieqaIq/Qwvc5ngAJwGclQSXamm/d0426odG+Mgb7pWOIN9AEbFW7lm5U+/98q7br9WFm9llz29UZf9t7r5DA3pW0kuc64tXt39xpVKPldD/y7XxVYhm17doYL7SnuuK22Z3Qq72BzA4RbNXZRkcT71R1/WiS3/A5nv7MalziADuZhPbWYy8SdNW7blVcg69TpKcqWqBnpTkS+qNlEvipDp1EV18qxFUwWlKIuqIuj8nCKfUm2wR0aRVNaEvLJtTfbbsi3/JzKrb0uFe0Hk74UZyNZiy0XLP0fDbOQ5DtZHWMhim7Q67WIhR+HQhKfCtBmBPFmO+Gk9C7mvRl02pCn71llqRiB7UnLSZOYgkDvWKodHsJm23CPtHhNBkTtqPD4I5MEqxI9leDvpNGxGIC/ANUEez8PGv5IkkJPgaJO/aPcZX4ck88YdgLIQ4vcy6jI+7QqicB+NfwZHPD8vO37qlOBpyNKMV0m/N5R83RNgJJvFlktd/gsXeBNrMrXGvgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd118'/>",
+     "text":"Welche Gesamtkapazität hat diese Schaltung, wenn C<sub>1</sub> = 0,01 μF, C<sub>2</sub> = 5 nF und C<sub>3</sub> = 5000 pF betragen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACOBAAAAAB1qeBjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD8UlEQVRo3u3aTWgTQRQH8Jf0K7ZVtgUVqrZp1ZNaC95tkICoBwvas/EgVFRaQfQitOjFg5gqqIceUrypYLUICi2kFS9SNaUoCLZGix9VsUHbpEk3u8/dzddust3dTmaQyP6hbEgmvyazszOTlwCyCtiyLZeG/CvMSH7bXH+aibwMUoIs5DE4eRlaWci+asSOagayyB1GfB9mICfBb6nd6mUeAspReEVbXk7Lx6Gbem/0Ik5jAjxrKMsi147YsyO2MVpFWcaeKqlHasVIzEVbnoXtHrlHHjbSlgU3QGUEk1yItow/zu2X0Kmdxq2I52fB/eADGzkGHPWxkcpCHTCShZkZRr1hGhJZHAlhciTCQE5AE/4xnUvJ5N22bMulIydOdIVM5QCBzLcB5K3Lb7yq7FPkA1fUiViSx2GbO+8ljYEmsqxNyJLc5sJ43mZzrLwzlyOKXN+SS7M1mZcX5vNDWrm2oJ/987n8sCbHdZqN1RTKmhdjSY5B4emgI0fTMn+QtrwEYeU45aItJ2AIsXOI59bQlgXYK21lmya3UpfR5xy4AYF3X+jLX6RrqjyCUfoyXuLqpecZyE2kMk6H0UDmvccw5h0ikpWsKBdmlfLiSuO5aJm/ykpWx5YZyPJYfexlIcvX16B2+qckL8iyw5bZyEKW0pNr0Sh8eunUlZc9GzKP6siDxvKSarM2ny/7nFzjinJcXmMM0pf7pPy87oxWjjtff3NpZPUzfQBbDOCEtLz1ZvqlxRHSyAvS222+kMpZ5UoZyeWJ9MwKA/m39HhDqungJuxv18i/pa7oyO5ZZTkvDhM5kwBGqzWytIAI3J5U3MXIIYy7NHKCG7ieqaIq/Qwvc5ngAJwGclQSXamm/d0426odG+Mgb7pWOIN9AEbFW7lm5U+/98q7br9WFm9llz29UZf9t7r5DA3pW0kuc64tXt39xpVKPldD/y7XxVYhm17doYL7SnuuK22Z3Qq72BzA4RbNXZRkcT71R1/WiS3/A5nv7MalziADuZhPbWYy8SdNW7blVcg69TpKcqWqBnpTkS+qNlEvipDp1EV18qxFUwWlKIuqIuj8nCKfUm2wR0aRVNaEvLJtTfbbsi3/JzKrb0uFe0Hk74UZyNZiy0XLP0fDbOQ5DtZHWMhim7Q67WIhR+HQhKfCtBmBPFmO+Gk9C7mvRl02pCn71llqRiB7UnLSZOYgkDvWKodHsJm23CPtHhNBkTtqPD4I5MEqxI9leDvpNGxGIC/ANUEez8PGv5IkkJPgaJO/aPcZX4ck88YdgLIQ4vcy6jI+7QqicB+NfwZHPD8vO37qlOBpyNKMV0m/N5R83RNgJJvFlktd/gsXeBNrMrXGvgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd118'/>",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"A/TD119",
      "id":"ATD119",
-     "text":"<p>Welche Gesamtkapazität hat diese Schaltung, wenn C<sub>1</sub> = 2 μF, C<sub>2</sub> = 1 μF und C<sub>3</sub> = 1 μF betragen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACOBAAAAAB1qeBjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD8UlEQVRo3u3aTWgTQRQH8Jf0K7ZVtgUVqrZp1ZNaC95tkICoBwvas/EgVFRaQfQitOjFg5gqqIceUrypYLUICi2kFS9SNaUoCLZGix9VsUHbpEk3u8/dzddust3dTmaQyP6hbEgmvyazszOTlwCyCtiyLZeG/CvMSH7bXH+aibwMUoIs5DE4eRlaWci+asSOagayyB1GfB9mICfBb6nd6mUeAspReEVbXk7Lx6Gbem/0Ik5jAjxrKMsi147YsyO2MVpFWcaeKqlHasVIzEVbnoXtHrlHHjbSlgU3QGUEk1yItow/zu2X0Kmdxq2I52fB/eADGzkGHPWxkcpCHTCShZkZRr1hGhJZHAlhciTCQE5AE/4xnUvJ5N22bMulIydOdIVM5QCBzLcB5K3Lb7yq7FPkA1fUiViSx2GbO+8ljYEmsqxNyJLc5sJ43mZzrLwzlyOKXN+SS7M1mZcX5vNDWrm2oJ/987n8sCbHdZqN1RTKmhdjSY5B4emgI0fTMn+QtrwEYeU45aItJ2AIsXOI59bQlgXYK21lmya3UpfR5xy4AYF3X+jLX6RrqjyCUfoyXuLqpecZyE2kMk6H0UDmvccw5h0ikpWsKBdmlfLiSuO5aJm/ykpWx5YZyPJYfexlIcvX16B2+qckL8iyw5bZyEKW0pNr0Sh8eunUlZc9GzKP6siDxvKSarM2ny/7nFzjinJcXmMM0pf7pPy87oxWjjtff3NpZPUzfQBbDOCEtLz1ZvqlxRHSyAvS222+kMpZ5UoZyeWJ9MwKA/m39HhDqungJuxv18i/pa7oyO5ZZTkvDhM5kwBGqzWytIAI3J5U3MXIIYy7NHKCG7ieqaIq/Qwvc5ngAJwGclQSXamm/d0426odG+Mgb7pWOIN9AEbFW7lm5U+/98q7br9WFm9llz29UZf9t7r5DA3pW0kuc64tXt39xpVKPldD/y7XxVYhm17doYL7SnuuK22Z3Qq72BzA4RbNXZRkcT71R1/WiS3/A5nv7MalziADuZhPbWYy8SdNW7blVcg69TpKcqWqBnpTkS+qNlEvipDp1EV18qxFUwWlKIuqIuj8nCKfUm2wR0aRVNaEvLJtTfbbsi3/JzKrb0uFe0Hk74UZyNZiy0XLP0fDbOQ5DtZHWMhim7Q67WIhR+HQhKfCtBmBPFmO+Gk9C7mvRl02pCn71llqRiB7UnLSZOYgkDvWKodHsJm23CPtHhNBkTtqPD4I5MEqxI9leDvpNGxGIC/ANUEez8PGv5IkkJPgaJO/aPcZX4ck88YdgLIQ4vcy6jI+7QqicB+NfwZHPD8vO37qlOBpyNKMV0m/N5R83RNgJJvFlktd/gsXeBNrMrXGvgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd118'/>",
+     "text":"Welche Gesamtkapazität hat diese Schaltung, wenn C<sub>1</sub> = 2 μF, C<sub>2</sub> = 1 μF und C<sub>3</sub> = 1 μF betragen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALIAAACOBAAAAAB1qeBjAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD8UlEQVRo3u3aTWgTQRQH8Jf0K7ZVtgUVqrZp1ZNaC95tkICoBwvas/EgVFRaQfQitOjFg5gqqIceUrypYLUICi2kFS9SNaUoCLZGix9VsUHbpEk3u8/dzddust3dTmaQyP6hbEgmvyazszOTlwCyCtiyLZeG/CvMSH7bXH+aibwMUoIs5DE4eRlaWci+asSOagayyB1GfB9mICfBb6nd6mUeAspReEVbXk7Lx6Gbem/0Ik5jAjxrKMsi147YsyO2MVpFWcaeKqlHasVIzEVbnoXtHrlHHjbSlgU3QGUEk1yItow/zu2X0Kmdxq2I52fB/eADGzkGHPWxkcpCHTCShZkZRr1hGhJZHAlhciTCQE5AE/4xnUvJ5N22bMulIydOdIVM5QCBzLcB5K3Lb7yq7FPkA1fUiViSx2GbO+8ljYEmsqxNyJLc5sJ43mZzrLwzlyOKXN+SS7M1mZcX5vNDWrm2oJ/987n8sCbHdZqN1RTKmhdjSY5B4emgI0fTMn+QtrwEYeU45aItJ2AIsXOI59bQlgXYK21lmya3UpfR5xy4AYF3X+jLX6RrqjyCUfoyXuLqpecZyE2kMk6H0UDmvccw5h0ikpWsKBdmlfLiSuO5aJm/ykpWx5YZyPJYfexlIcvX16B2+qckL8iyw5bZyEKW0pNr0Sh8eunUlZc9GzKP6siDxvKSarM2ny/7nFzjinJcXmMM0pf7pPy87oxWjjtff3NpZPUzfQBbDOCEtLz1ZvqlxRHSyAvS222+kMpZ5UoZyeWJ9MwKA/m39HhDqungJuxv18i/pa7oyO5ZZTkvDhM5kwBGqzWytIAI3J5U3MXIIYy7NHKCG7ieqaIq/Qwvc5ngAJwGclQSXamm/d0426odG+Mgb7pWOIN9AEbFW7lm5U+/98q7br9WFm9llz29UZf9t7r5DA3pW0kuc64tXt39xpVKPldD/y7XxVYhm17doYL7SnuuK22Z3Qq72BzA4RbNXZRkcT71R1/WiS3/A5nv7MalziADuZhPbWYy8SdNW7blVcg69TpKcqWqBnpTkS+qNlEvipDp1EV18qxFUwWlKIuqIuj8nCKfUm2wR0aRVNaEvLJtTfbbsi3/JzKrb0uFe0Hk74UZyNZiy0XLP0fDbOQ5DtZHWMhim7Q67WIhR+HQhKfCtBmBPFmO+Gk9C7mvRl02pCn71llqRiB7UnLSZOYgkDvWKodHsJm23CPtHhNBkTtqPD4I5MEqxI9leDvpNGxGIC/ANUEez8PGv5IkkJPgaJO/aPcZX4ck88YdgLIQ4vcy6jI+7QqicB+NfwZHPD8vO37qlOBpyNKMV0m/N5R83RNgJJvFlktd/gsXeBNrMrXGvgAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd118'/>",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"A/TD120",
      "id":"ATD120",
-     "text":"<p>Wie groß ist die Gesamtkapazität dieser Schaltung, wenn C<sub>1</sub> = 0,1 nF, C<sub>2</sub> = 1,5 nF, C<sub>3</sub> = 220 pF und die Eigenkapazität der Spule 1 pF beträgt?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARUAAABkBAAAAABIfBbvAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE30lEQVRo3u3aXWzbRBwA8H+SfjENyRkgMca6qGOCTgIyGEIaSCnbQOOpVrUyDSHaByQQLxnioy+gwgNSJSYS3icSeAIkSCUeEXMH7ImhlLVCAlGyjk2dkJhR03w4cXycXTe+OM6d27W3q+T/g2s5/9z9cr6P5mJAwsR/cLsFgSWwbLXli49YGfWpHB/LHMAkI2UIuvlYhgB66RkVABjbHMvJ47Q4hiuCw9SUOM6IUDOOP+fTIsHWR9inJXZglBIjZlHP0jJGrXahZoz4tqRoeTow+8sis7+UfVsmqYnvAwzTLTXcLCoXSw12I0ZcgI/pCZtlQXKCZamE6M2yeZZxpkULLIElsNAtRlwcyyeQEsUyDydYFG6W+HtMCi+L1sem8LIsJ8SxZDMCWQoCWRRxLLNj4lhKd4pj0cMFYSwofZBRD0eLBvcwMdzWxiHIi2L5MfQii8LNEmN89eFo0e5gU3hZriZul0X/ruBK4702ptbOajEI51yWVdz1531aboyeLrQnlCPN08bbL3zqZdGnzJBOmMez+NoZAHD1D3ttnKFuyDkWLQZeWwFEu7wBEM57WCrEzlGfuaMw+KcMrR/LXhtnO1mWXp2YmHgTzOM7uH3T8IAECplweQDHITCPA0msgshR6GdblkMFVL6rFV3aSbfMEkXsQ4Z0H1qCBJkwQyTgF6YjeUPu9bBojztxBL+tB38bct1tPZRfh0WDDEKnMhSLjNf9+bMeFldkd3hUlt5doFmuEZuVY6jUPqBuTDmRwwNl2KMQD0vattQU4mLN2v+a9beZvBJmJBhScn2WbIK4qEu4F/m1FG3LW0+q3gmGvcl4/Qny81qWm07gN8/g/lv/GrcEabnQcx6t11LpuN1orL5gxGGny1LdNdCMQYQW8YxUAmVcIiwNKYdolsaCEyoesXmETuau7JhuVvXPV07gtog/itDcu/XIxR6XxTWmiyEFXQXlELlZWOtCVMvShBMpVMXjyJCG5x5ZbFrmiLGaxP8N4XGUvbfxWoVhqUHPl/Fu9M00YSn225Z/Fxa8LO75ZQ+ax11CXdy7ltA+v+gxPLd/vsdl0cyb8xjsN/8cROasCfBwa9+dmbSrjEajCtOCSzgsmTO3nOxgwfNu3OwzsTGXxYq6M2frR6MPqq2WbN6pMudhuWa2/TOhY+YfXHxVAngKN7hzS6355YOutfkFyaub5Bd7vS355kXjL6v+dovVA9UOfQatdDVP/3jldXw8M9masOzUrH94SkGN8zo5E3la7PoJy3QKsYOwWFGN/FLoZLGi3F3dgKW4bwOWK9AyfbRbdIiR+zoUy++Kc173M8m5LZ9Fo/dTLejbXRl/lpaQj6jrthjWNE6zoJbX/Voq0gEmxm1pi2X6r2F+LX6+N/KylEKnWRRuFvllJoWXRdvIONoiS7EfsYOTxV4bhbBk84gdnCxpgSwi3aMVgfquzqqGowWND6rCWKpwNxPDbW38DZLCWHw8W8HPwv59OrAEFjEtMvOntSJrr3mzLPMQVug16XF4movFiAHspZaEfgUI0xvGv+XcJUr8BABdl6hhPnf4EjXjB98WDrENLQb9Bpj3qI+a8bN5j87RS/nen4URxhCwFuq/rd2+WwjfzzWXBx5icUf2Z/hY0E1mhqHeEmWbPpMfWAJLYNkWlv8B7DgOX9d/n6IAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atd120'/>",
+     "text":"Wie groß ist die Gesamtkapazität dieser Schaltung, wenn C<sub>1</sub> = 0,1 nF, C<sub>2</sub> = 1,5 nF, C<sub>3</sub> = 220 pF und die Eigenkapazität der Spule 1 pF beträgt?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARUAAABkBAAAAABIfBbvAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE30lEQVRo3u3aXWzbRBwA8H+SfjENyRkgMca6qGOCTgIyGEIaSCnbQOOpVrUyDSHaByQQLxnioy+gwgNSJSYS3icSeAIkSCUeEXMH7ImhlLVCAlGyjk2dkJhR03w4cXycXTe+OM6d27W3q+T/g2s5/9z9cr6P5mJAwsR/cLsFgSWwbLXli49YGfWpHB/LHMAkI2UIuvlYhgB66RkVABjbHMvJ47Q4hiuCw9SUOM6IUDOOP+fTIsHWR9inJXZglBIjZlHP0jJGrXahZoz4tqRoeTow+8sis7+UfVsmqYnvAwzTLTXcLCoXSw12I0ZcgI/pCZtlQXKCZamE6M2yeZZxpkULLIElsNAtRlwcyyeQEsUyDydYFG6W+HtMCi+L1sem8LIsJ8SxZDMCWQoCWRRxLLNj4lhKd4pj0cMFYSwofZBRD0eLBvcwMdzWxiHIi2L5MfQii8LNEmN89eFo0e5gU3hZriZul0X/ruBK4702ptbOajEI51yWVdz1531aboyeLrQnlCPN08bbL3zqZdGnzJBOmMez+NoZAHD1D3ttnKFuyDkWLQZeWwFEu7wBEM57WCrEzlGfuaMw+KcMrR/LXhtnO1mWXp2YmHgTzOM7uH3T8IAECplweQDHITCPA0msgshR6GdblkMFVL6rFV3aSbfMEkXsQ4Z0H1qCBJkwQyTgF6YjeUPu9bBojztxBL+tB38bct1tPZRfh0WDDEKnMhSLjNf9+bMeFldkd3hUlt5doFmuEZuVY6jUPqBuTDmRwwNl2KMQD0vattQU4mLN2v+a9beZvBJmJBhScn2WbIK4qEu4F/m1FG3LW0+q3gmGvcl4/Qny81qWm07gN8/g/lv/GrcEabnQcx6t11LpuN1orL5gxGGny1LdNdCMQYQW8YxUAmVcIiwNKYdolsaCEyoesXmETuau7JhuVvXPV07gtog/itDcu/XIxR6XxTWmiyEFXQXlELlZWOtCVMvShBMpVMXjyJCG5x5ZbFrmiLGaxP8N4XGUvbfxWoVhqUHPl/Fu9M00YSn225Z/Fxa8LO75ZQ+ax11CXdy7ltA+v+gxPLd/vsdl0cyb8xjsN/8cROasCfBwa9+dmbSrjEajCtOCSzgsmTO3nOxgwfNu3OwzsTGXxYq6M2frR6MPqq2WbN6pMudhuWa2/TOhY+YfXHxVAngKN7hzS6355YOutfkFyaub5Bd7vS355kXjL6v+dovVA9UOfQatdDVP/3jldXw8M9masOzUrH94SkGN8zo5E3la7PoJy3QKsYOwWFGN/FLoZLGi3F3dgKW4bwOWK9AyfbRbdIiR+zoUy++Kc173M8m5LZ9Fo/dTLejbXRl/lpaQj6jrthjWNE6zoJbX/Voq0gEmxm1pi2X6r2F+LX6+N/KylEKnWRRuFvllJoWXRdvIONoiS7EfsYOTxV4bhbBk84gdnCxpgSwi3aMVgfquzqqGowWND6rCWKpwNxPDbW38DZLCWHw8W8HPwv59OrAEFjEtMvOntSJrr3mzLPMQVug16XF4movFiAHspZaEfgUI0xvGv+XcJUr8BABdl6hhPnf4EjXjB98WDrENLQb9Bpj3qI+a8bN5j87RS/nen4URxhCwFuq/rd2+WwjfzzWXBx5icUf2Z/hY0E1mhqHeEmWbPpMfWAJLYNkWlv8B7DgOX9d/n6IAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atd120'/>",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"A/TH419",
      "id":"ATH419",
-     "text":"<p>Für welche Antennenimpedanz ist der folgende Balun-Transformator aus zweimal 8 Windungen ausgelegt?</p><img src='data:image/png;base64,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' alt='Ath419'/>",
+     "text":"Für welche Antennenimpedanz ist der folgende Balun-Transformator aus zweimal 8 Windungen ausgelegt?<br><img src='data:image/png;base64,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' alt='Ath419'/>",
      "answer":[
     {
       "correct":true,
@@ -1192,7 +1192,7 @@
     {
      "name":"A/TH420",
      "id":"ATH420",
-     "text":"<p>Folgender Balun-Transformator aus zweimal 8 Windungen ist gegeben. Von A nach B wird ein Faltdipol mit 200 Ohm Impedanz angeschlossen. Welche Impedanz misst man zwischen A und M?</p><img src='data:image/png;base64,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' alt='Ath420'/>",
+     "text":"Folgender Balun-Transformator aus zweimal 8 Windungen ist gegeben. Von A nach B wird ein Faltdipol mit 200 Ohm Impedanz angeschlossen. Welche Impedanz misst man zwischen A und M?<br><img src='data:image/png;base64,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' alt='Ath420'/>",
      "answer":[
     {
       "correct":true,

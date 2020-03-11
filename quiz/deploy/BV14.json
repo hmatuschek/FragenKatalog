@@ -4,7 +4,7 @@
     {
      "name":"V/VC132",
      "id":"VVC132",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"V/VC133",
      "id":"VVC133",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"V/VC134",
      "id":"VVC134",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"V/VC135",
      "id":"VVC135",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"V/VC136",
      "id":"VVC136",
-     "text":"<p>Aus welcher Vorschrift ergibt sich die Pflicht, die Einhaltung der Personenschutzgrenzwerte zu dokumentieren?</p>",
+     "text":"Aus welcher Vorschrift ergibt sich die Pflicht, die Einhaltung der Personenschutzgrenzwerte zu dokumentieren?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"V/VC137",
      "id":"VVC137",
-     "text":"<p>Kann der Funkamateur eine Standortbescheinigung erhalten?</p>",
+     "text":"Kann der Funkamateur eine Standortbescheinigung erhalten?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"V/VG101",
      "id":"VVG101",
-     "text":"<p>Was hat der Funkamateur zu veranlassen, wenn bei ihm der Empfang auf Grund mangelnder Empfängerstörfestigkeit stark beeinträchtigt wird?</p>",
+     "text":"Was hat der Funkamateur zu veranlassen, wenn bei ihm der Empfang auf Grund mangelnder Empfängerstörfestigkeit stark beeinträchtigt wird?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"V/VG102",
      "id":"VVG102",
-     "text":"<p>Darf der Funkamateur von den grundlegenden Anforderungen zur Störfestigkeit im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Geräten abweichen?</p>",
+     "text":"Darf der Funkamateur von den grundlegenden Anforderungen zur Störfestigkeit im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Geräten abweichen?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"V/VG105",
      "id":"VVG105",
-     "text":"<p>Eine Zusatzeinrichtung eines Funkamateurs verursacht eine elektromagnetische Störung im Sinne des EMVG bei einer Betriebsfunkanlage in der Nachbarschaft. Welche Maßnahmen sind entsprechend den Regelungen des EMVG zu treffen?</p>",
+     "text":"Eine Zusatzeinrichtung eines Funkamateurs verursacht eine elektromagnetische Störung im Sinne des EMVG bei einer Betriebsfunkanlage in der Nachbarschaft. Welche Maßnahmen sind entsprechend den Regelungen des EMVG zu treffen?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"V/VG108",
      "id":"VVG108",
-     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der UKW-Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass die Amateurfunkstelle und die Rundfunkempfangsanlage vorschriftsmäßig betrieben werden. Das gestörte Rundfunkgerät hält die nach Norm empfohlene Störfestigkeit ein, der Funkamateur erzeugt jedoch am Ort des gestörten Empfängers eine höhere Feldstärke. Womit muss der Funkamateur rechnen, wenn er seinen Funkbetrieb uneingeschränkt fortsetzt?</p>",
+     "text":"Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der UKW-Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass die Amateurfunkstelle und die Rundfunkempfangsanlage vorschriftsmäßig betrieben werden. Das gestörte Rundfunkgerät hält die nach Norm empfohlene Störfestigkeit ein, der Funkamateur erzeugt jedoch am Ort des gestörten Empfängers eine höhere Feldstärke. Womit muss der Funkamateur rechnen, wenn er seinen Funkbetrieb uneingeschränkt fortsetzt?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"V/VG109",
      "id":"VVG109",
-     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der Rundfunkempfänger eines Nachbarn auf 100,6 MHz durch Direkteinstrahlung gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort des gestörten Empfängers eine Feldstärke erzeugt, die den in der Norm empfohlenen Grenzwert für die Störfestigkeit von Geräten nicht erreicht. Was hat der Funkamateur zu tun?</p>",
+     "text":"Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der Rundfunkempfänger eines Nachbarn auf 100,6 MHz durch Direkteinstrahlung gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort des gestörten Empfängers eine Feldstärke erzeugt, die den in der Norm empfohlenen Grenzwert für die Störfestigkeit von Geräten nicht erreicht. Was hat der Funkamateur zu tun?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"V/VG110",
      "id":"VVG110",
-     "text":"<p>Durch den Betrieb einer Amateurfunkstelle auf 144,250 MHz wird der Fernsehempfang eines Nachbarn im Sonderkanal S6 gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort der gestörten Empfangsanlage eine Feldstärke erzeugt, die den, in der Norm empfohlenen Grenzwert für die Störfestigkeit von Kabelverteilanlagen, nicht erreicht. Was hat der Funkamateur zu tun?</p>",
+     "text":"Durch den Betrieb einer Amateurfunkstelle auf 144,250 MHz wird der Fernsehempfang eines Nachbarn im Sonderkanal S6 gestört. Eine Überprüfung ergibt, dass der Funkamateur am Ort der gestörten Empfangsanlage eine Feldstärke erzeugt, die den, in der Norm empfohlenen Grenzwert für die Störfestigkeit von Kabelverteilanlagen, nicht erreicht. Was hat der Funkamateur zu tun?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"V/VG111",
      "id":"VVG111",
-     "text":"<p>Durch den Betrieb einer Amateurfunkstelle wird der Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Rundfunkgerät, wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was hat der Funkamateur in diesem Fall zu tun?</p>",
+     "text":"Durch den Betrieb einer Amateurfunkstelle wird der Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Rundfunkgerät, wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was hat der Funkamateur in diesem Fall zu tun?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"V/VG112",
      "id":"VVG112",
-     "text":"<p>Durch den Betrieb einer Amateurfunkstelle wird der Fernsehempfang im TV Kanal 10 eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Fernsehgerät wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was kann der Funkamateur erwarten, wenn er den störenden Betrieb fortsetzt?</p>",
+     "text":"Durch den Betrieb einer Amateurfunkstelle wird der Fernsehempfang im TV Kanal 10 eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Fernsehgerät wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was kann der Funkamateur erwarten, wenn er den störenden Betrieb fortsetzt?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"V/VI101",
      "id":"VVI101",
-     "text":"<p>Wer ist für die Sicherstellung der elektromagnetischen Umweltverträglichkeit verantwortlich?</p>",
+     "text":"Wer ist für die Sicherstellung der elektromagnetischen Umweltverträglichkeit verantwortlich?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"V/VI102",
      "id":"VVI102",
-     "text":"<p>Was müssen Zulassungsinhaber in Bezug auf den Personenschutz einhalten?</p>",
+     "text":"Was müssen Zulassungsinhaber in Bezug auf den Personenschutz einhalten?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"V/VI103",
      "id":"VVI103",
-     "text":"<p>Was bedeutet die Abkürzung EMVU?</p>",
+     "text":"Was bedeutet die Abkürzung EMVU?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"V/VI104",
      "id":"VVI104",
-     "text":"<p>In welchem Regelungswerk ist der Schutz von Personen bei der Einwirkung elektromagnetischer Felder auch ausführlich für den Amateurfunk geregelt?</p>",
+     "text":"In welchem Regelungswerk ist der Schutz von Personen bei der Einwirkung elektromagnetischer Felder auch ausführlich für den Amateurfunk geregelt?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"V/VI105",
      "id":"VVI105",
-     "text":"<p>In welcher gesetzlichen Regelung ist das Verfahren zum Schutz von Personen in elektromagnetischen Feldern ortsfester Amateurfunkstellen festgelegt?</p>",
+     "text":"In welcher gesetzlichen Regelung ist das Verfahren zum Schutz von Personen in elektromagnetischen Feldern ortsfester Amateurfunkstellen festgelegt?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"V/VI106",
      "id":"VVI106",
-     "text":"<p>Die Feldstärkegrenzwerte für den Schutz von Personen in elektromagnetischen Feldern sind von der Frequenz abhängig, weil</p>",
+     "text":"Die Feldstärkegrenzwerte für den Schutz von Personen in elektromagnetischen Feldern sind von der Frequenz abhängig, weil",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"V/VI107",
      "id":"VVI107",
-     "text":"<p>Was versteht man nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV) unter dem \"Anzeigeverfahren ortsfester Amateurfunkanlagen\"?</p>",
+     "text":"Was versteht man nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV) unter dem \"Anzeigeverfahren ortsfester Amateurfunkanlagen\"?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"V/VI108",
      "id":"VVI108",
-     "text":"<p>Welchen Status hat im Rahmen der EMVU die Anzeige einer ortsfesten Amateurfunkanlage?</p>",
+     "text":"Welchen Status hat im Rahmen der EMVU die Anzeige einer ortsfesten Amateurfunkanlage?",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"V/VI109",
      "id":"VVI109",
-     "text":"<p>Für welche Amateurfunkstellen muss der Schutz von Personen in elektromagnetischen Feldern vom Funkamateur dokumentiert werden?</p>",
+     "text":"Für welche Amateurfunkstellen muss der Schutz von Personen in elektromagnetischen Feldern vom Funkamateur dokumentiert werden?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"V/VI110",
      "id":"VVI110",
-     "text":"<p>Kann die Bundesnetzagentur für den Betrieb einer ortsfesten Amateurfunkstelle eine Standortbescheinigung fordern?</p>",
+     "text":"Kann die Bundesnetzagentur für den Betrieb einer ortsfesten Amateurfunkstelle eine Standortbescheinigung fordern?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"V/VI112",
      "id":"VVI112",
-     "text":"<p>Welche physikalischen Größen werden für die Angabe der Konfiguration im Rahmen des Anzeigeverfahrens benötigt?</p>",
+     "text":"Welche physikalischen Größen werden für die Angabe der Konfiguration im Rahmen des Anzeigeverfahrens benötigt?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"V/VI116",
      "id":"VVI116",
-     "text":"<p>Wo und wann ist die Anzeige einer ortsfesten Amateurfunkstelle mit einer EIRP von mehr als 10 Watt einzureichen?</p>",
+     "text":"Wo und wann ist die Anzeige einer ortsfesten Amateurfunkstelle mit einer EIRP von mehr als 10 Watt einzureichen?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"V/VI117",
      "id":"VVI117",
-     "text":"<p>Was hat ein Funkamateur zu beachten, nachdem er seine ortsfeste Amateurfunkstelle bei der Bundesnetzagentur gemäß BEMFV angezeigt hat?</p>",
+     "text":"Was hat ein Funkamateur zu beachten, nachdem er seine ortsfeste Amateurfunkstelle bei der Bundesnetzagentur gemäß BEMFV angezeigt hat?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"V/VI118",
      "id":"VVI118",
-     "text":"<p>Wo und wann hat der Funkamateur die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen gemäß BEMFV einzureichen?</p>",
+     "text":"Wo und wann hat der Funkamateur die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen gemäß BEMFV einzureichen?",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"V/VI119",
      "id":"VVI119",
-     "text":"<p>Welche Aussendungen von Amateurfunkanlagen müssen bei der Ermittlung des standortbezogenen Sicherheitsabstandes berücksichtigt werden?</p>",
+     "text":"Welche Aussendungen von Amateurfunkanlagen müssen bei der Ermittlung des standortbezogenen Sicherheitsabstandes berücksichtigt werden?",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"V/VI120",
      "id":"VVI120",
-     "text":"<p>Für die Berechnung des Sicherheitsabstandes wird in der Regel der Antennengewinnfaktor (G) verwendet. Der Antennengewinnfaktor G ist</p>",
+     "text":"Für die Berechnung des Sicherheitsabstandes wird in der Regel der Antennengewinnfaktor (G) verwendet. Der Antennengewinnfaktor G ist",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"V/VI121",
      "id":"VVI121",
-     "text":"<p>Wer muss seine Amateurfunkstelle bei der Bundesnetzagentur anzeigen?</p>",
+     "text":"Wer muss seine Amateurfunkstelle bei der Bundesnetzagentur anzeigen?",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"V/VJ101",
      "id":"VVJ101",
-     "text":"<p>Nach welchen Vorschriften müssen Außenantennenanlagen errichtet werden?</p>",
+     "text":"Nach welchen Vorschriften müssen Außenantennenanlagen errichtet werden?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"V/VJ102",
      "id":"VVJ102",
-     "text":"<p>Welche Vorschriften bezüglich Blitzschutz gelten für Amateurfunkantennenanlagen?</p>",
+     "text":"Welche Vorschriften bezüglich Blitzschutz gelten für Amateurfunkantennenanlagen?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"V/VJ103",
      "id":"VVJ103",
-     "text":"<p>Wie ist die Stromversorgung von Eigenbaugeräten elektrotechnisch sicher aufzubauen?</p>",
+     "text":"Wie ist die Stromversorgung von Eigenbaugeräten elektrotechnisch sicher aufzubauen?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"V/VK101",
      "id":"VVK101",
-     "text":"<p>Wer haftet für Schäden, die durch die Antennenanlage einer Amateurfunkstelle entstehen können?</p>",
+     "text":"Wer haftet für Schäden, die durch die Antennenanlage einer Amateurfunkstelle entstehen können?",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"V/VK105",
      "id":"VVK105",
-     "text":"<p>Darf eine Amateurfunkstelle auch an Bord eines Luftfahrzeuges betrieben werden?</p>",
+     "text":"Darf eine Amateurfunkstelle auch an Bord eines Luftfahrzeuges betrieben werden?",
      "answer":[
     {
       "correct":true,

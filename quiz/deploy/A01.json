@@ -4,7 +4,7 @@
     {
      "name":"A/TA101",
      "id":"ATA101",
-     "text":"<p>Welche Einheit wird für die elektrische Feldstärke verwendet?</p>",
+     "text":"Welche Einheit wird für die elektrische Feldstärke verwendet?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"A/TA102",
      "id":"ATA102",
-     "text":"<p>Welche Einheit wird für die magnetische Feldstärke verwendet?</p>",
+     "text":"Welche Einheit wird für die magnetische Feldstärke verwendet?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"A/TA103",
      "id":"ATA103",
-     "text":"<p>In welcher Einheit wird die Impedanz angegeben?</p>",
+     "text":"In welcher Einheit wird die Impedanz angegeben?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"A/TA104",
      "id":"ATA104",
-     "text":"<p>Die Einheit \"Siemens\" wird verwendet für die Angabe</p>",
+     "text":"Die Einheit \"Siemens\" wird verwendet für die Angabe",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"A/TA105",
      "id":"ATA105",
-     "text":"<p>Wenn [s] für Sekunde steht, gilt für die Einheit der Frequenz</p>",
+     "text":"Wenn [s] für Sekunde steht, gilt für die Einheit der Frequenz",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"A/TA106",
      "id":"ATA106",
-     "text":"<p>Welche der nachfolgenden Antworten enthältnurBasiseinheiten nach dem internationalen Einheitensystem?</p>",
+     "text":"Welche der nachfolgenden Antworten enthältnurBasiseinheiten nach dem internationalen Einheitensystem?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"A/TA107",
      "id":"ATA107",
-     "text":"<p>Einem Spannungsverhältnis von 15 entsprechen</p>",
+     "text":"Einem Spannungsverhältnis von 15 entsprechen",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"A/TA108",
      "id":"ATA108",
-     "text":"<p>Einer Leistungsverstärkung von 40 entsprechen</p>",
+     "text":"Einer Leistungsverstärkung von 40 entsprechen",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"A/TA109",
      "id":"ATA109",
-     "text":"<p>Wie groß ist der Unterschied zwischen S4 und S7 in dB?</p>",
+     "text":"Wie groß ist der Unterschied zwischen S4 und S7 in dB?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"A/TA110",
      "id":"ATA110",
-     "text":"<p>Der Pegelwert 120 dBμV/m entspricht einer elektrischen Feldstärke von</p>",
+     "text":"Der Pegelwert 120 dBμV/m entspricht einer elektrischen Feldstärke von",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"A/TA111",
      "id":"ATA111",
-     "text":"<p>100 mW entspricht</p>",
+     "text":"100 mW entspricht",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"A/TA112",
      "id":"ATA112",
-     "text":"<p>Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung von 10 dB angeschlossen. Wie groß ist der Ausgangspegel der Endstufe?</p>",
+     "text":"Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung von 10 dB angeschlossen. Wie groß ist der Ausgangspegel der Endstufe?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"A/TA113",
      "id":"ATA113",
-     "text":"<p>Der Ausgangspegel eines Senders beträgt 20 dBW. Dies entspricht einer Ausgangsleistung von</p>",
+     "text":"Der Ausgangspegel eines Senders beträgt 20 dBW. Dies entspricht einer Ausgangsleistung von",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"A/TA117",
      "id":"ATA117",
-     "text":"<p>Eine Genauigkeit von 1 ppm entspricht</p>",
+     "text":"Eine Genauigkeit von 1 ppm entspricht",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"A/TA118",
      "id":"ATA118",
-     "text":"<p>Die digitale Anzeige eines Senders hat eine Anzeigegenauigkeit von 10 ppm. Sie zeigt die Sendefrequenz von 14,25 MHz an. In welchen Grenzen kann sich die tatsächliche Frequenz bewegen?</p>",
+     "text":"Die digitale Anzeige eines Senders hat eine Anzeigegenauigkeit von 10 ppm. Sie zeigt die Sendefrequenz von 14,25 MHz an. In welchen Grenzen kann sich die tatsächliche Frequenz bewegen?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"A/TB920",
      "id":"ATB920",
-     "text":"<p>Eine HF-Ausgangleistung von 100 W wird in eine angepasste Übertragungsleitung eingespeist. Am antennenseitigen Ende der Leitung beträgt die Leistung 50 W bei einem Stehwellenverhältnis von 1. Wie hoch ist die Leitungsdämpfung?</p>",
+     "text":"Eine HF-Ausgangleistung von 100 W wird in eine angepasste Übertragungsleitung eingespeist. Am antennenseitigen Ende der Leitung beträgt die Leistung 50 W bei einem Stehwellenverhältnis von 1. Wie hoch ist die Leitungsdämpfung?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"A/TD416",
      "id":"ATD416",
-     "text":"<p>Ein NF-Verstärker hebt die Eingangsspannung von 1 mV auf 4 mV Ausgangsspannung an. Eingangs- und Ausgangswiderstand sind gleich. Wie groß ist die Spannungsverstärkung des Verstärkers?</p>",
+     "text":"Ein NF-Verstärker hebt die Eingangsspannung von 1 mV auf 4 mV Ausgangsspannung an. Eingangs- und Ausgangswiderstand sind gleich. Wie groß ist die Spannungsverstärkung des Verstärkers?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"A/TD417",
      "id":"ATD417",
-     "text":"<p>Ein Leistungsverstärker hebt die Eingangsleistung von 2,5 Watt auf 38 Watt Ausgangsleistung an. Dem entspricht eine Leistungsverstärkung von</p>",
+     "text":"Ein Leistungsverstärker hebt die Eingangsleistung von 2,5 Watt auf 38 Watt Ausgangsleistung an. Dem entspricht eine Leistungsverstärkung von",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"A/TD418",
      "id":"ATD418",
-     "text":"<p>Ein HF-Leistungsverstärker hat eine Verstärkung von 16 dB. Welche HF-Ausgangsleistung ist zu erwarten, wenn der Verstärker mit 1 W HF-Eingangsleistung angesteuert wird?</p>",
+     "text":"Ein HF-Leistungsverstärker hat eine Verstärkung von 16 dB. Welche HF-Ausgangsleistung ist zu erwarten, wenn der Verstärker mit 1 W HF-Eingangsleistung angesteuert wird?",
      "answer":[
     {
       "correct":true,

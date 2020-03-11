@@ -4,7 +4,7 @@
     {
      "name":"B/BB301",
      "id":"BBB301",
-     "text":"<p>Was versteht man unter dem RST-Rapport? Es ist eine Kurzformel,</p>",
+     "text":"Was versteht man unter dem RST-Rapport? Es ist eine Kurzformel,",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BB302",
      "id":"BBB302",
-     "text":"<p>Was bedeuten die Buchstaben RST, mit denen Sie die Sendung Ihrer Gegenstation beurteilen können?</p>",
+     "text":"Was bedeuten die Buchstaben RST, mit denen Sie die Sendung Ihrer Gegenstation beurteilen können?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BB303",
      "id":"BBB303",
-     "text":"<p>Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 100 Watt auf 400 Watt erhöht?</p>",
+     "text":"Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 100 Watt auf 400 Watt erhöht?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BB304",
      "id":"BBB304",
-     "text":"<p>Wie groß ist der Unterschied zwischen S4 und S7 in Dezibel?</p>",
+     "text":"Wie groß ist der Unterschied zwischen S4 und S7 in Dezibel?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BB305",
      "id":"BBB305",
-     "text":"<p>In welcher Weise werden nach dem RST-System die Aussendungen einer Amateurfunkstelle beurteilt?</p>",
+     "text":"In welcher Weise werden nach dem RST-System die Aussendungen einer Amateurfunkstelle beurteilt?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BB306",
      "id":"BBB306",
-     "text":"<p>Um wie viel dB ist die Empfängereingangsspannung abgesunken, wenn die S-Meter-Anzeige durch Änderung der Ausbreitungsbedingungen von S9+20 dB auf S8 zurückgeht? Die Empfängereingangsspannung sinkt um</p>",
+     "text":"Um wie viel dB ist die Empfängereingangsspannung abgesunken, wenn die S-Meter-Anzeige durch Änderung der Ausbreitungsbedingungen von S9+20 dB auf S8 zurückgeht? Die Empfängereingangsspannung sinkt um",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BB307",
      "id":"BBB307",
-     "text":"<p>Durch \"Fading\" sinkt die S-Meter-Anzeige von S9 auf S8. Auf welchen Wert sinkt dabei die Empfänger-Eingangsspannung ab, wenn bei S9 am Empfängereingang 50 μV anliegen? Die Empfänger-Eingangsspannung sinkt auf</p>",
+     "text":"Durch \"Fading\" sinkt die S-Meter-Anzeige von S9 auf S8. Auf welchen Wert sinkt dabei die Empfänger-Eingangsspannung ab, wenn bei S9 am Empfängereingang 50 μV anliegen? Die Empfänger-Eingangsspannung sinkt auf",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BB308",
      "id":"BBB308",
-     "text":"<p>Bei einer SSB-Verbindung auf VHF/UHF sagt Ihnen Ihr Gesprächspartner: \"Ich empfange Sie mit R5 und 30 dB über Rauschen\". Was meint er damit?</p>",
+     "text":"Bei einer SSB-Verbindung auf VHF/UHF sagt Ihnen Ihr Gesprächspartner: \"Ich empfange Sie mit R5 und 30 dB über Rauschen\". Was meint er damit?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"B/BB309",
      "id":"BBB309",
-     "text":"<p>Sie bekommen von Ihrer Gegenstation den Rapport \"4 und 8\". Was sagt Ihnen der Rapport?</p>",
+     "text":"Sie bekommen von Ihrer Gegenstation den Rapport \"4 und 8\". Was sagt Ihnen der Rapport?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"B/BB310",
      "id":"BBB310",
-     "text":"<p>Eine Station kommt mit einem schwachen, störungsbehafteten Signal bei Ihnen an. Welchen Rapport geben Sie?</p>",
+     "text":"Eine Station kommt mit einem schwachen, störungsbehafteten Signal bei Ihnen an. Welchen Rapport geben Sie?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"B/BB311",
      "id":"BBB311",
-     "text":"<p>Wie wird ein Aurora-Signal in Telegrafie beurteilt? Es wird beurteilt mit</p>",
+     "text":"Wie wird ein Aurora-Signal in Telegrafie beurteilt? Es wird beurteilt mit",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"B/BE402",
      "id":"BBE402",
-     "text":"<p>Wie wird eine Funkverbindung beurteilt, wenn über eine F3E-Relaisfunkstelle gearbeitet wird?</p>",
+     "text":"Wie wird eine Funkverbindung beurteilt, wenn über eine F3E-Relaisfunkstelle gearbeitet wird?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"B/BG101",
      "id":"BBG101",
-     "text":"<p>Welche Uhrzeit tragen Sie in die QSL Karte an XE2AS ein, mit dem Sie um 13:30 MESZ eine Funkverbindung hatten?</p>",
+     "text":"Welche Uhrzeit tragen Sie in die QSL Karte an XE2AS ein, mit dem Sie um 13:30 MESZ eine Funkverbindung hatten?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"B/BG102",
      "id":"BBG102",
-     "text":"<p>Was sollten sie bei der Eintragung der Uhrzeit in das Funktagebuch beachten?</p>",
+     "text":"Was sollten sie bei der Eintragung der Uhrzeit in das Funktagebuch beachten?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"B/BG103",
      "id":"BBG103",
-     "text":"<p>Was verstehen Funkamateure unter einem Logbuch (logbook)?</p>",
+     "text":"Was verstehen Funkamateure unter einem Logbuch (logbook)?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"B/BG104",
      "id":"BBG104",
-     "text":"<p>In welchen Fällen muss ein Stationstagebuch geführt werden?<br>Es muss geführt werden</p>",
+     "text":"In welchen Fällen muss ein Stationstagebuch geführt werden?<br>Es muss geführt werden",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"B/BG105",
      "id":"BBG105",
-     "text":"<p>Welche Uhrzeit tragen Sie in die QSL-Karte an die Funkstation DH4KYL ein, mit der Sie um 15:30 MEZ ein QSO hatten?</p>",
+     "text":"Welche Uhrzeit tragen Sie in die QSL-Karte an die Funkstation DH4KYL ein, mit der Sie um 15:30 MEZ ein QSO hatten?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"B/BG108",
      "id":"BBG108",
-     "text":"<p>Was ist bei der Erstellung eines \"Computer-Logbuchs\" bei angeordneter Logbuchführung zu beachten?</p>",
+     "text":"Was ist bei der Erstellung eines \"Computer-Logbuchs\" bei angeordneter Logbuchführung zu beachten?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"B/BG109",
      "id":"BBG109",
-     "text":"<p>Was ist bei angeordneter Logbuchführung bei einem Wechsel der \"Logbuchsoftware\" zu berücksichtigen?</p>",
+     "text":"Was ist bei angeordneter Logbuchführung bei einem Wechsel der \"Logbuchsoftware\" zu berücksichtigen?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"B/BG110",
      "id":"BBG110",
-     "text":"<p>Welches ist der Sinn der QSL-Karte und wozu kann sie dienen?</p>",
+     "text":"Welches ist der Sinn der QSL-Karte und wozu kann sie dienen?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"B/BG111",
      "id":"BBG111",
-     "text":"<p>Welche Angaben sollten QSL-Karten mindestens enthalten?</p>",
+     "text":"Welche Angaben sollten QSL-Karten mindestens enthalten?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"B/BG112",
      "id":"BBG112",
-     "text":"<p>HZ1AB sagte Ihnen \"QSL via K8PYD\". Was würden Sie tun, um die QSL-Karte von HZ1AB zu erhalten?</p>",
+     "text":"HZ1AB sagte Ihnen \"QSL via K8PYD\". Was würden Sie tun, um die QSL-Karte von HZ1AB zu erhalten?",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"B/BG113",
      "id":"BBG113",
-     "text":"<p>Was können Sie tun, wenn Sie von einer seltenen DX-Station möglichst schnell eine QSL-Karte erhalten möchten?</p>",
+     "text":"Was können Sie tun, wenn Sie von einer seltenen DX-Station möglichst schnell eine QSL-Karte erhalten möchten?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"B/BG114",
      "id":"BBG114",
-     "text":"<p>Was sollten Sie bei der Eintragung von Uhrzeiten in Stationstagebuch und QSL-Karten beachten?</p>",
+     "text":"Was sollten Sie bei der Eintragung von Uhrzeiten in Stationstagebuch und QSL-Karten beachten?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"B/BG115",
      "id":"BBG115",
-     "text":"<p>Wo können Sie die Anschriften von ausländischen Funkamateuren finden, denen Sie die QSL-Karte direkt zusenden möchten?<br>Ich finde diese</p>",
+     "text":"Wo können Sie die Anschriften von ausländischen Funkamateuren finden, denen Sie die QSL-Karte direkt zusenden möchten?<br>Ich finde diese",
      "answer":[
     {
       "correct":true,

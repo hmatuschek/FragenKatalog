@@ -4,7 +4,7 @@
     {
      "name":"B/BE301",
      "id":"BBE301",
-     "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
+     "text":"Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BE302",
      "id":"BBE302",
-     "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
+     "text":"Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BE302",
      "id":"BBE302",
-     "text":"<p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>",
+     "text":"Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BE303",
      "id":"BBE303",
-     "text":"<p>Wie teilen Sie Ihrem Funkpartner in der Betriebsart SSTV seinen \"Rapport\" mit?</p>",
+     "text":"Wie teilen Sie Ihrem Funkpartner in der Betriebsart SSTV seinen \"Rapport\" mit?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BE305",
      "id":"BBE305",
-     "text":"<p>Wozu dient ein \"Auto-Router\" im Packet- Radio-Betrieb?</p>",
+     "text":"Wozu dient ein \"Auto-Router\" im Packet- Radio-Betrieb?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BE306",
      "id":"BBE306",
-     "text":"<p>Was versteht man unter \"Forwarding\" im Packet-Radio-Betrieb?</p>",
+     "text":"Was versteht man unter \"Forwarding\" im Packet-Radio-Betrieb?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BE307",
      "id":"BBE307",
-     "text":"<p>Warum soll das \"TX-Delay\" beim Packet-Radio-Betrieb so kurz wie möglich eingestellt sein?</p>",
+     "text":"Warum soll das \"TX-Delay\" beim Packet-Radio-Betrieb so kurz wie möglich eingestellt sein?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BE309",
      "id":"BBE309",
-     "text":"<p>Was sind \"Linkstrecken\" und wozu dienen sie?</p>",
+     "text":"Was sind \"Linkstrecken\" und wozu dienen sie?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"B/BE310",
      "id":"BBE310",
-     "text":"<p>Was ist Simplexbetrieb?</p>",
+     "text":"Was ist Simplexbetrieb?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"B/BE410",
      "id":"BBE410",
-     "text":"<p>Welche Gruppe enthält die richtig dargestellte Bedeutung der nachfolgend genannten Begriffe in der richtigen Reihenfolge?<br>1) Repeater, 2) Digipeater, 3) Mailbox</p>",
+     "text":"Welche Gruppe enthält die richtig dargestellte Bedeutung der nachfolgend genannten Begriffe in der richtigen Reihenfolge?<br>1) Repeater, 2) Digipeater, 3) Mailbox",
      "answer":[
     {
       "correct":true,

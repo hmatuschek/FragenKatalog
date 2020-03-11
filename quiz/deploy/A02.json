@@ -4,7 +4,7 @@
     {
      "name":"A/TB101",
      "id":"ATB101",
-     "text":"<p>Der spezifische Widerstand eines Drahtes entspricht dem Widerstand des Drahtes</p>",
+     "text":"Der spezifische Widerstand eines Drahtes entspricht dem Widerstand des Drahtes",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"A/TB102",
      "id":"ATB102",
-     "text":"<p>Welchen Widerstand hat eine Kupferdrahtwicklung, wenn der verwendete Draht eine Länge von 1,8 m und einen Durchmesser von 0,2 mm hat?</p>",
+     "text":"Welchen Widerstand hat eine Kupferdrahtwicklung, wenn der verwendete Draht eine Länge von 1,8 m und einen Durchmesser von 0,2 mm hat?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"A/TB103",
      "id":"ATB103",
-     "text":"<p>Zwischen den Enden eines Kupferdrahtes mit einem Querschnitt von 0,5 mm² messen Sie einen Widerstand von 1,5 Ohm. Wie lang ist der Draht?</p>",
+     "text":"Zwischen den Enden eines Kupferdrahtes mit einem Querschnitt von 0,5 mm² messen Sie einen Widerstand von 1,5 Ohm. Wie lang ist der Draht?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"A/TB104",
      "id":"ATB104",
-     "text":"<p>Der Temperaturkoeffizient für den Widerstand von metallischen Leitern ist</p>",
+     "text":"Der Temperaturkoeffizient für den Widerstand von metallischen Leitern ist",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"A/TB105",
      "id":"ATB105",
-     "text":"<p>Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)?</p>",
+     "text":"Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"A/TB106",
      "id":"ATB106",
-     "text":"<p>Was versteht man unter Halbleitermaterialien?</p>",
+     "text":"Was versteht man unter Halbleitermaterialien?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"A/TB202",
      "id":"ATB202",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 0,9 A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 0,9 A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Spannungsquelle?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"A/TB203",
      "id":"ATB203",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"A/TB204",
      "id":"ATB204",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,5 V. Wie groß ist der Wirkungsgrad?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,5 V. Wie groß ist der Wirkungsgrad?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"A/TB205",
      "id":"ATB205",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Wirkungsgrad?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Wirkungsgrad?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"A/TB206",
      "id":"ATB206",
-     "text":"<p>Die Leerlaufspannung einer Spannungsquelle beträgt 5,0 V. Schließt man einen Belastungswiderstand mit 1,2 Ω an, so geht die Klemmenspannung der Spannungsquelle auf 4,8 V zurück. Wie hoch ist der Innenwiderstand der Spannungsquelle?</p>",
+     "text":"Die Leerlaufspannung einer Spannungsquelle beträgt 5,0 V. Schließt man einen Belastungswiderstand mit 1,2 Ω an, so geht die Klemmenspannung der Spannungsquelle auf 4,8 V zurück. Wie hoch ist der Innenwiderstand der Spannungsquelle?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"A/TB207",
      "id":"ATB207",
-     "text":"<p>In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Leistungsanpassung vorliegt?</p>",
+     "text":"In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Leistungsanpassung vorliegt?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"A/TB208",
      "id":"ATB208",
-     "text":"<p>In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Stromanpassung vorliegt?</p>",
+     "text":"In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Stromanpassung vorliegt?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"A/TB209",
      "id":"ATB209",
-     "text":"<p>In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Spannungsanpassung vorliegt?</p>",
+     "text":"In welchem Zusammenhang müssen Innenwiderstand R<sub>i</sub>und Lastwiderstand R<sub>L</sub>stehen, damit Spannungsanpassung vorliegt?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"A/TB210",
      "id":"ATB210",
-     "text":"<p>Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?</p>",
+     "text":"Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"A/TB912",
      "id":"ATB912",
-     "text":"<p>Gelten die Formeln für die Leistung an einem ohmschen Widerstand auch bei Wechselspannung?</p>",
+     "text":"Gelten die Formeln für die Leistung an einem ohmschen Widerstand auch bei Wechselspannung?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"A/TB913",
      "id":"ATB913",
-     "text":"<p>An einem Kondensator mit einer Kapazität von 1 μF wird eine NF-Spannung von 10 kHz und 12 V<sub>eff</sub>angelegt. Wie groß ist die aufgenommene Wirkleistung im eingeschwungenen Zustand?</p>",
+     "text":"An einem Kondensator mit einer Kapazität von 1 μF wird eine NF-Spannung von 10 kHz und 12 V<sub>eff</sub>angelegt. Wie groß ist die aufgenommene Wirkleistung im eingeschwungenen Zustand?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"A/TB914",
      "id":"ATB914",
-     "text":"<p>Welche Belastbarkeit muss ein 100-Ohm-Widerstand, an dem 10 Volt anliegen, mindestens haben?</p>",
+     "text":"Welche Belastbarkeit muss ein 100-Ohm-Widerstand, an dem 10 Volt anliegen, mindestens haben?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"A/TB915",
      "id":"ATB915",
-     "text":"<p>Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Wie hoch ist die Stromentnahme bei einer 12-V-Versorgung?</p>",
+     "text":"Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Wie hoch ist die Stromentnahme bei einer 12-V-Versorgung?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"A/TB916",
      "id":"ATB916",
-     "text":"<p>Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt</p>",
+     "text":"Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"A/TB917",
      "id":"ATB917",
-     "text":"<p>Eine künstliche 50-Ω-Antenne besteht aus elf 560-Ω-Kohleschichtwiderständen mit einem Belastungsnennwert von jeweils 5 W. Wie hoch ist die zulässige Gesamtleistung die angelegt werden darf?</p>",
+     "text":"Eine künstliche 50-Ω-Antenne besteht aus elf 560-Ω-Kohleschichtwiderständen mit einem Belastungsnennwert von jeweils 5 W. Wie hoch ist die zulässige Gesamtleistung die angelegt werden darf?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"A/TB918",
      "id":"ATB918",
-     "text":"<p>Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt</p>",
+     "text":"Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"A/TB921",
      "id":"ATB921",
-     "text":"<p>Ein Spannungsmesser und ein Amperemeter werden für die Ermittlung der Gleichstromeingangsleistung einer Schaltung verwendet. Der Spannungsmesser zeigt 10 V, das Amperemeter 10 A an. Falls beide dabei im Rahmen ihrer Messgenauigkeit jeweils einen um 5 % zu geringen Wert anzeigen würden, würde man die elektrische Leistung um</p>",
+     "text":"Ein Spannungsmesser und ein Amperemeter werden für die Ermittlung der Gleichstromeingangsleistung einer Schaltung verwendet. Der Spannungsmesser zeigt 10 V, das Amperemeter 10 A an. Falls beide dabei im Rahmen ihrer Messgenauigkeit jeweils einen um 5 % zu geringen Wert anzeigen würden, würde man die elektrische Leistung um",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"A/TB922",
      "id":"ATB922",
-     "text":"<p>An einem Widerstand R wird die elektrische Leistung P in Wärme umgesetzt. Sie kennen die Größen P und R. Nach welcher der Formeln können Sie die Spannung ermitteln, die an dem Widerstand R anliegt?</p>",
+     "text":"An einem Widerstand R wird die elektrische Leistung P in Wärme umgesetzt. Sie kennen die Größen P und R. Nach welcher der Formeln können Sie die Spannung ermitteln, die an dem Widerstand R anliegt?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"A/TB923",
      "id":"ATB923",
-     "text":"<p>In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Strom, Spannung, Widerstand und Leistung richtig?</p>",
+     "text":"In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Strom, Spannung, Widerstand und Leistung richtig?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"A/TB924",
      "id":"ATB924",
-     "text":"<p>In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Widerstand, Leistung, Spannung und Strom richtig?</p>",
+     "text":"In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Widerstand, Leistung, Spannung und Strom richtig?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"A/TC101",
      "id":"ATC101",
-     "text":"<p>Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes anhand des ohmschen Gesetzes zu ermitteln?</p>",
+     "text":"Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes anhand des ohmschen Gesetzes zu ermitteln?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"A/TC102",
      "id":"ATC102",
-     "text":"<p>Metallschichtwiderstände</p>",
+     "text":"Metallschichtwiderstände",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"A/TC103",
      "id":"ATC103",
-     "text":"<p>Metalloxidwiderstände</p>",
+     "text":"Metalloxidwiderstände",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"A/TC104",
      "id":"ATC104",
-     "text":"<p>Drahtwiderstände</p>",
+     "text":"Drahtwiderstände",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"A/TC105",
      "id":"ATC105",
-     "text":"<p>Ein Widerstand von 10 kΩ hat eine maximale Spannungsfestigkeit von 0,7 kV und eine maximale Belastbarkeit von einem Watt. Welche Gleichspannung darf höchstens an den Widerstand angelegt werden ohne ihn zu überlasten?</p>",
+     "text":"Ein Widerstand von 10 kΩ hat eine maximale Spannungsfestigkeit von 0,7 kV und eine maximale Belastbarkeit von einem Watt. Welche Gleichspannung darf höchstens an den Widerstand angelegt werden ohne ihn zu überlasten?",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"A/TC106",
      "id":"ATC106",
-     "text":"<p>Ein Widerstand von 50 kΩ hat eine maximale Spannungsfestigkeit von 0,7 kV und eine maximale Belastbarkeit von 2 Watt. Welche Gleichspannung darf höchstens an den Widerstand angelegt werden ohne ihn zu überlasten?</p>",
+     "text":"Ein Widerstand von 50 kΩ hat eine maximale Spannungsfestigkeit von 0,7 kV und eine maximale Belastbarkeit von 2 Watt. Welche Gleichspannung darf höchstens an den Widerstand angelegt werden ohne ihn zu überlasten?",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"A/TC107",
      "id":"ATC107",
-     "text":"<p>Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 48 mA eine Spannung von 208 V abfallen soll?</p>",
+     "text":"Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 48 mA eine Spannung von 208 V abfallen soll?",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"A/TC108",
      "id":"ATC108",
-     "text":"<p>Ein Widerstand von 120 Ω hat eine Belastbarkeit von 23 Watt. Welcher Strom darf höchstens durch den Widerstand fließen, damit er nicht überlastet wird?</p>",
+     "text":"Ein Widerstand von 120 Ω hat eine Belastbarkeit von 23 Watt. Welcher Strom darf höchstens durch den Widerstand fließen, damit er nicht überlastet wird?",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"A/TC109",
      "id":"ATC109",
-     "text":"<p>Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen</p>",
+     "text":"Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"A/TC110",
      "id":"ATC110",
-     "text":"<p>Eine Glühlampe hat einen Nennwert von 12 V und 3 W. Wie viel Strom fließt beim Anschluss an 12 V?</p>",
+     "text":"Eine Glühlampe hat einen Nennwert von 12 V und 3 W. Wie viel Strom fließt beim Anschluss an 12 V?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"A/TC111",
      "id":"ATC111",
-     "text":"<p>Ein Oszilloskop zeigt einen sinusförmigen Spitze-Spitze-Wert von 25 V an einem 1000-Ω-Widerstand an. Der Effektivstrom durch den Widerstand beträgt</p>",
+     "text":"Ein Oszilloskop zeigt einen sinusförmigen Spitze-Spitze-Wert von 25 V an einem 1000-Ω-Widerstand an. Der Effektivstrom durch den Widerstand beträgt",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"A/TC112",
      "id":"ATC112",
-     "text":"<p>Ein Lastwiderstand besteht aus zwölf parallelgeschalteten 600-Ω-Drahtwiderständen. Er eignet sich höchstens</p>",
+     "text":"Ein Lastwiderstand besteht aus zwölf parallelgeschalteten 600-Ω-Drahtwiderständen. Er eignet sich höchstens",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"A/TC113",
      "id":"ATC113",
-     "text":"<p>Eine künstliche Antenne für den VHF-Bereich könnte beispielsweise aus</p>",
+     "text":"Eine künstliche Antenne für den VHF-Bereich könnte beispielsweise aus",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"A/TC114",
      "id":"ATC114",
-     "text":"<p>Welche der folgenden Bauteile könnten für eine genaue künstliche Antenne, die bei 50 MHz eingesetzt werden soll, verwendet werden?</p>",
+     "text":"Welche der folgenden Bauteile könnten für eine genaue künstliche Antenne, die bei 50 MHz eingesetzt werden soll, verwendet werden?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"A/TC115",
      "id":"ATC115",
-     "text":"<p>Aus welchen Bauteilen sollte eine künstliche Antenne für den VHF-Bereich gebaut werden?</p>",
+     "text":"Aus welchen Bauteilen sollte eine künstliche Antenne für den VHF-Bereich gebaut werden?",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"A/TC314",
      "id":"ATC314",
-     "text":"<p>Welche Folgen hat der Skin-Effekt?</p>",
+     "text":"Welche Folgen hat der Skin-Effekt?",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"A/TC315",
      "id":"ATC315",
-     "text":"<p>Was verstehen Sie unter dem technischen Ausdruck Skin-Effekt?</p>",
+     "text":"Was verstehen Sie unter dem technischen Ausdruck Skin-Effekt?",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"A/TD101",
      "id":"ATD101",
-     "text":"<p>Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 3,3 kΩ, R<sub>2</sub> = 4,7 kΩ und R<sub>3</sub> = 27 kΩ betragen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAAB7BAAAAAB198VLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD9UlEQVRo3u3bS2gTQRgH8G/XtNZYYYNPEHWNDxS1BiroQTBqPIiID1xv0oDotRUEwUtFUfTkSTCg1qP4oBVPerBaQTwUUx8ncY0KVjzYFbU16SOfO0kjdnckX2Y3m6rzP2xhM+HHdGdnZ2cmgLXIF6CVu5ZKXbwcPBsDOztrw9YFz07r7W2DTOBsI+I3SNeCfVeD2tafPa1P8UutrEmtqgk7L4OYWxksG36lNdh/bzcEyzbiA2jHnBY4m4VGPBEJnMV4CM+8CJ59Bh34NXg2CwuCZu9esQ+py0GzpUg2AHbkVk1Yn1KWHb3Oyc2qs9+BE88P3vJs+J6rsvdC/rKm5WYXcb4101f2JMx1swspbP7otrQo+0MxoEWMfQgwXZTtasKHYWeBQR47y1lZNubpFmSTnZiDhCObeexiR6EtrHmHEpxsL8/G0jjmvll4rA7U1Jdn27pxBKKO6FzWWYgJatQdncBeXYPvXT09qUllGdvBKdhHYIeUZq1FiGXDaO7r4FsCi0dgqqsArbt4CUq7MJvvzbjZ6b3uuHupGP+2JbG8EB8FJxr9ZYePcXK86iwxkpWsZCUr2cnB5g8Zhh4yjHbH+QuGEVcN40CVWDbui2gAax3n4wBKhD+A9oWtH2B57mLfsNMfq8YWh0JfXWzhmK1ebf/AWpKV7GRnP6VSqUsWkR22C6fSfrBdvy1ZlGW/FV5/Lb/Y8XUhGjthfkKYVRIJHTqp7LrEZmjyg7XfKwehlcqmcVSb4Qcbsl+Pxv9vJLYw/+4DOzBwB85T2fsDnyZMgog3qUgElAyVjdjP43ZfWDs7EEduWMSWvILN1lpeWWUfm/zJx2Ejhd2mK2l7wPVrcdJDS75tX9ohZU+I1KQ+wGocha2q5ZEN2Q05jN8bcopFaskxFYeXjZYWnr3cQEnVGnuaU2k3UB9r9v2liWgv7DvWON830Fi2ZIa7Sz2VFzbHxqLxFmJ3odv92qnZHtme5fZh73IcrCPct4NRm31kH8a0Tm9sMXlMtpIf8/ncdtQ7/GAxq547Rx5dDKlPSnPdHtk++32j/A00njHt1/SyR7YnGl1KH0s9XnreH7ZYi39+5ChZyUr2L2drNGWiHmZJutj97PTBqrFacXVok+N8snh6fpVYNE2zLWy6FvY/m+aDOtPMVIvF/2mGVbKSlaxkg2K53TYpbfyNiMTtHnME1X5tfGpMgP2hHtZ2ibExAG51KWxXE/ZME1KH2OM8Lcgmu3EYmkVS2Ic/k/cBgeVv0/IW2jYtwdoWtmkt4X2ygXBtV+Nz8Wtb0c9nJmzTgmatVYhlg8SmSso7tlfOE1Mx27zeEmbxdUXf9ZDJuj9ZspKtkP0JNKRYlyntBS8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atd101'/>",
+     "text":"Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 3,3 kΩ, R<sub>2</sub> = 4,7 kΩ und R<sub>3</sub> = 27 kΩ betragen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAAB7BAAAAAB198VLAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAD9UlEQVRo3u3bS2gTQRgH8G/XtNZYYYNPEHWNDxS1BiroQTBqPIiID1xv0oDotRUEwUtFUfTkSTCg1qP4oBVPerBaQTwUUx8ncY0KVjzYFbU16SOfO0kjdnckX2Y3m6rzP2xhM+HHdGdnZ2cmgLXIF6CVu5ZKXbwcPBsDOztrw9YFz07r7W2DTOBsI+I3SNeCfVeD2tafPa1P8UutrEmtqgk7L4OYWxksG36lNdh/bzcEyzbiA2jHnBY4m4VGPBEJnMV4CM+8CJ59Bh34NXg2CwuCZu9esQ+py0GzpUg2AHbkVk1Yn1KWHb3Oyc2qs9+BE88P3vJs+J6rsvdC/rKm5WYXcb4101f2JMx1swspbP7otrQo+0MxoEWMfQgwXZTtasKHYWeBQR47y1lZNubpFmSTnZiDhCObeexiR6EtrHmHEpxsL8/G0jjmvll4rA7U1Jdn27pxBKKO6FzWWYgJatQdncBeXYPvXT09qUllGdvBKdhHYIeUZq1FiGXDaO7r4FsCi0dgqqsArbt4CUq7MJvvzbjZ6b3uuHupGP+2JbG8EB8FJxr9ZYePcXK86iwxkpWsZCUr2cnB5g8Zhh4yjHbH+QuGEVcN40CVWDbui2gAax3n4wBKhD+A9oWtH2B57mLfsNMfq8YWh0JfXWzhmK1ebf/AWpKV7GRnP6VSqUsWkR22C6fSfrBdvy1ZlGW/FV5/Lb/Y8XUhGjthfkKYVRIJHTqp7LrEZmjyg7XfKwehlcqmcVSb4Qcbsl+Pxv9vJLYw/+4DOzBwB85T2fsDnyZMgog3qUgElAyVjdjP43ZfWDs7EEduWMSWvILN1lpeWWUfm/zJx2Ejhd2mK2l7wPVrcdJDS75tX9ohZU+I1KQ+wGocha2q5ZEN2Q05jN8bcopFaskxFYeXjZYWnr3cQEnVGnuaU2k3UB9r9v2liWgv7DvWON830Fi2ZIa7Sz2VFzbHxqLxFmJ3odv92qnZHtme5fZh73IcrCPct4NRm31kH8a0Tm9sMXlMtpIf8/ncdtQ7/GAxq547Rx5dDKlPSnPdHtk++32j/A00njHt1/SyR7YnGl1KH0s9XnreH7ZYi39+5ChZyUr2L2drNGWiHmZJutj97PTBqrFacXVok+N8snh6fpVYNE2zLWy6FvY/m+aDOtPMVIvF/2mGVbKSlaxkg2K53TYpbfyNiMTtHnME1X5tfGpMgP2hHtZ2ibExAG51KWxXE/ZME1KH2OM8Lcgmu3EYmkVS2Ic/k/cBgeVv0/IW2jYtwdoWtmkt4X2ygXBtV+Nz8Wtb0c9nJmzTgmatVYhlg8SmSso7tlfOE1Mx27zeEmbxdUXf9ZDJuj9ZspKtkP0JNKRYlyntBS8AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDD6GNH9AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAwi0VpQQAAAABJRU5ErkJggg==' alt='Atd101'/>",
      "answer":[
     {
       "correct":true,
@@ -1192,7 +1192,7 @@
     {
      "name":"A/TD107",
      "id":"ATD107",
-     "text":"<p>Wie groß ist der Gesamtwiderstand der dargestellten Schaltung?</p><img src='data:image/png;base64,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' alt='Atd107'/>",
+     "text":"Wie groß ist der Gesamtwiderstand der dargestellten Schaltung?<br><img src='data:image/png;base64,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' alt='Atd107'/>",
      "answer":[
     {
       "correct":true,
@@ -1219,7 +1219,7 @@
     {
      "name":"A/TD108",
      "id":"ATD108",
-     "text":"<p>Wie teilt sich die Spannung an zwei in Reihe geschalteten Widerständen auf, wenn R<sub>1</sub> = 5 mal so groß ist wie R<sub>2</sub>?</p><img src='data:image/png;base64,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' alt='Atd108'/>",
+     "text":"Wie teilt sich die Spannung an zwei in Reihe geschalteten Widerständen auf, wenn R<sub>1</sub> = 5 mal so groß ist wie R<sub>2</sub>?<br><img src='data:image/png;base64,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' alt='Atd108'/>",
      "answer":[
     {
       "correct":true,
@@ -1246,7 +1246,7 @@
     {
      "name":"A/TD109",
      "id":"ATD109",
-     "text":"<p>Wie teilt sich die Spannung an zwei in Reihe geschalteten Widerständen auf, wenn R<sub>1</sub> = 1/6 mal so groß ist wie R<sub>2</sub>?</p><img src='data:image/png;base64,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' alt='Atd108'/>",
+     "text":"Wie teilt sich die Spannung an zwei in Reihe geschalteten Widerständen auf, wenn R<sub>1</sub> = 1/6 mal so groß ist wie R<sub>2</sub>?<br><img src='data:image/png;base64,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' alt='Atd108'/>",
      "answer":[
     {
       "correct":true,
@@ -1273,7 +1273,7 @@
     {
      "name":"A/TD111",
      "id":"ATD111",
-     "text":"<p>Wie groß ist die Spannung U, wenn durch R<sub>3</sub>ein Strom von 1 mA fließt und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?</p><img src='data:image/png;base64,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' alt='Atd111'/>",
+     "text":"Wie groß ist die Spannung U, wenn durch R<sub>3</sub>ein Strom von 1 mA fließt und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?<br><img src='data:image/png;base64,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' alt='Atd111'/>",
      "answer":[
     {
       "correct":true,
@@ -1300,7 +1300,7 @@
     {
      "name":"A/TD112",
      "id":"ATD112",
-     "text":"<p>Wie groß ist der Strom durch R<sub>3</sub>, wenn U = 15 V und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?</p><img src='data:image/png;base64,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' alt='Atd111'/>",
+     "text":"Wie groß ist der Strom durch R<sub>3</sub>, wenn U = 15 V und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?<br><img src='data:image/png;base64,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' alt='Atd111'/>",
      "answer":[
     {
       "correct":true,
@@ -1327,7 +1327,7 @@
     {
      "name":"A/TD113",
      "id":"ATD113",
-     "text":"<p>Welche Leistung tritt in R<sub>2</sub>auf, wenn U = 15 V und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?</p><img src='data:image/png;base64,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' alt='Atd111'/>",
+     "text":"Welche Leistung tritt in R<sub>2</sub>auf, wenn U = 15 V und alle Widerstände R<sub>1</sub>bis R<sub>3</sub>je 10 kΩ betragen?<br><img src='data:image/png;base64,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' alt='Atd111'/>",
      "answer":[
     {
       "correct":true,
@@ -1354,7 +1354,7 @@
     {
      "name":"A/TD114",
      "id":"ATD114",
-     "text":"<p>Drei gleich große parallel geschaltete Widerstände haben einen Gesamtwiderstand von 1,67 kΩ. Welchen Wert hat jeder Einzelwiderstand?</p>",
+     "text":"Drei gleich große parallel geschaltete Widerstände haben einen Gesamtwiderstand von 1,67 kΩ. Welchen Wert hat jeder Einzelwiderstand?",
      "answer":[
     {
       "correct":true,
@@ -1381,7 +1381,7 @@
     {
      "name":"A/TD115",
      "id":"ATD115",
-     "text":"<p>Welche Belastbarkeit kann die Zusammenschaltung von drei gleich großen Widerständen mit einer Einzelbelastbarkeit von je 1 W erreichen, wenn alle 3 Widerstände entweder parallel oder in Reihe geschaltet werden?</p>",
+     "text":"Welche Belastbarkeit kann die Zusammenschaltung von drei gleich großen Widerständen mit einer Einzelbelastbarkeit von je 1 W erreichen, wenn alle 3 Widerstände entweder parallel oder in Reihe geschaltet werden?",
      "answer":[
     {
       "correct":true,
@@ -1408,7 +1408,7 @@
     {
      "name":"A/TD121",
      "id":"ATD121",
-     "text":"<p>Wenn R<sub>1</sub>und R<sub>3</sub>je 2 kΩ hat und R<sub>2</sub>und R<sub>4</sub>je 200 Ω betragen, hat die Schaltung einen Gesamtwiderstand von</p><img src='data:image/png;base64,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' alt='Atd121'/>",
+     "text":"Wenn R<sub>1</sub>und R<sub>3</sub>je 2 kΩ hat und R<sub>2</sub>und R<sub>4</sub>je 200 Ω betragen, hat die Schaltung einen Gesamtwiderstand von<br><img src='data:image/png;base64,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' alt='Atd121'/>",
      "answer":[
     {
       "correct":true,
@@ -1435,7 +1435,7 @@
     {
      "name":"A/TD122",
      "id":"ATD122",
-     "text":"<p>In welchem Bereich bewegt sich der Eingangswiderstand der folgenden Schaltung, wenn R alle Werte von 0 bis unendlich durchläuft?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPgAAACHCAAAAAAezsvDAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAd2KE6QAAAAHdElNRQfkAQ0PJQqNcXydAAAJc0lEQVR42u2dT2jbWB7Hv1r2VMq0jh86hW7w2MQwZZMdiDCU9ZTOHlK3uEwikttOt5A/hB5CYwxht6V0ptSYtOxCiRvCTHONSbybbuv4NM0G1pgayra0wkPd0IY5CFHHbhjm+GMPsps/jW3Zku2Mpe9FlvT8fvr4Pf303tP7PXMEc+o3rb4AC9wCt8AtcAvcArfA69Zva0iburPJLvcDCMfwlzEAyrX/nbjiAYDEcxz7wm3QNSkz6xi4yAOJu++8AR7A3H3VIFLP3h/r8RhhpIYST5zaHMC5OSA47e2dmAMU/2Pvpj8FpDzfO7zvL44bxO1f8PZOXwIS5454F/wAghO9vRNhQBmahNd+x5MywgxpliAQkegiiYsSBZhMISYTCSJJnEhEJDFRe2YVFOEkojgXJ8FHJHFRkrgIUYjJ5GMSEZU2+lQDeCBORBEmR5hMJHFxEkQiCjFZZDIREYW4uBHg0RARySwqc1EiEkSKMJlI5uJxLkJERBI3qt9KDfd4GADuC/xrGw902N8i7wXgwMaagwcAePFDvwF1UASAf+ZObqATwIlNvLbxAOzP3+ELAIDb+Vjh9Vqp0asH03/Dtg0Aj/cAA3AUP4EZgLtXiYkpdwHHAXSgaND2brt01maAhVq8OjA+/6joUhUAeAcA6HS8Uo8V8KlB3EvDI2EcR0Hd+yQPQAH7tHQg79Jd4DWVuHI+9qi/eB1bcMC2DeAtHIGs6mb/5fzKGO7w8NQ9ACgA+ImB5RUAecdX9hgAIJG9bIAR7e5AFlwSEVGck4iinESjLiISBaKITyKiiGCAsyUiCqhOTHYFiIiFKMklieJckpK+KBElfREDjNQALnJRSUpKJAtCMs5EoiQ3KoW4qBSRIqNE8dG4FDKCO8oFJElKyhTiIpLIJCLBlYy7fHJIiotJkkcjUiTZRHCJMcYYc8kkCYz5ZCKKMsYClGSMCeqOzwhwkWOMMRYlGmXMFSciyceYTyaBMRYnWWCM6QfntI+5ZdSNG0AGavNU2erg1RNuKFtAh36n88FOB1/Kv2Qwox7NFC9Cn2oAby+ZtndmgZtNmltuyoamZPr7ypmCllQOvW5Us3NLnNOU7KVuf+tJa0k1FdZppoa2+tSZn6ukOPrDbb3YQL7velU7byd0m9kLnilUqKpnNPQ5DQDHiep2lKu6rex2bpmhz051L5VNWq0cNCWZ83R3Bw34dXRrV4mn/Lm+3tjw7NiBCY8bYm58HsDtN9FWY+8Bv5O7FcTkhas9ByZ8hqNa8ntRqHR2fR4AsDx0Re91v9Ew4Hi8oqP90GqXXS4iohBXThoG1KKcAdIwZCm7tGQkVMpi1z2eN2JE51ejnarOn14OB5H5zj7beVDC9WlN+S12Vjr77aq6HaxQ1b/WYiY/WPVmubOsERw31qZjJ9Zys2KZpBq8OnCy4n018yQHAM67uruvXVWbiF2VT++q6u71s+ll2+LBTh0Fbc6tstyzdgBnV4zotlfTduXTuxsw7oeZQoU28PPjVY1Vbc+Lnf7cYJWH2WZ1h13Q/7vsbblVrKfabvIq8jhyXVWSpE8ZYag28Ar6fFFTsg7dV/QPbb6kaeC8qDWlThnxFkqDTDsQYYGbTRa42WSBm00WuNlkgZtNFrjZ1A7gimJScFxLmBOc/9O5YM2FXtvMRl0KvgGANFbeAPhyTFdeeyX23V6/XuMARhPBV7JOAE5b/hmQhZHgWPCmz43cqGnstomznrpdD3c+9xj73nB8HnDeLI6OhWN5AFnACdjYw4O/0cQSb6QmYzlkh0cm3QCwkT4LwHUEvwBPyo14twm4OzANYD72zRgA2HdKeTxW5hvt4NUB4KITAHITQ1q/0C7g/E0AgN104BD7ACCgefS/bcDxdwD4TnNkVvuAewbxaDHr10rePuC48d9+8VZOK3mbPM4A9VVvcGPev242cADAPcxf0DSXp93AcQ/zcB5wPPXtOwDMe7HYom/xPZ4ZUgAowW7PnLrbfT4BAMpSOByuL3b23gjyB3RSn632er3eI9MfIreMCJ/RJteuUB2XOplNcjGZiEQWCnAhIpkJER+XJIq6RpPJiCDKdRnycb4PXxxlxQ8RTiIiCnHFOJ6WgkcYc8lESS6uRgsHiuHJcS5ARCTVGdU0yu2Q7wePl+YptrKqK/cD3+QBxJz9gD/3FOsDPDCwpty1BwDAHVitY0wJAJyrlz6u7QUoyNy1f67utRKcf6DOY962oRie7ADgwMYToRSe/LyujO0rfav7ozDt8Hf/sdv7avYwOLfiNWypm/fIA8BRFHBEZ8buB33LH4UwBG5eydtWSo35Q9RyO1YKj+5ybKofCvh9nXnxD/qm95Ln4BfH1vOB0v5hAO/KA9jK/Q62DQBv4Q6k1SfZ9311T4HiF5zTH4etuGdXSwcPA/iZbAb4D7rQ+xjAvx0QZ++kACWMB/Vn6l45iFw8O505POD9fRcSSxMjblzMDqWCq9dT4Z4vF4CnG5ee6og1cq9gN7ndDgCYsRcre4ubrHYHACwE/oyRG4Bn8a9+zPYnZmYgAD/HYjitI2/34vD0sQ973nU3ALhfFF1pi4eXlaJnL22R6eDVdRh4dTWGeuY5j8eKD/GlYdhtPx6cqMUlzu/bqtOI+b3H6pa4OJwr11U7DPd44yQu2vNlujrtDQ5xoNyQTJuDAyhD3vbg9jLDcG0PjuDUgeTtD47wgeQmAEd4JPf1R91zM4Dj3lTWv5/cFOAIT6X3D8k0E1zv8IIe8sHVmb1HmtlkXTuv0v8CZHt051ab7uJSy8B7Nl+hNDWlr6vJ4Pz+OTdNBFdNe9K6F/Soqlw3ANjyALL2Mmna7hUSgD8MAsBa1n4a6OkyEfjYGAAEbzsqTSlr38dZlTDq9gWvIgvcbLLAzSYL3GyywM0mC9xsssDNJgu8edrWn8WvE/yTVjO3CtwqcbOBHw61APxNq5k/AlfmPOeX6s5Jk5TwBpbnWg0N7F2CeDINrA7qX0GzArc/DWDidcNfKVTXrhKfTE+9fDm4vNBAa9fUtdNvG/KHZfq0M8Ev89nZhwC6847GWSutGW9voI2SNnJ9lX7fnar+Al4AsGVzjb+oXBNsVNEO+EnEgoCSx0jDjG2VVgUe1L+YpwZVrla7Y1iEaFTgjPiHpXKKqMtgBxpoQqt2TeJVLi8DuNXQ9e7nruaAhj44tGrP7OVUDAOG/DdmeWVeoLPBJuoAN5OstrrZZIGbTaYF/z8Pr2XTxvRhvwAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd122'/>",
+     "text":"In welchem Bereich bewegt sich der Eingangswiderstand der folgenden Schaltung, wenn R alle Werte von 0 bis unendlich durchläuft?<br><img src='data:image/png;base64,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' alt='Atd122'/>",
      "answer":[
     {
       "correct":true,
@@ -1462,7 +1462,7 @@
     {
      "name":"A/TD123",
      "id":"ATD123",
-     "text":"<p>Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 30 kΩ, R<sub>2</sub> = 15 kΩ, R<sub>3</sub> = 30 kΩ und R<sub>4</sub> = 2,7 kΩ betragen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAACOBAAAAAAwqE3hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE2ElEQVR42u3aT2zbVBgA8M9JlqTjnzNOaBJkqTgwxBZt3IbWCDIhIQEVWrTjeoAJCaT1AOuBQ6tJiEg7dFymHSZ11wWJBnEjQDyYuBBkqOCARJcO0LTDSOhom6ar8/G8JLZfnmM77Pl5bP4OaZT3/H55fn7vuV8MGET8DSE7JNrFYvGCeHYVSBwXzt6CTAaS4tloo/FZVDwb0+kAerv829wO8SykZNgdAAsQUxG/U8WykUtp0tlObkEsG8OfoIpXQDjbhn0apIWzOJnQ3p0Uy64S9hrUUfDY/kPmbFs+LprtXCUvy8J7248Hi/2wGgh79+GV/b7CRFMAKwMTVQHsDqazcyLYBPNJORj2YkCs6hermSNpc5LPGIVf82Vb5mVrw5qFY/cHG6n1w2ZsL/TLFN6seSvudEmtcu+tA2vO22v+sU6rlI+s05rsI+u0A/nIOkXIhmzIhmzIPjjs7VKp9JUX9pdCofAON1ZP7EqzHtiyWwZ4JPYWpFKw0wOrRPIvyQ9xY6PLyzapThs2iXjWKfE8Gmuf2LVnlQQOjxF722h462288kWW30mGzB5gW7NhOV9SANFF1IpVD+xe8vfn17mwkXPybn160MNmd5J/1Svi1KNc2BiWpTpm34a6C5vEy6RiG57kxLZhovNmM626sqQi/i7zYjFHDE1qurKY3YmTZS4nWU/sKuQE/0E7NosjGXxFujm28hSv3m6SiTE578J++ww5OHM6OZ1s2rc8Eqv9QF5q6sbAsjxs41sh00jlwPZi+pUS1Ylh7FZpboxHb7uxPdiJ4dv8ymNDCv4L+3w+X/fG3ljgxzJx/91LvZgZjHHVnn2DrVkdkTW3dOlono4jWaMxOkG0p8DUXHRhteaw3joliFYo9mmmpkKx2qX6ANvORqkaS/DqcNZM7Oai1m/rxk7p2ybFXoxlrQuQlgZJdWfXAA57Z1twBOYpVoPFLbJLGkHa6zfYcWCnAWLeWeVZLD9CsZtxcsIeP2hEWr8b7749YDO2470i/b5p3DjoAHuLp1jaPCjP4toYxbYS+pm3D8fELhVxlqXKZ3EjSbFbUdTkl2eM0L9CvPv2lA17rFdNzwseM4+y6a2lzZncc7j0MH1JZQ99bj2ofee7dcMhsUu6bT3KZWzXIzPySZpdAnjNWv9j89w6zNu2TB01+gTqnPuAqt8y5g+yI2bO2x+p7+TGbn9U9744ArPSygZLL45ptuYi07LXreCt/GAU6v0yeit4n62pMi3f4xtfyIZsyIZsyIZsgKxWq9Wuimf15F9kQTh757FoL2lszr2NVirTMaaa76zXNDZ/9nIAvZXyeZk1RFzJ0jx2KqJ7e1R/GPsbeEEsG8OzkTpm8/T4CmBbMIHvbdOfi7iS9ezGFbd8Mn9WiTRx6jD1se+LI1kqNuAk3iC0QPb2J+Sl9OmXKKsi2R4u3XT7QcYPFnMy/b+9IPb6rtkg2MHwk906Ycap7p/+r+9+smtSajD6CRo/2fV9jYH4SwS7tp8p9o213MCsM2yn/5s/96c6paIRpycYNna+WzTn3xO7ACxrPHLJmd3cZWbw0ixrJAT38mXRct3+uZ9hE51eWZMzawmbSyrh8dC7YdkJFBCLItj1+InBEMFuMEty6gkBLDaYaIpguUbIhmzI/g/ZfwGMHRq6DnXAyQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd123'/>",
+     "text":"Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 30 kΩ, R<sub>2</sub> = 15 kΩ, R<sub>3</sub> = 30 kΩ und R<sub>4</sub> = 2,7 kΩ betragen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAACOBAAAAAAwqE3hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE2ElEQVR42u3aT2zbVBgA8M9JlqTjnzNOaBJkqTgwxBZt3IbWCDIhIQEVWrTjeoAJCaT1AOuBQ6tJiEg7dFymHSZ11wWJBnEjQDyYuBBkqOCARJcO0LTDSOhom6ar8/G8JLZfnmM77Pl5bP4OaZT3/H55fn7vuV8MGET8DSE7JNrFYvGCeHYVSBwXzt6CTAaS4tloo/FZVDwb0+kAerv829wO8SykZNgdAAsQUxG/U8WykUtp0tlObkEsG8OfoIpXQDjbhn0apIWzOJnQ3p0Uy64S9hrUUfDY/kPmbFs+LprtXCUvy8J7248Hi/2wGgh79+GV/b7CRFMAKwMTVQHsDqazcyLYBPNJORj2YkCs6hermSNpc5LPGIVf82Vb5mVrw5qFY/cHG6n1w2ZsL/TLFN6seSvudEmtcu+tA2vO22v+sU6rlI+s05rsI+u0A/nIOkXIhmzIhmzIPjjs7VKp9JUX9pdCofAON1ZP7EqzHtiyWwZ4JPYWpFKw0wOrRPIvyQ9xY6PLyzapThs2iXjWKfE8Gmuf2LVnlQQOjxF722h462288kWW30mGzB5gW7NhOV9SANFF1IpVD+xe8vfn17mwkXPybn160MNmd5J/1Svi1KNc2BiWpTpm34a6C5vEy6RiG57kxLZhovNmM626sqQi/i7zYjFHDE1qurKY3YmTZS4nWU/sKuQE/0E7NosjGXxFujm28hSv3m6SiTE578J++ww5OHM6OZ1s2rc8Eqv9QF5q6sbAsjxs41sh00jlwPZi+pUS1Ylh7FZpboxHb7uxPdiJ4dv8ymNDCv4L+3w+X/fG3ljgxzJx/91LvZgZjHHVnn2DrVkdkTW3dOlono4jWaMxOkG0p8DUXHRhteaw3joliFYo9mmmpkKx2qX6ANvORqkaS/DqcNZM7Oai1m/rxk7p2ybFXoxlrQuQlgZJdWfXAA57Z1twBOYpVoPFLbJLGkHa6zfYcWCnAWLeWeVZLD9CsZtxcsIeP2hEWr8b7749YDO2470i/b5p3DjoAHuLp1jaPCjP4toYxbYS+pm3D8fELhVxlqXKZ3EjSbFbUdTkl2eM0L9CvPv2lA17rFdNzwseM4+y6a2lzZncc7j0MH1JZQ99bj2ofee7dcMhsUu6bT3KZWzXIzPySZpdAnjNWv9j89w6zNu2TB01+gTqnPuAqt8y5g+yI2bO2x+p7+TGbn9U9744ArPSygZLL45ptuYi07LXreCt/GAU6v0yeit4n62pMi3f4xtfyIZsyIZsyIZsgKxWq9Wuimf15F9kQTh757FoL2lszr2NVirTMaaa76zXNDZ/9nIAvZXyeZk1RFzJ0jx2KqJ7e1R/GPsbeEEsG8OzkTpm8/T4CmBbMIHvbdOfi7iS9ezGFbd8Mn9WiTRx6jD1se+LI1kqNuAk3iC0QPb2J+Sl9OmXKKsi2R4u3XT7QcYPFnMy/b+9IPb6rtkg2MHwk906Ycap7p/+r+9+smtSajD6CRo/2fV9jYH4SwS7tp8p9o213MCsM2yn/5s/96c6paIRpycYNna+WzTn3xO7ACxrPHLJmd3cZWbw0ixrJAT38mXRct3+uZ9hE51eWZMzawmbSyrh8dC7YdkJFBCLItj1+InBEMFuMEty6gkBLDaYaIpguUbIhmzI/g/ZfwGMHRq6DnXAyQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd123'/>",
      "answer":[
     {
       "correct":true,
@@ -1489,7 +1489,7 @@
     {
      "name":"A/TD124",
      "id":"ATD124",
-     "text":"<p>Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 12 kΩ, R<sub>2</sub> = 12 kΩ, R<sub>3</sub> = 6 kΩ und R<sub>4</sub> = 1,5 kΩ betragen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAACOBAAAAAAwqE3hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE2ElEQVR42u3aT2zbVBgA8M9JlqTjnzNOaBJkqTgwxBZt3IbWCDIhIQEVWrTjeoAJCaT1AOuBQ6tJiEg7dFymHSZ11wWJBnEjQDyYuBBkqOCARJcO0LTDSOhom6ar8/G8JLZfnmM77Pl5bP4OaZT3/H55fn7vuV8MGET8DSE7JNrFYvGCeHYVSBwXzt6CTAaS4tloo/FZVDwb0+kAerv829wO8SykZNgdAAsQUxG/U8WykUtp0tlObkEsG8OfoIpXQDjbhn0apIWzOJnQ3p0Uy64S9hrUUfDY/kPmbFs+LprtXCUvy8J7248Hi/2wGgh79+GV/b7CRFMAKwMTVQHsDqazcyLYBPNJORj2YkCs6hermSNpc5LPGIVf82Vb5mVrw5qFY/cHG6n1w2ZsL/TLFN6seSvudEmtcu+tA2vO22v+sU6rlI+s05rsI+u0A/nIOkXIhmzIhmzIPjjs7VKp9JUX9pdCofAON1ZP7EqzHtiyWwZ4JPYWpFKw0wOrRPIvyQ9xY6PLyzapThs2iXjWKfE8Gmuf2LVnlQQOjxF722h462288kWW30mGzB5gW7NhOV9SANFF1IpVD+xe8vfn17mwkXPybn160MNmd5J/1Svi1KNc2BiWpTpm34a6C5vEy6RiG57kxLZhovNmM626sqQi/i7zYjFHDE1qurKY3YmTZS4nWU/sKuQE/0E7NosjGXxFujm28hSv3m6SiTE578J++ww5OHM6OZ1s2rc8Eqv9QF5q6sbAsjxs41sh00jlwPZi+pUS1Ylh7FZpboxHb7uxPdiJ4dv8ymNDCv4L+3w+X/fG3ljgxzJx/91LvZgZjHHVnn2DrVkdkTW3dOlono4jWaMxOkG0p8DUXHRhteaw3joliFYo9mmmpkKx2qX6ANvORqkaS/DqcNZM7Oai1m/rxk7p2ybFXoxlrQuQlgZJdWfXAA57Z1twBOYpVoPFLbJLGkHa6zfYcWCnAWLeWeVZLD9CsZtxcsIeP2hEWr8b7749YDO2470i/b5p3DjoAHuLp1jaPCjP4toYxbYS+pm3D8fELhVxlqXKZ3EjSbFbUdTkl2eM0L9CvPv2lA17rFdNzwseM4+y6a2lzZncc7j0MH1JZQ99bj2ofee7dcMhsUu6bT3KZWzXIzPySZpdAnjNWv9j89w6zNu2TB01+gTqnPuAqt8y5g+yI2bO2x+p7+TGbn9U9744ArPSygZLL45ptuYi07LXreCt/GAU6v0yeit4n62pMi3f4xtfyIZsyIZsyIZsgKxWq9Wuimf15F9kQTh757FoL2lszr2NVirTMaaa76zXNDZ/9nIAvZXyeZk1RFzJ0jx2KqJ7e1R/GPsbeEEsG8OzkTpm8/T4CmBbMIHvbdOfi7iS9ezGFbd8Mn9WiTRx6jD1se+LI1kqNuAk3iC0QPb2J+Sl9OmXKKsi2R4u3XT7QcYPFnMy/b+9IPb6rtkg2MHwk906Ycap7p/+r+9+smtSajD6CRo/2fV9jYH4SwS7tp8p9o213MCsM2yn/5s/96c6paIRpycYNna+WzTn3xO7ACxrPHLJmd3cZWbw0ixrJAT38mXRct3+uZ9hE51eWZMzawmbSyrh8dC7YdkJFBCLItj1+InBEMFuMEty6gkBLDaYaIpguUbIhmzI/g/ZfwGMHRq6DnXAyQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd123'/>",
+     "text":"Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R<sub>1</sub> = 12 kΩ, R<sub>2</sub> = 12 kΩ, R<sub>3</sub> = 6 kΩ und R<sub>4</sub> = 1,5 kΩ betragen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOsAAACOBAAAAAAwqE3hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAAE2ElEQVR42u3aT2zbVBgA8M9JlqTjnzNOaBJkqTgwxBZt3IbWCDIhIQEVWrTjeoAJCaT1AOuBQ6tJiEg7dFymHSZ11wWJBnEjQDyYuBBkqOCARJcO0LTDSOhom6ar8/G8JLZfnmM77Pl5bP4OaZT3/H55fn7vuV8MGET8DSE7JNrFYvGCeHYVSBwXzt6CTAaS4tloo/FZVDwb0+kAerv829wO8SykZNgdAAsQUxG/U8WykUtp0tlObkEsG8OfoIpXQDjbhn0apIWzOJnQ3p0Uy64S9hrUUfDY/kPmbFs+LprtXCUvy8J7248Hi/2wGgh79+GV/b7CRFMAKwMTVQHsDqazcyLYBPNJORj2YkCs6hermSNpc5LPGIVf82Vb5mVrw5qFY/cHG6n1w2ZsL/TLFN6seSvudEmtcu+tA2vO22v+sU6rlI+s05rsI+u0A/nIOkXIhmzIhmzIPjjs7VKp9JUX9pdCofAON1ZP7EqzHtiyWwZ4JPYWpFKw0wOrRPIvyQ9xY6PLyzapThs2iXjWKfE8Gmuf2LVnlQQOjxF722h462288kWW30mGzB5gW7NhOV9SANFF1IpVD+xe8vfn17mwkXPybn160MNmd5J/1Svi1KNc2BiWpTpm34a6C5vEy6RiG57kxLZhovNmM626sqQi/i7zYjFHDE1qurKY3YmTZS4nWU/sKuQE/0E7NosjGXxFujm28hSv3m6SiTE578J++ww5OHM6OZ1s2rc8Eqv9QF5q6sbAsjxs41sh00jlwPZi+pUS1Ylh7FZpboxHb7uxPdiJ4dv8ymNDCv4L+3w+X/fG3ljgxzJx/91LvZgZjHHVnn2DrVkdkTW3dOlono4jWaMxOkG0p8DUXHRhteaw3joliFYo9mmmpkKx2qX6ANvORqkaS/DqcNZM7Oai1m/rxk7p2ybFXoxlrQuQlgZJdWfXAA57Z1twBOYpVoPFLbJLGkHa6zfYcWCnAWLeWeVZLD9CsZtxcsIeP2hEWr8b7749YDO2470i/b5p3DjoAHuLp1jaPCjP4toYxbYS+pm3D8fELhVxlqXKZ3EjSbFbUdTkl2eM0L9CvPv2lA17rFdNzwseM4+y6a2lzZncc7j0MH1JZQ99bj2ofee7dcMhsUu6bT3KZWzXIzPySZpdAnjNWv9j89w6zNu2TB01+gTqnPuAqt8y5g+yI2bO2x+p7+TGbn9U9744ArPSygZLL45ptuYi07LXreCt/GAU6v0yeit4n62pMi3f4xtfyIZsyIZsyIZsgKxWq9Wuimf15F9kQTh757FoL2lszr2NVirTMaaa76zXNDZ/9nIAvZXyeZk1RFzJ0jx2KqJ7e1R/GPsbeEEsG8OzkTpm8/T4CmBbMIHvbdOfi7iS9ezGFbd8Mn9WiTRx6jD1se+LI1kqNuAk3iC0QPb2J+Sl9OmXKKsi2R4u3XT7QcYPFnMy/b+9IPb6rtkg2MHwk906Ycap7p/+r+9+smtSajD6CRo/2fV9jYH4SwS7tp8p9o213MCsM2yn/5s/96c6paIRpycYNna+WzTn3xO7ACxrPHLJmd3cZWbw0ixrJAT38mXRct3+uZ9hE51eWZMzawmbSyrh8dC7YdkJFBCLItj1+InBEMFuMEty6gkBLDaYaIpguUbIhmzI/g/ZfwGMHRq6DnXAyQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMPoY0f0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDEtMTNUMTU6Mzc6MTArMDE6MDCLRWlBAAAAAElFTkSuQmCC' alt='Atd123'/>",
      "answer":[
     {
       "correct":true,

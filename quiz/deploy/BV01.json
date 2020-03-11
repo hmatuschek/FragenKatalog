@@ -4,7 +4,7 @@
     {
      "name":"V/VA301",
      "id":"VVA301",
-     "text":"<p>Was ist in den Radio Regulations (VO Funk) bezüglich der Morsequalifikation für Funkamateure festgelegt?</p>",
+     "text":"Was ist in den Radio Regulations (VO Funk) bezüglich der Morsequalifikation für Funkamateure festgelegt?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"V/VA302",
      "id":"VVA302",
-     "text":"<p>Was ist in den Radio Regulations (VO Funk) hinsichtlich dem Amateurfunkverkehr festgelegt?</p>",
+     "text":"Was ist in den Radio Regulations (VO Funk) hinsichtlich dem Amateurfunkverkehr festgelegt?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"V/VA304",
      "id":"VVA304",
-     "text":"<p>Was gilt hinsichtlich der Anwendung von Kodes und Verschlüsselungen im internationalen Amateurfunkverkehr zwischen Funkamateuren?</p>",
+     "text":"Was gilt hinsichtlich der Anwendung von Kodes und Verschlüsselungen im internationalen Amateurfunkverkehr zwischen Funkamateuren?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"V/VC104",
      "id":"VVC104",
-     "text":"<p>Wie ist der Begriff \"Funkamateur\" nach dem AFuG zu verstehen?</p>",
+     "text":"Wie ist der Begriff \"Funkamateur\" nach dem AFuG zu verstehen?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"V/VC106",
      "id":"VVC106",
-     "text":"<p>Nach dem Amateurfunkgesetz ist eine Amateurfunkstelle eine Funkstelle,</p>",
+     "text":"Nach dem Amateurfunkgesetz ist eine Amateurfunkstelle eine Funkstelle,",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"V/VC107",
      "id":"VVC107",
-     "text":"<p>Mit welchen anderen Funkstellen darf der Funkamateur Funkverkehr abwickeln?</p>",
+     "text":"Mit welchen anderen Funkstellen darf der Funkamateur Funkverkehr abwickeln?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"V/VC108",
      "id":"VVC108",
-     "text":"<p>Darf der Funkamateur mit anderen Funkstellen, die keine Amateurfunkstellen sind, Funkverkehr abwickeln?</p>",
+     "text":"Darf der Funkamateur mit anderen Funkstellen, die keine Amateurfunkstellen sind, Funkverkehr abwickeln?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"V/VC109",
      "id":"VVC109",
-     "text":"<p>Dürfen Sie mit Ihrem Amateurfunktransceiver im 70-cm-Band am LPD-Funkverkehr (LPD = Low Power Devices) teilnehmen?</p>",
+     "text":"Dürfen Sie mit Ihrem Amateurfunktransceiver im 70-cm-Band am LPD-Funkverkehr (LPD = Low Power Devices) teilnehmen?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"V/VC110",
      "id":"VVC110",
-     "text":"<p>Darf ein Funkamateur Nachrichten, die nicht den Amateurfunkdienst betreffen, für und an Dritte übermitteln?</p>",
+     "text":"Darf ein Funkamateur Nachrichten, die nicht den Amateurfunkdienst betreffen, für und an Dritte übermitteln?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"V/VC117",
      "id":"VVC117",
-     "text":"<p>Was ist erforderlich, um den Amateurfunkbetrieb ausüben zu dürfen?</p>",
+     "text":"Was ist erforderlich, um den Amateurfunkbetrieb ausüben zu dürfen?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"V/VC118",
      "id":"VVC118",
-     "text":"<p>Ab wann dürfen Sie eine Amateurfunkstelle betreiben?</p>",
+     "text":"Ab wann dürfen Sie eine Amateurfunkstelle betreiben?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"V/VC119",
      "id":"VVC119",
-     "text":"<p>Ist die Erteilung einer Amateurfunkzulassung von einem Mindestalter abhängig?</p>",
+     "text":"Ist die Erteilung einer Amateurfunkzulassung von einem Mindestalter abhängig?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"V/VC124",
      "id":"VVC124",
-     "text":"<p>Darf ein Funkamateur seine Amateurfunkzulassung oder das damit zugeteilte Rufzeichen unter besonderen Umständen vorübergehend einer anderen Person übertragen?</p>",
+     "text":"Darf ein Funkamateur seine Amateurfunkzulassung oder das damit zugeteilte Rufzeichen unter besonderen Umständen vorübergehend einer anderen Person übertragen?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"V/VC126",
      "id":"VVC126",
-     "text":"<p>Darf die Amateurfunkstelle zu gewerblichwirtschaftlichen Zwecken in kleinem Rahmen mitbenutzt werden?</p>",
+     "text":"Darf die Amateurfunkstelle zu gewerblichwirtschaftlichen Zwecken in kleinem Rahmen mitbenutzt werden?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"V/VC127",
      "id":"VVC127",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"V/VC128",
      "id":"VVC128",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"V/VC129",
      "id":"VVC129",
-     "text":"<p>Welche der nachfolgenden Aussagen ist zutreffend?</p>",
+     "text":"Welche der nachfolgenden Aussagen ist zutreffend?",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"V/VC139",
      "id":"VVC139",
-     "text":"<p>Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?</p>",
+     "text":"Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"V/VC140",
      "id":"VVC140",
-     "text":"<p>Unter welchen Voraussetzungen kann einem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst widerrufen werden?</p>",
+     "text":"Unter welchen Voraussetzungen kann einem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst widerrufen werden?",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"V/VC141",
      "id":"VVC141",
-     "text":"<p>Was hat ein Funkamateur mit zugeteiltem Rufzeichen zu erwarten, wenn er fortgesetzt gegen AFuG oder AFuV verstößt?</p>",
+     "text":"Was hat ein Funkamateur mit zugeteiltem Rufzeichen zu erwarten, wenn er fortgesetzt gegen AFuG oder AFuV verstößt?",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"V/VC142",
      "id":"VVC142",
-     "text":"<p>Wann handelt ein Funkamateur ordnungswidrig im Sinne des Amateurfunkgesetzes?</p>",
+     "text":"Wann handelt ein Funkamateur ordnungswidrig im Sinne des Amateurfunkgesetzes?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"V/VC143",
      "id":"VVC143",
-     "text":"<p>Welche der nachfolgenden Handlungen stellt eine Ordnungswidrigkeit im Sinne des Amateurfunkgesetzes dar?</p>",
+     "text":"Welche der nachfolgenden Handlungen stellt eine Ordnungswidrigkeit im Sinne des Amateurfunkgesetzes dar?",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"V/VC146",
      "id":"VVC146",
-     "text":"<p>Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?</p>",
+     "text":"Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"V/VD107",
      "id":"VVD107",
-     "text":"<p>Hat ein Funkamateur Anspruch auf Zuteilung eines bestimmten Rufzeichens?</p>",
+     "text":"Hat ein Funkamateur Anspruch auf Zuteilung eines bestimmten Rufzeichens?",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"V/VD109",
      "id":"VVD109",
-     "text":"<p>Welche Pflichten hat der Inhaber einer Amateurfunkzulassung im Fall der Änderung seiner Anschrift oder bei der Neuerrichtung einer ortsfesten Amateurfunkstelle?</p>",
+     "text":"Welche Pflichten hat der Inhaber einer Amateurfunkzulassung im Fall der Änderung seiner Anschrift oder bei der Neuerrichtung einer ortsfesten Amateurfunkstelle?",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"V/VD110",
      "id":"VVD110",
-     "text":"<p>Was muss der Inhaber einer Amateurfunkzulassung bei der Änderung seines Namens oder seiner Anschrift veranlassen?</p>",
+     "text":"Was muss der Inhaber einer Amateurfunkzulassung bei der Änderung seines Namens oder seiner Anschrift veranlassen?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"V/VD111",
      "id":"VVD111",
-     "text":"<p>Ein Funkamateur verzichtet auf seine Zulassung und damit auf die Zuteilung seines personengebundenen Rufzeichens. Kann er damit rechnen, dass er auf Antrag dieses Rufzeichen nach 2 Jahren erneut zugeteilt bekommt?</p>",
+     "text":"Ein Funkamateur verzichtet auf seine Zulassung und damit auf die Zuteilung seines personengebundenen Rufzeichens. Kann er damit rechnen, dass er auf Antrag dieses Rufzeichen nach 2 Jahren erneut zugeteilt bekommt?",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"V/VK103",
      "id":"VVK103",
-     "text":"<p>Mit welchen Folgen muss der Funkamateur rechnen, wenn er die zu entrichtenden Gebühren und Beiträge nicht zahlt?</p>",
+     "text":"Mit welchen Folgen muss der Funkamateur rechnen, wenn er die zu entrichtenden Gebühren und Beiträge nicht zahlt?",
      "answer":[
     {
       "correct":true,

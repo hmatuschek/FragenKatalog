@@ -4,7 +4,7 @@
     {
      "name":"E/TB101",
      "id":"ETB101",
-     "text":"<p>Welche Gruppe enthält insgesamt die besten gut leitenden Metalle?</p>",
+     "text":"Welche Gruppe enthält insgesamt die besten gut leitenden Metalle?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TB102",
      "id":"ETB102",
-     "text":"<p>Welches der genannten Metalle hat die beste elektrische Leitfähigkeit?</p>",
+     "text":"Welches der genannten Metalle hat die beste elektrische Leitfähigkeit?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TB103",
      "id":"ETB103",
-     "text":"<p>Welches der genannten Metalle hat die schlechteste elektrische Leitfähigkeit?</p>",
+     "text":"Welches der genannten Metalle hat die schlechteste elektrische Leitfähigkeit?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TB104",
      "id":"ETB104",
-     "text":"<p>Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)?</p>",
+     "text":"Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TC101",
      "id":"ETC101",
-     "text":"<p>Die Farbringe gelb, violett und orange auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von</p>",
+     "text":"Die Farbringe gelb, violett und orange auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TC102",
      "id":"ETC102",
-     "text":"<p>Die Farbringe gelb, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von</p>",
+     "text":"Die Farbringe gelb, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TC103",
      "id":"ETC103",
-     "text":"<p>Die Farbringe rot, violett und orange auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von</p>",
+     "text":"Die Farbringe rot, violett und orange auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TC104",
      "id":"ETC104",
-     "text":"<p>Die Farbringe rot, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von</p>",
+     "text":"Die Farbringe rot, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TC105",
      "id":"ETC105",
-     "text":"<p>Welches Bauteil hat folgendes Schaltzeichen?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAABkCAAAAADhgzyHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAkSDQh4AAAAHdElNRQfkAQ0PJRaZcCDSAAACW0lEQVRYw+2YP2gTURzHPwlvNVEkCSlS/2S44QYHIRU7uIRQMqfQjh0CHboWmuAotNCOGQoONyaQDE6hhExCFQuCHTIc2MEKxSYIta7hcMhd7u7l7p0FQcX7Lnf5/e5zvz/v/d5BEhY3VfLGxL+JiL81sRiJkRiJkd+KrHQAakIIIQTTS95xmtOLcyKKXhng9BsARePKee72geHc6tNnbKRPZQKQmv5c1NzAOedGNMvexCpQiyhBVDe9tdQKxZ6hJrRM22EBRsYkn94REwVRO5t5p7X0GJ+/vKcgDg33fUmAbBlgM5wwty5C1yVE+nE2GBnl3VQ9yiCaSwQj2XHn7qNnpbkY+aovZ987h3qxcyL3LT0utAlFtNLgpCXH+ODsreDyj2BVIjrdAiqE3aHc3vWd6xCk9xyAbU3y6xfpsWRyaikTKNHKfpdt6qUUG6vzRt9Sys584RUqpC8WRN/nWxubKJFKcVKseF2H3eBp8CT2Gt+UmVsh8+NBFvYPeOGmog+JQobVusHe1axZTS0EcfeY1sbU3Wmthk6cHcXUVoDPjvWJJu3egCh3Hg40k7RtzNVRHB12lOxR6QzObeOligDL1tdkrpF8almWZb1LNixXjaTl16xj2ePU3sZbgNFy4VIVxO3YkrMkC63TTypkfieL6qoyyDySz7RRSz611saTCEKOst+NJCTkfT2akJDlYTThR0TL3r23PMa0jEw/SR8B7uuzw8H4cg0sngOpgYwkLMDUAdjddkp6A/BgvfkD4HE5AAmRiJz9X1WMxEiMxMifQZrB5sT//WfXT2pysZQCRQBaAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETC105'/>",
+     "text":"Welches Bauteil hat folgendes Schaltzeichen?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAABkCAAAAADhgzyHAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAkSDQh4AAAAHdElNRQfkAQ0PJRaZcCDSAAACW0lEQVRYw+2YP2gTURzHPwlvNVEkCSlS/2S44QYHIRU7uIRQMqfQjh0CHboWmuAotNCOGQoONyaQDE6hhExCFQuCHTIc2MEKxSYIta7hcMhd7u7l7p0FQcX7Lnf5/e5zvz/v/d5BEhY3VfLGxL+JiL81sRiJkRiJkd+KrHQAakIIIQTTS95xmtOLcyKKXhng9BsARePKee72geHc6tNnbKRPZQKQmv5c1NzAOedGNMvexCpQiyhBVDe9tdQKxZ6hJrRM22EBRsYkn94REwVRO5t5p7X0GJ+/vKcgDg33fUmAbBlgM5wwty5C1yVE+nE2GBnl3VQ9yiCaSwQj2XHn7qNnpbkY+aovZ987h3qxcyL3LT0utAlFtNLgpCXH+ODsreDyj2BVIjrdAiqE3aHc3vWd6xCk9xyAbU3y6xfpsWRyaikTKNHKfpdt6qUUG6vzRt9Sys584RUqpC8WRN/nWxubKJFKcVKseF2H3eBp8CT2Gt+UmVsh8+NBFvYPeOGmog+JQobVusHe1axZTS0EcfeY1sbU3Wmthk6cHcXUVoDPjvWJJu3egCh3Hg40k7RtzNVRHB12lOxR6QzObeOligDL1tdkrpF8almWZb1LNixXjaTl16xj2ePU3sZbgNFy4VIVxO3YkrMkC63TTypkfieL6qoyyDySz7RRSz611saTCEKOst+NJCTkfT2akJDlYTThR0TL3r23PMa0jEw/SR8B7uuzw8H4cg0sngOpgYwkLMDUAdjddkp6A/BgvfkD4HE5AAmRiJz9X1WMxEiMxMifQZrB5sT//WfXT2pysZQCRQBaAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAw4wjHNwAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoyMiswMTowMJJVf4sAAAAASUVORK5CYII=' alt='ETC105'/>",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TC106",
      "id":"ETC106",
-     "text":"<p>Welches der folgenden Bauteile ist ein NTC?</p>",
+     "text":"Welches der folgenden Bauteile ist ein NTC?",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TC107",
      "id":"ETC107",
-     "text":"<p>Welches der folgenden Schaltsymbole stellt einen PTC-Widerstand dar?</p>",
+     "text":"Welches der folgenden Schaltsymbole stellt einen PTC-Widerstand dar?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TC108",
      "id":"ETC108",
-     "text":"<p>Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen</p>",
+     "text":"Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TC109",
      "id":"ETC109",
-     "text":"<p>Welche Bauart von Widerstand folgender Auswahl ist am besten für eine künstliche Antenne (Dummy Load) geeignet?</p>",
+     "text":"Welche Bauart von Widerstand folgender Auswahl ist am besten für eine künstliche Antenne (Dummy Load) geeignet?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"E/TC110",
      "id":"ETC110",
-     "text":"<p>Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 221?</p>",
+     "text":"Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 221?",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"E/TC111",
      "id":"ETC111",
-     "text":"<p>Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 223?</p>",
+     "text":"Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 223?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"E/TD101",
      "id":"ETD101",
-     "text":"<p>Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 1000 Ω und R<sub>3</sub>= 1 kΩ</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABUCAAAAADilyd6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADyElEQVR42u2aQWhTSRjHfw45CbZqWjzEXGRD6FEPoaGgLHsSDYU9lCJ6LC49Kd219KDXWrR4C4Uetyult5gtPQVEyBp6cfdieZtjzEHSumhhj4OHahHzePkmb17mNbz/KZ3MfDO/vnzfzPe9OaUZDinXC0hAEhDLakN7KECySmXVc3v2Uq5A0NDM/1CwZc6pj+SWJ63ZcuvsWXum3ILcvg6wa8NVTrna2VWaMS/dAaZep8f2TjDIBi9qHQClUV7u5IJoUK0MALuT4Vfh1EfKX5x9shLeltMngqqUgNktC4twC7LytPP144kF+QZp7lE7/AYfA5CJ8x/2/84MAYgdJflI3JSAxE2DBZlVUs2amh5shng4sylK1DM3jE2bgKyN8OlKuK1rFNmGcSZSkPk0HOTDpw6RyMhHOp2O9n5zvWQLIACNVddLtgTy3vWKbYFMzwBQnerRr+kXVHdGhLOMbvmMHm/aAlFKqeImQHW6V99aWndr5pNwpo9zPqMParZAPN2gDsDjuQ8mA7/qUNzzo19j0PM0AslR4KgGVb/UD0eUMvUR77brFdsAaUMubXwKGoyMzloZYPt+mOneNf+TdDtX+ylKEA1QOPL2/f1+OC6u7wh7XjY1HVnOvvawY9uk2rgV8GVEHANXAhI3DQ1IUNRaGRUayZRcYwSCNJfEVmJQrgzcR6Tr6+P3uQL8aO3ddC8Qofq4wdBeysPSwhO7INVX90IXw421B6irNpyrnQFQMD79V9ZNRWHhgQUj41k1BaSYPdCgfJ5JuBetkqT2raFNv2qXKtZRE3uk2PKAhXB3EO52J3T/jPUc9XynYTRL+sEfXW2H1EErSEEtB3/mb36fTo+0tsRTrPu05YOHKGCj8OVT+RfRNJ4X8KVuUNYz+OT6Lb9GLe1YSfcaspw//pOWZB4qfo1lrYtorShU5lWt5YP4v9Fz/169Y/KiZxq3/WoXjXmlXmtIQcnVvryc1QC7kyz3H/4LukoJt4fGxaOSTEFr+WHIR6USlkD6+XdeBygf/6LDX28MPKJM9JWYi9i3AWSxKjTI6SLnZUbCbUIKKuGPSAEgmXpo6yLZiTVDkyEmIHHT0IAM9j372u/SnndMQ/NgQar//iramsaevow3CD8vyvq9MbY8ND6SgMRNcQXxrdYGvdyODKR0EOrCwLrP6HxQFSyyqJVpdF/2uHBffGGg+Kxr+OG1oDNydOHXr7B7Vjw6a1oXjquPGCsBiZsGDCKNWvLbN45AVoW3ZXekb/2ONeBL/m1hlUHazxlIdEqcPW4aGpDPTBqkyIHnPz0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD101'/>",
+     "text":"Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 1000 Ω und R<sub>3</sub>= 1 kΩ<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABUCAAAAADilyd6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADyElEQVR42u2aQWhTSRjHfw45CbZqWjzEXGRD6FEPoaGgLHsSDYU9lCJ6LC49Kd219KDXWrR4C4Uetyult5gtPQVEyBp6cfdieZtjzEHSumhhj4OHahHzePkmb17mNbz/KZ3MfDO/vnzfzPe9OaUZDinXC0hAEhDLakN7KECySmXVc3v2Uq5A0NDM/1CwZc6pj+SWJ63ZcuvsWXum3ILcvg6wa8NVTrna2VWaMS/dAaZep8f2TjDIBi9qHQClUV7u5IJoUK0MALuT4Vfh1EfKX5x9shLeltMngqqUgNktC4twC7LytPP144kF+QZp7lE7/AYfA5CJ8x/2/84MAYgdJflI3JSAxE2DBZlVUs2amh5shng4sylK1DM3jE2bgKyN8OlKuK1rFNmGcSZSkPk0HOTDpw6RyMhHOp2O9n5zvWQLIACNVddLtgTy3vWKbYFMzwBQnerRr+kXVHdGhLOMbvmMHm/aAlFKqeImQHW6V99aWndr5pNwpo9zPqMParZAPN2gDsDjuQ8mA7/qUNzzo19j0PM0AslR4KgGVb/UD0eUMvUR77brFdsAaUMubXwKGoyMzloZYPt+mOneNf+TdDtX+ylKEA1QOPL2/f1+OC6u7wh7XjY1HVnOvvawY9uk2rgV8GVEHANXAhI3DQ1IUNRaGRUayZRcYwSCNJfEVmJQrgzcR6Tr6+P3uQL8aO3ddC8Qofq4wdBeysPSwhO7INVX90IXw421B6irNpyrnQFQMD79V9ZNRWHhgQUj41k1BaSYPdCgfJ5JuBetkqT2raFNv2qXKtZRE3uk2PKAhXB3EO52J3T/jPUc9XynYTRL+sEfXW2H1EErSEEtB3/mb36fTo+0tsRTrPu05YOHKGCj8OVT+RfRNJ4X8KVuUNYz+OT6Lb9GLe1YSfcaspw//pOWZB4qfo1lrYtorShU5lWt5YP4v9Fz/169Y/KiZxq3/WoXjXmlXmtIQcnVvryc1QC7kyz3H/4LukoJt4fGxaOSTEFr+WHIR6USlkD6+XdeBygf/6LDX28MPKJM9JWYi9i3AWSxKjTI6SLnZUbCbUIKKuGPSAEgmXpo6yLZiTVDkyEmIHHT0IAM9j372u/SnndMQ/NgQar//iramsaevow3CD8vyvq9MbY8ND6SgMRNcQXxrdYGvdyODKR0EOrCwLrP6HxQFSyyqJVpdF/2uHBffGGg+Kxr+OG1oDNydOHXr7B7Vjw6a1oXjquPGCsBiZsGDCKNWvLbN45AVoW3ZXekb/2ONeBL/m1hlUHazxlIdEqcPW4aGpDPTBqkyIHnPz0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD101'/>",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"E/TD102",
      "id":"ETD102",
-     "text":"<p>Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 1 kΩ, R<sub>2</sub>= 2000 Ω und R<sub>3</sub>= 2 kΩ</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABUCAAAAADilyd6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADyElEQVR42u2aQWhTSRjHfw45CbZqWjzEXGRD6FEPoaGgLHsSDYU9lCJ6LC49Kd219KDXWrR4C4Uetyult5gtPQVEyBp6cfdieZtjzEHSumhhj4OHahHzePkmb17mNbz/KZ3MfDO/vnzfzPe9OaUZDinXC0hAEhDLakN7KECySmXVc3v2Uq5A0NDM/1CwZc6pj+SWJ63ZcuvsWXum3ILcvg6wa8NVTrna2VWaMS/dAaZep8f2TjDIBi9qHQClUV7u5IJoUK0MALuT4Vfh1EfKX5x9shLeltMngqqUgNktC4twC7LytPP144kF+QZp7lE7/AYfA5CJ8x/2/84MAYgdJflI3JSAxE2DBZlVUs2amh5shng4sylK1DM3jE2bgKyN8OlKuK1rFNmGcSZSkPk0HOTDpw6RyMhHOp2O9n5zvWQLIACNVddLtgTy3vWKbYFMzwBQnerRr+kXVHdGhLOMbvmMHm/aAlFKqeImQHW6V99aWndr5pNwpo9zPqMParZAPN2gDsDjuQ8mA7/qUNzzo19j0PM0AslR4KgGVb/UD0eUMvUR77brFdsAaUMubXwKGoyMzloZYPt+mOneNf+TdDtX+ylKEA1QOPL2/f1+OC6u7wh7XjY1HVnOvvawY9uk2rgV8GVEHANXAhI3DQ1IUNRaGRUayZRcYwSCNJfEVmJQrgzcR6Tr6+P3uQL8aO3ddC8Qofq4wdBeysPSwhO7INVX90IXw421B6irNpyrnQFQMD79V9ZNRWHhgQUj41k1BaSYPdCgfJ5JuBetkqT2raFNv2qXKtZRE3uk2PKAhXB3EO52J3T/jPUc9XynYTRL+sEfXW2H1EErSEEtB3/mb36fTo+0tsRTrPu05YOHKGCj8OVT+RfRNJ4X8KVuUNYz+OT6Lb9GLe1YSfcaspw//pOWZB4qfo1lrYtorShU5lWt5YP4v9Fz/169Y/KiZxq3/WoXjXmlXmtIQcnVvryc1QC7kyz3H/4LukoJt4fGxaOSTEFr+WHIR6USlkD6+XdeBygf/6LDX28MPKJM9JWYi9i3AWSxKjTI6SLnZUbCbUIKKuGPSAEgmXpo6yLZiTVDkyEmIHHT0IAM9j372u/SnndMQ/NgQar//iramsaevow3CD8vyvq9MbY8ND6SgMRNcQXxrdYGvdyODKR0EOrCwLrP6HxQFSyyqJVpdF/2uHBffGGg+Kxr+OG1oDNydOHXr7B7Vjw6a1oXjquPGCsBiZsGDCKNWvLbN45AVoW3ZXekb/2ONeBL/m1hlUHazxlIdEqcPW4aGpDPTBqkyIHnPz0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD101'/>",
+     "text":"Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 1 kΩ, R<sub>2</sub>= 2000 Ω und R<sub>3</sub>= 2 kΩ<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABUCAAAAADilyd6AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADyElEQVR42u2aQWhTSRjHfw45CbZqWjzEXGRD6FEPoaGgLHsSDYU9lCJ6LC49Kd219KDXWrR4C4Uetyult5gtPQVEyBp6cfdieZtjzEHSumhhj4OHahHzePkmb17mNbz/KZ3MfDO/vnzfzPe9OaUZDinXC0hAEhDLakN7KECySmXVc3v2Uq5A0NDM/1CwZc6pj+SWJ63ZcuvsWXum3ILcvg6wa8NVTrna2VWaMS/dAaZep8f2TjDIBi9qHQClUV7u5IJoUK0MALuT4Vfh1EfKX5x9shLeltMngqqUgNktC4twC7LytPP144kF+QZp7lE7/AYfA5CJ8x/2/84MAYgdJflI3JSAxE2DBZlVUs2amh5shng4sylK1DM3jE2bgKyN8OlKuK1rFNmGcSZSkPk0HOTDpw6RyMhHOp2O9n5zvWQLIACNVddLtgTy3vWKbYFMzwBQnerRr+kXVHdGhLOMbvmMHm/aAlFKqeImQHW6V99aWndr5pNwpo9zPqMParZAPN2gDsDjuQ8mA7/qUNzzo19j0PM0AslR4KgGVb/UD0eUMvUR77brFdsAaUMubXwKGoyMzloZYPt+mOneNf+TdDtX+ylKEA1QOPL2/f1+OC6u7wh7XjY1HVnOvvawY9uk2rgV8GVEHANXAhI3DQ1IUNRaGRUayZRcYwSCNJfEVmJQrgzcR6Tr6+P3uQL8aO3ddC8Qofq4wdBeysPSwhO7INVX90IXw421B6irNpyrnQFQMD79V9ZNRWHhgQUj41k1BaSYPdCgfJ5JuBetkqT2raFNv2qXKtZRE3uk2PKAhXB3EO52J3T/jPUc9XynYTRL+sEfXW2H1EErSEEtB3/mb36fTo+0tsRTrPu05YOHKGCj8OVT+RfRNJ4X8KVuUNYz+OT6Lb9GLe1YSfcaspw//pOWZB4qfo1lrYtorShU5lWt5YP4v9Fz/169Y/KiZxq3/WoXjXmlXmtIQcnVvryc1QC7kyz3H/4LukoJt4fGxaOSTEFr+WHIR6USlkD6+XdeBygf/6LDX28MPKJM9JWYi9i3AWSxKjTI6SLnZUbCbUIKKuGPSAEgmXpo6yLZiTVDkyEmIHHT0IAM9j372u/SnndMQ/NgQar//iramsaevow3CD8vyvq9MbY8ND6SgMRNcQXxrdYGvdyODKR0EOrCwLrP6HxQFSyyqJVpdF/2uHBffGGg+Kxr+OG1oDNydOHXr7B7Vjw6a1oXjquPGCsBiZsGDCKNWvLbN45AVoW3ZXekb/2ONeBL/m1hlUHazxlIdEqcPW4aGpDPTBqkyIHnPz0AAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD101'/>",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"E/TD103",
      "id":"ETD103",
-     "text":"<p>Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 500 Ω und R<sub>3</sub>= 1 kΩ</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABKCAAAAADbS0SRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADbklEQVRo3u2aPUzbQBTH/5yYweqGw4A6Ji4SlYpQo+5RmqpjaURXhNSqTBVCWYmiqGsjokrdqsbsNGLrgKgQCypKmTsYM7VyUOdThxA+7No+3z3HBvwfEIme37ufc/fu3ccYx+0QS7oBGUgGcqEGY4wdkARnjK0lB4JFzq0FmyI65/wzEYkMyBmgt0o08XHyPjkQAHCIOMgkA9KHvVMzAQCziuFtmy0COGBVVZDx6I9oewzo5WVfw1Ux4F0TOF7gubWmsquochY5Rx4A7I4iCOfFhwDyHHOKnjAWvURp7G2j0TkavAelCofxoQd7WrVUkuwc671jxcBDFasAMN1V9SMDUgBQ3yAC2TUBNIrK2Vyia117DzTFM2s5c4ooinmnRcJhd6DdU/Sh+IukR3e5+k2n7iYIE9FmuB9byFG0mSparSWQGZ44RI4i9hXyrjVJ7TApkKSUgfhKCzfRqRxdUcDMPtvzfCUwRqumSFgBR7nTSE/5gxwb3LVToouUiJXCaqiNtSACsjTjXPtC21gKWEUGpl+xLuDSjNRTXp2uuh3tagHm9GPEic3RWZB1lrX8NJEQSLQSRQT7AZWjGEF6Ikb5cBOdypEsSDTXo3B0qWywp00ZSNp0a0AkjhWEtPkL/bcxJCdfxfWLvP7eh9EYNcgWUz8xcmur3eY1khPTQOUYuwTZecm56SHR1CJYAIxd2lZ7m8Se8e6AZIwDuU8lgBkum984UYjJLP38D52q5n/bWCk0cT7YD0sAHl8v9ycspbOXqUe4v1fXAVS6qK/TkBjuNp6ZAA6LAADOuYV6D3XukgWuINT3y8sXHywVVxcqe9rIp6as8qCdDIBufTA6npfmqL295/PbHwf/2Qdya2YRnSxN9wfr/3EA0FVGg4/+AsuzRwCwfFiOiwNoDvcj4poQAaDNbB3A9kjKh7hidOcB7A+7VPzzSWwgJQCYB4CVHCvHNkYuFWfXGqjdjp8Ct6j6zUDSJvIxsvlFwKhAP27IQb5OvvoTZuPUbgAInr4INbFr5FHTvBufNEhCukkggRv9QWNkJfBkxSdY96mImZRrM2ij3x8k3xK4jOGR4H2Bn30J30bQQpP8vlalGL6uVb+K6dVNGiMZiJy0cJM4lif0M/vGj9CMJJGyRg/y5ptA5hJK0dGU3TJNmzKQtOkfr4l1BCqJJxAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD103'/>",
+     "text":"Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 500 Ω und R<sub>3</sub>= 1 kΩ<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABKCAAAAADbS0SRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADbklEQVRo3u2aPUzbQBTH/5yYweqGw4A6Ji4SlYpQo+5RmqpjaURXhNSqTBVCWYmiqGsjokrdqsbsNGLrgKgQCypKmTsYM7VyUOdThxA+7No+3z3HBvwfEIme37ufc/fu3ccYx+0QS7oBGUgGcqEGY4wdkARnjK0lB4JFzq0FmyI65/wzEYkMyBmgt0o08XHyPjkQAHCIOMgkA9KHvVMzAQCziuFtmy0COGBVVZDx6I9oewzo5WVfw1Ux4F0TOF7gubWmsquochY5Rx4A7I4iCOfFhwDyHHOKnjAWvURp7G2j0TkavAelCofxoQd7WrVUkuwc671jxcBDFasAMN1V9SMDUgBQ3yAC2TUBNIrK2Vyia117DzTFM2s5c4ooinmnRcJhd6DdU/Sh+IukR3e5+k2n7iYIE9FmuB9byFG0mSparSWQGZ44RI4i9hXyrjVJ7TApkKSUgfhKCzfRqRxdUcDMPtvzfCUwRqumSFgBR7nTSE/5gxwb3LVToouUiJXCaqiNtSACsjTjXPtC21gKWEUGpl+xLuDSjNRTXp2uuh3tagHm9GPEic3RWZB1lrX8NJEQSLQSRQT7AZWjGEF6Ikb5cBOdypEsSDTXo3B0qWywp00ZSNp0a0AkjhWEtPkL/bcxJCdfxfWLvP7eh9EYNcgWUz8xcmur3eY1khPTQOUYuwTZecm56SHR1CJYAIxd2lZ7m8Se8e6AZIwDuU8lgBkum984UYjJLP38D52q5n/bWCk0cT7YD0sAHl8v9ycspbOXqUe4v1fXAVS6qK/TkBjuNp6ZAA6LAADOuYV6D3XukgWuINT3y8sXHywVVxcqe9rIp6as8qCdDIBufTA6npfmqL295/PbHwf/2Qdya2YRnSxN9wfr/3EA0FVGg4/+AsuzRwCwfFiOiwNoDvcj4poQAaDNbB3A9kjKh7hidOcB7A+7VPzzSWwgJQCYB4CVHCvHNkYuFWfXGqjdjp8Ct6j6zUDSJvIxsvlFwKhAP27IQb5OvvoTZuPUbgAInr4INbFr5FHTvBufNEhCukkggRv9QWNkJfBkxSdY96mImZRrM2ij3x8k3xK4jOGR4H2Bn30J30bQQpP8vlalGL6uVb+K6dVNGiMZiJy0cJM4lif0M/vGj9CMJJGyRg/y5ptA5hJK0dGU3TJNmzKQtOkfr4l1BCqJJxAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD103'/>",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"E/TD104",
      "id":"ETD104",
-     "text":"<p>Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 1,5 kΩ und R<sub>3</sub>= 2 kΩ</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABKCAAAAADbS0SRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADbklEQVRo3u2aPUzbQBTH/5yYweqGw4A6Ji4SlYpQo+5RmqpjaURXhNSqTBVCWYmiqGsjokrdqsbsNGLrgKgQCypKmTsYM7VyUOdThxA+7No+3z3HBvwfEIme37ufc/fu3ccYx+0QS7oBGUgGcqEGY4wdkARnjK0lB4JFzq0FmyI65/wzEYkMyBmgt0o08XHyPjkQAHCIOMgkA9KHvVMzAQCziuFtmy0COGBVVZDx6I9oewzo5WVfw1Ux4F0TOF7gubWmsquochY5Rx4A7I4iCOfFhwDyHHOKnjAWvURp7G2j0TkavAelCofxoQd7WrVUkuwc671jxcBDFasAMN1V9SMDUgBQ3yAC2TUBNIrK2Vyia117DzTFM2s5c4ooinmnRcJhd6DdU/Sh+IukR3e5+k2n7iYIE9FmuB9byFG0mSparSWQGZ44RI4i9hXyrjVJ7TApkKSUgfhKCzfRqRxdUcDMPtvzfCUwRqumSFgBR7nTSE/5gxwb3LVToouUiJXCaqiNtSACsjTjXPtC21gKWEUGpl+xLuDSjNRTXp2uuh3tagHm9GPEic3RWZB1lrX8NJEQSLQSRQT7AZWjGEF6Ikb5cBOdypEsSDTXo3B0qWywp00ZSNp0a0AkjhWEtPkL/bcxJCdfxfWLvP7eh9EYNcgWUz8xcmur3eY1khPTQOUYuwTZecm56SHR1CJYAIxd2lZ7m8Se8e6AZIwDuU8lgBkum984UYjJLP38D52q5n/bWCk0cT7YD0sAHl8v9ycspbOXqUe4v1fXAVS6qK/TkBjuNp6ZAA6LAADOuYV6D3XukgWuINT3y8sXHywVVxcqe9rIp6as8qCdDIBufTA6npfmqL295/PbHwf/2Qdya2YRnSxN9wfr/3EA0FVGg4/+AsuzRwCwfFiOiwNoDvcj4poQAaDNbB3A9kjKh7hidOcB7A+7VPzzSWwgJQCYB4CVHCvHNkYuFWfXGqjdjp8Ct6j6zUDSJvIxsvlFwKhAP27IQb5OvvoTZuPUbgAInr4INbFr5FHTvBufNEhCukkggRv9QWNkJfBkxSdY96mImZRrM2ij3x8k3xK4jOGR4H2Bn30J30bQQpP8vlalGL6uVb+K6dVNGiMZiJy0cJM4lif0M/vGj9CMJJGyRg/y5ptA5hJK0dGU3TJNmzKQtOkfr4l1BCqJJxAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD103'/>",
+     "text":"Wie groß ist der Ersatzwiderstand der Gesamtschaltung?<br>Gegeben: R<sub>1</sub>= 500 Ω, R<sub>2</sub>= 1,5 kΩ und R<sub>3</sub>= 2 kΩ<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAABKCAAAAADbS0SRAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJRaZcCDSAAADbklEQVRo3u2aPUzbQBTH/5yYweqGw4A6Ji4SlYpQo+5RmqpjaURXhNSqTBVCWYmiqGsjokrdqsbsNGLrgKgQCypKmTsYM7VyUOdThxA+7No+3z3HBvwfEIme37ufc/fu3ccYx+0QS7oBGUgGcqEGY4wdkARnjK0lB4JFzq0FmyI65/wzEYkMyBmgt0o08XHyPjkQAHCIOMgkA9KHvVMzAQCziuFtmy0COGBVVZDx6I9oewzo5WVfw1Ux4F0TOF7gubWmsquochY5Rx4A7I4iCOfFhwDyHHOKnjAWvURp7G2j0TkavAelCofxoQd7WrVUkuwc671jxcBDFasAMN1V9SMDUgBQ3yAC2TUBNIrK2Vyia117DzTFM2s5c4ooinmnRcJhd6DdU/Sh+IukR3e5+k2n7iYIE9FmuB9byFG0mSparSWQGZ44RI4i9hXyrjVJ7TApkKSUgfhKCzfRqRxdUcDMPtvzfCUwRqumSFgBR7nTSE/5gxwb3LVToouUiJXCaqiNtSACsjTjXPtC21gKWEUGpl+xLuDSjNRTXp2uuh3tagHm9GPEic3RWZB1lrX8NJEQSLQSRQT7AZWjGEF6Ikb5cBOdypEsSDTXo3B0qWywp00ZSNp0a0AkjhWEtPkL/bcxJCdfxfWLvP7eh9EYNcgWUz8xcmur3eY1khPTQOUYuwTZecm56SHR1CJYAIxd2lZ7m8Se8e6AZIwDuU8lgBkum984UYjJLP38D52q5n/bWCk0cT7YD0sAHl8v9ycspbOXqUe4v1fXAVS6qK/TkBjuNp6ZAA6LAADOuYV6D3XukgWuINT3y8sXHywVVxcqe9rIp6as8qCdDIBufTA6npfmqL295/PbHwf/2Qdya2YRnSxN9wfr/3EA0FVGg4/+AsuzRwCwfFiOiwNoDvcj4poQAaDNbB3A9kjKh7hidOcB7A+7VPzzSWwgJQCYB4CVHCvHNkYuFWfXGqjdjp8Ct6j6zUDSJvIxsvlFwKhAP27IQb5OvvoTZuPUbgAInr4INbFr5FHTvBufNEhCukkggRv9QWNkJfBkxSdY96mImZRrM2ij3x8k3xK4jOGR4H2Bn30J30bQQpP8vlalGL6uVb+K6dVNGiMZiJy0cJM4lif0M/vGj9CMJJGyRg/y5ptA5hJK0dGU3TJNmzKQtOkfr4l1BCqJJxAAAAAldEVYdGRhdGU6Y3JlYXRlADIwMjAtMDEtMTNUMTU6Mzc6MjIrMDE6MDDjCMc3AAAAJXRFWHRkYXRlOm1vZGlmeQAyMDIwLTAxLTEzVDE1OjM3OjIyKzAxOjAwklV/iwAAAABJRU5ErkJggg==' alt='ETD103'/>",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"E/TD108",
      "id":"ETD108",
-     "text":"<p>Die Gesamtspannung U an folgendem Spannungsteiler beträgt 12,2 V.<br>Die Widerstände haben die Werte R<sub>1</sub>= 10 kΩ und R<sub>2</sub>= 2,2 kΩ.<br>Wie groß ist die Teilspannung U<sub>2</sub>?</p><img src='data:image/png;base64,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' alt='ETD108'/>",
+     "text":"Die Gesamtspannung U an folgendem Spannungsteiler beträgt 12,2 V.<br>Die Widerstände haben die Werte R<sub>1</sub>= 10 kΩ und R<sub>2</sub>= 2,2 kΩ.<br>Wie groß ist die Teilspannung U<sub>2</sub>?<br><img src='data:image/png;base64,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' alt='ETD108'/>",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"E/TD109",
      "id":"ETD109",
-     "text":"<p>Zwei Widerstände mit R<sub>1</sub>= 20 Ω und R<sub>2</sub>= 30 Ω sind parallel geschaltet.<br>Wie groß ist der Ersatzwiderstand?</p>",
+     "text":"Zwei Widerstände mit R<sub>1</sub>= 20 Ω und R<sub>2</sub>= 30 Ω sind parallel geschaltet.<br>Wie groß ist der Ersatzwiderstand?",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"E/TD110",
      "id":"ETD110",
-     "text":"<p>Zwei Widerstände mit R<sub>1</sub>= 100 Ω und R<sub>2</sub>= 150 Ω sind parallel geschaltet.<br>Wie groß ist der Ersatzwiderstand?</p>",
+     "text":"Zwei Widerstände mit R<sub>1</sub>= 100 Ω und R<sub>2</sub>= 150 Ω sind parallel geschaltet.<br>Wie groß ist der Ersatzwiderstand?",
      "answer":[
     {
       "correct":true,

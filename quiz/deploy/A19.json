@@ -4,7 +4,7 @@
     {
      "name":"A/TB911",
      "id":"ATB911",
-     "text":"<p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>",
+     "text":"Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"A/TF436",
      "id":"ATF436",
-     "text":"<p>In einem Amateurfunkempfänger werden etwa alle 15625 Hz unerwünschte Signale festgestellt. Dies ist wahrscheinlich zurückzuführen auf</p>",
+     "text":"In einem Amateurfunkempfänger werden etwa alle 15625 Hz unerwünschte Signale festgestellt. Dies ist wahrscheinlich zurückzuführen auf",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"A/TG522",
      "id":"ATG522",
-     "text":"<p>Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens</p>",
+     "text":"Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"A/TG523",
      "id":"ATG523",
-     "text":"<p>Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 1,7 und 35 MHz? Sofern die Leistung einer unerwünschten Aussendung</p>",
+     "text":"Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 1,7 und 35 MHz? Sofern die Leistung einer unerwünschten Aussendung",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"A/TG524",
      "id":"ATG524",
-     "text":"<p>Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 50 und 1000 MHz? Sofern die Leistung einer unerwünschten Aussendung</p>",
+     "text":"Was gilt beim Sendebetrieb für unerwünschte Aussendungen im Frequenzbereich zwischen 50 und 1000 MHz? Sofern die Leistung einer unerwünschten Aussendung",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"A/TG525",
      "id":"ATG525",
-     "text":"<p>Wie erfolgt die Messung der Leistungen, die zu unerwünschten Aussendungen führen, in Anlehnung an die EU-Normen?</p>",
+     "text":"Wie erfolgt die Messung der Leistungen, die zu unerwünschten Aussendungen führen, in Anlehnung an die EU-Normen?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"A/TK101",
      "id":"ATK101",
-     "text":"<p>Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers? Es äußert sich durch</p>",
+     "text":"Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers? Es äußert sich durch",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"A/TK102",
      "id":"ATK102",
-     "text":"<p>Welche Effekte werden durch Intermodulation hervorgerufen?</p>",
+     "text":"Welche Effekte werden durch Intermodulation hervorgerufen?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"A/TK103",
      "id":"ATK103",
-     "text":"<p>Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?</p>",
+     "text":"Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"A/TK105",
      "id":"ATK105",
-     "text":"<p>In einem NF-Verstärker erfolgt die unerwünschte Gleichrichtung eines HF-Signals wahrscheinlich</p>",
+     "text":"In einem NF-Verstärker erfolgt die unerwünschte Gleichrichtung eines HF-Signals wahrscheinlich",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"A/TK107",
      "id":"ATK107",
-     "text":"<p>Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel</p>",
+     "text":"Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"A/TK108",
      "id":"ATK108",
-     "text":"<p>Ein unselektiver TV-Vorverstärker wird am wahrscheinlichsten</p>",
+     "text":"Ein unselektiver TV-Vorverstärker wird am wahrscheinlichsten",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"A/TK109",
      "id":"ATK109",
-     "text":"<p>HF-Einstrahlung in die ZF-Stufe eines Fernsehempfängers führt in der Regel zu</p>",
+     "text":"HF-Einstrahlung in die ZF-Stufe eines Fernsehempfängers führt in der Regel zu",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"A/TK110",
      "id":"ATK110",
-     "text":"<p>Zur Verbesserung der Störfestigkeit gegenüber HF-Einstrahlungen können in einem NF-Leistungsverstärker</p>",
+     "text":"Zur Verbesserung der Störfestigkeit gegenüber HF-Einstrahlungen können in einem NF-Leistungsverstärker",
      "answer":[
     {
       "correct":true,
@@ -382,7 +382,7 @@
     {
      "name":"A/TK111",
      "id":"ATK111",
-     "text":"<p>Welche sofortige Reaktion ist angebracht, wenn der Nachbar sich über HF-Einströmungen beklagt?</p>",
+     "text":"Welche sofortige Reaktion ist angebracht, wenn der Nachbar sich über HF-Einströmungen beklagt?",
      "answer":[
     {
       "correct":true,
@@ -409,7 +409,7 @@
     {
      "name":"A/TK112",
      "id":"ATK112",
-     "text":"<p>Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie kann das Signal in das Fernsehgerät eindringen?</p>",
+     "text":"Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie kann das Signal in das Fernsehgerät eindringen?",
      "answer":[
     {
       "correct":true,
@@ -436,7 +436,7 @@
     {
      "name":"A/TK113",
      "id":"ATK113",
-     "text":"<p>Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um die Störwahrscheinlichkeit auf ein Mindestmaß zu begrenzen? Sie sollte möglichst</p>",
+     "text":"Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um die Störwahrscheinlichkeit auf ein Mindestmaß zu begrenzen? Sie sollte möglichst",
      "answer":[
     {
       "correct":true,
@@ -463,7 +463,7 @@
     {
      "name":"A/TK114",
      "id":"ATK114",
-     "text":"<p>Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,</p>",
+     "text":"Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,",
      "answer":[
     {
       "correct":true,
@@ -490,7 +490,7 @@
     {
      "name":"A/TK115",
      "id":"ATK115",
-     "text":"<p>Während des Betriebs eines tragbaren KW-Transceivers mit Batterieversorgung treten zu Hause und unter Verwendung der ortsfesten Antenne bei einer elektronischen Orgel Störungen auf. Eine mögliche Ursache hierfür</p>",
+     "text":"Während des Betriebs eines tragbaren KW-Transceivers mit Batterieversorgung treten zu Hause und unter Verwendung der ortsfesten Antenne bei einer elektronischen Orgel Störungen auf. Eine mögliche Ursache hierfür",
      "answer":[
     {
       "correct":true,
@@ -517,7 +517,7 @@
     {
      "name":"A/TK116",
      "id":"ATK116",
-     "text":"<p>In welcher Entfernung von einer 70-cm-Sendeantenne sollte eine Fernsehantenne installiert werden, um das Störpotenzial möglichst gering zu halten? Sie sollte</p>",
+     "text":"In welcher Entfernung von einer 70-cm-Sendeantenne sollte eine Fernsehantenne installiert werden, um das Störpotenzial möglichst gering zu halten? Sie sollte",
      "answer":[
     {
       "correct":true,
@@ -544,7 +544,7 @@
     {
      "name":"A/TK117",
      "id":"ATK117",
-     "text":"<p>Ein starkes HF-Signal gelangt in die ZF-Stufe des Rundfunkempfängers des Nachbarn. Dieses Phänomen wird als</p>",
+     "text":"Ein starkes HF-Signal gelangt in die ZF-Stufe des Rundfunkempfängers des Nachbarn. Dieses Phänomen wird als",
      "answer":[
     {
       "correct":true,
@@ -571,7 +571,7 @@
     {
      "name":"A/TK118",
      "id":"ATK118",
-     "text":"<p>Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist</p>",
+     "text":"Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist",
      "answer":[
     {
       "correct":true,
@@ -598,7 +598,7 @@
     {
      "name":"A/TK119",
      "id":"ATK119",
-     "text":"<p>Während einer ATV-Aussendung erscheint das Bild auch auf dem Fernsehgerät der Nachbarn. Eine mögliche Abhilfe der Störung wäre die</p>",
+     "text":"Während einer ATV-Aussendung erscheint das Bild auch auf dem Fernsehgerät der Nachbarn. Eine mögliche Abhilfe der Störung wäre die",
      "answer":[
     {
       "correct":true,
@@ -625,7 +625,7 @@
     {
      "name":"A/TK120",
      "id":"ATK120",
-     "text":"<p>Bei einem Besuch beim Nachbarn zur Prüfung von Fernsehrundfunkstörungen ist zunächst</p>",
+     "text":"Bei einem Besuch beim Nachbarn zur Prüfung von Fernsehrundfunkstörungen ist zunächst",
      "answer":[
     {
       "correct":true,
@@ -652,7 +652,7 @@
     {
      "name":"A/TK204",
      "id":"ATK204",
-     "text":"<p>Bei einem Sender mit mehr als 2,5 mW Ausgangsleistung sollte die Dämpfung der Oberwellen im Frequenzbereich 1,7-35 MHz mindestens</p>",
+     "text":"Bei einem Sender mit mehr als 2,5 mW Ausgangsleistung sollte die Dämpfung der Oberwellen im Frequenzbereich 1,7-35 MHz mindestens",
      "answer":[
     {
       "correct":true,
@@ -679,7 +679,7 @@
     {
      "name":"A/TK206",
      "id":"ATK206",
-     "text":"<p>Die gesamte Bandbreite einer FMAussendung beträgt 15 kHz. Wie groß ist der Abstand der Mittenfrequenz von der Bandgrenze mindestens zu wählen, damit die Aussendung innerhalb des Bandes bleibt?</p>",
+     "text":"Die gesamte Bandbreite einer FMAussendung beträgt 15 kHz. Wie groß ist der Abstand der Mittenfrequenz von der Bandgrenze mindestens zu wählen, damit die Aussendung innerhalb des Bandes bleibt?",
      "answer":[
     {
       "correct":true,
@@ -706,7 +706,7 @@
     {
      "name":"A/TK215",
      "id":"ATK215",
-     "text":"<p>Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF festgestellt. Eine mögliche Abhilfe wäre</p>",
+     "text":"Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF festgestellt. Eine mögliche Abhilfe wäre",
      "answer":[
     {
       "correct":true,
@@ -733,7 +733,7 @@
     {
      "name":"A/TK216",
      "id":"ATK216",
-     "text":"<p>Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden</p>",
+     "text":"Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden",
      "answer":[
     {
       "correct":true,
@@ -760,7 +760,7 @@
     {
      "name":"A/TK217",
      "id":"ATK217",
-     "text":"<p>Falls sich eine Sendeantenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,</p>",
+     "text":"Falls sich eine Sendeantenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,",
      "answer":[
     {
       "correct":true,
@@ -787,7 +787,7 @@
     {
      "name":"A/TK218",
      "id":"ATK218",
-     "text":"<p>Zur Verhinderung von Fernsehstörungen, die durch Mantelwellen hervorgerufen werden, ist anstelle einer Mantelwellendrossel alternativ</p>",
+     "text":"Zur Verhinderung von Fernsehstörungen, die durch Mantelwellen hervorgerufen werden, ist anstelle einer Mantelwellendrossel alternativ",
      "answer":[
     {
       "correct":true,
@@ -814,7 +814,7 @@
     {
      "name":"A/TK219",
      "id":"ATK219",
-     "text":"<p>Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu</p>",
+     "text":"Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu",
      "answer":[
     {
       "correct":true,
@@ -841,7 +841,7 @@
     {
      "name":"A/TK220",
      "id":"ATK220",
-     "text":"<p>Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch</p>",
+     "text":"Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch",
      "answer":[
     {
       "correct":true,
@@ -868,7 +868,7 @@
     {
      "name":"A/TK221",
      "id":"ATK221",
-     "text":"<p>Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn</p>",
+     "text":"Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn",
      "answer":[
     {
       "correct":true,
@@ -895,7 +895,7 @@
     {
      "name":"A/TK222",
      "id":"ATK222",
-     "text":"<p>Eine 435-MHz-Sendeantenne mit 1 kW ERP ist unmittelbar auf die Fernsehantenne des Nachbarn gerichtet. Dies führt gegebenenfalls</p>",
+     "text":"Eine 435-MHz-Sendeantenne mit 1 kW ERP ist unmittelbar auf die Fernsehantenne des Nachbarn gerichtet. Dies führt gegebenenfalls",
      "answer":[
     {
       "correct":true,
@@ -922,7 +922,7 @@
     {
      "name":"A/TK301",
      "id":"ATK301",
-     "text":"<p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>",
+     "text":"Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung",
      "answer":[
     {
       "correct":true,
@@ -949,7 +949,7 @@
     {
      "name":"A/TK304",
      "id":"ATK304",
-     "text":"<p>Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?</p>",
+     "text":"Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?",
      "answer":[
     {
       "correct":true,
@@ -976,7 +976,7 @@
     {
      "name":"A/TK310",
      "id":"ATK310",
-     "text":"<p>Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter sollte man am besten in das Fernsehantennenkabel einschleifen, um die Störwahrscheinlichkeit zu verringern?</p>",
+     "text":"Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter sollte man am besten in das Fernsehantennenkabel einschleifen, um die Störwahrscheinlichkeit zu verringern?",
      "answer":[
     {
       "correct":true,
@@ -1003,7 +1003,7 @@
     {
      "name":"A/TK311",
      "id":"ATK311",
-     "text":"<p>Die Einfügungsdämpfung im Durchlassbereich eines passiven Hochpassfilters für ein Fernsehantennenkabel sollte</p>",
+     "text":"Die Einfügungsdämpfung im Durchlassbereich eines passiven Hochpassfilters für ein Fernsehantennenkabel sollte",
      "answer":[
     {
       "correct":true,
@@ -1030,7 +1030,7 @@
     {
      "name":"A/TK312",
      "id":"ATK312",
-     "text":"<p>Ein Nachbar beschwert sich über Störungen seines Fernsehempfängers, die allerdings auch bei abgeschalteter TV-Antenne auftreten. Die Störungen fallen zeitlich mit den Übertragungszeiten des Funkamateurs zusammen. Als erster Schritt</p>",
+     "text":"Ein Nachbar beschwert sich über Störungen seines Fernsehempfängers, die allerdings auch bei abgeschalteter TV-Antenne auftreten. Die Störungen fallen zeitlich mit den Übertragungszeiten des Funkamateurs zusammen. Als erster Schritt",
      "answer":[
     {
       "correct":true,
@@ -1057,7 +1057,7 @@
     {
      "name":"A/TK313",
      "id":"ATK313",
-     "text":"<p>Welches der nachfolgenden Filter könnte vor einem Netzanschlusskabel eingeschleift werden, um darüber fließende HF-Ströme wirksam zu dämpfen?</p>",
+     "text":"Welches der nachfolgenden Filter könnte vor einem Netzanschlusskabel eingeschleift werden, um darüber fließende HF-Ströme wirksam zu dämpfen?",
      "answer":[
     {
       "correct":true,
@@ -1084,7 +1084,7 @@
     {
      "name":"A/TK314",
      "id":"ATK314",
-     "text":"<p>Beim Betrieb eines Funkempfängers mit digitalen Schaltungen auf einer gedruckten Leiterplatte treten erhebliche Störungen auf. Diese könnten verringert werden, indem die Leiterplatte</p>",
+     "text":"Beim Betrieb eines Funkempfängers mit digitalen Schaltungen auf einer gedruckten Leiterplatte treten erhebliche Störungen auf. Diese könnten verringert werden, indem die Leiterplatte",
      "answer":[
     {
       "correct":true,
@@ -1111,7 +1111,7 @@
     {
      "name":"A/TL201",
      "id":"ATL201",
-     "text":"<p>Sie besitzen eine λ/4-Vertikalantenne. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von weniger als 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass Sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung ohne Berücksichtigung der Kabelverluste dabei sein?</p>",
+     "text":"Sie besitzen eine λ/4-Vertikalantenne. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von weniger als 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass Sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung ohne Berücksichtigung der Kabelverluste dabei sein?",
      "answer":[
     {
       "correct":true,
@@ -1138,7 +1138,7 @@
     {
      "name":"A/TL202",
      "id":"ATL202",
-     "text":"<p>Eine Amateurfunkstelle sendet in FM mit einer äquivalenten Strahlungsleistung (ERP) von 100 W. Wie groß ist die Feldstärke im freien Raum in einer Entfernung von 100 m?</p>",
+     "text":"Eine Amateurfunkstelle sendet in FM mit einer äquivalenten Strahlungsleistung (ERP) von 100 W. Wie groß ist die Feldstärke im freien Raum in einer Entfernung von 100 m?",
      "answer":[
     {
       "correct":true,
@@ -1165,7 +1165,7 @@
     {
      "name":"A/TL203",
      "id":"ATL203",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 700 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 700 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?",
      "answer":[
     {
       "correct":true,
@@ -1192,7 +1192,7 @@
     {
      "name":"A/TL204",
      "id":"ATL204",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 10,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 10,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß ist der Sicherheitsabstand?",
      "answer":[
     {
       "correct":true,
@@ -1219,7 +1219,7 @@
     {
      "name":"A/TL205",
      "id":"ATL205",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 300 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 300 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?",
      "answer":[
     {
       "correct":true,
@@ -1246,7 +1246,7 @@
     {
      "name":"A/TL206",
      "id":"ATL206",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -1273,7 +1273,7 @@
     {
      "name":"A/TL207",
      "id":"ATL207",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -1300,7 +1300,7 @@
     {
      "name":"A/TL208",
      "id":"ATL208",
-     "text":"<p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>",
+     "text":"Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?",
      "answer":[
     {
       "correct":true,
@@ -1327,7 +1327,7 @@
     {
      "name":"A/TL209",
      "id":"ATL209",
-     "text":"<p>Warum ist im Nahfeld einer Strahlungsquelle keine einfache Umrechnung zwischen den Feldgrößen E, H und S und damit auch keine vereinfachte Berechnung des Schutzabstandes möglich?</p>",
+     "text":"Warum ist im Nahfeld einer Strahlungsquelle keine einfache Umrechnung zwischen den Feldgrößen E, H und S und damit auch keine vereinfachte Berechnung des Schutzabstandes möglich?",
      "answer":[
     {
       "correct":true,
@@ -1354,7 +1354,7 @@
     {
      "name":"A/TL211",
      "id":"ATL211",
-     "text":"<p>Wie errechnen Sie die Leistung am Einspeisepunkt der Antenne (Antenneneingangsleistung) bei bekannter Senderausgangsleistung?</p>",
+     "text":"Wie errechnen Sie die Leistung am Einspeisepunkt der Antenne (Antenneneingangsleistung) bei bekannter Senderausgangsleistung?",
      "answer":[
     {
       "correct":true,
@@ -1381,7 +1381,7 @@
     {
      "name":"A/TL213",
      "id":"ATL213",
-     "text":"<p>Wann hat die folgende Formel zur Berechnung des Sicherheitsabstandes Gültigkeit und was sollten Sie tun, wenn die Gültigkeit nicht mehr sichergestellt ist?</p><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAA4CAAAAAAd0t9IAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADq0lEQVRYw+2YMWwcRRSG/0EUyBGhAIqNlMJwkgEhJXLDOIUrujiOxF5JP9cg0bBuaCmy0K87mkhp9iwF5mokK3NcFRmE0J5kuMLKbJFEKJbmRPdT7N7Zeza+m/OaM5Jfc7u3895+996bf25GEJfBXls0wBXGFcb/AuN1X4e8Wy/AxytzZePh83oxXs6XjSfbQb0cAADhqaLDaxciu75FOVAXQeGN8dvtS4Hx581LgfGkAeRbQnQAAN01sTUsrr4VQqy188nxa0IIIZpTZzn9DCQTxwSGpJGWsSLJFJEldQgz6aAkyfjk9yfDelimSONIypRkmJJOalJDkSStRDbhEUUkHaJaMXRSfFpYMkNWvmf8dj35PgtN0k7D8OyNg6JDO1+YANjHdQDLu+j35ErxvIHdqsMADQBPsV5ri+41AKC10X4M4G+8BeDd3vAlbpXPb6I3rDj8iuvA9kZ8t9YWLYfbCDGZwpFM4SzCcQ1k0SNl8RiqCFB6Wly/NaVfamjw4NXOV3gDr5aA53JpKXxWDjjEZxWHvK3vPpgh8KxF6d/vAti/Pbq/B6CBQwCDdeCbXqEj+EF+DgDBz63ivmgNAE0hhGh3hWg2hRDb6AoxEh+PokSbH0Ykk3F2k4jHJiyN1CQZh7bqF8txtRytpg5p4TJYJjENxqNnxMhcCkuqjGSkDI20LOQrUqR2ZGLIVJPmuFBliMsrEzMhqVKamFo6Kk3njUFaJOVoDSApAhiJ2JEpAGgyBnBcLxWAMh0pEJMOhikQWzpYRiFPxbDAv/d0Apdtzgp9wpS2mjRwVEZp0sgQ6qiC1WzYE1p8PMGpjjmnlflPFR2sjsmJUNWZMhip4Sm2or47eM9reh+zPRkg38Kje9iTwWqU48ePqgOqiT9L+g02M85nGgAQAdCApgSAypyqYoRnyt0m3LxFmWZHGFrC4Myfm03V5PNjxMq68EhsRmbnjOtpozWls7MT4J33y7ugugvID+dtzVlsBePtUr6hAwx/+fr0gQ9fXCTGl8F4pmhJMh23xqKK8vstoP9orBrBf30iVsrXmy+G+U+frnfOF+zcGPefXXvaGvyxuigM3630xWZj0VY7RksU1lwsxnYiSdJ84uXlfdoz1QbrAHDnr8VmA7vrQDfHtP3RBWP0e6vIH/uej9WOsY8b4sayr1ftGLsRabyPhOrHWAbebvh61a2i/Q/MnTnc6s7GPoq+aC8UY/h9GADotHynSq3/XvQoqvR0vFphLyHGPxYfnGuw2Un3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atl213'/>",
+     "text":"Wann hat die folgende Formel zur Berechnung des Sicherheitsabstandes Gültigkeit und was sollten Sie tun, wenn die Gültigkeit nicht mehr sichergestellt ist?<br><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIYAAAA4CAAAAAAd0t9IAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAHdElNRQfkAQ0PJQqNcXydAAADq0lEQVRYw+2YMWwcRRSG/0EUyBGhAIqNlMJwkgEhJXLDOIUrujiOxF5JP9cg0bBuaCmy0K87mkhp9iwF5mokK3NcFRmE0J5kuMLKbJFEKJbmRPdT7N7Zeza+m/OaM5Jfc7u3895+996bf25GEJfBXls0wBXGFcb/AuN1X4e8Wy/AxytzZePh83oxXs6XjSfbQb0cAADhqaLDaxciu75FOVAXQeGN8dvtS4Hx581LgfGkAeRbQnQAAN01sTUsrr4VQqy188nxa0IIIZpTZzn9DCQTxwSGpJGWsSLJFJEldQgz6aAkyfjk9yfDelimSONIypRkmJJOalJDkSStRDbhEUUkHaJaMXRSfFpYMkNWvmf8dj35PgtN0k7D8OyNg6JDO1+YANjHdQDLu+j35ErxvIHdqsMADQBPsV5ri+41AKC10X4M4G+8BeDd3vAlbpXPb6I3rDj8iuvA9kZ8t9YWLYfbCDGZwpFM4SzCcQ1k0SNl8RiqCFB6Wly/NaVfamjw4NXOV3gDr5aA53JpKXxWDjjEZxWHvK3vPpgh8KxF6d/vAti/Pbq/B6CBQwCDdeCbXqEj+EF+DgDBz63ivmgNAE0hhGh3hWg2hRDb6AoxEh+PokSbH0Ykk3F2k4jHJiyN1CQZh7bqF8txtRytpg5p4TJYJjENxqNnxMhcCkuqjGSkDI20LOQrUqR2ZGLIVJPmuFBliMsrEzMhqVKamFo6Kk3njUFaJOVoDSApAhiJ2JEpAGgyBnBcLxWAMh0pEJMOhikQWzpYRiFPxbDAv/d0Apdtzgp9wpS2mjRwVEZp0sgQ6qiC1WzYE1p8PMGpjjmnlflPFR2sjsmJUNWZMhip4Sm2or47eM9reh+zPRkg38Kje9iTwWqU48ePqgOqiT9L+g02M85nGgAQAdCApgSAypyqYoRnyt0m3LxFmWZHGFrC4Myfm03V5PNjxMq68EhsRmbnjOtpozWls7MT4J33y7ugugvID+dtzVlsBePtUr6hAwx/+fr0gQ9fXCTGl8F4pmhJMh23xqKK8vstoP9orBrBf30iVsrXmy+G+U+frnfOF+zcGPefXXvaGvyxuigM3630xWZj0VY7RksU1lwsxnYiSdJ84uXlfdoz1QbrAHDnr8VmA7vrQDfHtP3RBWP0e6vIH/uej9WOsY8b4sayr1ftGLsRabyPhOrHWAbebvh61a2i/Q/MnTnc6s7GPoq+aC8UY/h9GADotHynSq3/XvQoqvR0vFphLyHGPxYfnGuw2Un3AAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIwLTAxLTEzVDE1OjM3OjEwKzAxOjAw+hjR/QAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMC0wMS0xM1QxNTozNzoxMCswMTowMItFaUEAAAAASUVORK5CYII=' alt='Atl213'/>",
      "answer":[
     {
       "correct":true,
@@ -1408,7 +1408,7 @@
     {
      "name":"A/TL214",
      "id":"ATL214",
-     "text":"<p>Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?</p>",
+     "text":"Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?",
      "answer":[
     {
       "correct":true,
@@ -1435,7 +1435,7 @@
     {
      "name":"A/TL215",
      "id":"ATL215",
-     "text":"<p>Sie betreiben eine Amateurfunkstelle auf dem 2-m-Band mit einer Rundstrahlantenne mit 6 dB Gewinn über dem Dipol. Wie hoch darf die maximale Ausgangsleistung Ihres Senders unter Vernachlässigung der Kabeldämpfung sein, wenn der Grenzwert für den Personenschutz 28 V/m und der zur Verfügung stehende Sicherheitsabstand 5 m beträgt.</p>",
+     "text":"Sie betreiben eine Amateurfunkstelle auf dem 2-m-Band mit einer Rundstrahlantenne mit 6 dB Gewinn über dem Dipol. Wie hoch darf die maximale Ausgangsleistung Ihres Senders unter Vernachlässigung der Kabeldämpfung sein, wenn der Grenzwert für den Personenschutz 28 V/m und der zur Verfügung stehende Sicherheitsabstand 5 m beträgt.",
      "answer":[
     {
       "correct":true,
@@ -1462,7 +1462,7 @@
     {
      "name":"A/TL216",
      "id":"ATL216",
-     "text":"<p>Muss ein Funkamateur als Betreiber einer ortsfesten 2-m-Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn und vernachlässigbaren Kabelverlusten die Einhaltung der Personenschutzgrenzwerte nachweisen?</p>",
+     "text":"Muss ein Funkamateur als Betreiber einer ortsfesten 2-m-Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn und vernachlässigbaren Kabelverlusten die Einhaltung der Personenschutzgrenzwerte nachweisen?",
      "answer":[
     {
       "correct":true,
@@ -1489,7 +1489,7 @@
     {
      "name":"A/TL301",
      "id":"ATL301",
-     "text":"<p>Unter welchen Bedingungen darf das Standrohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutzanlage verbunden werden?</p>",
+     "text":"Unter welchen Bedingungen darf das Standrohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutzanlage verbunden werden?",
      "answer":[
     {
       "correct":true,
@@ -1516,7 +1516,7 @@
     {
      "name":"A/TL302",
      "id":"ATL302",
-     "text":"<p>Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?</p>",
+     "text":"Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?",
      "answer":[
     {
       "correct":true,
@@ -1543,7 +1543,7 @@
     {
      "name":"A/TL303",
      "id":"ATL303",
-     "text":"<p>Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?</p>",
+     "text":"Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?",
      "answer":[
     {
       "correct":true,
@@ -1570,7 +1570,7 @@
     {
      "name":"A/TL304",
      "id":"ATL304",
-     "text":"<p>Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?</p>",
+     "text":"Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?",
      "answer":[
     {
       "correct":true,
@@ -1597,7 +1597,7 @@
     {
      "name":"A/TL305",
      "id":"ATL305",
-     "text":"<p>Welche der Antworten a bis d enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?</p>",
+     "text":"Welche der Antworten a bis d enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?",
      "answer":[
     {
       "correct":true,
@@ -1624,7 +1624,7 @@
     {
      "name":"A/TL306",
      "id":"ATL306",
-     "text":"<p>Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich</p>",
+     "text":"Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich",
      "answer":[
     {
       "correct":true,
@@ -1651,7 +1651,7 @@
     {
      "name":"A/TL307",
      "id":"ATL307",
-     "text":"<p>Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel</p>",
+     "text":"Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel",
      "answer":[
     {
       "correct":true,

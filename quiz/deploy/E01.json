@@ -4,7 +4,7 @@
     {
      "name":"E/TA101",
      "id":"ETA101",
-     "text":"<p>0,042 A entspricht</p>",
+     "text":"0,042 A entspricht",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TA102",
      "id":"ETA102",
-     "text":"<p>0,00042 A entspricht</p>",
+     "text":"0,00042 A entspricht",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TA103",
      "id":"ETA103",
-     "text":"<p>100 mW entspricht</p>",
+     "text":"100 mW entspricht",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TA104",
      "id":"ETA104",
-     "text":"<p>4 200 000 Hz entspricht</p>",
+     "text":"4 200 000 Hz entspricht",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TA201",
      "id":"ETA201",
-     "text":"<p>Welche Einheit wird für die elektrische Spannung verwendet?</p>",
+     "text":"Welche Einheit wird für die elektrische Spannung verwendet?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TA202",
      "id":"ETA202",
-     "text":"<p>Welche Einheit wird für die elektrische Ladung verwendet?</p>",
+     "text":"Welche Einheit wird für die elektrische Ladung verwendet?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TA203",
      "id":"ETA203",
-     "text":"<p>Welche Einheit wird für die elektrische Leistung verwendet?</p>",
+     "text":"Welche Einheit wird für die elektrische Leistung verwendet?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TA204",
      "id":"ETA204",
-     "text":"<p>In welcher Einheit wird der elektrische Widerstand angegeben?</p>",
+     "text":"In welcher Einheit wird der elektrische Widerstand angegeben?",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TA205",
      "id":"ETA205",
-     "text":"<p>Welche der nachfolgenden Antworten enthältnurBasiseinheiten nach dem internationalen Einheitensystem?</p>",
+     "text":"Welche der nachfolgenden Antworten enthältnurBasiseinheiten nach dem internationalen Einheitensystem?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TA206",
      "id":"ETA206",
-     "text":"<p>0,22 μF sind</p>",
+     "text":"0,22 μF sind",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TA207",
      "id":"ETA207",
-     "text":"<p>3,75 MHz sind</p>",
+     "text":"3,75 MHz sind",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TA208",
      "id":"ETA208",
-     "text":"<p>Welche Einheit wird für die Kapazität verwendet?</p>",
+     "text":"Welche Einheit wird für die Kapazität verwendet?",
      "answer":[
     {
       "correct":true,

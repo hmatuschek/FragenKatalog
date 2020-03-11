@@ -4,7 +4,7 @@
     {
      "name":"E/TB901",
      "id":"ETB901",
-     "text":"<p>Die Maßeinheit der elektrischen Leistung ist</p>",
+     "text":"Die Maßeinheit der elektrischen Leistung ist",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"E/TB902",
      "id":"ETB902",
-     "text":"<p>Welcher der nachfolgenden Zusammenhänge ist richtig?</p>",
+     "text":"Welcher der nachfolgenden Zusammenhänge ist richtig?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"E/TB903",
      "id":"ETB903",
-     "text":"<p>Welche Spannung lässt einen Strom von 2 A durch einen Widerstand von 50 Ohm fließen?</p>",
+     "text":"Welche Spannung lässt einen Strom von 2 A durch einen Widerstand von 50 Ohm fließen?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"E/TB904",
      "id":"ETB904",
-     "text":"<p>Welcher Widerstand ist erforderlich um einen Strom von 3 A bei einer Spannung von 90 Volt fließen zu lassen?</p>",
+     "text":"Welcher Widerstand ist erforderlich um einen Strom von 3 A bei einer Spannung von 90 Volt fließen zu lassen?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"E/TB905",
      "id":"ETB905",
-     "text":"<p>Eine Stromversorgung nimmt bei 230 V einen Strom von 0,63 A auf. Welche elektrische Arbeit (Energie) wird bei einer Betriebsdauer von 7 Stunden verbraucht?</p>",
+     "text":"Eine Stromversorgung nimmt bei 230 V einen Strom von 0,63 A auf. Welche elektrische Arbeit (Energie) wird bei einer Betriebsdauer von 7 Stunden verbraucht?",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"E/TB906",
      "id":"ETB906",
-     "text":"<p>Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Bei einer 12-V-Versorgung beträgt die Stromentnahme</p>",
+     "text":"Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Bei einer 12-V-Versorgung beträgt die Stromentnahme",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"E/TB907",
      "id":"ETB907",
-     "text":"<p>Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt</p>",
+     "text":"Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"E/TB908",
      "id":"ETB908",
-     "text":"<p>Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt</p>",
+     "text":"Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"E/TB909",
      "id":"ETB909",
-     "text":"<p>Ein Mobil-Transceiver (Sender-Empfänger) hat bei Sendebetrieb eine Leistungsaufnahme von 100 Watt aus dem 12-V-Bordnetz des Kraftfahrzeuges. Wie groß ist die Stromaufnahme?</p>",
+     "text":"Ein Mobil-Transceiver (Sender-Empfänger) hat bei Sendebetrieb eine Leistungsaufnahme von 100 Watt aus dem 12-V-Bordnetz des Kraftfahrzeuges. Wie groß ist die Stromaufnahme?",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"E/TB910",
      "id":"ETB910",
-     "text":"<p>Ein 100-Ω-Widerstand, an dem 10 V anliegen, muss mindestens eine Belastbarkeit haben von</p>",
+     "text":"Ein 100-Ω-Widerstand, an dem 10 V anliegen, muss mindestens eine Belastbarkeit haben von",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"E/TB911",
      "id":"ETB911",
-     "text":"<p>Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 50 mA eine Spannung von 50 V abfallen soll?</p>",
+     "text":"Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 50 mA eine Spannung von 50 V abfallen soll?",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"E/TD301",
      "id":"ETD301",
-     "text":"<p>Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?</p>",
+     "text":"Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"E/TD302",
      "id":"ETD302",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Spannungsquelle?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"E/TD303",
      "id":"ETD303",
-     "text":"<p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>",
+     "text":"Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?",
      "answer":[
     {
       "correct":true,

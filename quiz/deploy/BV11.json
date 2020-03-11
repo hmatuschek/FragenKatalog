@@ -4,7 +4,7 @@
     {
      "name":"B/BB202",
      "id":"BBB202",
-     "text":"<p>Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?</p>",
+     "text":"Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?",
      "answer":[
     {
       "correct":true,
@@ -31,7 +31,7 @@
     {
      "name":"B/BC207",
      "id":"BBC207",
-     "text":"<p>Sie möchten im 2-m-Band ein SSB-QSO führen. Wie verhalten Sie sich?</p>",
+     "text":"Sie möchten im 2-m-Band ein SSB-QSO führen. Wie verhalten Sie sich?",
      "answer":[
     {
       "correct":true,
@@ -58,7 +58,7 @@
     {
      "name":"B/BC210",
      "id":"BBC210",
-     "text":"<p>Welches Seitenband wird bei SSB-Betrieb im 20-m-Band in der Regel benutzt?</p>",
+     "text":"Welches Seitenband wird bei SSB-Betrieb im 20-m-Band in der Regel benutzt?",
      "answer":[
     {
       "correct":true,
@@ -85,7 +85,7 @@
     {
      "name":"B/BC218",
      "id":"BBC218",
-     "text":"<p>In welchen Bereichen des 2-m- und 70-cm-Bandes arbeiten Amateurfunksatelliten?</p>",
+     "text":"In welchen Bereichen des 2-m- und 70-cm-Bandes arbeiten Amateurfunksatelliten?",
      "answer":[
     {
       "correct":true,
@@ -112,7 +112,7 @@
     {
      "name":"B/BE211",
      "id":"BBE211",
-     "text":"<p>Was meint ein Funkamateur damit, wenn er angibt, dass auf dem 2-m-Band \"Sporadic-E-Bedingungen\" herrschen? Er meint damit, dass derzeit</p>",
+     "text":"Was meint ein Funkamateur damit, wenn er angibt, dass auf dem 2-m-Band \"Sporadic-E-Bedingungen\" herrschen? Er meint damit, dass derzeit",
      "answer":[
     {
       "correct":true,
@@ -139,7 +139,7 @@
     {
      "name":"B/BE212",
      "id":"BBE212",
-     "text":"<p>Woran können Sie als Funkamateur eine Aurora-Verbindung erkennen?</p>",
+     "text":"Woran können Sie als Funkamateur eine Aurora-Verbindung erkennen?",
      "answer":[
     {
       "correct":true,
@@ -166,7 +166,7 @@
     {
      "name":"B/BE214",
      "id":"BBE214",
-     "text":"<p>Was versteht man unter dem von Funkamateuren benutzten \"Locator\" (Standortkenner)?</p>",
+     "text":"Was versteht man unter dem von Funkamateuren benutzten \"Locator\" (Standortkenner)?",
      "answer":[
     {
       "correct":true,
@@ -193,7 +193,7 @@
     {
      "name":"B/BE401",
      "id":"BBE401",
-     "text":"<p>Was ist damit gemeint, wenn man sagt, die Relaisfunkstelle hat eine Eingabe- und eine Ausgabefrequenz? Die Relaisfunkstelle</p>",
+     "text":"Was ist damit gemeint, wenn man sagt, die Relaisfunkstelle hat eine Eingabe- und eine Ausgabefrequenz? Die Relaisfunkstelle",
      "answer":[
     {
       "correct":true,
@@ -220,7 +220,7 @@
     {
      "name":"B/BE403",
      "id":"BBE403",
-     "text":"<p>Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle</p>",
+     "text":"Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle",
      "answer":[
     {
       "correct":true,
@@ -247,7 +247,7 @@
     {
      "name":"B/BE405",
      "id":"BBE405",
-     "text":"<p>Bei deutschen 2-m-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise</p>",
+     "text":"Bei deutschen 2-m-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise",
      "answer":[
     {
       "correct":true,
@@ -274,7 +274,7 @@
     {
      "name":"B/BE406",
      "id":"BBE406",
-     "text":"<p>Bei deutschen 70-cm-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise</p>",
+     "text":"Bei deutschen 70-cm-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise",
      "answer":[
     {
       "correct":true,
@@ -301,7 +301,7 @@
     {
      "name":"B/BE407",
      "id":"BBE407",
-     "text":"<p>Was versteht man unter dem Transponder eines \"OSCAR\" und wie arbeitet er?</p>",
+     "text":"Was versteht man unter dem Transponder eines \"OSCAR\" und wie arbeitet er?",
      "answer":[
     {
       "correct":true,
@@ -328,7 +328,7 @@
     {
      "name":"B/BE408",
      "id":"BBE408",
-     "text":"<p>Was versteht man unter einem \"Transponderfahrplan\"?</p>",
+     "text":"Was versteht man unter einem \"Transponderfahrplan\"?",
      "answer":[
     {
       "correct":true,
@@ -355,7 +355,7 @@
     {
      "name":"B/BE411",
      "id":"BBE411",
-     "text":"<p>Die Begriffe 1) OSCAR, 2) Uplink, 3) Downlink, 4) Azimut/Elevation bedeuten in der angegebenen Reihenfolge:</p>",
+     "text":"Die Begriffe 1) OSCAR, 2) Uplink, 3) Downlink, 4) Azimut/Elevation bedeuten in der angegebenen Reihenfolge:",
      "answer":[
     {
       "correct":true,
