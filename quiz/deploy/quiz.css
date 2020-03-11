@@ -1,5 +1,23 @@
 body {
+  background-color: #fff;
+}
 
+header {
+  border: none;
+  border-spacing: 0;
+  border-top-color: rgb(42, 166, 218);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-bottom-color: rgb(42, 166, 218);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  background-color: #eee;
+  margin: 0;
+  margin-bottom: 10px;
+  padding: 14px;
+  font-size: 150%;
+  font-weight: bold;
+  color: #2aa6da;
 }
 
 nav {
@@ -29,10 +47,10 @@ nav span.sep {
   margin-right: 7px;
 }
 
-table.question {
+main {
+  margin: 0;
   margin-top: 15px;
   border: none;
-  border-spacing: 0;
   border-top-color: rgb(42, 166, 218);
   border-top-style: solid;
   border-top-width: 1px;
@@ -40,6 +58,77 @@ table.question {
   border-bottom-style: solid;
   border-bottom-width: 1px;
   background-color: #eee;
+  padding: 7px;
+}
+
+footer {
+  font-size: 80%;
+  margin: 0;
+  margin-top: 15px;
+  border: none;
+  border-top-color: rgb(42, 166, 218);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-bottom-color: rgb(42, 166, 218);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  background-color: #eee;
+  padding: 7px;
+}
+
+/*
+ * Book selection page.
+ */
+div.book {
+  border: none;
+  border-top-color: rgb(42, 166, 218);
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-bottom-color: rgb(42, 166, 218);
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  background-color: #eee;
+  margin: 0;
+  padding: 7px;
+}
+
+/*
+ * Quiz page
+ */
+div.chapsel {
+  border: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(39, 61, 94);
+  margin: 0;
+  padding-bottom: 7px;
+}
+
+ul.chap {
+  border: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(39, 61, 94);
+  margin: 0;
+  padding-top: 7px;
+  padding-bottom: 7px;
+}
+
+div.start {
+  padding-top: 7px;
+}
+
+/*
+ * Quiz page
+ */
+main.quiz {
+  padding:0px;
+}
+table.question {
+  border: none;
+  border-spacing: 0;
+  margin: 0;
+  padding: 0;
 }
 
 td {
@@ -97,38 +186,24 @@ td.submit {
   text-align: left;
 }
 
-div.stats {
-  font-size: 80%;
-  margin: 0;
-  margin-top: 15px;
-  border: none;
-  border-top-color: rgb(42, 166, 218);
-  border-top-style: solid;
-  border-top-width: 1px;
-  border-bottom-color: rgb(42, 166, 218);
-  border-bottom-style: solid;
-  border-bottom-width: 1px;
-  background-color: #eee;
-  padding: 7px;
-}
-
-div.stats span {
+footer.quiz span {
   margin-right: 10px;
 }
 
-div.stats span.statstitle {
+footer.quiz span.statstitle {
   color: #2aa6da;
   font-weight: bold;
   display: block;
 }
 
-div.stats span.prob {
+footer.quiz span.prob {
   color: #2aa6da;
   font-weight: bold;
   display: block;
 }
 
-div.stats progress.prob {
+footer.quiz progress.prob {
   width: 100%;
   max-width: 340px;
+  content: attr(value)'%';
 }
