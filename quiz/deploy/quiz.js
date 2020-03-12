@@ -43,7 +43,12 @@ class Quiz {
     this.selected = null;
     this.answered = settings.answered;
     this.correct = settings.correct;
-    this.probability = cpbinom(25, 34, (this.correct+1.0)/(this.answered+4.0));
+    this.tC = 27;
+    this.tT = 34;
+    if ("A" == window.localStorage.getItem("book")) {
+      this.tC = ??; this.tN = ??;
+    }
+    this.probability = cpbinom(this.tC, this.tN, (this.correct+1.0)/(this.answered+4.0));
     this.loadQuestions(settings.chapters);
   }
 
@@ -125,7 +130,7 @@ class Quiz {
       this.weights[question] *= 5;
     }
     var pc = (this.correct+1.0)/(this.answered+4.0)
-    this.probability = cpbinom(25, 34, pc);
+    this.probability = cpbinom(this.tC, this.tN, pc);
     console.log("PC="+pc+", Prb="+this.probability);
     this.save();
   }

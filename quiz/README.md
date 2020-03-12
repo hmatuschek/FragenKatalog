@@ -9,4 +9,4 @@ den Stapel (geringere Wahrscheinlichkeit nochmals gezogen zu werden). Beantworte
 falsch, kommt sie weiter vorne in den Stapel (höhere Wahrscheinlichkeit nochmals gezogen zu werden).
 
 Dieses Quiz ist vollständig in HTML/JavaScript implementiert und benötigt keinerlei Login oder
-Backend. Ihr Fortschritt wird lokal in ihrem Browser gespeichert. 
+Backend. Ihr Fortschritt wird lokal in ihrem Browser gespeichert.
