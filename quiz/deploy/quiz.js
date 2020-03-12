@@ -46,9 +46,9 @@ class Quiz {
     this.tC = 27;
     this.tT = 34;
     if ("A" == window.localStorage.getItem("book")) {
-      this.tC = 39; this.tN = 51;
+      this.tC = 39; this.tT = 51;
     }
-    this.probability = cpbinom(this.tC, this.tN, (this.correct+1.0)/(this.answered+4.0));
+    this.probability = cpbinom(this.tC, this.tT, (this.correct+1.0)/(this.answered+4.0));
     this.loadQuestions(settings.chapters);
   }
 
@@ -130,7 +130,7 @@ class Quiz {
       this.weights[question] *= 5;
     }
     var pc = (this.correct+1.0)/(this.answered+4.0)
-    this.probability = cpbinom(this.tC, this.tN, pc);
+    this.probability = cpbinom(this.tC, this.tT, pc);
     console.log("PC="+pc+", Prb="+this.probability);
     this.save();
   }
