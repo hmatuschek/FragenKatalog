@@ -46,7 +46,7 @@ class Quiz {
     this.tC = 27;
     this.tT = 34;
     if ("A" == window.localStorage.getItem("book")) {
-      this.tC = ??; this.tN = ??;
+      this.tC = 39; this.tN = 51;
     }
     this.probability = cpbinom(this.tC, this.tN, (this.correct+1.0)/(this.answered+4.0));
     this.loadQuestions(settings.chapters);
