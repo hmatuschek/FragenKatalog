@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ203" name="A/TJ203">
+      <text>
+        <p>Wozu wird ein Dipmeter beispielsweise verwendet?</p>
+      </text>
+      <answer correct="yes">Zur Prüfung der Schwingkreisresonanz in Sendern und Empfängern.</answer>
+      <answer correct="no">Zur ungefähren Bestimmung der Leistung eines Senders.</answer>
+      <answer correct="no">Zur genauen Bestimmung der Dämpfung eines Schwingkreises.</answer>
+      <answer correct="no">Zur genauen Bestimmung der Güte eines Schwingkreises.</answer>
+    </question>
+    

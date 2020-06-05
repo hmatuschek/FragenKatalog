@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH212" name="A/TH212">
+      <text>
+        <p>
+          In dem folgenden Richtdiagramm sind auf der Skala der relativen Feldstärke E / E
+          <sub>max</sub>
+           die Punkte A bis D markiert. Durch welchen der Punkte A bis D ziehen sie mit einem Zirkel den Kreisbogen, um die Halbwertsbreite der Antenne an den Schnittpunkten des Kreises mit der Keule ablesen zu können?
+        </p>
+        <img src="Ath212" />
+      </text>
+      <answer correct="yes">Durch den Punkt C.</answer>
+      <answer correct="no">Durch den Punkt B.</answer>
+      <answer correct="no">Durch den Punkt D.</answer>
+      <answer correct="no">Durch den Punkt A.</answer>
+    </question>
+    

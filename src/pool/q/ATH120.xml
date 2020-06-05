@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH120" name="A/TH120">
+      <text>
+        <p>Welche Antennenformen werden im VHF-UHF-Bereich bei den Funkamateuren in der Regel nicht verwendet?</p>
+      </text>
+      <answer correct="yes">Langdraht-Antennen</answer>
+      <answer correct="no">Yagi-Antennen</answer>
+      <answer correct="no">Parabolantennen</answer>
+      <answer correct="no">Schlitz-Antennen</answer>
+    </question>
+    

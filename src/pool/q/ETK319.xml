@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK319" name="E/TK319">
+      <text>
+        <p>Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn</p>
+      </text>
+      <answer correct="yes">kann in Verbindung mit dem Signal naher Sender unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören.</answer>
+      <answer correct="no">kann in Verbindung mit dem Oszillatorsignal des Fernsehempfängers unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören.</answer>
+      <answer correct="no">kann in Verbindung mit Einstreuungen aus dem Stromnetz durch Intermodulation Bild- und Tonstörungen hervorrufen.</answer>
+      <answer correct="no">kann in Verbindung mit dem Signal naher Sender parametrische Schwingungen erzeugen, die einen überhöhten Nutzsignalpegel hervorrufen.</answer>
+    </question>
+    

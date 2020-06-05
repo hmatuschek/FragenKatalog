@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE102" name="B/BE102">
+      <text>
+        <p>Ein Funkamateur möchte eine verschlüsselte Nachricht an seinen Funkfreund senden. In welcher Sprache ist dies statthaft?</p>
+      </text>
+      <answer correct="yes">Verschlüsselte Nachrichten sind nicht gestattet. Der Funkverkehr muss in offener Sprache abgewickelt werden.</answer>
+      <answer correct="no">In allen Sprachen</answer>
+      <answer correct="no">Nur in Deutsch</answer>
+      <answer correct="no">Nur in den europäischen Sprachen</answer>
+    </question>
+    

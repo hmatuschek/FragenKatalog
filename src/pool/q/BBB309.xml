@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB309" name="B/BB309">
+      <text>
+        <p>Sie bekommen von Ihrer Gegenstation den Rapport "4 und 8". Was sagt Ihnen der Rapport?</p>
+      </text>
+      <answer correct="yes">Die Station kann mich ohne Schwierigkeiten mit einem starken Signal empfangen.</answer>
+      <answer correct="no">Die Station kann mich ohne Schwierigkeiten mit einem relativ schwachen Signal empfangen.</answer>
+      <answer correct="no">Die Station kann mich nur mit Schwierigkeiten mit einem schwachen Signal empfangen.</answer>
+      <answer correct="no">Die Station kann mich nur zeitweise aber mit einem starken Signal empfangen.</answer>
+    </question>
+    

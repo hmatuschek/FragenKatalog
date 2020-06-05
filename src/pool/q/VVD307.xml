@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD307" name="V/VD307">
+      <text>
+        <p>Kann der Inhaber einer Amateurfunkzulassung der Klasse E ein Ausbildungsrufzeichen zugeteilt bekommen?</p>
+      </text>
+      <answer correct="yes">Ja, er darf jedoch nur im Rahmen der Klasse E ausbilden.</answer>
+      <answer correct="no">Nein, die Klasse E ist nur als Einstiegsklasse vorgesehen und darf daher nicht ausbilden.</answer>
+      <answer correct="no">Nein, Ausbildungsrufzeichen werden nur Inhabern der höchsten Amateurfunk-Zeugnisklasse zugeteilt.</answer>
+      <answer correct="no">Ja, er darf die Ausbildung aber nur in Anwesenheit eines Zulassungsinhabers mit Klasse A durchführen.</answer>
+    </question>
+    

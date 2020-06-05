@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA201" name="E/TA201">
+      <text>
+        <p>Welche Einheit wird für die elektrische Spannung verwendet?</p>
+      </text>
+      <answer correct="yes">Volt (V)</answer>
+      <answer correct="no">Ampere (A)</answer>
+      <answer correct="no">Ohm (Ω)</answer>
+      <answer correct="no">Amperestunden (Ah)</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE306" name="A/TE306">
+      <text>
+        <p>Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal?</p>
+      </text>
+      <answer correct="yes">12 kHz</answer>
+      <answer correct="no">25 kHz</answer>
+      <answer correct="no">ca. 6,6 kHz</answer>
+      <answer correct="no">ca. 3 kHz</answer>
+    </question>
+    

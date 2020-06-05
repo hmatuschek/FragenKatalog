@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ601" name="A/TJ601">
+      <text>
+        <p>Welches Gerät ist hier dargestellt?</p>
+        <img src="Atj601" />
+      </text>
+      <answer correct="yes">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Dipmeter</answer>
+      <answer correct="no">Stehwellenmessgerät</answer>
+      <answer correct="no">Interferenzwellenmesser</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF314" name="A/TF314">
+      <text>
+        <p>An welchem Punkt wird in der Schaltung der Ausgangspegel entnommen?</p>
+        <img src="Atf314" />
+      </text>
+      <answer correct="yes">Schaltungspunkt D</answer>
+      <answer correct="no">Schaltungspunkt A</answer>
+      <answer correct="no">Schaltungspunkt B</answer>
+      <answer correct="no">Schaltungspunkt C</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD402" name="V/VD402">
+      <text>
+        <p>Welche Voraussetzung muss für die Erteilung eines Rufzeichens für den Betrieb einer Klubstation erfüllt sein?</p>
+      </text>
+      <answer correct="yes">Eine Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG.</answer>
+      <answer correct="no">Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Ausbildungsrufzeichens sein.</answer>
+      <answer correct="no">Der verantwortliche Funkamateur für die Klubstation muss in jedem Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein.</answer>
+      <answer correct="no">Eine HAREC-Bescheinigung oder ein Amateurfunkzeugnis.</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC101" name="A/TC101">
+      <text>
+        <p>Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes anhand des ohmschen Gesetzes zu ermitteln?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc101a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc101b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc101c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc101d" />
+      </answer>
+    </question>
+    

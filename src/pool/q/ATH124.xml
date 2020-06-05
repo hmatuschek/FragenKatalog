@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH124" name="A/TH124">
+      <text>
+        <p>Eine Vertikalantenne erzeugt</p>
+      </text>
+      <answer correct="yes">einen flachen Abstrahlwinkel.</answer>
+      <answer correct="no">zirkulare Polarisation.</answer>
+      <answer correct="no">einen hohen Abstrahlwinkel.</answer>
+      <answer correct="no">elliptische Polarisation.</answer>
+    </question>
+    

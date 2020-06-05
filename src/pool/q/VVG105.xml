@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG105" name="V/VG105">
+      <text>
+        <p>Eine Zusatzeinrichtung eines Funkamateurs verursacht eine elektromagnetische Störung im Sinne des EMVG bei einer Betriebsfunkanlage in der Nachbarschaft. Welche Maßnahmen sind entsprechend den Regelungen des EMVG zu treffen?</p>
+      </text>
+      <answer correct="yes">Die Zusatzeinrichtung muss im Störungsfall die Grenzwerte der europäischen Normen einhalten und die Schutzziele des EMVG erfüllen.</answer>
+      <answer correct="no">Die Zusatzeinrichtung muss die Grenzwerte der europäischen Normen nur dann einhalten, wenn es ein kommerziell gefertigtes Gerät ist.</answer>
+      <answer correct="no">Die Zusatzeinrichtung ist unabhängig von der Einhaltung irgendwelcher Grenzwerte so zu verändern, dass es nicht mehr zu Störungen kommt.</answer>
+      <answer correct="no">Die Betriebsfunkanlage ist so zu verändern, dass es zu keinen Störungen mehr kommt (z.B. Rauschsperre unempfindlicher einstellen, Veränderung des Antennenstandortes).</answer>
+    </question>
+    

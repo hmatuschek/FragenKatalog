@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE207" name="B/BE207">
+      <text>
+        <p>Eine seltene Station ruft in SSB "only number 3, only suffix". Was ist damit gemeint?</p>
+      </text>
+      <answer correct="yes">Die Station möchte nur Anrufe von Stationen mit der Ziffer "3" im Rufzeichen und bittet, nur mit den Buchstaben des Suffixes zu rufen.</answer>
+      <answer correct="no">Die Station möchte jeweils drei rufende Stationen in eine Liste aufnehmen.</answer>
+      <answer correct="no">Die Station möchte nur Stationen mit dreistelligem Suffix aufrufen.</answer>
+      <answer correct="no">Die Station möchte, dass anrufende Stationen dreimal nur ihr Suffix durchgeben.</answer>
+    </question>
+    

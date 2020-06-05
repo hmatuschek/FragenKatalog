@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH159" name="A/TH159">
+      <text>
+        <p>Eine Delta-Loop-Antenne mit einer vollen Wellenlänge soll für 7,1 MHz aus Draht hergestellt werden. Es kann mit einem Korrekturfaktor von 0,95 gerechnet werden. Wie lang muss der Draht insgesamt sein?</p>
+      </text>
+      <answer correct="yes">40,14 m</answer>
+      <answer correct="no">42,25 m</answer>
+      <answer correct="no">20,07 m</answer>
+      <answer correct="no">21,13 m</answer>
+    </question>
+    

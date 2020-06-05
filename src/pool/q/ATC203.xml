@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC203" name="A/TC203">
+      <text>
+        <p>Ein verlustloser Kondensator wird an eine Wechselspannungsquelle angeschlossen. Welche Phasenverschiebung zwischen Spannung und Strom stellt sich ein?</p>
+      </text>
+      <answer correct="yes">Der Strom eilt der Spannung um 90° voraus.</answer>
+      <answer correct="no">Die Spannung eilt dem Strom um 90° voraus.</answer>
+      <answer correct="no">Die Spannung eilt dem Strom um 45° voraus.</answer>
+      <answer correct="no">Der Strom eilt der Spannung um 45° voraus.</answer>
+    </question>
+    

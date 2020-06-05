@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC213" name="B/BC213">
+      <text>
+        <p>Wie gehen Sie vor, wenn Sie auf Kurzwelle Funkbetrieb in einer neuen digitalen Betriebsart machen wollen?</p>
+      </text>
+      <answer correct="yes">Ich schaue im aktuellen HF-Bandplan der IARU nach, in welchen Frequenzbereichen bevorzugt Funkverkehr in digitalen Betriebsarten stattfinden soll.</answer>
+      <answer correct="no">Ich verabrede mich mit meinem Funkpartner auf einer beliebigen freien Frequenz.</answer>
+      <answer correct="no">Ich verwende eine Frequenz jeweils in den ersten 30 kHz vom Bandanfang.</answer>
+      <answer correct="no">Ich sende auf den Frequenzen, die für das internationale Bakenprojekt (IBP) reserviert sind.</answer>
+    </question>
+    

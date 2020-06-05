@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE302" name="E/TE302">
+      <text>
+        <p>Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal?</p>
+      </text>
+      <answer correct="yes">20 kHz</answer>
+      <answer correct="no">12,5 kHz</answer>
+      <answer correct="no">ca. 6,6 kHz</answer>
+      <answer correct="no">ca. 3 kHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG230" name="A/TG230">
+      <text>
+        <p>Welches Filter sollte hinter einem VHF-Sender geschaltet werden, um die unerwünschte Aussendung von Subharmonischen und Harmonischen auf ein Mindestmaß zu begrenzen?</p>
+      </text>
+      <answer correct="yes">Bandpass</answer>
+      <answer correct="no">Tiefpassfilter</answer>
+      <answer correct="no">Hochpassfilter</answer>
+      <answer correct="no">Notchfilter</answer>
+    </question>
+    

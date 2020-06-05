@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA107" name="A/TA107">
+      <text>
+        <p>Einem Spannungsverhältnis von 15 entsprechen</p>
+      </text>
+      <answer correct="yes">23,5 dB.</answer>
+      <answer correct="no">52 dB.</answer>
+      <answer correct="no">47 dB.</answer>
+      <answer correct="no">11,7 dB.</answer>
+    </question>
+    

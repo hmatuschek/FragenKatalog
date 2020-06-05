@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ106" name="E/TJ106">
+      <text>
+        <p>Wie ermittelt man die Resonanzfrequenz eines Schwingkreises? Man ermittelt sie</p>
+      </text>
+      <answer correct="yes">durch Messung von L und C und Berechnung oder z.B. mit einem Dipmeter.</answer>
+      <answer correct="no">mit einem Frequenzmesser oder einem Oszilloskop.</answer>
+      <answer correct="no">mit einem Digital-Multimeter in der Stellung Frequenzmessung.</answer>
+      <answer correct="no">mit Hilfe der S-Meter Anzeige bei Anschluss des Schwingkreises an den Empfängereingang.</answer>
+    </question>
+    

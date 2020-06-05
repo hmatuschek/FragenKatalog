@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB112" name="A/TB112">
+      <text>
+        <p>In einer Halbleiterdiode erweitert sich die Verarmungszone,</p>
+        <img src="Atb111" />
+      </text>
+      <answer correct="yes">wenn man an die Katode (N-Gebiet) eine positive und an die Anode (P-Gebiet) eine negative Spannung anlegt</answer>
+      <answer correct="no">wenn man an die Katode (P-Gebiet) eine positive und an die Anode (N-Gebiet) eine negative Spannung anlegt.</answer>
+      <answer correct="no">wenn man an die Katode (P-Gebiet) eine negative und an die Anode (N-Gebiet) eine positive Spannung anlegt</answer>
+      <answer correct="no">wenn man an die Katode (N-Gebiet) eine negative und an die Anode (P-Gebiet) eine positive Spannung anlegt.</answer>
+    </question>
+    

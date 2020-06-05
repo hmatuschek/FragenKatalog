@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC116" name="V/VC116">
+      <text>
+        <p>Was ist neben einer erfolgreich abgelegten Amateurfunkprüfung unbedingt erforderlich, damit Sie eine Amateurfunkstelle betreiben dürfen?</p>
+      </text>
+      <answer correct="yes">Eine Zulassung zur Teilnahme am Amateurfunkdienst.</answer>
+      <answer correct="no">Die Vorlage eines Nachweises darüber, dass das zu benutzende Funkgerät keine Sendeleistung von mehr als 10 Watt erzeugen kann.</answer>
+      <answer correct="no">Die Einholung einer EMVU-Bescheinigung bei der zuständigen Behörde.</answer>
+      <answer correct="no">Die Vorlage von Berechnungsunterlagen und ergänzenden Messprotokollen der ungünstigsten Antennenanlage.</answer>
+    </question>
+    

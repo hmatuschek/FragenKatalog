@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ708" name="A/TJ708">
+      <text>
+        <p>
+          Für den Bau einer Dummy Load wurden Schichtwiderstände von 150 Ohm / 1 Watt verwendet. Jeweils vier Widerstände wurden in Serie geschaltet und durch Parallelschaltung dieser Serienschaltungen wurden zirka 50 Ohm erreicht.
+          <br />
+          Wie viele Widerstände wurden insgesamt benötigt und welche Dauerleistung verträgt die Dummy Load?
+        </p>
+        <img src="Atj708" />
+      </text>
+      <answer correct="yes">gesamt 48 Widerstände, 48 Watt</answer>
+      <answer correct="no">gesamt 48 Widerstände, 12 Watt</answer>
+      <answer correct="no">gesamt 12 Widerstände, 48 Watt</answer>
+      <answer correct="no">gesamt 16 Widerstände, 16 Watt</answer>
+    </question>
+    

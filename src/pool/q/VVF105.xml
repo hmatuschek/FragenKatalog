@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF105" name="V/VF105">
+      <text>
+        <p>Dürfen Sendefunkanlagen ohne Frequenzzuteilung betrieben werden?</p>
+      </text>
+      <answer correct="yes">Sendefunkanlagen bedürfen ausnahmslos einer Frequenzzuteilung, und zwar unabhängig von der Sendeleistung oder benutzten Frequenz.</answer>
+      <answer correct="no">Sendefunkanlagen mit Leistungen kleiner 0,1 Watt benötigen wegen der geringen Reichweite keine Frequenzzuteilung.</answer>
+      <answer correct="no">Sendefunkanlagen, die ausschließlich auf ISM-Frequenzen betrieben werden können, benötigen keine Frequenzzuteilung.</answer>
+      <answer correct="no">Das Errichten von Sendefunkanlagen ist ohne Zuteilung nicht zulässig; für den Betrieb benötigt man grundsätzlich eine Einzelzuteilung.</answer>
+    </question>
+    

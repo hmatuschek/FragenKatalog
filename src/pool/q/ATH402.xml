@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH402" name="A/TH402">
+      <text>
+        <p>Zur Anpassung von Antennen werden häufig Umwegleitungen verwendet. Wie arbeitet die folgende Schaltung?</p>
+        <img src="Ath401" />
+      </text>
+      <answer correct="yes">Der λ/2-Faltdipol hat an jedem seiner Anschlüsse eine Impedanz von 120 Ω gegen Erde. Durch die λ/2-Umwegleitung erfolgt eine 1:1 Widerstandstransformation mit Phasendrehung um 180°. An der Seite der Antennenleitung erfolgt eine phasenrichtige Parallelschaltung von 2 mal 120 Ω gegen Erde, womit eine Ausgangsimpedanz von 60 Ω erreicht wird.</answer>
+      <answer correct="no">Der λ/2-Faltdipol hat eine Impedanz von 240 Ω. Durch die λ/2-Umwegleitung erfolgt eine 4:1 Widerstandstransformation mit Phasendrehung um 360°, womit an der Seite der Antennenleitung eine Ausgangsimpedanz von 60 Ω erreicht wird.</answer>
+      <answer correct="no">Der λ/2-Dipol hat eine Impedanz von 60 Ω. Durch die λ/2-Umwegleitung erfolgt eine 1:2 Widerstandstransformation mit Phasendrehung um 180°. An der Seite der Antennenleitung erfolgt eine phasenrichtige Parallelschaltung von 2 mal 120 Ω gegen Erde. Womit eine Ausgangsimpedanz von 60 Ω erreicht wird.</answer>
+      <answer correct="no">Der λ/2-Dipol hat eine Impedanz von 240 Ω. Durch die λ/2-Umwegleitung erfolgt eine 4:1 Widerstandstransformation mit Phasendrehung um 360°, womit an der Seite der Antennenleitung eine Ausgangsimpedanz von 60 Ω erreicht wird.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL302" name="A/TL302">
+      <text>
+        <p>Welches Material und welcher Mindestquerschnitt ist bei einer Erdungsleitung zwischen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden?</p>
+      </text>
+      <answer correct="yes">Als geeigneter Erdungsleiter gilt ein Einzelmassivdraht mit einem Mindestquerschnitt von 16 mm² Kupfer, isoliert oder blank, oder 25 mm² Aluminium isoliert oder 50 mm² Stahl.</answer>
+      <answer correct="no">Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 10 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 16 mm²2 Querschnitt.</answer>
+      <answer correct="no">Ein- oder mehrdrähtiger - aber nicht feindrähtiger - isolierter oder blanker Kupferleiter mit mindestens 25 mm² Querschnitt oder ein Aluminiumleiter mit mindestens 50 mm2 Querschnitt.</answer>
+      <answer correct="no">Als geeigneter Erdungsleiter gilt ein Einzeldraht mit einem Mindestquerschnitt von 4 mm² Kupfer, isoliert oder blank, oder 10 mm² Aluminium isoliert.</answer>
+    </question>
+    

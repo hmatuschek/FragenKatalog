@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH230" name="A/TH230">
+      <text>
+        <p>Eine im Außenbereich installierte Sendeantenne wird immer bevorzugt, da</p>
+      </text>
+      <answer correct="yes">die Kopplung mit der Netzspannungsverkabelung auf ein Minimum beschränkt ist.</answer>
+      <answer correct="no">sie in geringerem Ausmaß Ausstrahlungen unterworfen ist.</answer>
+      <answer correct="no">sie eine geringere Anzahl von Harmonischen abstrahlt.</answer>
+      <answer correct="no">das Sendesignal einen niedrigeren Pegel aufweist.</answer>
+    </question>
+    

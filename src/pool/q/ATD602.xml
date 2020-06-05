@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD602" name="A/TD602">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atd602" />
+      </text>
+      <answer correct="yes">einen induktiv rückgekoppelten LC-Oszillator in Emitterschaltung.</answer>
+      <answer correct="no">einen induktiv rückgekoppelten LC-Oszillator in Basisschaltung.</answer>
+      <answer correct="no">einen Oberton-Oszillator in Basisschaltung.</answer>
+      <answer correct="no">einen Oberton-Oszillator in Emitterschaltung.</answer>
+    </question>
+    

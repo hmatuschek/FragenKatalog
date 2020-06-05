@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD217" name="A/TD217">
+      <text>
+        <p>Welche Bandbreite B hat die Parallelschaltung einer Spule von 2 μH mit einem Kondensator von 60 pF und einem Widerstand von 1 kΩ?</p>
+      </text>
+      <answer correct="yes">2,65 MHz</answer>
+      <answer correct="no">26,5 MHz</answer>
+      <answer correct="no">795,8 kHz</answer>
+      <answer correct="no">79,6 kHz</answer>
+    </question>
+    

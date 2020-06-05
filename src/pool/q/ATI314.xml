@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI314" name="A/TI314">
+      <text>
+        <p>Was sind sporadische E-Reflexionen? Es sind Reflexionen von Wellen im UKW-Bereich an</p>
+      </text>
+      <answer correct="yes">besonders stark ionisierten Bereichen der E-Schicht.</answer>
+      <answer correct="no">Inversionen am unteren Rand der E-Schicht.</answer>
+      <answer correct="no">geomagnetischen Störungen am unteren Rand der E-Schicht.</answer>
+      <answer correct="no">Ionisationsspuren von Meteoriten in der E-Schicht.</answer>
+    </question>
+    

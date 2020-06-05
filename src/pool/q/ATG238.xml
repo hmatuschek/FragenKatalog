@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG238" name="A/TG238">
+      <text>
+        <p>
+          Wozu dient der Transformator T
+          <sub>1</sub>
+           der folgenden Schaltung? Er dient der Anpassung des Ausgangswiderstandes der
+        </p>
+        <img src="Atg238" />
+      </text>
+      <answer correct="yes">Emitterschaltung an den Eingang der folgenden Emitterschaltung.</answer>
+      <answer correct="no">Emitterschaltung an den Eingang der folgenden Kollektorschaltung.</answer>
+      <answer correct="no">Kollektorschaltung an den Eingang der folgenden Emitterschaltung.</answer>
+      <answer correct="no">Kollektorschaltung an den Eingang der folgenden PA.</answer>
+    </question>
+    

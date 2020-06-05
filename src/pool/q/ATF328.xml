@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF328" name="A/TF328">
+      <text>
+        <p>Die Mischstufe eines Überlagerungsempfängers arbeitet</p>
+      </text>
+      <answer correct="yes">im nichtlinearen Bereich.</answer>
+      <answer correct="no">im A-Betrieb.</answer>
+      <answer correct="no">im B-Betrieb.</answer>
+      <answer correct="no">im linearen Bereich.</answer>
+    </question>
+    

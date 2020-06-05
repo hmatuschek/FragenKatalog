@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC704" name="A/TC704">
+      <text>
+        <p>Welche der Aussagen trifft für diese Schaltung zu?</p>
+        <img src="Atc704" />
+      </text>
+      <answer correct="yes">X=0 und Y=0</answer>
+      <answer correct="no">X=0 und Y=1</answer>
+      <answer correct="no">X=1 und Y=0</answer>
+      <answer correct="no">X=1 und Y=1</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH119" name="A/TH119">
+      <text>
+        <p>Was sind typische KW-Amateurfunksendeantennen?</p>
+      </text>
+      <answer correct="yes">Langdraht-Antenne, Groundplane-Antenne, Yagiantenne, Dipolantenne, Rhombus-Antenne, Cubical-Quad-Antenne, Windom-Antenne, Delta-Loop-Antenne</answer>
+      <answer correct="no">Langdraht-Antenne, Backfire-Antenne, Dipolantenne, Rhombus-Antenne, Helical-Antenne, Groundplane-Antenne, Doppelquad, Malteserkreuzantenne, Winkelreflektorantenne</answer>
+      <answer correct="no">Groundplane-Antenne, W3DZZ-Dipolantenne, Langyagi, Rhombus-Antenne, Kugelstrahler, Big Wheel-Antenne, J-Antenne, Ferritantenne, Schlitzantennen, Kreuzyagi-Antenne</answer>
+      <answer correct="no">Dipolantenne, Rhombus-Antenne, Cubical- Quad-Antenne, Discone-Antenne, HB9CV-Antenne, Hornstrahler, J-Antenne, Sperrtopf, Parabolspiegel</answer>
+    </question>
+    

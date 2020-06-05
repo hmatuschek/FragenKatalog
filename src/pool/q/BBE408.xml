@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE408" name="B/BE408">
+      <text>
+        <p>Was versteht man unter einem "Transponderfahrplan"?</p>
+      </text>
+      <answer correct="yes">Der Transponderfahrplan eines Satelliten gibt an, wann und über welchen Transponder Funkbetrieb abgewickelt werden kann.</answer>
+      <answer correct="no">Der Transponderfahrplan eines Satelliten gibt an, zu welchen Zeiten dieser hörbar ist und Funkbetrieb abgewickelt werden muss.</answer>
+      <answer correct="no">Der Transponderfahrplan eines Satelliten gibt an, wann die Transponder untereinander den Funkbetrieb abwickeln können. Es sind Batterieabschaltzeiten zur Aufladung erforderlich.</answer>
+      <answer correct="no">Die Transponderfahrpläne der Satelliten geben an, bei welchen Satellitenbahnen und zu welchen Zeiten Satellitenbetrieb zulässig ist.</answer>
+    </question>
+    

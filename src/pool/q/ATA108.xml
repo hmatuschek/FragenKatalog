@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA108" name="A/TA108">
+      <text>
+        <p>Einer Leistungsverstärkung von 40 entsprechen</p>
+      </text>
+      <answer correct="yes">16 dB.</answer>
+      <answer correct="no">60 dB.</answer>
+      <answer correct="no">32 dB.</answer>
+      <answer correct="no">24 dB.</answer>
+    </question>
+    

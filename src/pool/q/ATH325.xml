@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH325" name="A/TH325">
+      <text>
+        <p>Eine Lecherleitung besteht aus zwei parallelen Leitern. Wovon ist ihre Resonanzfrequenz wesentlich abhängig? Sie ist abhängig</p>
+      </text>
+      <answer correct="yes">von der Leitungslänge</answer>
+      <answer correct="no">vom verwendeten Abschlusswiderstand.</answer>
+      <answer correct="no">vom Leerlauf-Kurzschlussverhalten.</answer>
+      <answer correct="no">vom Wellenwiderstand der beiden parallelen Leiter.</answer>
+    </question>
+    

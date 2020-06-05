@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ102" name="E/TJ102">
+      <text>
+        <p>Die Auflösung eines Messinstrumentes entspricht</p>
+      </text>
+      <answer correct="yes">der kleinsten Einteilung der Anzeige.</answer>
+      <answer correct="no">der Genauigkeit des Instrumentes in Bezug auf den tatsächlichen Wert.</answer>
+      <answer correct="no">der Genauigkeit des Instrumentes.</answer>
+      <answer correct="no">dem Vollausschlag der Instrumentenanzeige.</answer>
+    </question>
+    

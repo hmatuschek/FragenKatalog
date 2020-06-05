@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD309" name="A/TD309">
+      <text>
+        <p>Welche der folgenden Auswahlantworten enthält die richtige Diodenanordnung und Polarität eines Brückengleichrichters?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atd309a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd309b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd309c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd309d" />
+      </answer>
+    </question>
+    

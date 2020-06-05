@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG105" name="B/BG105">
+      <text>
+        <p>Welche Uhrzeit tragen Sie in die QSL-Karte an die Funkstation DH4KYL ein, mit der Sie um 15:30 MEZ ein QSO hatten?</p>
+      </text>
+      <answer correct="yes">14:30 UTC</answer>
+      <answer correct="no">13:30 UTC</answer>
+      <answer correct="no">17:30 UTC</answer>
+      <answer correct="no">16:30 UTC</answer>
+    </question>
+    

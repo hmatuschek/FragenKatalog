@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC304" name="A/TC304">
+      <text>
+        <p>
+          Beim Anlegen einer Gleichspannung U = 1 V an eine Spule messen Sie einen Strom. Wird der Strom beim Anlegen von einer Wechselspannung mit U
+          <sub>eff</sub>
+           = 1 V größer oder kleiner?
+        </p>
+      </text>
+      <answer correct="yes">
+        Beim Betrieb mit Gleichspannung wirkt nur der Gleichstromwiderstand der Spule. Beim Betrieb mit Wechselspannung wird der induktive Widerstand X
+        <sub>L</sub>
+         wirksam und erhöht den Gesamtwiderstand. Der Strom wird kleiner.
+      </answer>
+      <answer correct="no">
+        Beim Betrieb mit Gleichspannung wirkt nur der Gleichstromwiderstand der Spule. Beim Betrieb mit Wechselspannung wirkt nur der kleinere induktive Widerstand X
+        <sub>L</sub>
+         . Der Strom wird größer.
+      </answer>
+      <answer correct="no">
+        Beim Betrieb mit Gleich- oder Wechselspannung wirkt nur der ohmsche Widerstand X
+        <sub>L</sub>
+         der Spule. Der Strom bleibt gleich.
+      </answer>
+      <answer correct="no">
+        Beim Betrieb mit Wechselspannung wirkt nur der Wechselstromwiderstand der Spule. Beim Betrieb mit Gleichspannung wird nur der ohmsche Widerstand X
+        <sub>L</sub>
+         wirksam. Der Strom wird größer.
+      </answer>
+    </question>
+    

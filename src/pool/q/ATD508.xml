@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD508" name="A/TD508">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atd508" />
+      </text>
+      <answer correct="yes">Ratiodetektor zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Hüllkurvendemodulator zur Demodulation von AM-Signalen.</answer>
+      <answer correct="no">Produktdetektor zur Demodulation von SSB-Signalen.</answer>
+      <answer correct="no">Flanken-Diskriminator zur Demodulation von FM-Signalen.</answer>
+    </question>
+    

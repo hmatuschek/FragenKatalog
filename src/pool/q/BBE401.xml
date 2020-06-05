@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE401" name="B/BE401">
+      <text>
+        <p>Was ist damit gemeint, wenn man sagt, die Relaisfunkstelle hat eine Eingabe- und eine Ausgabefrequenz? Die Relaisfunkstelle</p>
+      </text>
+      <answer correct="yes">empfängt auf der Eingabefrequenz und sendet auf einer Ausgabefrequenz.</answer>
+      <answer correct="no">stellt bei starker Belegung der Eingabefrequenz eine zusätzliche Ausgabefrequenz zur Verfügung.</answer>
+      <answer correct="no">benutzt eine Eingabefrequenz zur Umsetzung des empfangenen Signals; und die Ausgabefrequenz zur Fernsteuerung.</answer>
+      <answer correct="no">muss auf der Ausgabefrequenz mit einem Tonruf geöffnet werden, bevor es auf der Eingabefrequenz in Betrieb gehen kann.</answer>
+    </question>
+    

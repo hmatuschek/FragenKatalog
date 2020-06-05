@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC520" name="A/TC520">
+      <text>
+        <p>Wie verändert sich die Frequenz des Schwingkreises in der folgenden Schaltung, wenn das Potentiometer P mehr in Richtung X gedreht wird?</p>
+        <img src="Atc520" />
+      </text>
+      <answer correct="yes">Die Frequenz des Schwingkreises steigt.</answer>
+      <answer correct="no">Die Frequenz des Schwingkreises sinkt.</answer>
+      <answer correct="no">Die Frequenz des Schwingkreises ändert sich nicht.</answer>
+      <answer correct="no">Die Diode sperrt und der Schwingkreis wird unterbrochen.</answer>
+    </question>
+    

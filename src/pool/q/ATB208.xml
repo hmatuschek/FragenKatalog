@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB208" name="A/TB208">
+      <text>
+        <p>
+          In welchem Zusammenhang müssen Innenwiderstand R
+          <sub>i</sub>
+           und Lastwiderstand R
+          <sub>L</sub>
+           stehen, damit Stromanpassung vorliegt?
+        </p>
+      </text>
+      <answer correct="yes">
+        R
+        <sub>L</sub>
+         « R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        R
+        <sub>L</sub>
+         » R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        R
+        <sub>L</sub>
+         = R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        R
+        <sub>L</sub>
+         = 1/R
+        <sub>i</sub>
+      </answer>
+    </question>
+    

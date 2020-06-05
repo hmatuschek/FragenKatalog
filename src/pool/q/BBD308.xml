@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD308" name="B/BD308">
+      <text>
+        <p>Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet? Die Landeskenner VE, VK, PY, JA, W entsprechen den Ländern</p>
+      </text>
+      <answer correct="yes">Kanada, Australien, Brasilien, Japan, USA.</answer>
+      <answer correct="no">Kanada, Brasilien, Australien, Japan, USA.</answer>
+      <answer correct="no">USA, Australien, Brasilien, Japan, Kanada.</answer>
+      <answer correct="no">Kanada, Australien, Japan, Brasilien, USA.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB301" name="B/BB301">
+      <text>
+        <p>Was versteht man unter dem RST-Rapport? Es ist eine Kurzformel,</p>
+      </text>
+      <answer correct="yes">um die Empfangsqualität zu beschreiben.</answer>
+      <answer correct="no">um die Sendeleistung zu beschreiben.</answer>
+      <answer correct="no">um den Ionosphärenzustand zu beschreiben.</answer>
+      <answer correct="no">um die Sonnenfleckenaktivität zu beschreiben.</answer>
+    </question>
+    

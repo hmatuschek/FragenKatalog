@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF430" name="A/TF430">
+      <text>
+        <p>Die Ausgangsstufe eines SSB-Senders ist als</p>
+      </text>
+      <answer correct="yes">linearer Verstärker gebaut.</answer>
+      <answer correct="no">Schaltstufe gebaut.</answer>
+      <answer correct="no">nichtlinearer Verstärker gebaut.</answer>
+      <answer correct="no">Vervielfacher gebaut.</answer>
+    </question>
+    

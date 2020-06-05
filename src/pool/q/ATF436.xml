@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF436" name="A/TF436">
+      <text>
+        <p>In einem Amateurfunkempfänger werden etwa alle 15625 Hz unerwünschte Signale festgestellt. Dies ist wahrscheinlich zurückzuführen auf</p>
+      </text>
+      <answer correct="yes">unerwünschte Abstrahlungen eines TV-Zeilenoszillators.</answer>
+      <answer correct="no">erwünschte Abstrahlungen eines TV-Zeilenoszillators.</answer>
+      <answer correct="no">erwünschte Abstrahlungen eines TV-Normalfrequenzsenders.</answer>
+      <answer correct="no">eine Funkstelle des Betriebsfunks mit NF-Tonruf.</answer>
+    </question>
+    

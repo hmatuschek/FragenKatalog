@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ211" name="A/TJ211">
+      <text>
+        <p>Welches dieser Messgeräte ist für die Ermittlung der Resonanzfrequenz eines Traps, das für einen Dipol genutzt werden soll, am besten geeignet?</p>
+      </text>
+      <answer correct="yes">Dipmeter</answer>
+      <answer correct="no">SWR-Messbrücke</answer>
+      <answer correct="no">Frequenzmessgerät</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+    </question>
+    

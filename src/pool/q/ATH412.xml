@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH412" name="A/TH412">
+      <text>
+        <p>Welche Phasenverschiebung erhält ein HF-Signal von A nach B, wenn die elektrische Länge der abgebildeten Leitung gleich der Wellenlänge ist?</p>
+        <img src="Ath411" />
+      </text>
+      <answer correct="yes">2π</answer>
+      <answer correct="no">180°</answer>
+      <answer correct="no">π²/4</answer>
+      <answer correct="no">90°</answer>
+    </question>
+    

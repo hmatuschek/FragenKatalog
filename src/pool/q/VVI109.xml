@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI109" name="V/VI109">
+      <text>
+        <p>Für welche Amateurfunkstellen muss der Schutz von Personen in elektromagnetischen Feldern vom Funkamateur dokumentiert werden?</p>
+      </text>
+      <answer correct="yes">Für alle ortsfesten Amateurfunkstellen ab einer äquivalenten Strahlungsleistung von 10 Watt EIRP.</answer>
+      <answer correct="no">Für alle Amateurfunkstellen.</answer>
+      <answer correct="no">Für alle ortsfesten Amateurfunkstellen.</answer>
+      <answer correct="no">Für alle Amateurfunkstellen ab einer äquivalenten Strahlungsleistung von 10 Watt EIRP.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE208" name="A/TE208">
+      <text>
+        <p>Die Änderung der Kapazität einer über einen Quarzoszillator angeschalteten Varicap-Diode stellt eine Möglichkeit dar</p>
+      </text>
+      <answer correct="yes">Frequenzmodulation zu erzeugen.</answer>
+      <answer correct="no">Zweiseitenbandmodulation zu erzeugen.</answer>
+      <answer correct="no">CW-Signale zu erzeugen.</answer>
+      <answer correct="no">Amplitudenmodulation zu erzeugen.</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC605" name="A/TC605">
+      <text>
+        <p>Welcher der folgenden Transistoren ist ein selbstsperrender N-Kanal MOSFET?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc604c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc604b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc604a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc604d" />
+      </answer>
+    </question>
+    

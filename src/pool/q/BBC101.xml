@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC101" name="B/BC101">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 13-cm-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">2320 - 2450 MHz</answer>
+      <answer correct="no">1240 - 1300 MHz</answer>
+      <answer correct="no">3400 - 3475 MHz</answer>
+      <answer correct="no">5650 - 5850 MHz</answer>
+    </question>
+    

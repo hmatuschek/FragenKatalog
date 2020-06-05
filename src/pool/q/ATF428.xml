@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF428" name="A/TF428">
+      <text>
+        <p>Durch welchen Mischer werden unerwünschte Ausgangssignale auf ein Mindestmaß begrenzt?</p>
+      </text>
+      <answer correct="yes">Balancemischer</answer>
+      <answer correct="no">Produkt-Demodulator</answer>
+      <answer correct="no">Dualtransistormischer</answer>
+      <answer correct="no">Doppeldiodenmischer</answer>
+    </question>
+    

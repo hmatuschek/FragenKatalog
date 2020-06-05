@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE138" name="V/VE138">
+      <text>
+        <p>Was gilt für die Rufzeicheninhaber der Klassen A und E in den Frequenzbereichen 144 - 146 MHz und 430 - 440 MHz?</p>
+      </text>
+      <answer correct="yes">Maximal 750 Watt PEP für Klasse A und 75 Watt PEP für Klasse E.</answer>
+      <answer correct="no">Maximal 75 Watt PEP für beide Klassen.</answer>
+      <answer correct="no">Maximal 750 Watt PEP für Klasse A. Klasse E darf in dem Frequenzbereich nicht senden.</answer>
+      <answer correct="no">Maximal 100 Watt PEP für beide Klassen.</answer>
+    </question>
+    

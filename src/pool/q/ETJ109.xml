@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ109" name="E/TJ109">
+      <text>
+        <p>Eine künstliche Antenne für den VHF-Bereich könnte beispielsweise aus</p>
+      </text>
+      <answer correct="yes">ungewendelten Kohleschichtwiderständen zusammengebaut sein.</answer>
+      <answer correct="no">hochbelastbaren Drahtwiderständen zusammengebaut sein.</answer>
+      <answer correct="no">Glühbirnen zusammengebaut sein.</answer>
+      <answer correct="no">temperaturfesten Blindwiderständen bestehen.</answer>
+    </question>
+    

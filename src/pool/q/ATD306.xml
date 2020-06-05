@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD306" name="A/TD306">
+      <text>
+        <p>Welche Aussage enthält die richtige Beschreibung der Funktionsweise der Regelung in diesem Netzteil, wenn die Ausgangsspannung bei Belastung absinkt?</p>
+        <img src="Atd306" />
+      </text>
+      <answer correct="yes">Sinkt die Ausgangsspannung, so erhält Transistor T2 über die Z-Diode Z1 weniger Strom und leitet dadurch weniger. Durch den verminderten Kollektorstrom von T2 verringert sich der Spannungsabfall an R1/R2 und die Basisspannung von T1 steigt und somit auch die Emitterspannung.</answer>
+      <answer correct="no">Sinkt die Ausgangsspannung bei Belastung, so erhält Transistor T2 über die Z-Diode Z1 mehr Strom und leitet dadurch stärker. Durch den ansteigenden Kollektorstrom von T2 nimmt der Spannungsabfall an R1/R2 zu. Dabei sinkt die Basisspannung von T1 und die Emitterspannung steigt wieder.</answer>
+      <answer correct="no">Sinkt die Ausgangsspannung, so fließt durch Transistor T1 weniger Strom. Durch den sich vermindernden Kollektorstrom von T1 steigt aber der Spannungsabfall an R1/R2 und die Basisspannung von T2 über die Z-Diode Z1. Somit steigt auch die Emitterspannung von T1.</answer>
+      <answer correct="no">Sinkt die Ausgangsspannung bei Belastung, so fließt durch den Transistor T1 mehr Belastungsstrom. Der Transistor T2 erhält über Z1 weniger Spannung und der Spannungsabfall am Spannungsteiler R1/R2 nimmt zu. Dabei sinkt die Basisspannung von T1 und die Emitterspannung steigt wieder.</answer>
+    </question>
+    

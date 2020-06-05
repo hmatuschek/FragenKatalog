@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK214" name="A/TK214">
+      <text>
+        <p>Im 144-MHz-Bereich werden Störungen festgestellt, die von einem quarzgesteuerten 432-MHz-Sender verursacht werden, dessen Quarzoszillator bei etwa 12 MHz schwingt. Die Oszillatorfrequenz wird in mehreren Stufen vervielfacht. Bei welcher Kombination der Vervielfacher tritt die Störung auf? Die Störung tritt auf bei der Kombination</p>
+      </text>
+      <answer correct="yes">Quarzfrequenz x 2 x 2 x 3 x 3</answer>
+      <answer correct="no">Quarzfrequenz x 2 x 3 x 3 x 2</answer>
+      <answer correct="no">Quarzfrequenz x 3 x 3 x 2 x 3</answer>
+      <answer correct="no">Quarzfrequenz x 3 x 2 x 3 x 2</answer>
+    </question>
+    

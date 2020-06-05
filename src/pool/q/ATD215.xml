@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD215" name="A/TD215">
+      <text>
+        <p>Welchen Gütefaktor Q hat die Parallelschaltung einer Spule von 2 μH mit einem Kondensator von 60 pF und einem Widerstand von 1 kΩ?</p>
+      </text>
+      <answer correct="yes">5,5</answer>
+      <answer correct="no">54,8</answer>
+      <answer correct="no">18,2</answer>
+      <answer correct="no">0,18</answer>
+    </question>
+    

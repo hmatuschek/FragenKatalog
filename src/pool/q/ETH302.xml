@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH302" name="E/TH302">
+      <text>
+        <p>Am Ende einer Leitung ist nur noch ein Zehntel der Leistung vorhanden. Wie groß ist das Dämpfungsmaß des Kabels?</p>
+      </text>
+      <answer correct="yes">10 dB</answer>
+      <answer correct="no">3 dB</answer>
+      <answer correct="no">6 dB</answer>
+      <answer correct="no">16 dB</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK314" name="E/TK314">
+      <text>
+        <p>Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betriebenen Fernsehempfänger Störungen. Welches Filter schleifen Sie in das Fernsehantennenkabel ein, um die Störwahrscheinlichkeit zu verringern?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETG504c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETK314b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG504a" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG504d" />
+      </answer>
+    </question>
+    

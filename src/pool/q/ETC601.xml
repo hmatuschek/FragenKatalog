@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC601" name="E/TC601">
+      <text>
+        <p>Was versteht man unter Stromverstärkung beim Transistor?</p>
+      </text>
+      <answer correct="yes">Mit einem geringen Strom (Basisstrom) wird ein großer Strom (Kollektorstrom) gesteuert.</answer>
+      <answer correct="no">Mit einem geringen Strom (Emitterstrom) wird ein großer Strom (Kollektorstrom) gesteuert.</answer>
+      <answer correct="no">Mit einem geringen Strom (Emitterstrom) wird ein großer Strom (Basisstrom) gesteuert.</answer>
+      <answer correct="no">Mit einem geringen Strom (Kollektorstrom) wird ein großer Strom (Emitterstrom) gesteuert.</answer>
+    </question>
+    

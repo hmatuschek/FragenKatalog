@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI307" name="A/TI307">
+      <text>
+        <p>Wie wirkt sich die Antennenhöhe auf die Reichweite einer UKW-Verbindung aus?</p>
+      </text>
+      <answer correct="yes">Die Reichweite steigt mit zunehmender Antennenhöhe, weil die optische Sichtweite zunimmt.</answer>
+      <answer correct="no">Die Reichweite steigt mit zunehmender Antennenhöhe, weil die dämpfende Wirkung der Erdoberfläche abnimmt.</answer>
+      <answer correct="no">Die Reichweite steigt mit zunehmender Antennenhöhe, weil die Entfernung zu den reflektierenden Schichten der Troposphäre abnimmt.</answer>
+      <answer correct="no">Die Reichweite steigt mit zunehmen der Antennenhöhe, weil viele Sekundärstrahler an der Ausbreitung beteiligt sind.</answer>
+    </question>
+    

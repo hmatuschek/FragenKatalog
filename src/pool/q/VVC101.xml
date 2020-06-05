@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC101" name="V/VC101">
+      <text>
+        <p>Welches Gesetz bildet die Rechtsgrundlage für den Amateurfunkdienst in Deutschland?</p>
+      </text>
+      <answer correct="yes">Das Gesetz über den Amateurfunk.</answer>
+      <answer correct="no">Das Telekommunikationsgesetz.</answer>
+      <answer correct="no">Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen.</answer>
+      <answer correct="no">Das Gesetz über die elektromagnetische Verträglichkeit von Geräten.</answer>
+    </question>
+    

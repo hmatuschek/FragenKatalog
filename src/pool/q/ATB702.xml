@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB702" name="A/TB702">
+      <text>
+        <p>Die Impulsdauer beträgt hier</p>
+        <img src="Atb702" />
+      </text>
+      <answer correct="yes">0,2 ms.</answer>
+      <answer correct="no">260 μs.</answer>
+      <answer correct="no">230 μs.</answer>
+      <answer correct="no">150 μs.</answer>
+    </question>
+    

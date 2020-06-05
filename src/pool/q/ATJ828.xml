@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ828" name="A/TJ828">
+      <text>
+        <p>Womit misst man am einfachsten die Hüllkurvenform eines HF-Signals? Man misst es am einfachsten mit einem</p>
+      </text>
+      <answer correct="yes">breitbandigen Oszilloskop.</answer>
+      <answer correct="no">hochohmigen Vielfachinstrument in Stellung AC.</answer>
+      <answer correct="no">empfindlichen Dipmeter in Stellung Wellenmessung.</answer>
+      <answer correct="no">breitbandigen Detektor und Kopfhörer.</answer>
+    </question>
+    

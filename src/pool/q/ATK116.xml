@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK116" name="A/TK116">
+      <text>
+        <p>In welcher Entfernung von einer 70-cm-Sendeantenne sollte eine Fernsehantenne installiert werden, um das Störpotenzial möglichst gering zu halten? Sie sollte</p>
+      </text>
+      <answer correct="yes">so weit entfernt wie möglich installiert werden.</answer>
+      <answer correct="no">außerhalb des reaktiven Nahfeldes installiert werden.</answer>
+      <answer correct="no">in einer Entfernung von mindestens 4 Wellenlängen installiert werden.</answer>
+      <answer correct="no">in einer Entfernung von mindestens einer halben Wellenlänge bei 432 MHz installiert werden.</answer>
+    </question>
+    

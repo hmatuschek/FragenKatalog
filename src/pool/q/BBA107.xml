@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA107" name="B/BA107">
+      <text>
+        <p>Wie ist das Rufzeichen DF3DCB mit dem internationalen Buchstabieralphabet zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Delta Foxtrott drei Delta Charlie Bravo</answer>
+      <answer correct="no">Dora Friedrich drei Dora Cäsar Berta</answer>
+      <answer correct="no">Delta Fox drei Delta Charlie Baltimore</answer>
+      <answer correct="no">Da Fangen drei Dänen Charlie Braun</answer>
+    </question>
+    

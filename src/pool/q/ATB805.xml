@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB805" name="A/TB805">
+      <text>
+        <p>Kann man auf der Empfängerseite bei Sprachübertragung Frequenz- und Phasenmodulation unterscheiden?</p>
+      </text>
+      <answer correct="yes">Nein, im Normalfall ist keine Unterscheidung möglich.</answer>
+      <answer correct="no">Ja, weil bei Phasenmodulation die Frequenz immer konstant ist.</answer>
+      <answer correct="no">Ja, weil bei Frequenzmodulation ein kräftigeres Signal erzeugt wird.</answer>
+      <answer correct="no">Ja, weil phasenmodulierte Aussendungen in FM-Empfängern bzw. frequenzmodulierte Aussendungen in Phasendiskriminatoren erhebliche Verzerrungen verursachen.</answer>
+    </question>
+    

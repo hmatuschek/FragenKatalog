@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF426" name="A/TF426">
+      <text>
+        <p>Welche Baugruppe erzeugt ein Zweiseitenbandsignal mit unterdrücktem Träger?</p>
+      </text>
+      <answer correct="yes">Ein Balancemischer</answer>
+      <answer correct="no">Ein Seitenbandfilter</answer>
+      <answer correct="no">Der Tiefpass</answer>
+      <answer correct="no">Der ZF-Verstärker</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI204" name="E/TI204">
+      <text>
+        <p>Wie groß ist in etwa die maximale Entfernung, die ein KW-Signal bei Reflexion an der E-Schicht auf der Erdoberfläche mit einem Sprung (Hop) überbrücken kann?</p>
+      </text>
+      <answer correct="yes">Etwa 2200 km</answer>
+      <answer correct="no">Etwa 1100 km</answer>
+      <answer correct="no">Etwa 4500 km</answer>
+      <answer correct="no">Etwa 9000 km</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE209" name="A/TE209">
+      <text>
+        <p>Ein 2-m-Sender erzeugt seine Ausgangsfrequenz durch Vervielfachung der Oszillatorfrequenz um den Faktor 12. Der Hub der Ausgangsfrequenz beträgt 5 kHz. Wie groß ist der Hub der Oszillatorfrequenz?</p>
+      </text>
+      <answer correct="yes">0,417 kHz</answer>
+      <answer correct="no">12,083 MHz</answer>
+      <answer correct="no">5 kHz</answer>
+      <answer correct="no">60 kHz</answer>
+    </question>
+    

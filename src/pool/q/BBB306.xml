@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB306" name="B/BB306">
+      <text>
+        <p>Um wie viel dB ist die Empfängereingangsspannung abgesunken, wenn die S-Meter-Anzeige durch Änderung der Ausbreitungsbedingungen von S9+20 dB auf S8 zurückgeht? Die Empfängereingangsspannung sinkt um</p>
+      </text>
+      <answer correct="yes">26 dB.</answer>
+      <answer correct="no">23 dB.</answer>
+      <answer correct="no">6 dB.</answer>
+      <answer correct="no">20 dB.</answer>
+    </question>
+    

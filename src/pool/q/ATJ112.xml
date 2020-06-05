@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ112" name="A/TJ112">
+      <text>
+        <p>Ein Messgerät hat einen Kennwiderstand von 10 kΩ/V. Für 1 Volt Vollausschlag liegt die Stromaufnahme bei</p>
+      </text>
+      <answer correct="yes">100 μA.</answer>
+      <answer correct="no">10 μA.</answer>
+      <answer correct="no">50 μA.</answer>
+      <answer correct="no">200 μA.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI202" name="E/TI202">
+      <text>
+        <p>Unter der "Toten Zone" wird der Bereich verstanden,</p>
+      </text>
+      <answer correct="yes">der durch die Bodenwelle nicht mehr erreicht wird und durch die reflektierte Raumwelle noch nicht erreicht wird.</answer>
+      <answer correct="no">der durch die Bodenwelle überdeckt wird, so dass schwächere DX-Stationen zugedeckt werden.</answer>
+      <answer correct="no">der durch die Bodenwelle erreicht wird und für die Raumwelle nicht zugänglich ist.</answer>
+      <answer correct="no">der durch die Interferenz der Bodenwelle mit der Raumwelle in einer Zone der gegenseitigen Auslöschung liegt.</answer>
+    </question>
+    

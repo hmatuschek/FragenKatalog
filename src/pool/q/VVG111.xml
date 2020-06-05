@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG111" name="V/VG111">
+      <text>
+        <p>Durch den Betrieb einer Amateurfunkstelle wird der Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Rundfunkgerät, wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was hat der Funkamateur in diesem Fall zu tun?</p>
+      </text>
+      <answer correct="yes">Er sollte seinen Funkbetrieb so einzurichten, dass der Empfang nicht mehr gestört wird.</answer>
+      <answer correct="no">Er hat seinen Betrieb auf die Nutzung von Frequenzen unterhalb 144 MHz zu beschränken.</answer>
+      <answer correct="no">Er hat den Betrieb seiner Amateurfunkstelle einzustellen.</answer>
+      <answer correct="no">Er kann seinen Funkbetrieb wie bisher fortsetzen.</answer>
+    </question>
+    

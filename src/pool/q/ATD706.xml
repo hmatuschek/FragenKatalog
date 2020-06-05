@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD706" name="A/TD706">
+      <text>
+        <p>Die Frequenz an Punkt A beträgt 12,5 kHz. Es sollen Ausgangsfrequenzen im Bereich von 12,000 MHz bis 14,000 MHz erzeugt werden. In welchem Bereich bewegt sich dabei das Teilerverhältnis n?</p>
+        <img src="Atd701" />
+      </text>
+      <answer correct="yes">960 bis 1120</answer>
+      <answer correct="no">300 bis 857</answer>
+      <answer correct="no">960 bis 857</answer>
+      <answer correct="no">300 bis 1120</answer>
+    </question>
+    

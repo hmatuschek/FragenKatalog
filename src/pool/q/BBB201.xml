@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB201" name="B/BB201">
+      <text>
+        <p>Warum wurden die Q-Gruppen im Funkverkehr eingeführt? Sie wurden eingeführt</p>
+      </text>
+      <answer correct="yes">zur Vereinfachung und Erleichterung des Betriebsablaufs bei Telegrafie, sekundär zur Überwindung sprachlicher Grenzen.</answer>
+      <answer correct="no">zur Verschleierung des Funkbetriebes gegenüber unbefugten Zuhörern.</answer>
+      <answer correct="no">zur Zeitersparnis im Telefoniefunkverkehr.</answer>
+      <answer correct="no">um im internationalen Funkverkehr den Betriebsablauf zu erleichtern, weil kein Englisch mehr gesprochen werden muss.</answer>
+    </question>
+    

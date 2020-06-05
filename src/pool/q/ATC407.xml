@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC407" name="A/TC407">
+      <text>
+        <p>Für die Anpassung einer 50-Ω-Übertragungsleitung an eine 600-Ω-Antenne wird ein Übertrager verwendet. Er sollte ein Windungszahlverhältnis von</p>
+      </text>
+      <answer correct="yes">1:3,5 aufweisen.</answer>
+      <answer correct="no">1:1 aufweisen.</answer>
+      <answer correct="no">1:5,5 aufweisen.</answer>
+      <answer correct="no">1:12 aufweisen.</answer>
+    </question>
+    

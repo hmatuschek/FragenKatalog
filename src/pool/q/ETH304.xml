@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH304" name="E/TH304">
+      <text>
+        <p>Welcher der nachfolgenden Zusammenhänge ist richtig?</p>
+      </text>
+      <answer correct="yes">0 dBm entspricht 1 mW; 3 dBm entspricht 2 mW; 20 dBm entspricht 100 mW</answer>
+      <answer correct="no">0 dBm entspricht 1 mW; 3 dBm entspricht 1,4 mW; 20 dBm entspricht 10 mW</answer>
+      <answer correct="no">0 dBm entspricht 0 mW; 3 dBm entspricht 30 mW; 20 dBm entspricht 200 mW</answer>
+      <answer correct="no">1 dBm entspricht 0 mW; 2 dBm entspricht 3 mW; 100 dBm entspricht 20 mW</answer>
+    </question>
+    

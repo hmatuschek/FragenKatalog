@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF108" name="B/BF108">
+      <text>
+        <p>Sie haben auf der Ausgabefrequenz einer Relaisfunkstelle eine Notmeldung von einem Fahrzeug empfangen. Wie verhalten Sie sich?</p>
+      </text>
+      <answer correct="yes">Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen.</answer>
+      <answer correct="no">Ich versuche Kontakt mit der Funkstelle aufzunehmen, um den Standort zu erfahren. Danach informiere ich den ADAC oder biete eigene Abschlepphilfe an.</answer>
+      <answer correct="no">Ich versuche Kontakt mit der Polizei aufzunehmen, um den Standort zu erfahren. Danach informiere ich die Funkstelle und beruhige den Betreiber.</answer>
+      <answer correct="no">Ich wiederhole umgehend die Notmeldung auf der Relaiseingabefrequenz.</answer>
+    </question>
+    

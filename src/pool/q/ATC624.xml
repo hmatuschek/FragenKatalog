@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC624" name="A/TC624">
+      <text>
+        <p>
+          Was passiert, wenn der Widerstand R
+          <sub>1</sub>
+           durch eine fehlerhafte Lötstelle an einer Seite keinen Kontakt mehr zur Schaltung hat (Leerlauf)? In welcher Zeile sind beide Aussagen richtig?
+        </p>
+        <img src="Atc624" />
+      </text>
+      <answer correct="yes">Es fließt kein Kollektorstrom mehr. Die Kollektorspannung geht auf Betriebsspannung.</answer>
+      <answer correct="no">Es fließt Kurzschlussstrom und der Transistor wird zerstört.</answer>
+      <answer correct="no">
+        Der Kollektorstrom wird nur durch R
+        <sub>C</sub>
+         begrenzt. Die Kollektorspannung sinkt auf zirka 0,1 Volt.
+      </answer>
+      <answer correct="no">Der Kollektorstrom steigt stark an. Die Kollektorspannung geht auf Betriebsspannung.</answer>
+    </question>
+    

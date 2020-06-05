@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH132" name="A/TH132">
+      <text>
+        <p>Welche Antennenart ist hier dargestellt?</p>
+        <img src="Ath132" />
+      </text>
+      <answer correct="yes">Trap-Dipol</answer>
+      <answer correct="no">Einband-Dipol mit Oberwellenfilter</answer>
+      <answer correct="no">Feedergespeister einfacher Dipol mit Gleichwellenfilter</answer>
+      <answer correct="no">Feedergespeiste Doppel-Quad</answer>
+    </question>
+    

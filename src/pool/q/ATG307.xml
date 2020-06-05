@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG307" name="A/TG307">
+      <text>
+        <p>Wie und wo wird die Ausgangsleistung eines SSB-Senders gemessen?</p>
+      </text>
+      <answer correct="yes">An der Antennenbuchse wird bei Ein- oder Zweitonaussteuerung die Leistung gemessen.</answer>
+      <answer correct="no">Am Speisepunkt der Antenne wird bei Eintonaussteuerung die Leistung gemessen.</answer>
+      <answer correct="no">An der Antennenbuchse wird bei Sprachmodulation die maximale Hüllkurvenleistung (PEP) gemessen.</answer>
+      <answer correct="no">Am Speisepunkt der Antenne wird bei Sprachmodulation die maximale Hüllkurvenleistung (PEP) gemessen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC501" name="E/TC501">
+      <text>
+        <p>P-dotiertes Halbleitermaterial ist solches, das mit einem zusätzlichen Stoff versehen wurde, der</p>
+      </text>
+      <answer correct="yes">weniger als vier Valenzelektronen enthält.</answer>
+      <answer correct="no">mehr als vier Valenzelektronen enthält.</answer>
+      <answer correct="no">genau vier Valenzelektronen enthält.</answer>
+      <answer correct="no">keine Valenzelektronen enthält.</answer>
+    </question>
+    

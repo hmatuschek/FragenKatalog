@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD110" name="B/BD110">
+      <text>
+        <p>Was bedeutet der Rufzeichenzusatz "/am"?</p>
+      </text>
+      <answer correct="yes">Die Amateurfunkstelle wird an Bord eines Luftfahrzeuges betrieben.</answer>
+      <answer correct="no">Die Amateurfunkstelle verwendet als Betriebsart Amplitudenmodulation.</answer>
+      <answer correct="no">Die Amateurfunkstelle wird an Bord eines Wasserfahrzeuges betrieben.</answer>
+      <answer correct="no">Die Amateurfunkstelle arbeitet mit geringer Leistung.</answer>
+    </question>
+    

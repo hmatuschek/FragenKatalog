@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD116" name="A/TD116">
+      <text>
+        <p>Welche Gesamtkapazität ergibt sich bei einer Parallelschaltung der Kondensatoren 0,1 μF; 150 nF und 50000 pF?</p>
+      </text>
+      <answer correct="yes">0,3 μF</answer>
+      <answer correct="no">0,255 μF</answer>
+      <answer correct="no">0,027 μF</answer>
+      <answer correct="no">2,73 nF</answer>
+    </question>
+    

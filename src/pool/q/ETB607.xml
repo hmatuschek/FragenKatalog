@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB607" name="E/TB607">
+      <text>
+        <p>Die Periodendauer von 50 μs entspricht einer Frequenz von</p>
+      </text>
+      <answer correct="yes">20 kHz</answer>
+      <answer correct="no">2 MHz</answer>
+      <answer correct="no">200 kHz</answer>
+      <answer correct="no">20 MHz</answer>
+    </question>
+    

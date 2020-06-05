@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG512" name="A/TG512">
+      <text>
+        <p>Was wird eingesetzt, um die Abstrahlung einer spezifischen Harmonischen wirkungsvoll zu begrenzen?</p>
+      </text>
+      <answer correct="yes">Ein Sperrkreis am Senderausgang</answer>
+      <answer correct="no">Eine Gegentaktendstufe</answer>
+      <answer correct="no">Ein Hochpassfilter am Senderausgang</answer>
+      <answer correct="no">Ein Hochpassfilter am Eingang der Senderendstufe</answer>
+    </question>
+    

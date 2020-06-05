@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK303" name="E/TK303">
+      <text>
+        <p>Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel</p>
+      </text>
+      <answer correct="yes">werden Gleichtakt-HF-Störsignale unterdrückt.</answer>
+      <answer correct="no">werden niederfrequente Störsignale unterdrückt.</answer>
+      <answer correct="no">werden alle Wechselstromsignale unterdrückt.</answer>
+      <answer correct="no">wird Netzbrummen unterdrückt.</answer>
+    </question>
+    

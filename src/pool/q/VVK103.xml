@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVK103" name="V/VK103">
+      <text>
+        <p>Mit welchen Folgen muss der Funkamateur rechnen, wenn er die zu entrichtenden Gebühren und Beiträge nicht zahlt?</p>
+      </text>
+      <answer correct="yes">Er muss mit Maßnahmen nach den Vorschriften des Verwaltungs-Vollstreckungsgesetzes rechnen.</answer>
+      <answer correct="no">Er muss mit dem Entzug seines Amateurfunkzeugnisses rechnen.</answer>
+      <answer correct="no">Er muss mit dem Entzug der Amateurfunkzuteilung sowie einem Bußgeld rechnen.</answer>
+      <answer correct="no">Er muss mit einer gebührenpflichtigen Nachprüfung rechnen.</answer>
+    </question>
+    

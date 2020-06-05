@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE210" name="B/BE210">
+      <text>
+        <p>Was meint ein Funkamateur damit, wenn er angibt, dass er auf dem 2-m-Band eine Aurora-Verbindung mit Schottland gehabt hat?</p>
+      </text>
+      <answer correct="yes">Die Verbindung ist durch Reflexion von Ultrakurzwellen an polaren Nordlichtern zustande gekommen (Reflexion an polaren Ionisationserscheinungen).</answer>
+      <answer correct="no">Die Verbindung ist durch Beugung von Ultrakurzwellen an Lichtquellen der Polarregion zustande gekommen (Beugung an ionisierten Polarschichten).</answer>
+      <answer correct="no">Die Verbindung ist durch Verstärkung der polaren Nordlichter mittels Ultrakurzwellen zustandegekommen (Reflexion von ionisiertem Polarlicht).</answer>
+      <answer correct="no">Die Verbindung ist durch Reflexion von verbrummten Ultrakurzwellen am Polarkreis zustande gekommen (Reflexion an Ionisationserscheinungen des Polarkreises).</answer>
+    </question>
+    

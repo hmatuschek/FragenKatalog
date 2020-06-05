@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ104" name="E/TJ104">
+      <text>
+        <p>Wozu wird ein Dipmeter beispielsweise verwendet? Ein Dipmeter wird zur</p>
+      </text>
+      <answer correct="yes">ungefähren Bestimmung der Resonanzfrequenz eines Schwingkreises.</answer>
+      <answer correct="no">ungefähren Bestimmung der Leistung eines Senders.</answer>
+      <answer correct="no">genauen Bestimmung der Dämpfung eines Schwingkreises.</answer>
+      <answer correct="no">genauen Bestimmung der Güte eines Schwingkreises.</answer>
+    </question>
+    

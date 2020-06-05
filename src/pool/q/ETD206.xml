@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD206" name="E/TD206">
+      <text>
+        <p>Was stellt die folgende Schaltung dar?</p>
+        <img src="ETD206" />
+      </text>
+      <answer correct="yes">Hochpass</answer>
+      <answer correct="no">Sperrkreis</answer>
+      <answer correct="no">Bandpass</answer>
+      <answer correct="no">Tiefpass</answer>
+    </question>
+    

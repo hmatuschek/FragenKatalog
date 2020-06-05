@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE210" name="A/TE210">
+      <text>
+        <p>Eine FM-Telefonie-Aussendung mit zu großem Hub führt möglicherweise</p>
+      </text>
+      <answer correct="yes">zu Nachbarkanalstörungen.</answer>
+      <answer correct="no">zur Übersteuerung der Sendeendstufe.</answer>
+      <answer correct="no">zu Verzerrungen auf Grund unerwünschter Unterdrückung der Trägerfrequenz.</answer>
+      <answer correct="no">zu Verzerrungen auf Grund gegenseitiger Auslöschung der Seitenbänder.</answer>
+    </question>
+    

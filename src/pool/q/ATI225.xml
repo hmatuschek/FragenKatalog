@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI225" name="A/TI225">
+      <text>
+        <p>Eine stärkere Ionisierung der F2-Schicht führt zu</p>
+      </text>
+      <answer correct="yes">einer höheren MUF.</answer>
+      <answer correct="no">einer stärkeren Absorption der höheren Frequenzen.</answer>
+      <answer correct="no">einer niedrigeren MUF.</answer>
+      <answer correct="no">einer größeren Durchlässigkeit für die höheren Frequenzen.</answer>
+    </question>
+    

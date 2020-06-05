@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB120" name="V/VB120">
+      <text>
+        <p>Ist der vorübergehende Betrieb einer Klubstation nach CEPT-Empfehlung T/R 61-01 in einem Land erlaubt, welches diese Empfehlung anwendet?</p>
+      </text>
+      <answer correct="yes">Nein, der Betrieb einer Klubstation bedarf der Beantragung einer Gastgenehmigung.</answer>
+      <answer correct="no">Ja, aber nur, wenn die Klubstation im Ausland an keinem festen Standort betrieben wird.</answer>
+      <answer correct="no">Ja, der Betrieb einer Klubstation ist zulässig, wenn der zuständigen Außenstelle der Bundesnetzagentur der vorgesehene Standort im Ausland vorher mitgeteilt worden ist.</answer>
+      <answer correct="no">Nein, weil es in den übrigen CEPT-Ländern keine Klubstationen gibt.</answer>
+    </question>
+    

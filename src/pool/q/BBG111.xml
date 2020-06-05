@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG111" name="B/BG111">
+      <text>
+        <p>Welche Angaben sollten QSL-Karten mindestens enthalten?</p>
+      </text>
+      <answer correct="yes">Verwendetes Rufzeichen, Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und die Unterschrift des Operators.</answer>
+      <answer correct="no">Verwendetes Rufzeichen, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport, die Unterschrift des Operators sowie den eigenen Namen, Standort, Locator, die eigene Sendeleistung und Angaben zur eingesetzten technischen Ausrüstung.</answer>
+      <answer correct="no">Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Signal-Rapport und weitere übliche Angaben wie den eigenen Namen, Standort, Locator und die eigene Sendeleistung.</answer>
+      <answer correct="no">Rufzeichen der Gegenstation, Datum und Uhrzeit der Funkverbindung in UTC, Frequenz, Betriebsart, Angaben über das Funkwetter und die Unterschrift des Operators.</answer>
+    </question>
+    

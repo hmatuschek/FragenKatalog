@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK309" name="E/TK309">
+      <text>
+        <p>Was sollte zur Herabsetzung starker Signale eines 28-MHz-Senders in das Fernseh-Antennenzuführungskabel eingeschleift werden?</p>
+      </text>
+      <answer correct="yes">Ein Hochpassfilter</answer>
+      <answer correct="no">Ein Tiefpassfilter</answer>
+      <answer correct="no">Ein UHF-Abschwächer</answer>
+      <answer correct="no">Eine UHF-Bandsperre</answer>
+    </question>
+    

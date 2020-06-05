@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI303" name="E/TI303">
+      <text>
+        <p>Für VHF-Weitverkehrsverbindungen wird hauptsächlich die</p>
+      </text>
+      <answer correct="yes">troposphärische Ausbreitung genutzt.</answer>
+      <answer correct="no">ionosphärische Ausbreitung genutzt.</answer>
+      <answer correct="no">Bodenwellenausbreitung genutzt.</answer>
+      <answer correct="no">Oberflächenwellenausbreitung genutzt.</answer>
+    </question>
+    

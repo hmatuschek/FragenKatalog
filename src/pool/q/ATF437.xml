@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF437" name="A/TF437">
+      <text>
+        <p>
+          Welche Empfängereigenschaft beurteilt man mit dem Interception Point IP
+          <sub>3</sub>
+          ?
+        </p>
+      </text>
+      <answer correct="yes">Die Großsignalfestigkeit</answer>
+      <answer correct="no">Die Trennschärfe</answer>
+      <answer correct="no">Die Grenzempfindlichkeit</answer>
+      <answer correct="no">Das Signal-Rausch-Verhältnis</answer>
+    </question>
+    

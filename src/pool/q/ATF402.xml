@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF402" name="A/TF402">
+      <text>
+        <p>Wodurch wird beim Überlagerungsempfänger die Spiegelfrequenzdämpfung bestimmt?</p>
+      </text>
+      <answer correct="yes">Durch die Vorselektion</answer>
+      <answer correct="no">Durch die Demodulatorkennlinie</answer>
+      <answer correct="no">Durch die Abstimmung des Oszillators</answer>
+      <answer correct="no">Durch die PLL-Frequenzaufbereitung</answer>
+    </question>
+    

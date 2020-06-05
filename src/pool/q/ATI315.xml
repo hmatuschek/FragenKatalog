@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI315" name="A/TI315">
+      <text>
+        <p>Was bedeutet der Begriff "Sporadic E"? Es ist</p>
+      </text>
+      <answer correct="yes">eine Reflexion an lokal begrenzten Bereichen mit ungewöhnlich hoher Ionisation innerhalb der E-Schicht.</answer>
+      <answer correct="no">eine kurzfristige, plötzliche Inversionsänderung in der E-Schicht, die Fernausbreitung im VHF-Bereich ermöglicht.</answer>
+      <answer correct="no">eine kurzzeitig auftretende, starke Reflexion von VHF-Signalen an Meteorbahnen innerhalb der E-Schicht.</answer>
+      <answer correct="no">ein lokal begrenzter, kurzzeitiger Ausfall der Reflexion durch ungewöhnlich hohe Ionisation innerhalb der E-Schicht.</answer>
+    </question>
+    

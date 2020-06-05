@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA407" name="V/VA407">
+      <text>
+        <p>Was bedeuten im Funk die Zeichen "SOS" und "MAYDAY"?</p>
+      </text>
+      <answer correct="yes">Diese Notzeichen zeigen an, dass ein See- oder Luftfahrzeug von ernster und unmittelbar bevorstehender Gefahr bedroht ist.</answer>
+      <answer correct="no">Es handelt sich um ehemalige See- und Luftnotzeichen, die keine Gültigkeit mehr haben.</answer>
+      <answer correct="no">SOS und MAYDAY sind Dringlichkeitszeichen, die eine Sicherheitsmeldung ankündigen.</answer>
+      <answer correct="no">SOS und MAYDAY sind nur im Seefunk gebräuchlich und haben für den Amateurfunk keine Bedeutung.</answer>
+    </question>
+    

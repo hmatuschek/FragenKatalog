@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVJ102" name="V/VJ102">
+      <text>
+        <p>Welche Vorschriften bezüglich Blitzschutz gelten für Amateurfunkantennenanlagen?</p>
+      </text>
+      <answer correct="yes">Die VDE-Vorschriften.</answer>
+      <answer correct="no">Die Bestimmungen des AFuG.</answer>
+      <answer correct="no">Die Blitzschutzvorschriften der Rundfunkanstalten.</answer>
+      <answer correct="no">Keine. Der Funkamateur kann den Blitzschutz selbst bestimmen, da er sachkundig ist.</answer>
+    </question>
+    

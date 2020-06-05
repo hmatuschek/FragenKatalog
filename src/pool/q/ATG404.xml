@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG404" name="A/TG404">
+      <text>
+        <p>Wie wird die Taste am Mikrofon bezeichnet, mit der ein Transceiver auf Sendung geschaltet werden kann?</p>
+      </text>
+      <answer correct="yes">PTT</answer>
+      <answer correct="no">VOX</answer>
+      <answer correct="no">RIT</answer>
+      <answer correct="no">SSB</answer>
+    </question>
+    

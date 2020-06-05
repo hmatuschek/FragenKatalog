@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF414" name="A/TF414">
+      <text>
+        <p>Für CW-Empfang sollte die Differenz zwischen der BFO-Frequenz und der End-ZF ungefähr</p>
+      </text>
+      <answer correct="yes">800 Hz betragen.</answer>
+      <answer correct="no">die halbe ZF-Frequenz betragen.</answer>
+      <answer correct="no">200 Hz betragen.</answer>
+      <answer correct="no">4 kHz betragen.</answer>
+    </question>
+    

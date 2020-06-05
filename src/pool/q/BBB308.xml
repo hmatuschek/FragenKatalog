@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB308" name="B/BB308">
+      <text>
+        <p>Bei einer SSB-Verbindung auf VHF/UHF sagt Ihnen Ihr Gesprächspartner: "Ich empfange Sie mit R5 und 30 dB über Rauschen". Was meint er damit?</p>
+      </text>
+      <answer correct="yes">Er kann mich einwandfrei lesen und mein Signal ist ausreichend stark. Bei seinem Empfänger ist die relative Signalstärke in dB ablesbar.</answer>
+      <answer correct="no">Er kann mich einwandfrei lesen, mein Signal ist stark und fast rauschfrei. Bei seinem Empfänger ist die relative Signalstärke in dBµV ablesbar.</answer>
+      <answer correct="no">Er kann mich ohne Schwierigkeiten lesen, obwohl mein Signal sehr schwach ist. Bei seinem Empfänger wird das Signal-/Rauschverhältnis in dB angezeigt.</answer>
+      <answer correct="no">Er kann mich nur mit Schwierigkeiten lesen, da mein Signal mit 30 dB stark verrauscht ist. Bei ihm ist die relative Signalstärke auf einem Messgerät in dB ablesbar.</answer>
+    </question>
+    

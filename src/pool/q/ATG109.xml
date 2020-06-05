@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG109" name="A/TG109">
+      <text>
+        <p>Welches Teil eines Senders ist in der Schaltung dargestellt?</p>
+        <img src="Atg109" />
+      </text>
+      <answer correct="yes">Ein Mikrofonverstärker mit Pegelbegrenzung.</answer>
+      <answer correct="no">Ein Mikrofonverstärker mit Diodenmischer zur Erzeugung von Phasenmodulation.</answer>
+      <answer correct="no">Ein Mikrofonverstärker mit Amplitudenmodulator und HF-Filter.</answer>
+      <answer correct="no">Ein Mikrofonverstärker mit automatischer Pegelregelung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB203" name="E/TB203">
+      <text>
+        <p>Was versteht man unter "technischer Stromrichtung" in der Elektrotechnik?</p>
+      </text>
+      <answer correct="yes">Man nimmt an, dass der Strom vom Pluspol zum Minuspol fließt.</answer>
+      <answer correct="no">Man nimmt an, dass der Strom vom Minuspol zum Pluspol fließt.</answer>
+      <answer correct="no">Es ist die Flussrichtung der Elektronen vom Minuspol zum Pluspol.</answer>
+      <answer correct="no">Es ist die Flussrichtung der Elektronen vom Pluspol zum Minuspol.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC113" name="B/BC113">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 80-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">3500 - 3800 kHz</answer>
+      <answer correct="no">7000 - 7200 kHz</answer>
+      <answer correct="no">1810 - 2000 kHz</answer>
+      <answer correct="no">135,7 - 137,8 kHz</answer>
+    </question>
+    

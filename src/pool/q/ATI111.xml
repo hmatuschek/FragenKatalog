@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI111" name="A/TI111">
+      <text>
+        <p>Für die Kurzwellenausbreitung über die Raumwelle ist die F1-Schicht</p>
+      </text>
+      <answer correct="yes">unerwünscht, weil sie durch Absorption die Ausbreitung durch Reflexion an der F2-Schicht behindern kann.</answer>
+      <answer correct="no">erwünscht, weil sie durch zusätzliche Reflexion die Wirkung der F2-Schicht verstärken kann.</answer>
+      <answer correct="no">nicht von großer Bedeutung, weil sie vor allem für die höheren Frequenzen durchlässig ist.</answer>
+      <answer correct="no">von großer Bedeutung, weil sie die F2-Schicht in noch größere Höhen verschiebt und damit die Sprungsdistanz vergrößert.</answer>
+    </question>
+    

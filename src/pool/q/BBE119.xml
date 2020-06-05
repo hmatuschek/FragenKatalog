@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE119" name="B/BE119">
+      <text>
+        <p>Mit welcher Tastgeschwindigkeit würden Sie einen CQ-Ruf in Telegrafie beantworten? Ich würde</p>
+      </text>
+      <answer correct="yes">mit der gleichen Geschwindigkeit des empfangenen Signals antworten.</answer>
+      <answer correct="no">mit meiner gewohnten Geschwindigkeit antworten.</answer>
+      <answer correct="no">mit einer solch hohen Geschwindigkeit antworten, wie ich sie auch aufnehmen könnte.</answer>
+      <answer correct="no">die Geschwindigkeit der eingestellten automatischen Morsetaste nicht ändern, sondern immer mit dieser Geschwindigkeit antworten.</answer>
+    </question>
+    

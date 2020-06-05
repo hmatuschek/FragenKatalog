@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE319" name="A/TE319">
+      <text>
+        <p>Bei welchem Übertragungsverfahren für Digitalsignale wird ein niederfrequenter Zwischenträger vom Digitalsignal in der Frequenz umgetastet und wie wird das Sendesignal dem Sender zugeführt?</p>
+      </text>
+      <answer correct="yes">AFSK, das Sendesignal wird über den Mikrofoneingang zugeführt.</answer>
+      <answer correct="no">AFSK, das Sendesignal wird direkt dem Modulator zugeführt.</answer>
+      <answer correct="no">FSK, das Sendesignal wird über den Mikrofoneingang zugeführt.</answer>
+      <answer correct="no">FSK, das Sendesignal wird direkt dem Modulator zugeführt.</answer>
+    </question>
+    

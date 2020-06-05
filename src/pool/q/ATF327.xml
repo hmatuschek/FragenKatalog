@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF327" name="A/TF327">
+      <text>
+        <p>Bei welchem der folgenden Fälle misst man eine hohe Spannung am Emitterwiderstand einer Empfänger-ZF-Stufe?</p>
+      </text>
+      <answer correct="yes">Der Transistor hat einen Kurzschluss.</answer>
+      <answer correct="no">Der Widerstand hat einen Kurzschluss.</answer>
+      <answer correct="no">Der Transistor ist hochohmig.</answer>
+      <answer correct="no">Der Abblockkondensator hat nicht mehr die erforderliche Kapazität.</answer>
+    </question>
+    

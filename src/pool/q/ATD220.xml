@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD220" name="A/TD220">
+      <text>
+        <p>Was stellt diese Schaltung dar?</p>
+        <img src="Atd220" />
+      </text>
+      <answer correct="yes">Tiefpass</answer>
+      <answer correct="no">Hochpass</answer>
+      <answer correct="no">Saugkreis</answer>
+      <answer correct="no">Sperrkreis</answer>
+    </question>
+    

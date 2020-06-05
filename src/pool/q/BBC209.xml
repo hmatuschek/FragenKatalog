@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC209" name="B/BC209">
+      <text>
+        <p>Welches Seitenband wird bei SSB-Betrieb im 80-m-Band in der Regel benutzt?</p>
+      </text>
+      <answer correct="yes">In der Regel wird im 80-m-Band das untere Seitenband benutzt.</answer>
+      <answer correct="no">Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt.</answer>
+      <answer correct="no">Um den Nachteil der relativ niedrigen Sendefrequenz des 80-m-Bandes auszugleichen, wird das obere Seitenband benutzt.</answer>
+      <answer correct="no">In der unteren Bandhälfte (d. h. zwischen 3500 und 3650 kHz) das untere Seitenband, in der oberen Bandhälfte (d. h. zwischen 3650 und 3800 kHz) das obere Seitenband.</answer>
+    </question>
+    

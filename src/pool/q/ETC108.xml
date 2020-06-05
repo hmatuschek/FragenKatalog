@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC108" name="E/TC108">
+      <text>
+        <p>Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen</p>
+      </text>
+      <answer correct="yes">5040 und 6160 Ω.</answer>
+      <answer correct="no">4760 und 6440 Ω.</answer>
+      <answer correct="no">4,7 und 6,8 kΩ.</answer>
+      <answer correct="no">5,2 und 6,3 kΩ.</answer>
+    </question>
+    

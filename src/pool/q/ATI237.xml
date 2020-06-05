@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI237" name="A/TI237">
+      <text>
+        <p>Warum sind Signale im 160-, 80- und 40- Meter-Band tagsüber nur schwach und nicht für den weltweiten Funkverkehr geeignet?</p>
+      </text>
+      <answer correct="yes">Wegen der Tagesdämpfung in der D-Schicht.</answer>
+      <answer correct="no">Wegen der Tagesdämpfung in der F1-Schicht.</answer>
+      <answer correct="no">Wegen der Tagesdämpfung in der F2-Schicht.</answer>
+      <answer correct="no">Wegen der Tagesdämpfung in der A-Schicht.</answer>
+    </question>
+    

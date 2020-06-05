@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC318" name="A/TC318">
+      <text>
+        <p>Um die Abstrahlungen der Spule eines abgestimmten Schwingkreises zu verringern, sollte die Spule</p>
+      </text>
+      <answer correct="yes">in einem Abschirmbecher aus Metall untergebracht werden.</answer>
+      <answer correct="no">in einem nichtmetallischen Harz eingehüllt werden.</answer>
+      <answer correct="no">in einem Abschirmbecher aus Kunststoff untergebracht werden.</answer>
+      <answer correct="no">einen abgestimmten Kunststoffkern aufweisen.</answer>
+    </question>
+    

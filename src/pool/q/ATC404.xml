@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC404" name="A/TC404">
+      <text>
+        <p>In dieser Schaltung ist R = 16 kΩ. Die Impedanz zwischen den Anschlüssen A und B beträgt somit</p>
+        <img src="Atc404" />
+      </text>
+      <answer correct="yes">1 kΩ.</answer>
+      <answer correct="no">64 kΩ.</answer>
+      <answer correct="no">16 kΩ.</answer>
+      <answer correct="no">4 kΩ.</answer>
+    </question>
+    

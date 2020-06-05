@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE212" name="B/BE212">
+      <text>
+        <p>Woran können Sie als Funkamateur eine Aurora-Verbindung erkennen?</p>
+      </text>
+      <answer correct="yes">Die Verbindung kann durch Reflexion von Funkwellen an polaren Nordlichtern zustande gekommen sein, wenn die empfangenen Signale sehr rau (verrauscht und verbrummt) sind und die Antennenrichtung meist nicht mit der direkten Richtung zur Gegenstation übereinstimmt.</answer>
+      <answer correct="no">Die Verbindung kann durch Beugung von Funkwellen an Lichtquellen der Polarregion zustande gekommen sein, wenn die empfangenen Signale stark sind und die Antennenrichtung mit der indirekten Richtung zur Gegenstation übereinstimmt.</answer>
+      <answer correct="no">Die Verbindung kann durch Verstärkung am verbrummten Nordlicht mittels Ultrakurzwellen zustande gekommen sein und die Antennenrichtung nicht mit der der Gegenstation übereinstimmen.</answer>
+      <answer correct="no">Die Verbindung kann durch Reflexion von verbrummten Ultrakurzwellen am Polarkreis zustande gekommen sein, wenn gute Ausbreitungsbedingungen bestehen und die Antenne nur indirekt mit der Gegenstation übereinstimmt.</answer>
+    </question>
+    

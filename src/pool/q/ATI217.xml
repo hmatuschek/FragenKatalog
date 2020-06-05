@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI217" name="A/TI217">
+      <text>
+        <p>Welches Ereignis tritt ein, wenn zwei phasenverschobene Signale an einem Empfangsort zusammentreffen?</p>
+      </text>
+      <answer correct="yes">Es kommt zu Interferenzen der beiden Signale.</answer>
+      <answer correct="no">Es kommt zu Reflexionen der beiden Signale.</answer>
+      <answer correct="no">Es kommt zu Drehungen der Polarisationsebene der beiden Signale.</answer>
+      <answer correct="no">Es kommt zu Beugungseffekten bei beiden Signalen.</answer>
+    </question>
+    

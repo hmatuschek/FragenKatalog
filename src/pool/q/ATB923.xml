@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB923" name="A/TB923">
+      <text>
+        <p>In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Strom, Spannung, Widerstand und Leistung richtig?</p>
+      </text>
+      <answer correct="yes">I = √(P/R); U = √(P·R)</answer>
+      <answer correct="no">I = √(P·R); U = √(P/R)</answer>
+      <answer correct="no">I = √(R/P); U = √(P·R)</answer>
+      <answer correct="no">I = √P/R; U = √(P/R)</answer>
+    </question>
+    

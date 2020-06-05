@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB312" name="B/BB312">
+      <text>
+        <p>Wie wird ein SSTV-Signal beurteilt? Es wird beurteilt mit</p>
+      </text>
+      <answer correct="yes">R, S und "V" für Video-Qualität, V in 5 Stufen.</answer>
+      <answer correct="no">V, S, T, mit "V" für Video-Qualität, V in 5 Stufen.</answer>
+      <answer correct="no">mit S für Signalstärke und "V" für Video-Qualität, S und V in 9 Stufen.</answer>
+      <answer correct="no">R, S, T und einer zusätzlichen Bildbewertung.</answer>
+    </question>
+    

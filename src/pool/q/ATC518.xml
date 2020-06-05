@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC518" name="A/TC518">
+      <text>
+        <p>Eine Leuchtdiode mit einer Durchlassspannung von 1,4 V und einem Durchlassstrom von 20 mA soll an eine Spannungsquelle von 5,0 V angeschlossen werden. Berechnen Sie den Vorwiderstand. Die Größe des benötigten Vorwiderstandes beträgt</p>
+      </text>
+      <answer correct="yes">180 Ω.</answer>
+      <answer correct="no">250 Ω.</answer>
+      <answer correct="no">70 Ω.</answer>
+      <answer correct="no">320 Ω.</answer>
+    </question>
+    

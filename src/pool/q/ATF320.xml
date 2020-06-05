@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF320" name="A/TF320">
+      <text>
+        <p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?</p>
+      </text>
+      <answer correct="yes">Notchfilter</answer>
+      <answer correct="no">Dämpfungsglied</answer>
+      <answer correct="no">Hochpass</answer>
+      <answer correct="no">Sperrfilter</answer>
+    </question>
+    

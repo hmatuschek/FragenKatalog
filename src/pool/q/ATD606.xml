@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD606" name="A/TD606">
+      <text>
+        <p>Ist die folgende Schaltung als Oberton-Oszillator geeignet?</p>
+        <img src="Atd605" />
+      </text>
+      <answer correct="yes">Ja, wenn der Schwingkreis für eine der Obertonfrequenzen des Quarzes ausgelegt wird.</answer>
+      <answer correct="no">Nein, weil die Schaltung keinen Frequenzvervielfacher besitzt.</answer>
+      <answer correct="no">Nein, weil der Quarz in Oberton-Oszillatoren immer in Parallelresonanz betrieben werden muss.</answer>
+      <answer correct="no">Nein, Oszillatorschaltungen, die neben dem Quarz noch einen LC-Schwingkreis besitzen, sind als Oberton-Oszillatoren ungeeignet.</answer>
+    </question>
+    

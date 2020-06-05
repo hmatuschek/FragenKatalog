@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD302" name="B/BD302">
+      <text>
+        <p>Welche Gruppe gibt Landeskenner der Länder USA, Syrien, Südafrika, Neuseeland, Argentinien und Chile für ihre Amateurfunkstellen richtig wieder?</p>
+      </text>
+      <answer correct="yes">W, YK, ZS, ZL, LU, CE</answer>
+      <answer correct="no">K, YL, ZL, ZS, LU, CE</answer>
+      <answer correct="no">N, YK, ZL, ZS, AR, CE</answer>
+      <answer correct="no">W, YK, ZS, ZL, AR, CE</answer>
+    </question>
+    

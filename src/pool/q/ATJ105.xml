@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ105" name="A/TJ105">
+      <text>
+        <p>
+          Wenn bei dieser Messschaltung I = 1 A zu einem Vollausschlag des Instruments führt, beträgt der Strom durch R
+          <sub>P</sub>
+        </p>
+        <img src="Atj105" />
+      </text>
+      <answer correct="yes">0,999 A.</answer>
+      <answer correct="no">0,9 A.</answer>
+      <answer correct="no">1 mA.</answer>
+      <answer correct="no">99 mA.</answer>
+    </question>
+    

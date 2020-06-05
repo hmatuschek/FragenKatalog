@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC204" name="B/BC204">
+      <text>
+        <p>Sie rufen auf der Frequenz 144,300 MHz CQ und erhalten einen Anruf. Was tun Sie als nächstes?</p>
+      </text>
+      <answer correct="yes">Ich schlage der anrufenden Station QSY vor, warte auf die Bestätigung und wechsle die Frequenz.</answer>
+      <answer correct="no">Ich gebe zunächst einen Rapport und den Standortkenner durch.</answer>
+      <answer correct="no">Ich gebe zunächst die wichtigsten QSO-Daten durch. Wenn ein längeres Gespräch geführt werden soll, schlage ich Frequenzwechsel vor.</answer>
+      <answer correct="no">Ich frage die Gegenstation, ob sie eine andere Station auf der Frequenz hört. Wenn nicht, tauschen wir auf dieser Frequenz die Daten aus.</answer>
+    </question>
+    

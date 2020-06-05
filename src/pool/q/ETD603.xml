@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD603" name="E/TD603">
+      <text>
+        <p>Was ist ein Quarz-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>
+      </text>
+      <answer correct="yes">durch einen hochstabilen Quarz bestimmt wird.</answer>
+      <answer correct="no">allein durch einen Quarz erzeugt wird.</answer>
+      <answer correct="no">mittels Quarz-Tiefpass gefiltert wird.</answer>
+      <answer correct="no">mittels Quarz-Hochpass gefiltert wird.</answer>
+    </question>
+    

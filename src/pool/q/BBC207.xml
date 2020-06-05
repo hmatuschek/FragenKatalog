@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC207" name="B/BC207">
+      <text>
+        <p>Sie möchten im 2-m-Band ein SSB-QSO führen. Wie verhalten Sie sich?</p>
+      </text>
+      <answer correct="yes">Ich suche eine freie Frequenz in dem nach den IARU-Bandplänen für SSB empfohlenen Frequenzbereich im 2-m-Band und rufe "CQ".</answer>
+      <answer correct="no">Ich suche eine freie Frequenz irgendwo im 2-m-Band und rufe "CQ".</answer>
+      <answer correct="no">Ich suche eine freie Frequenz im FM-Simplex-Bereich und rufe "CQ".</answer>
+      <answer correct="no">Ich suche eine freie Frequenz unterhalb von 144,150 MHz und rufe "CQ".</answer>
+    </question>
+    

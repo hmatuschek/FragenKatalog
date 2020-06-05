@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG213" name="A/TG213">
+      <text>
+        <p>Wie wird ein SSB-Signal erzeugt?</p>
+      </text>
+      <answer correct="yes">Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Das Seitenbandfilter selektiert ein Seitenband heraus.</answer>
+      <answer correct="no">Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Ein auf die Trägerfrequenz abgestimmter Saugkreis filtert den Träger aus.</answer>
+      <answer correct="no">Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Ein auf die Trägerfrequenz abgestimmter Sperrkreis filtert den Träger aus.</answer>
+      <answer correct="no">Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. In einem Frequenzteiler wird ein Seitenband abgespalten.</answer>
+    </question>
+    

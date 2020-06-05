@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB804" name="E/TB804">
+      <text>
+        <p>Was ist der Unterschied zwischen FSK und AFSK?</p>
+      </text>
+      <answer correct="yes">Bei FSK wird der Träger direkt und bei AFSK mit Hilfe des Audiosignals moduliert.</answer>
+      <answer correct="no">Bei FSK wird der Träger frequenzmoduliert und bei AFSK amplitudenmoduliert.</answer>
+      <answer correct="no">Bei FSK wird der Träger frequenzmoduliert und bei AFSK wird der Träger unterdrückt.</answer>
+      <answer correct="no">Bei FSK wird der Träger amplitudenmoduliert und bei AFSK frequenzmoduliert.</answer>
+    </question>
+    

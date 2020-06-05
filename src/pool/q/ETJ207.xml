@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ207" name="E/TJ207">
+      <text>
+        <p>Ein Stehwellenmessgerät wird in ein ideal angepasstes Sender-/Antennensystem eingeschleift. Das Messgerät sollte</p>
+      </text>
+      <answer correct="yes">ein Stehwellenverhältnis von 1 anzeigen.</answer>
+      <answer correct="no">einen Rücklauf von 100% anzeigen.</answer>
+      <answer correct="no">ein Stehwellenverhältnis von 0 anzeigen.</answer>
+      <answer correct="no">ein Stehwellenverhältnis von unendlich anzeigen.</answer>
+    </question>
+    

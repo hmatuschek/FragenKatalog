@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC102" name="V/VC102">
+      <text>
+        <p>Welches Gesetz regelt die Voraussetzungen und die Bedingungen für die Teilnahme am Amateurfunkdienst?</p>
+      </text>
+      <answer correct="yes">Das Gesetz über den Amateurfunk.</answer>
+      <answer correct="no">Das Telekommunikationsgesetz.</answer>
+      <answer correct="no">Die Vollzugsordnung für den Funkdienst.</answer>
+      <answer correct="no">Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen.</answer>
+    </question>
+    

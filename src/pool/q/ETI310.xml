@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI310" name="E/TI310">
+      <text>
+        <p>In dem folgenden Geländeprofil sei S ein Sender im 2-m-Band, E1 bis E4 vier Empfangsstationen. Welche Funkstrecke geht wahrscheinlich am besten, welche am schlechtesten?</p>
+        <img src="ETI310" />
+      </text>
+      <answer correct="yes">Am besten S-E3, am schlechtesten S-E1</answer>
+      <answer correct="no">Am besten S-E1, am schlechtesten S-E4</answer>
+      <answer correct="no">Am besten S-E3, am schlechtesten S-E4</answer>
+      <answer correct="no">Am besten S-E4, am schlechtesten S-E1</answer>
+    </question>
+    

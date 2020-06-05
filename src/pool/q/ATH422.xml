@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH422" name="A/TH422">
+      <text>
+        <p>Am Eingang einer Antennenleitung misst man ein VSWR von 3. Wie groß ist in etwa die rücklaufende Leistung am Messpunkt, wenn die vorlaufende Leistung dort 100 Watt beträgt?</p>
+      </text>
+      <answer correct="yes">25 W</answer>
+      <answer correct="no">12,5 W</answer>
+      <answer correct="no">50 W</answer>
+      <answer correct="no">75 W</answer>
+    </question>
+    

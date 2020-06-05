@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD412" name="A/TD412">
+      <text>
+        <p>Die Ausgangsimpedanz dieser Schaltung ist</p>
+        <img src="Atd408" />
+      </text>
+      <answer correct="yes">sehr niedrig im Vergleich zur Eingangsimpedanz.</answer>
+      <answer correct="no">in etwa gleich der Eingangsimpedanz und niederohmig.</answer>
+      <answer correct="no">sehr hoch im Vergleich zur Eingangsimpedanz.</answer>
+      <answer correct="no">in etwa gleich der Eingangsimpedanz und hochohmig.</answer>
+    </question>
+    

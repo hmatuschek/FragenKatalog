@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC112" name="A/TC112">
+      <text>
+        <p>Ein Lastwiderstand besteht aus zwölf parallelgeschalteten 600-Ω-Drahtwiderständen. Er eignet sich höchstens</p>
+      </text>
+      <answer correct="yes">für Tonfrequenzen bis etwa 15 kHz.</answer>
+      <answer correct="no">für Funkfrequenzen bis etwa 144 MHz.</answer>
+      <answer correct="no">für UHF-Senderausgänge mit 50 Ω.</answer>
+      <answer correct="no">als Langdrahtersatz.</answer>
+    </question>
+    

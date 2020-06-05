@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE202" name="B/BE202">
+      <text>
+        <p>Was ist mit dem Begriff "pile up" gemeint? Man meint damit das gleichzeitige</p>
+      </text>
+      <answer correct="yes">Anrufen einer selten zu hörenden Station durch viele Amateurfunkstellen.</answer>
+      <answer correct="no">Senden einer Station auf mehreren Amateurfunkfrequenzen in einem Kontest.</answer>
+      <answer correct="no">Senden einer Station mit mehreren Antennen bei einem Kontest.</answer>
+      <answer correct="no">Hören einer Station mit mehreren Empfängern bei einem Kontest.</answer>
+    </question>
+    

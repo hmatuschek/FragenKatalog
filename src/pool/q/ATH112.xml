@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH112" name="A/TH112">
+      <text>
+        <p>Das folgende Strahlungsdiagramm ist typisch für</p>
+        <img src="Ath112" />
+      </text>
+      <answer correct="yes">einen Halbwellendipol.</answer>
+      <answer correct="no">eine Richtstrahlantenne mit zwei Elementen.</answer>
+      <answer correct="no">eine Ganzwellenantenne.</answer>
+      <answer correct="no">eine Drei-Halbwellenlängen-Antenne.</answer>
+    </question>
+    

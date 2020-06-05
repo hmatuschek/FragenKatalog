@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC525" name="A/TC525">
+      <text>
+        <p>
+          Das folgende Signal wird als U
+          <sub>1</sub>
+           an den Eingang der Schaltung mit Siliziumdioden gelegt. Wie sieht das zugehörige Ausgangssignal U
+          <sub>2</sub>
+           aus?
+        </p>
+        <img src="Atc525" />
+      </text>
+      <answer correct="yes">
+        <img src="Atc525a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc525b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc525c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc525d" />
+      </answer>
+    </question>
+    

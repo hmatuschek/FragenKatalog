@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE118" name="B/BE118">
+      <text>
+        <p>EA3JQ ruft in englischer Sprache CQ. Wie gestalten Sie Ihren Anruf, wenn Sie mit ihm ein QSO führen möchten?</p>
+      </text>
+      <answer correct="yes">EA3JQ, this is DH8DAP calling you</answer>
+      <answer correct="no">CQ CQ CQ de DH8DAP for EA3JQ, please go ahead</answer>
+      <answer correct="no">EA3JQ, es ruft Sie DH8DAP, bitte kommen</answer>
+      <answer correct="no">QRZ EA3JQ from DH8DAP, over</answer>
+    </question>
+    

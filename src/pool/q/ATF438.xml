@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF438" name="A/TF438">
+      <text>
+        <p>Wodurch erreicht man eine Verringerung von Intermodulation und Kreuzmodulation beim Empfang?</p>
+      </text>
+      <answer correct="yes">Einschalten eines Dämpfungsgliedes vor den Empfängereingang</answer>
+      <answer correct="no">Einschalten des Vorverstärkers</answer>
+      <answer correct="no">Einschalten des Noise-Blankers</answer>
+      <answer correct="no">Passband-Tuning</answer>
+    </question>
+    

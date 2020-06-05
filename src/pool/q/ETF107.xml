@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF107" name="E/TF107">
+      <text>
+        <p>Einem Mischer werden die Frequenzen 28 MHz und 38,7 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>
+      </text>
+      <answer correct="yes">10,7 MHz und 66,7 MHz</answer>
+      <answer correct="no">nur 10,7 MHz</answer>
+      <answer correct="no">56 MHz und 66,7 MHz</answer>
+      <answer correct="no">10,7 MHz und 56 MHz</answer>
+    </question>
+    

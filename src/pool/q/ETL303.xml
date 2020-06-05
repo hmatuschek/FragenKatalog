@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL303" name="E/TL303">
+      <text>
+        <p>Unter welchen Bedingungen darf ein Fundamenterder als Blitzschutzerder verwendet werden?</p>
+      </text>
+      <answer correct="yes">Jeder ordnungsgemäß verlegte Fundamenterder kann verwendet werden, sofern alle Blitzschutzleitungen bis zur Potentialausgleichsschiene getrennt geführt werden.</answer>
+      <answer correct="no">Nach den geltenden Vorschriften muss immer eine eigene Blitzschutzanlage, also auch ein eigener Fundamenterder, für eine Amateurfunkantenne aufgebaut werden.</answer>
+      <answer correct="no">Die in den Sicherheitsvorschriften festgelegte zulässige Leitungslänge des Erdungsleiters darf auf keinen Fall überschritten werden.</answer>
+      <answer correct="no">Die Ausdehnung des Fundamenterders muss größer oder wenigstens gleich der Ausdehnung der Antennenanlage sein.</answer>
+    </question>
+    

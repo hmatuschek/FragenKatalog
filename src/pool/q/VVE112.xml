@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE112" name="V/VE112">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (10-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">28 MHz - 29,7 MHz</answer>
+      <answer correct="no">28 MHz - 29 MHz</answer>
+      <answer correct="no">28 MHz - 30 MHz</answer>
+      <answer correct="no">28 MHz - 32 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK210" name="A/TK210">
+      <text>
+        <p>Wenn HF-Signale unerwünscht auf einen VFO zurückkoppeln, kann dies zu</p>
+      </text>
+      <answer correct="yes">Frequenzinstabilität führen.</answer>
+      <answer correct="no">Frequenzsynthese führen.</answer>
+      <answer correct="no">Gegenkopplung führen.</answer>
+      <answer correct="no">Mehrwegeausbreitung führen.</answer>
+    </question>
+    

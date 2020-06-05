@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA105" name="A/TA105">
+      <text>
+        <p>Wenn [s] für Sekunde steht, gilt für die Einheit der Frequenz</p>
+      </text>
+      <answer correct="yes">Hz = 1/s</answer>
+      <answer correct="no">Hz = s</answer>
+      <answer correct="no">Hz = s²</answer>
+      <answer correct="no">Hz = 1/s²</answer>
+    </question>
+    

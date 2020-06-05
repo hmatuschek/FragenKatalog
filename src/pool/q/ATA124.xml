@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA124" name="A/TA124">
+      <text>
+        <p>Eine Wellenlänge von 69 cm entspricht einer Frequenz von</p>
+      </text>
+      <answer correct="yes">434,783 MHz.</answer>
+      <answer correct="no">430,162 MHz.</answer>
+      <answer correct="no">435,574 MHz.</answer>
+      <answer correct="no">440,317 MHz.</answer>
+    </question>
+    

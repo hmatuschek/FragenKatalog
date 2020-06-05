@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ502" name="A/TJ502">
+      <text>
+        <p>Für eine größtmögliche Genauigkeit sollte ein Frequenzzähler</p>
+      </text>
+      <answer correct="yes">mit einer temperaturstabilisierten Quarzzeitbasis ausgestattet sein.</answer>
+      <answer correct="no">mit einem 1:10 Vorteiler ausgestattet sein.</answer>
+      <answer correct="no">mit einer möglichst kurzen Torzeit betrieben werden.</answer>
+      <answer correct="no">mit einer Triggereinrichtung ausgestattet sein.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF204" name="A/TF204">
+      <text>
+        <p>Folgende Schaltung stellt einen Doppelsuper dar. Welche Funktion haben die drei mit X, Y und Z gekennzeichneten Blöcke?</p>
+        <img src="Atf204" />
+      </text>
+      <answer correct="yes">X ist ein VFO, Y ist ein CO und Z ein BFO</answer>
+      <answer correct="no">X ist ein VFO, Y ist ein BFO und Z ein CO</answer>
+      <answer correct="no">X ist ein BFO, Y ist ein CO und Z ein VFO</answer>
+      <answer correct="no">X ist ein BFO, Y ist ein VFO und Z ein CO</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH116" name="A/TH116">
+      <text>
+        <p>Ein Parallelresonanzkreis (Trap) in jeder Dipolhälfte</p>
+      </text>
+      <answer correct="yes">erlaubt eine Anpassung für mindestens zwei Frequenzbereiche.</answer>
+      <answer correct="no">erhöht die effiziente Nutzung des jeweiligen Frequenzbereichs.</answer>
+      <answer correct="no">ermöglicht eine breitbandigere Anpassung.</answer>
+      <answer correct="no">ermöglicht die Unterdrückung der Harmonischen.</answer>
+    </question>
+    

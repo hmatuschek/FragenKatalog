@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ113" name="A/TJ113">
+      <text>
+        <p>Die Auflösung eines Messinstruments entspricht</p>
+      </text>
+      <answer correct="yes">der kleinsten Einteilung der Anzeige.</answer>
+      <answer correct="no">der Genauigkeit des Instruments in Bezug auf den tatsächlichen Wert.</answer>
+      <answer correct="no">der Genauigkeit des Instruments.</answer>
+      <answer correct="no">dem Vollausschlag der Instrumentenanzeige.</answer>
+    </question>
+    

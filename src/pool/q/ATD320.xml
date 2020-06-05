@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD320" name="A/TD320">
+      <text>
+        <p>Im folgenden Bild ist die Spannung am Ausgang einer Stromversorgung dargestellt. Die Restwelligkeit und die Brummfrequenz betragen</p>
+        <img src="Atd320" />
+      </text>
+      <answer correct="yes">
+        3 V
+        <sub>SS</sub>
+        , 100 Hz.
+      </answer>
+      <answer correct="no">
+        3 V
+        <sub>SS</sub>
+        , 50 Hz.
+      </answer>
+      <answer correct="no">13,5±1,5 V, 50 Hz.</answer>
+      <answer correct="no">13,5±1,5 V, 100 Hz.</answer>
+    </question>
+    

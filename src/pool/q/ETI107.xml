@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI107" name="E/TI107">
+      <text>
+        <p>Die Sonnenfleckenzahl ist einem regelmäßigen Zyklus unterworfen. Welchen Zeitraum hat dieser Zyklus zirka?</p>
+      </text>
+      <answer correct="yes">11 Jahre</answer>
+      <answer correct="no">6 Monate</answer>
+      <answer correct="no">12 Monate</answer>
+      <answer correct="no">100 Jahre</answer>
+    </question>
+    

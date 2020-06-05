@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA204" name="E/TA204">
+      <text>
+        <p>In welcher Einheit wird der elektrische Widerstand angegeben?</p>
+      </text>
+      <answer correct="yes">Ohm</answer>
+      <answer correct="no">Farad</answer>
+      <answer correct="no">Siemens</answer>
+      <answer correct="no">Henry</answer>
+    </question>
+    

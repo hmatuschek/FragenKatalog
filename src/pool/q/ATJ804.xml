@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ804" name="A/TJ804">
+      <text>
+        <p>Welches der nachfolgend genannten Messgeräte ermöglicht die genaueste Messung der Spannung zwischen A und B?</p>
+        <img src="Atj804" />
+      </text>
+      <answer correct="yes">Digital Multimeter mit einer Genauigkeit von ± 0,5 % ± 1 Digit und einem Eingangswiderstand von 10 MΩ in den Gleichspannungsmessbereichen</answer>
+      <answer correct="no">Feinmessgerät der Klasse 0,5 mit einer Empfindlichkeit von 10 kΩ/V</answer>
+      <answer correct="no">Drehspulmessgerät mit einer Empfindlichkeit von 4 kΩ/V</answer>
+      <answer correct="no">Digital Multimeter mit einer Genauigkeit von ± 0,5 % ± 1 Digit und einem Eingangswiderstand von 1 MΩ in den Gleichspannungsmessbereichen</answer>
+    </question>
+    

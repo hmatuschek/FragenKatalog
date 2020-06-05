@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC502" name="E/TC502">
+      <text>
+        <p>N-leitendes Halbleitermaterial ist gekennzeichnet durch</p>
+      </text>
+      <answer correct="yes">Überschuss an freien Elektronen.</answer>
+      <answer correct="no">das Fehlen von Dotierungsatomen.</answer>
+      <answer correct="no">das Fehlen von Atomen im Gitter des Halbleiterkristalls.</answer>
+      <answer correct="no">bewegliche Elektronenlücken.</answer>
+    </question>
+    

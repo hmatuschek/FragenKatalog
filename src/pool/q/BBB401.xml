@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB401" name="B/BB401">
+      <text>
+        <p>Wie wird "Morsetelegrafie, Zweiseitenband, ein einziger Kanal, der quantisierte oder digitale Information enthält, ohne Verwendung eines modulierten Hilfsträgers", bezeichnet?</p>
+      </text>
+      <answer correct="yes">A1A</answer>
+      <answer correct="no">NØN</answer>
+      <answer correct="no">A2A</answer>
+      <answer correct="no">R3E</answer>
+    </question>
+    

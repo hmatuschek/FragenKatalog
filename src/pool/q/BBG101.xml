@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG101" name="B/BG101">
+      <text>
+        <p>Welche Uhrzeit tragen Sie in die QSL Karte an XE2AS ein, mit dem Sie um 13:30 MESZ eine Funkverbindung hatten?</p>
+      </text>
+      <answer correct="yes">11:30 UTC</answer>
+      <answer correct="no">13:30 UTC</answer>
+      <answer correct="no">12:30 UTC</answer>
+      <answer correct="no">14:30 UTC</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD122" name="A/TD122">
+      <text>
+        <p>In welchem Bereich bewegt sich der Eingangswiderstand der folgenden Schaltung, wenn R alle Werte von 0 bis unendlich durchläuft?</p>
+        <img src="Atd122" />
+      </text>
+      <answer correct="yes">266,7 bis 300 Ω</answer>
+      <answer correct="no">200 bis 400 Ω</answer>
+      <answer correct="no">100 bis 200 Ω</answer>
+      <answer correct="no">300 bis 366,7 Ω</answer>
+    </question>
+    

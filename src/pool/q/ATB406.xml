@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB406" name="A/TB406">
+      <text>
+        <p>Wenn Strom durch einen gestreckten Leiter fließt, entsteht ein</p>
+      </text>
+      <answer correct="yes">Magnetfeld aus konzentrischen Kreisen um den Leiter.</answer>
+      <answer correct="no">elektrisches Feld aus konzentrischen Kreisen um den Leiter.</answer>
+      <answer correct="no">homogenes Magnetfeld um den Leiter.</answer>
+      <answer correct="no">homogenes elektrisches Feld um den Leiter.</answer>
+    </question>
+    

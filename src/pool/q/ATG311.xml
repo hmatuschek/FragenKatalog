@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG311" name="A/TG311">
+      <text>
+        <p>
+          Welche Funktion haben C
+          <sub>1</sub>
+          , C
+          <sub>2</sub>
+           und L
+          <sub>1</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atg311" />
+      </text>
+      <answer correct="yes">Sie passen die Eingangsimpedanz an den niederohmigeren Transistoreingang an.</answer>
+      <answer correct="no">Sie unterdrücken unerwünschte Harmonische der vorhergehenden Treiberstufe</answer>
+      <answer correct="no">Sie dienen zur optimalen Einstellung des Arbeitspunktes für den Endstufentransistor.</answer>
+      <answer correct="no">Sie schützen den Endstufentransistor vor Überlastung.</answer>
+    </question>
+    

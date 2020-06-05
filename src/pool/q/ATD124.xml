@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD124" name="A/TD124">
+      <text>
+        <p>
+          Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R
+          <sub>1</sub>
+           = 12 kΩ, R
+          <sub>2</sub>
+           = 12 kΩ, R
+          <sub>3</sub>
+           = 6 kΩ und R
+          <sub>4</sub>
+           = 1,5 kΩ betragen?
+        </p>
+        <img src="Atd123" />
+      </text>
+      <answer correct="yes">4,5 kΩ</answer>
+      <answer correct="no">31,5 kΩ</answer>
+      <answer correct="no">10,2 kΩ</answer>
+      <answer correct="no">5,5 kΩ</answer>
+    </question>
+    

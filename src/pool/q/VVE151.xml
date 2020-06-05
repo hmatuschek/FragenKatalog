@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE151" name="V/VE151">
+      <text>
+        <p>Was besagt der Hinweis, dass der Frequenzbereich 433,05 - 434,79 MHz als ISM-Frequenzbereich zugewiesen ist?</p>
+      </text>
+      <answer correct="yes">Dieser Frequenzbereich wird für industrielle, wissenschaftliche, medizinische, häusliche oder ähnliche Anwendungen mitbenutzt.</answer>
+      <answer correct="no">Dieser Frequenzbereich wird für internationale Satellitenmessungen verwendet; hierdurch kann es zu Störungen im normalen Funkverkehr kommen.</answer>
+      <answer correct="no">Dieser Frequenzbereich wird für industrielle Sender in Maschinen benutzt und ist für den Amateurfunkverkehr nur auf sekundärer Basis zugelassen.</answer>
+      <answer correct="no">Dieser Frequenzbereich wird von ISM-Geräten genutzt. Die Sendeleistungen im Amateurfunkdienst sind in diesem Frequenzbereich zu reduzieren.</answer>
+    </question>
+    

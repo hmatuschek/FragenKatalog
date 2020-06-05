@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE102" name="A/TE102">
+      <text>
+        <p>Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen?</p>
+      </text>
+      <answer correct="yes">Durch zu steile Flanken der Tastimpulse</answer>
+      <answer correct="no">Durch prellende Kontakte der verwendeten Taste</answer>
+      <answer correct="no">Durch direkte Tastung der Oszillatorstufe</answer>
+      <answer correct="no">Durch ein unterdimensioniertes Netzteil, dessen Spannung beim Auftasten kurzzeitig zusammenbricht</answer>
+    </question>
+    

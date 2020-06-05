@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ504" name="A/TJ504">
+      <text>
+        <p>Ein Frequenzzähler verfügt über eine Genauigkeit von ±1 ppm. Wenn der Zähler auf den 100-MHz-Bereich eingestellt wird, beträgt die Genauigkeit am oberen Ende des 100-MHz-Bereichs plus bzw. minus</p>
+      </text>
+      <answer correct="yes">100 Hz.</answer>
+      <answer correct="no">10 Hz.</answer>
+      <answer correct="no">1 kHz.</answer>
+      <answer correct="no">100 MHz.</answer>
+    </question>
+    

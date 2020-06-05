@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC504" name="A/TC504">
+      <text>
+        <p>Welche typischen Schwellspannungen haben Germanium- und Siliziumdioden? Sie liegen bei</p>
+      </text>
+      <answer correct="yes">Germanium zwischen 0,2 und 0,4 Volt, bei Silizium zwischen 0,5 und 0,8 Volt.</answer>
+      <answer correct="no">Germanium zwischen 0,5 und 0,8 Volt, bei Silizium zwischen 0,2 und 0,4 Volt.</answer>
+      <answer correct="no">Germanium bei etwa 0,7 Volt, bei Silizium bei etwa 0,3 Volt.</answer>
+      <answer correct="no">allen Dioden bei etwa 0,7 Volt.</answer>
+    </question>
+    

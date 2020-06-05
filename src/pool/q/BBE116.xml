@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE116" name="B/BE116">
+      <text>
+        <p>Warum erscheint Ihnen auf den höheren Frequenzbändern der Kurzwelle eine Frequenz als frei, obwohl sie sich anschließend als besetzt herausstellt?</p>
+      </text>
+      <answer correct="yes">Die auf dieser Frequenz sendende Station liegt innerhalb der toten Zone und konnte daher von mir nicht gehört werden.</answer>
+      <answer correct="no">Die auf dieser Frequenz sendenden Stationen haben eine zu geringe Sendeleistung.</answer>
+      <answer correct="no">Für die auf dieser Frequenz sendenden Stationen sind die Ausbreitungsbedingungen zu schlecht.</answer>
+      <answer correct="no">Die auf dieser Frequenz sendende Station wurde durch den Mögel-Dellinger-Effekt kurzfristig unterbrochen.</answer>
+    </question>
+    

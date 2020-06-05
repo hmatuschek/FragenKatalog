@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ805" name="A/TJ805">
+      <text>
+        <p>Mit einem Voltmeter der Klasse 1.5, das einen Skalenendwert von 300 Volt hat, messen Sie an einer Spannungsquelle 230 Volt. In welchem Bereich liegt der wahre Wert?</p>
+      </text>
+      <answer correct="yes">Er liegt zwischen 225,5 und 234,5 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 226,5 und 233,5 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 229,5 und 230,5 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 229,7 und 230,3 Volt.</answer>
+    </question>
+    

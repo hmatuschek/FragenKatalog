@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC112" name="V/VC112">
+      <text>
+        <p>Wozu dient der Amateurfunkdienst nach dem AFuG?</p>
+      </text>
+      <answer correct="yes">Zur Ausübung des Amateurfunks aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichen Interessen.</answer>
+      <answer correct="no">Zu gewerblich-wirtschaftlichen Zwecken und zum geschäftsmäßigen Erbringen von Telekommunikationsdienstleistungen.</answer>
+      <answer correct="no">Zum Übertragen rundfunkähnlicher Darbietungen und zur Übermittlung von Inhalten politischer und religiöser Art.</answer>
+      <answer correct="no">Zur Ausübung des Amateurfunks aus persönlicher Neigung und aus wissenschaftlich-wirtschaftlichen Interessen.</answer>
+    </question>
+    

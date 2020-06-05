@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF403" name="E/TF403">
+      <text>
+        <p>Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 10 Watt auf 40 Watt erhöht?</p>
+      </text>
+      <answer correct="yes">Um eine S-Stufe</answer>
+      <answer correct="no">Um zwei S-Stufen</answer>
+      <answer correct="no">Um vier S-Stufen</answer>
+      <answer correct="no">Um acht S-Stufen</answer>
+    </question>
+    

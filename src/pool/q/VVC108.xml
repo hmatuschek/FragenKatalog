@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC108" name="V/VC108">
+      <text>
+        <p>Darf der Funkamateur mit anderen Funkstellen, die keine Amateurfunkstellen sind, Funkverkehr abwickeln?</p>
+      </text>
+      <answer correct="yes">Nein.</answer>
+      <answer correct="no">Ja, beispielsweise mit allen Betreibern von LPD-Funkgeräten im Amateurfunkbereich sowie mit CB-Funkteilnehmern mit verminderter Sendeleistung.</answer>
+      <answer correct="no">Ja, aber nur mit Versuchsfunkstellen, die ein Rufzeichen mit dem Präfix DI benutzen.</answer>
+      <answer correct="no">Nein, mit Ausnahme von Funkstellen der Sekundärnutzer auf den Amateurfunkbändern.</answer>
+    </question>
+    

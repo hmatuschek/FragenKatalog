@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB117" name="V/VB117">
+      <text>
+        <p>Welche der folgenden Aussagen ist richtig?</p>
+      </text>
+      <answer correct="yes">Auch Nicht-CEPT-Länder können den CEPT-Empfehlungen T/R 61-01, T/R 61-02 oder (05)06 beitreten und diese anwenden.</answer>
+      <answer correct="no">Die CEPT-Empfehlungen T/R 61-01 und T/R 61-02 schließen die ECC-Empfehlung (05)06 mit ein.</answer>
+      <answer correct="no">Alle Mitglieder der CEPT sind verpflichtet, alle CEPT-Empfehlungen anzuwenden.</answer>
+      <answer correct="no">Eine Bescheinigung nach CEPT-Empfehlung T/R 61-02 berechtigt den Funkamateur auch zur Durchführung des Amateurfunkbetriebs.</answer>
+    </question>
+    

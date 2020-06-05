@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB107" name="B/BB107">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung "R" am Anfang eines Durchgangs?</p>
+      </text>
+      <answer correct="yes">Received (richtig empfangen)</answer>
+      <answer correct="no">Repeat (wiederhole)</answer>
+      <answer correct="no">Rapport</answer>
+      <answer correct="no">Readability (Lesbarkeit)</answer>
+    </question>
+    

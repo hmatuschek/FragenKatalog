@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK110" name="A/TK110">
+      <text>
+        <p>Zur Verbesserung der Störfestigkeit gegenüber HF-Einstrahlungen können in einem NF-Leistungsverstärker</p>
+      </text>
+      <answer correct="yes">keramische Kondensatoren über die Basis- Emitter-Übergänge der Endstufentransistoren eingebaut werden.</answer>
+      <answer correct="no">HF-Drosseln über die Basis-Emitter-Übergänge der Endstufentransistoren eingebaut werden.</answer>
+      <answer correct="no">keramische Kondensatoren über die Emitterwiderstände der Endstufentransistoren eingebaut werden.</answer>
+      <answer correct="no">HF-Drosseln parallel zu den Kollektor- und Emitteranschlüssen der Endstufentransistoren eingebaut werden.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ204" name="E/TJ204">
+      <text>
+        <p>Für welchen Zweck wird eine Stehwellenmessbrücke verwendet?</p>
+      </text>
+      <answer correct="yes">Zur Überprüfung der Anpassung des Senders an die Antenne.</answer>
+      <answer correct="no">Zur Frequenzkontrolle.</answer>
+      <answer correct="no">Zur Modulationskontrolle.</answer>
+      <answer correct="no">Als Abschluss des Senders.</answer>
+    </question>
+    

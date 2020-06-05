@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ820" name="A/TJ820">
+      <text>
+        <p>Wenn ein Faktor-10-Frequenzteiler vor einem Frequenzzähler geschaltet wird und der Zähler 14,5625 MHz anzeigt, beträgt die tatsächliche Frequenz</p>
+      </text>
+      <answer correct="yes">145,625 MHz.</answer>
+      <answer correct="no">1,45625 MHz.</answer>
+      <answer correct="no">14,5625 MHz.</answer>
+      <answer correct="no">135,625 MHz.</answer>
+    </question>
+    

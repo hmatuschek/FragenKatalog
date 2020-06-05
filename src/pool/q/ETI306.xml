@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI306" name="E/TI306">
+      <text>
+        <p>Was ist die Ursache für Aurora-Erscheinungen? Die Ursache ist</p>
+      </text>
+      <answer correct="yes">das Eindringen geladener Teilchen von der Sonne in die Atmosphäre.</answer>
+      <answer correct="no">eine hohe Sonnenfleckenzahl.</answer>
+      <answer correct="no">eine niedrige Sonnenfleckenzahl.</answer>
+      <answer correct="no">das Auftreten von Meteoritenschauern in den polaren Regionen.</answer>
+    </question>
+    

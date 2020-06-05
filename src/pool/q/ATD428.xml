@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD428" name="A/TD428">
+      <text>
+        <p>Welche Baugruppe sollte für die Begrenzung der NF-Bandbreite eines Mikrofonverstärkers verwendet werden?</p>
+      </text>
+      <answer correct="yes">Bandpassfilter</answer>
+      <answer correct="no">Tiefpassfilter</answer>
+      <answer correct="no">Hochpassfilter</answer>
+      <answer correct="no">Amplitudenbegrenzer</answer>
+    </question>
+    

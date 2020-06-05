@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD108" name="V/VD108">
+      <text>
+        <p>Wann und wie oft hat der Funkamateur sein Rufzeichen zu nennen?</p>
+      </text>
+      <answer correct="yes">Das Rufzeichen ist am Anfang und am Ende jeder Funkverbindung sowie zwischendurch mindestens alle 10 Minuten zu nennen.</answer>
+      <answer correct="no">Das Rufzeichen ist am Anfang und am Ende jeder Funkverbindung zu nennen.</answer>
+      <answer correct="no">Das Rufzeichen ist alle 10 Minuten zu nennen.</answer>
+      <answer correct="no">Das Rufzeichen ist spätestens nach 10 Minuten oder auf Verlangen der am Funkverkehr beteiligten Funkstellen zu nennen.</answer>
+    </question>
+    

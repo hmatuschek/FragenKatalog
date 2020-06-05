@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF409" name="E/TF409">
+      <text>
+        <p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, impulsförmige Störungen auszublenden?</p>
+      </text>
+      <answer correct="yes">Noise Blanker</answer>
+      <answer correct="no">Notchfilter</answer>
+      <answer correct="no">Passband-Tuning</answer>
+      <answer correct="no">Die AGC</answer>
+    </question>
+    

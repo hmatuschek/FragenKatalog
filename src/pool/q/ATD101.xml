@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD101" name="A/TD101">
+      <text>
+        <p>
+          Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R
+          <sub>1</sub>
+           = 3,3 kΩ, R
+          <sub>2</sub>
+           = 4,7 kΩ und R
+          <sub>3</sub>
+           = 27 kΩ betragen?
+        </p>
+        <img src="Atd101" />
+      </text>
+      <answer correct="yes">7,3 kΩ</answer>
+      <answer correct="no">4,0 kΩ</answer>
+      <answer correct="no">1,8 kΩ</answer>
+      <answer correct="no">35 kΩ</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC104" name="B/BC104">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 2-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">144 - 146 MHz</answer>
+      <answer correct="no">50,08 - 51 MHz</answer>
+      <answer correct="no">430 - 440 MHz</answer>
+      <answer correct="no">70 - 70,5 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC613" name="A/TC613">
+      <text>
+        <p>Bei einem bipolaren Transistor in leitendem Zustand befindet sich die Emitter-Basis-Diode</p>
+      </text>
+      <answer correct="yes">in Durchlassrichtung.</answer>
+      <answer correct="no">im Leerlauf.</answer>
+      <answer correct="no">im Kurzschluss.</answer>
+      <answer correct="no">in Sperrrichtung.</answer>
+    </question>
+    

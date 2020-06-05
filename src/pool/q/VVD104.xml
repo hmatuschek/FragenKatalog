@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD104" name="V/VD104">
+      <text>
+        <p>Wo sind die Nutzungsbestimmungen, die maximal zulässigen Sender- bzw. Strahlungsleistungen und die erlaubten Frequenzbereiche für den Amateurfunkdienst und den Amateurfunkdienst über Satelliten zu finden?</p>
+      </text>
+      <answer correct="yes">In der Anlage 1 der Amateurfunkverordnung (AFuV).</answer>
+      <answer correct="no">Im Gesetz über den Amateurfunk (AFuG).</answer>
+      <answer correct="no">Im Telekommunikationsgesetz (TKG).</answer>
+      <answer correct="no">In der Frequenzzuteilungsverordnung (Freq-ZutV).</answer>
+    </question>
+    

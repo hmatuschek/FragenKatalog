@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK102" name="E/TK102">
+      <text>
+        <p>Welche Effekte werden durch Intermodulation hervorgerufen?</p>
+      </text>
+      <answer correct="yes">Es treten Phantomsignale auf, die bei Einschalten eines Abschwächers verschwinden.</answer>
+      <answer correct="no">Das Nutzsignal wird mit einem anderen Signal moduliert und dadurch unverständlich.</answer>
+      <answer correct="no">Es treten Pfeifstellen gleichen Abstands im gesamten Empfangsbereich auf.</answer>
+      <answer correct="no">Dem Empfangssignal ist ein pulsierendes Rauschen überlagert, das die Verständlichkeit beeinträchtigt.</answer>
+    </question>
+    

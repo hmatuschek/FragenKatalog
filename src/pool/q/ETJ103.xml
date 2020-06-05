@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ103" name="E/TJ103">
+      <text>
+        <p>Was ist ein Dipmeter? Ein Dipmeter ist</p>
+      </text>
+      <answer correct="yes">ein abstimmbarer Oszillator mit einem Indikator, der anzeigt, wenn von einem ankoppelten Resonanzkreis bei einer Frequenz HF-Energie aufgenommen oder abgegeben wird.</answer>
+      <answer correct="no">ein selektiver Feldstärkemesser, der den Maximalwert der elektrischen Feldstärke anzeigt und der zur Überprüfung der Nutzsignal- und Nebenwellenabstrahlungen eingesetzt werden kann.</answer>
+      <answer correct="no">eine abgleichbare Stehwellenmessbrücke, mit der der Reflexionsfaktor und der Impedanzverlauf einer angeschlossenen Antenne oder einer LC-Kombination gemessen werden kann.</answer>
+      <answer correct="no">ein auf eine feste Frequenz eingestellter RC-Schwingkreis mit einem Indikator, der anzeigt, wie stark die Abstrahlung unerwünschter Oberwellen ist.</answer>
+    </question>
+    

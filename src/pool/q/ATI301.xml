@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI301" name="A/TI301">
+      <text>
+        <p>Wie weit etwa reicht der Funkhorizont im UKW-Bereich über den geographischen Horizont hinaus?</p>
+      </text>
+      <answer correct="yes">Etwa 15 % weiter als der geographische Horizont.</answer>
+      <answer correct="no">Etwa doppelt so weit.</answer>
+      <answer correct="no">Etwa bis zur Hälfte der Entfernung bis zum geographischen Horizont.</answer>
+      <answer correct="no">Etwa bis zum Vierfachen der Entfernung bis zum geographischen Horizont.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE403" name="B/BE403">
+      <text>
+        <p>Geben Sie die richtige Weiterführung an: Eine Amateurfunkbake ist eine Amateurfunkstelle</p>
+      </text>
+      <answer correct="yes">bei der mit besonderer Zulassung auf einer festen Frequenz an einem festgelegten Standort ein Amateurfunksender betrieben wird.</answer>
+      <answer correct="no">die mit einer entsprechenden Sonderzulassung der zuständigen Behörde an mehreren Standorten auf verschiedenen Frequenzen betrieben werden kann.</answer>
+      <answer correct="no">die auf einer festen Frequenz arbeitet. Der Standort der Funkanlage kann je nach Notwendigkeit verändert werden.</answer>
+      <answer correct="no">die mit geringer Sendeleistung auf einer festen Frequenz nur in den Nachtstunden zur Feststellung der Bandbelegung betrieben wird.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD107" name="A/TD107">
+      <text>
+        <p>Wie groß ist der Gesamtwiderstand der dargestellten Schaltung?</p>
+        <img src="Atd107" />
+      </text>
+      <answer correct="yes">550 Ω</answer>
+      <answer correct="no">360 Ω</answer>
+      <answer correct="no">1150 Ω</answer>
+      <answer correct="no">383 Ω</answer>
+    </question>
+    

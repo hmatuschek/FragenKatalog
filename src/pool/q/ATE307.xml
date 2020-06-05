@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE307" name="A/TE307">
+      <text>
+        <p>Welche der nachfolgend genannten Einrichtungen würden Sie an einen Terminal-Node-Controller (TNC) anschließen um am Packet-Radio-Betrieb teilzunehmen?</p>
+      </text>
+      <answer correct="yes">Einen geeigneten Transceiver und ein Terminal oder Computersystem</answer>
+      <answer correct="no">Eine IBM-MF-kompatible Tastatur und ein Modem</answer>
+      <answer correct="no">Ein Multifunktionsmikrofon mit DTMF-Tastatur, einen Monitor und ein Modem</answer>
+      <answer correct="no">Einen Up- /Down-Converter und einen Monitor</answer>
+    </question>
+    

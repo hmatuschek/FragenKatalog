@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB201" name="A/TB201">
+      <text>
+        <p>Ein Sonnenkollektor besteht aus vier parallel geschalteten Reihen von je 30 Solarzellen mit je Zelle 0,6 V Leerlaufspannung und 1 A Kurzschlussstrom. Welche Leerlaufspannung und welchen Kurzschlussstrom liefert der Kollektor? In welcher Zeile sind beide Werte richtig angegeben?</p>
+        <img src="Atb201" />
+      </text>
+      <answer correct="yes">Leerlaufspannung: 18 V, Kurzschlussstrom: 4 A</answer>
+      <answer correct="no">Leerlaufspannung: 18 V, Kurzschlussstrom: 30 A</answer>
+      <answer correct="no">Leerlaufspannung: 2,4 V, Kurzschlussstrom: 4 A</answer>
+      <answer correct="no">Leerlaufspannung: 2,4 V, Kurzschlussstrom: 30 A</answer>
+    </question>
+    

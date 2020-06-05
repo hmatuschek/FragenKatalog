@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC303" name="A/TC303">
+      <text>
+        <p>Wie verhält sich der Wechselstromwiderstand einer Spule mit zunehmender Frequenz?</p>
+      </text>
+      <answer correct="yes">Er nimmt zu.</answer>
+      <answer correct="no">Er nimmt ab.</answer>
+      <answer correct="no">Er bleibt konstant.</answer>
+      <answer correct="no">Er steigt auf ein Maximum und fällt dann ab.</answer>
+    </question>
+    

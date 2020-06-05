@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC703" name="A/TC703">
+      <text>
+        <p>Wie heißen die Grundbausteine in der Digitaltechnik?</p>
+      </text>
+      <answer correct="yes">UND-Glied (AND), ODER-Glied (OR), NICHT-UND-Glied (NAND), NICHT-ODER-Glied (NOR).</answer>
+      <answer correct="no">(+)-Gatter (UND), (-)-Gatter (OR), NICHT-(+)-Gatter (NUND), NICHT-(-)-Gatter (NODER).</answer>
+      <answer correct="no">UND-Glied (UND), ODER-Glied (ODER), NICHT-UND-Glied (NUND), NICHT-ODER-Glied (NODER).</answer>
+      <answer correct="no">UND-Gatter (UNG), ODER-Gatter (ORG), NICHT-UND-Gatter (NUNG), NICHT-ODER-Gatter (NORG).</answer>
+    </question>
+    

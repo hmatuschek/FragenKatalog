@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD407" name="V/VD407">
+      <text>
+        <p>Darf ein Funkamateur mit Ausbildungsrufzeichen der Klasse E an einer Klubstation, für deren Betrieb ein Rufzeichen der Klasse A zugeteilt wurde, ausbilden?</p>
+      </text>
+      <answer correct="yes">Ja, unter Verwendung des Ausbildungsrufzeichens im Rahmen der Betriebsrechte der Klasse E.</answer>
+      <answer correct="no">Ja, der Ausbildungsfunkbetrieb lässt dies in vollem Umfang der Klasse A zu.</answer>
+      <answer correct="no">Nein, Ausbildungsfunk an Klubstationen ist untersagt.</answer>
+      <answer correct="no">Nein, Ausbildungsfunk für Klasse E ist nur an Klubstationen der Klasse E zulässig.</answer>
+    </question>
+    

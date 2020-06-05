@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVK101" name="V/VK101">
+      <text>
+        <p>Wer haftet für Schäden, die durch die Antennenanlage einer Amateurfunkstelle entstehen können?</p>
+      </text>
+      <answer correct="yes">Der Eigner und Betreiber der Antennenanlage.</answer>
+      <answer correct="no">Die Amateurfunkvereinigung, wenn der Betreiber der Amateurfunkstelle Mitglied einer solchen Vereinigung ist.</answer>
+      <answer correct="no">Die Bundesnetzagentur, da in den monatlichen Beiträgen auch ein Anteil für eine Gruppenversicherung für Antennenanlagen von Funkamateuren enthalten ist.</answer>
+      <answer correct="no">Der Grundstückseigentümer. Er hat eine Antennenhaftpflichtversicherung abzuschließen, selbst wenn er nicht Betreiber der Amateurfunkstelle ist.</answer>
+    </question>
+    

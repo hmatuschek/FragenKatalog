@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI206" name="E/TI206">
+      <text>
+        <p>Bei der Ausbreitung auf Kurzwelle spielt die so genannte "Grey Line" eine besondere Rolle. Was ist die "Grey Line"?</p>
+      </text>
+      <answer correct="yes">Der Streifen der Dämmerungsphase vor Sonnenaufgang oder nach Sonnenuntergang.</answer>
+      <answer correct="no">Die instabilen Ausbreitungsbedingungen in der Äquatorialzone.</answer>
+      <answer correct="no">Die Zeit mit den besten Möglichkeiten für "Short Skip" Ausbreitung.</answer>
+      <answer correct="no">Die Übergangszeit vor und nach dem Winter, in der sich die D-Schicht ab- und wieder aufbaut.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF110" name="E/TF110">
+      <text>
+        <p>Durch welchen Vorgang setzt ein Konverter einen Frequenzbereich für einen vorhandenen Empfänger um?</p>
+      </text>
+      <answer correct="yes">Durch Mischung.</answer>
+      <answer correct="no">Durch Vervielfachung.</answer>
+      <answer correct="no">Durch Frequenzteilung.</answer>
+      <answer correct="no">Durch Rückkopplung.</answer>
+    </question>
+    

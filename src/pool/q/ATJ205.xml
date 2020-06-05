@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ205" name="A/TJ205">
+      <text>
+        <p>Wozu wird ein Dipmeter beispielsweise verwendet?</p>
+      </text>
+      <answer correct="yes">Zur Feststellung der Schwingfrequenz und des Funktionierens eines Oszillators.</answer>
+      <answer correct="no">Zur ungefähren Bestimmung der Leistung eines Senders.</answer>
+      <answer correct="no">Zur genauen Bestimmung der Dämpfung eines Schwingkreises.</answer>
+      <answer correct="no">Zur genauen Bestimmung der Güte eines Schwingkreises.</answer>
+    </question>
+    

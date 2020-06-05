@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH226" name="A/TH226">
+      <text>
+        <p>Ein Sender mit 5 Watt Ausgangsleistung ist über eine Antennenleitung, die 2 dB Kabelverluste hat, an eine Richtantenne mit 5 dB Gewinn (auf den Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>
+      </text>
+      <answer correct="yes">16,4 Watt</answer>
+      <answer correct="no">8,2 Watt</answer>
+      <answer correct="no">41,2 Watt</answer>
+      <answer correct="no">9,98 Watt</answer>
+    </question>
+    

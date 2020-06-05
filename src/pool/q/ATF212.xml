@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF212" name="A/TF212">
+      <text>
+        <p>Diese Blockschaltung stellt</p>
+        <img src="Atf212" />
+      </text>
+      <answer correct="yes">einen Transverter für das 2-m-Band dar.</answer>
+      <answer correct="no">einen Empfangskonverter für das 2-m-Band dar.</answer>
+      <answer correct="no">einen Vorverstärker für das 10-m-Band dar.</answer>
+      <answer correct="no">einen Transceiver für das 10-m-Band dar.</answer>
+    </question>
+    

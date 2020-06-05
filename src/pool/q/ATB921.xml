@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB921" name="A/TB921">
+      <text>
+        <p>Ein Spannungsmesser und ein Amperemeter werden für die Ermittlung der Gleichstromeingangsleistung einer Schaltung verwendet. Der Spannungsmesser zeigt 10 V, das Amperemeter 10 A an. Falls beide dabei im Rahmen ihrer Messgenauigkeit jeweils einen um 5 % zu geringen Wert anzeigen würden, würde man die elektrische Leistung um</p>
+      </text>
+      <answer correct="yes">9,75 % zu niedrig bestimmen.</answer>
+      <answer correct="no">5 % zu niedrig bestimmen.</answer>
+      <answer correct="no">10,25 % zu hoch bestimmen.</answer>
+      <answer correct="no">5 % zu hoch bestimmen.</answer>
+    </question>
+    

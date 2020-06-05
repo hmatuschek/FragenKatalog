@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB104" name="E/TB104">
+      <text>
+        <p>Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)?</p>
+      </text>
+      <answer correct="yes">Epoxid, Polyethylen (PE), Polystyrol (PS)</answer>
+      <answer correct="no">Pertinax, Polyvinylchlorid (PVC), Graphit</answer>
+      <answer correct="no">Polyethylen (PE), Messing, Konstantan</answer>
+      <answer correct="no">Teflon, Pertinax, Bronze</answer>
+    </question>
+    

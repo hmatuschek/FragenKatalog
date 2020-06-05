@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB402" name="E/TB402">
+      <text>
+        <p>Wie nennt man das Feld im Innern einer langen Zylinderspule beim Fließen eines Gleichstroms?</p>
+        <img src="ETB402" />
+      </text>
+      <answer correct="yes">Homogenes magnetisches Feld</answer>
+      <answer correct="no">Homogenes elektrisches Feld</answer>
+      <answer correct="no">Konzentrisches magnetisches Feld</answer>
+      <answer correct="no">Zentriertes magnetisches Feld</answer>
+    </question>
+    

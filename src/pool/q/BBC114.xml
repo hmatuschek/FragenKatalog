@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC114" name="B/BC114">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 160-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">1810 - 2000 kHz</answer>
+      <answer correct="no">3500 - 3800 kHz</answer>
+      <answer correct="no">135,7 - 137,8 kHz</answer>
+      <answer correct="no">7000 - 7200 kHz</answer>
+    </question>
+    

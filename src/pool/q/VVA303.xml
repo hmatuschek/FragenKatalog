@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA303" name="V/VA303">
+      <text>
+        <p>Gelten die allgemeinen Regelungen der Radio Regulations (VO Funk) auch für den Amateurfunkdienst?</p>
+      </text>
+      <answer correct="yes">Ja, der Amateurfunkdienst ist in den Radio Regulations (VO Funk) so festgelegt.</answer>
+      <answer correct="no">Nein, dies wären zu viele Sachverhalte, die der Funkamateur wissen müsste.</answer>
+      <answer correct="no">Ja, aber nur die Festlegung der Frequenzbereiche, Funkregionen und Rufzeichenreihen.</answer>
+      <answer correct="no">Nein, sonst wäre der Amateurfunk als Experimentierfunk zu eingeschränkt.</answer>
+    </question>
+    

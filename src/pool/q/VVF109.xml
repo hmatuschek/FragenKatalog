@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF109" name="V/VF109">
+      <text>
+        <p>Darf ein Funkamateur eine Funkanlage seiner Amateurfunkstelle zum Abhören des nicht öffentlich gesprochenen Wortes verwenden?</p>
+      </text>
+      <answer correct="yes">Nein, weil die verdeckte Übermittlung des nicht öffentlich gesprochenen Wortes einer anderen Person eine mit Strafe bedrohte Handlung ist.</answer>
+      <answer correct="no">Ja, weil der Funkamateur aufgrund der Amateurfunkzulassung als sachkundige Person gilt.</answer>
+      <answer correct="no">Ja, aber nur mit einer hierfür von der Bundesnetzagentur vorgesehenen besonderen Zulassung.</answer>
+      <answer correct="no">Ja, aber nur wenn ein hierfür technisch zugelassenes Funkgerät benutzt wird.</answer>
+    </question>
+    

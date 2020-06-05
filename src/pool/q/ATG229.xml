@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG229" name="A/TG229">
+      <text>
+        <p>Ein hinter einem VHF-Sender geschalteter Bandpass</p>
+      </text>
+      <answer correct="yes">sollte den gewünschten Frequenzbereich durchlassen.</answer>
+      <answer correct="no">sollte alle Harmonischen durchlassen.</answer>
+      <answer correct="no">sollte die Abstrahlung aller Subharmonischen zulassen.</answer>
+      <answer correct="no">unterdrückt das Oberband.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ105" name="E/TJ105">
+      <text>
+        <p>Welches dieser Messgeräte ist für die Ermittlung der Resonanzfrequenz eines Traps, das für einen Dipol genutzt werden soll, am besten geeignet?</p>
+      </text>
+      <answer correct="yes">Ein Dipmeter</answer>
+      <answer correct="no">Eine VSWR-Messbrücke</answer>
+      <answer correct="no">Ein Frequenzmessgerät</answer>
+      <answer correct="no">Ein Resonanzwellenmesser</answer>
+    </question>
+    

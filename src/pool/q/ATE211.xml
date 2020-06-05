@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE211" name="A/TE211">
+      <text>
+        <p>Was bewirkt die Erhöhung des Hubes eines frequenzmodulierten Senders?</p>
+      </text>
+      <answer correct="yes">Eine höhere HF-Bandbreite.</answer>
+      <answer correct="no">Eine größere Sprachkomprimierung.</answer>
+      <answer correct="no">Eine stärkere Unterdrückung von FM-Geräuschen.</answer>
+      <answer correct="no">Eine geringere Störung der Nachbarkanäle.</answer>
+    </question>
+    

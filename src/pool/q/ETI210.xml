@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI210" name="E/TI210">
+      <text>
+        <p>Warum sind Signale im 160- und 80-Meter-Band tagsüber nur schwach und nicht für den weltweiten Funkverkehr geeignet? Sie sind ungeeignet wegen der Tagesdämpfung in der</p>
+      </text>
+      <answer correct="yes">D-Schicht</answer>
+      <answer correct="no">F1-Schicht</answer>
+      <answer correct="no">F2-Schicht</answer>
+      <answer correct="no">A-Schicht</answer>
+    </question>
+    

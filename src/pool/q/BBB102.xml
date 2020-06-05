@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB102" name="B/BB102">
+      <text>
+        <p>Welche Bedeutung hat für Sie als deutsche Amateurfunkstelle auf Kurzwelle die Abkürzung "DX"?</p>
+      </text>
+      <answer correct="yes">"DX" bedeutet für Stationen aus Deutschland, dass keine innereuropäischen Funkverbindungen gemeint sind.</answer>
+      <answer correct="no">"DX" bedeutet für Stationen aus Deutschland, dass Stationen außerhalb der Landesgrenzen gemeint sind.</answer>
+      <answer correct="no">"DX" bedeutet für Stationen aus Deutschland, dass die Gegenstelle nur einen kurzen Rapportaustausch durchführen möchte.</answer>
+      <answer correct="no">"DX" bedeutet für Stationen aus Deutschland die Bezeichnung für einen Wettbewerb.</answer>
+    </question>
+    

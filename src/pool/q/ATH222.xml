@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH222" name="A/TH222">
+      <text>
+        <p>Welches Strahlungsdiagramm ist der richtigen Antennenbezeichnung zugeordnet?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Ath222a" />
+         Dipol
+      </answer>
+      <answer correct="no">
+        <img src="Ath222b" />
+         Groundplane
+      </answer>
+      <answer correct="no">
+        <img src="Ath222c" />
+         Yagi
+      </answer>
+      <answer correct="no">
+        <img src="Ath222d" />
+         Sperrtopf
+      </answer>
+    </question>
+    

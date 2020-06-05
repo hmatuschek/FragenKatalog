@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ807" name="A/TJ807">
+      <text>
+        <p>Das an den abgebildeten Spannungsteiler angeschlossene Messgerät ist auf den 10-V-Bereich eingestellt und hat eine Empfindlichkeit von 20 kΩ/V. Welcher Spannungswert wird angezeigt?</p>
+        <img src="Atj807" />
+      </text>
+      <answer correct="yes">5 Volt</answer>
+      <answer correct="no">6,7 Volt</answer>
+      <answer correct="no">7,5 Volt</answer>
+      <answer correct="no">3,3 Volt</answer>
+    </question>
+    

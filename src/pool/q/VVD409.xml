@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD409" name="V/VD409">
+      <text>
+        <p>Welche der folgenden Aussagen ist richtig?</p>
+      </text>
+      <answer correct="yes">Die Rufzeichenzuteilung für eine Klubstation kann mit der Auflösung der benennenden Gruppe von Funkamateuren beendet werden.</answer>
+      <answer correct="no">Die Rufzeichenzuteilung für eine Klubstation endet mit dem Standortwechsel der Klubstation.</answer>
+      <answer correct="no">Die Rufzeichenzuteilung für eine Klubstation endet mit dem Rufzeichenwechsel bei der Zulassung zur Teilnahme am Amateurfunkdienst.</answer>
+      <answer correct="no">Die Rufzeichenzuteilung für eine Klubstation endet mit dem Widerruf des Ausbildungsrufzeichens.</answer>
+    </question>
+    

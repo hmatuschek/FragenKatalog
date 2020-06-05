@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC206" name="E/TC206">
+      <text>
+        <p>
+          Drei Kondensatoren mit den Kapazitäten C
+          <sub>1</sub>
+           = 0,1 μF, C
+          <sub>2</sub>
+           = 150 nF und C
+          <sub>3</sub>
+           = 50000 pF werden parallel geschaltet. Wie groß ist die Gesamtkapazität?
+        </p>
+      </text>
+      <answer correct="yes">0,3 μF</answer>
+      <answer correct="no">2,73 nF</answer>
+      <answer correct="no">0,027 μF</answer>
+      <answer correct="no">0,255 μF</answer>
+    </question>
+    

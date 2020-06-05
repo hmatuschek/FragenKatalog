@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA112" name="A/TA112">
+      <text>
+        <p>Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung von 10 dB angeschlossen. Wie groß ist der Ausgangspegel der Endstufe?</p>
+      </text>
+      <answer correct="yes">40 dBm</answer>
+      <answer correct="no">30 dBm</answer>
+      <answer correct="no">20 dBm</answer>
+      <answer correct="no">10 dBm</answer>
+    </question>
+    

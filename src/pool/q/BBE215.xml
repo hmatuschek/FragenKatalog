@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE215" name="B/BE215">
+      <text>
+        <p>Was verstehen Funkamateure unter einer "Fuchsjagd" (ARDF = Amateur Radio Direction Finding)?</p>
+      </text>
+      <answer correct="yes">Es ist ein Funkpeilwettbewerb, wobei mit Hilfe von tragbaren Peilempfängern versteckte Kleinsender im KW- oder UKW-Bereich, die nur kurzzeitig senden, aufzufinden sind.</answer>
+      <answer correct="no">Es ist ein Funkpeilwettbewerb, wobei versucht wird, in einer vorgegebenen Zeit von meistens 24 Stunden, auf einem Amateurfunkband mit möglichst vielen Ländern aus verschiedenen Richtungen Funkverbindungen herzustellen.</answer>
+      <answer correct="no">Bei einer Fuchsjagd versuchen kleine Mannschaften von zwei oder drei Funkamateuren von verschiedenen Standorten aus durch Kreuzpeilungen versteckte Peilsender aufzufinden. Dabei übermitteln sich die Funkamateure die Peilergebnisse gegenseitig per Funk.</answer>
+      <answer correct="no">Es ist ein Funkpeilwettbewerb, der von Funkamateuren ausschließlich für SWL (short wave listener) veranstaltet wird. Da diese Höramateure noch keine eigenen Sender betreiben dürfen, ist die Aufgabe, so schnell wie möglich versteckte Kleinsender mit Hilfe von tragbaren Peilempfängern aufzufinden.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB107" name="V/VB107">
+      <text>
+        <p>Wie lange darf ein Funkamateur im Rahmen einer der CEPT-Empfehlungen T/R 61-01 oder (05)06 Amateurfunkverkehr in einem Land durchführen?</p>
+      </text>
+      <answer correct="yes">Bis zu 3 Monaten.</answer>
+      <answer correct="no">Beliebig lange.</answer>
+      <answer correct="no">Bis zu 6 Monaten.</answer>
+      <answer correct="no">Bis zu einem Jahr.</answer>
+    </question>
+    

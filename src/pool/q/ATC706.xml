@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC706" name="A/TC706">
+      <text>
+        <p>Welche logische Grundschaltung stellt die folgende Transistorschaltung dar und wie arbeitet sie?</p>
+        <img src="Atc706" />
+      </text>
+      <answer correct="yes">Die Schaltung stellt ein NOR-Gatter [negiertes ODER-Gatter] dar. Der Ausgang Z führt dann die Betriebsspannung, wenn beide Eingänge A und B Nullpotential führen bzw. offen sind. In allen anderen Fällen führt der Ausgang Z Nullpotential.</answer>
+      <answer correct="no">Die Schaltung stellt ein NAND-Gatter [negiertes UND-Gatter] dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung.</answer>
+      <answer correct="no">Die Schaltung stellt ein OR-Gatter dar. Der Ausgang Z führt dann Betriebsspannung, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z Nullpotential.</answer>
+      <answer correct="no">Die Schaltung stellt ein AND-Gatter dar. Der Ausgang Z führt dann Nullpotential, wenn die Eingänge A und B mit der Betriebsspannung verbunden sind. In allen anderen Fällen führt der Ausgang Z die Betriebsspannung.</answer>
+    </question>
+    

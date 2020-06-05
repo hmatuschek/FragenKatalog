@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF207" name="A/TF207">
+      <text>
+        <p>
+          Welche beiden Frequenzen muss der Quarzoszillator erzeugen, damit im 70-cm-Bereich die unteren 4 MHz durch diesen Konverter empfangen werden können? Die Oszillatorfrequenz f
+          <sub>osz</sub>
+           soll jeweils unterhalb des Nutzsignals liegen.
+        </p>
+        <img src="Atf207" />
+      </text>
+      <answer correct="yes">44,667 und 44,889 MHz</answer>
+      <answer correct="no">44,444 und 44,667 MHz</answer>
+      <answer correct="no">44,889 und 45,111 MHz</answer>
+      <answer correct="no">45,111 und 45,333 MHz</answer>
+    </question>
+    

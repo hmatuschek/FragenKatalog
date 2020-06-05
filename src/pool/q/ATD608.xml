@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD608" name="A/TD608">
+      <text>
+        <p>Für die Messung der Oszillatorfrequenz sollte der Tastkopf hier vorzugsweise am Punkt</p>
+        <img src="Atd608" />
+      </text>
+      <answer correct="yes">D angelegt werden.</answer>
+      <answer correct="no">A angelegt werden.</answer>
+      <answer correct="no">C angelegt werden.</answer>
+      <answer correct="no">B angelegt werden.</answer>
+    </question>
+    

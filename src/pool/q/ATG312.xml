@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG312" name="A/TG312">
+      <text>
+        <p>
+          Welche der nachfolgenden Aussagen trifft
+          <u>nicht</u>
+           für die Schaltung zu?
+        </p>
+        <img src="Atg311" />
+      </text>
+      <answer correct="yes">
+        R
+        <sub>1</sub>
+         dient zur Arbeitspunkteinstellung des Transistors T
+        <sub>1</sub>
+        .
+      </answer>
+      <answer correct="no">
+        C
+        <sub>4</sub>
+        , C
+        <sub>5</sub>
+         und L
+        <sub>2</sub>
+         passen den Transistorausgang an die niederohmigere Ausgangsimpedanz an.
+      </answer>
+      <answer correct="no">
+        C
+        <sub>1</sub>
+        , C2 und L
+        <sub>1</sub>
+         passen die hochohmigere Eingangsimpedanz an den Transistoreingang an.
+      </answer>
+      <answer correct="no">HF-Eingang und HF-Ausgang sind gleichspannungsfrei.</answer>
+    </question>
+    

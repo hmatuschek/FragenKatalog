@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC202" name="B/BC202">
+      <text>
+        <p>Dürfen Sie im Bereich 145,800 - 146,000 MHz lokalen Funkverkehr abwickeln?</p>
+      </text>
+      <answer correct="yes">Nein, weil ich dann den Amateurfunkdienst über Satelliten stören würde, der in diesem Bereich arbeitet.</answer>
+      <answer correct="no">Nein, weil ich dann die Amateurfunkbaken stören würde, die in diesem Bereich arbeiten.</answer>
+      <answer correct="no">Ja, denn die beim lokalen Funkverkehr angewandten Sendeleistungen und Antennengewinne sind zu gering, um den in diesem Bereich angesiedelten Amateurfunkdienst über Satelliten zu stören.</answer>
+      <answer correct="no">Ja, ich darf in diesem Bereich immer arbeiten, wenn ich den dort ansässigen Amateurfunkverkehr nur gering störe.</answer>
+    </question>
+    

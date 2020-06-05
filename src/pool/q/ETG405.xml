@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG405" name="E/TG405">
+      <text>
+        <p>Wie wird der Funkbetrieb bezeichnet, bei dem man einen Transceiver allein durch die Stimme auf Sendung schalten kann?</p>
+      </text>
+      <answer correct="yes">VOX-Betrieb</answer>
+      <answer correct="no">PTT-Betrieb</answer>
+      <answer correct="no">RIT-Betrieb</answer>
+      <answer correct="no">SSB-Betrieb</answer>
+    </question>
+    

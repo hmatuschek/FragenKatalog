@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG218" name="A/TG218">
+      <text>
+        <p>Stufen, in denen Harmonische erzeugt werden, sollten</p>
+      </text>
+      <answer correct="yes">sehr sorgfältig abgeschirmt werden.</answer>
+      <answer correct="no">sehr gute Mantelwellenfilter enthalten.</answer>
+      <answer correct="no">in Polystyrol eingegossen werden.</answer>
+      <answer correct="no">eine besonders gesiebte Spannungsstabilisierung erhalten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA401" name="V/VA401">
+      <text>
+        <p>Nach den Radio Regulations (VO Funk) ist die Erde in verschiedene Funkregionen unterteilt. Wie viele Funkregionen gibt es und zu welcher davon gehört Deutschland?</p>
+      </text>
+      <answer correct="yes">Drei Funkregionen. Deutschland gehört zur Region 1.</answer>
+      <answer correct="no">Vier Funkregionen. Deutschland gehört zur Region 3.</answer>
+      <answer correct="no">Vierzehn Funkregionen. Deutschland gehört zur Region 4.</answer>
+      <answer correct="no">Fünf Funkregionen. Deutschland gehört zur Region 2.</answer>
+    </question>
+    

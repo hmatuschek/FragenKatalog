@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF108" name="V/VF108">
+      <text>
+        <p>Darf ein Funkamateur eine Sendeanlage betreiben oder besitzen, die Ihrer Form oder Verkleidung nach einen anderen Gegenstand vortäuscht und somit geeignet ist, das nicht öffentlich gesprochene Wort eines anderen unbemerkt abzuhören, oder das Bild eines anderen unbemerkt aufzunehmen?</p>
+      </text>
+      <answer correct="yes">Nein.</answer>
+      <answer correct="no">Er darf sie besitzen, aber nicht betreiben.</answer>
+      <answer correct="no">Ja, wenn diese Anlage auf Amateurfunkfrequenzen betrieben werden kann.</answer>
+      <answer correct="no">Ja, wenn öffentlich in Hinweisen oder allgemein zugänglichen Mitteilungen auf die Abhörmöglichkeit hingewiesen wurde.</answer>
+    </question>
+    

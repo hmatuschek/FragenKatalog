@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE214" name="B/BE214">
+      <text>
+        <p>Was versteht man unter dem von Funkamateuren benutzten "Locator" (Standortkenner)?</p>
+      </text>
+      <answer correct="yes">Er ist eine international anerkannte Einteilung der Erdoberfläche nach Längen- und Breitengraden in Groß- und Kleinfelder, die mit Buchstaben und Zahlen bezeichnet wird.</answer>
+      <answer correct="no">Es ist der Standort einer Amateurfunkstelle, so wie er der zuständigen Behörde mitgeteilt werden muss.</answer>
+      <answer correct="no">Es ist die genaue Angabe der Standortdaten in Stunden, Minuten und Sekunden geographischer Länge und Breite.</answer>
+      <answer correct="no">Es ist die genaue Geografie des Standorts einer Amateurfunkstelle in fein eingeteilten Koordinaten von Länge oder Breite der Funkstelle in Grad, Minuten und Sekunden.</answer>
+    </question>
+    

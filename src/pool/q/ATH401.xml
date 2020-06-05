@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH401" name="A/TH401">
+      <text>
+        <p>Was zeigt diese Darstellung?</p>
+        <img src="Ath401" />
+      </text>
+      <answer correct="yes">Sie zeigt einen λ/2-Faltdipol mit λ/2-Umwegleitung. Durch die Anordnung wird der Fußpunktwiderstand der symmetrischen Antenne von 240 Ω an ein unsymmetrisches 60-Ω-Antennenkabel angepasst.</answer>
+      <answer correct="no">Sie zeigt einen symmetrischen 60-Ω-Schleifendipol mit Koaxialkabel-Balun. Durch die Anordnung wird die symmetrische Antenne an ein unsymmetrisches 60-Ω-Antennenkabel angepasst.</answer>
+      <answer correct="no">Sie zeigt einen λ/2-Dipol mit symmetrierender λ/2-Umwegleitung. Durch die Anordnung wird der Fußpunktwiderstand der symmetrischen Antenne von 120 Ω an ein unsymmetrisches 60-Ω-Antennenkabel angepasst.</answer>
+      <answer correct="no">Sie zeigt einen symmetrischen 60-Ω-Schleifendipol mit einem koaxialen Leitungskreis, der als Sperrfilter zur Unterdrückung von unerwünschten Aussendungen eingesetzt ist.</answer>
+    </question>
+    

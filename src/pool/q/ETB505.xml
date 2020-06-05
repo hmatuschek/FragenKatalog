@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB505" name="E/TB505">
+      <text>
+        <p>Die Polarisation des Sendesignals in der Hauptstrahlrichtung dieser Richtantenne ist</p>
+        <img src="ETB505" />
+      </text>
+      <answer correct="yes">vertikal.</answer>
+      <answer correct="no">horizontal.</answer>
+      <answer correct="no">rechtsdrehend.</answer>
+      <answer correct="no">linksdrehend.</answer>
+    </question>
+    

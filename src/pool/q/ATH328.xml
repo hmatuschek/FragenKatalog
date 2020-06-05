@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH328" name="A/TH328">
+      <text>
+        <p>Um die Störwahrscheinlichkeit auf ein Mindestmaß zu begrenzen, sollte die für die Sendeantenne verwendete Speiseleitung</p>
+      </text>
+      <answer correct="yes">geschirmt sein und nahe am Gebäude verlaufen.</answer>
+      <answer correct="no">möglichst λ/4 lang sein.</answer>
+      <answer correct="no">als ungeschirmte Speiseleitung nahe am Gebäude verlaufen.</answer>
+      <answer correct="no">an keiner Stelle geerdet sein.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB910" name="E/TB910">
+      <text>
+        <p>Ein 100-Ω-Widerstand, an dem 10 V anliegen, muss mindestens eine Belastbarkeit haben von</p>
+      </text>
+      <answer correct="yes">1 W.</answer>
+      <answer correct="no">10 W.</answer>
+      <answer correct="no">0,01 W.</answer>
+      <answer correct="no">100 mW.</answer>
+    </question>
+    

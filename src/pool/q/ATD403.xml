@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD403" name="A/TD403">
+      <text>
+        <p>
+          Welche Funktion hat der Kondensator C
+          <sub>1</sub>
+           in der folgenden Schaltung? Er dient zur
+        </p>
+        <img src="Atd403" />
+      </text>
+      <answer correct="yes">Überbrückung des Emitterwiderstandes für das Wechselstromsignal.</answer>
+      <answer correct="no">Verringerung der Verstärkung.</answer>
+      <answer correct="no">Stabilisierung des Arbeitspunktes des Transistors.</answer>
+      <answer correct="no">Einstellung der Vorspannung am Emitter.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF429" name="A/TF429">
+      <text>
+        <p>Um unerwünschte Abstrahlungen eines Oszillators zu vermeiden, sollte</p>
+      </text>
+      <answer correct="yes">er in einem Metallkasten untergebracht werden.</answer>
+      <answer correct="no">er nicht abgeschirmt werden.</answer>
+      <answer correct="no">er niederohmig HF-entkoppelt sein.</answer>
+      <answer correct="no">die Speisespannung gesiebt sein.</answer>
+    </question>
+    

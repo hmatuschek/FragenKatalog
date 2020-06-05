@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD205" name="E/TD205">
+      <text>
+        <p>Wie verhält sich ein Parallelschwingkreis bei der Resonanzfrequenz?</p>
+      </text>
+      <answer correct="yes">Wie ein hochohmiger Widerstand.</answer>
+      <answer correct="no">Wie ein niederohmiger Widerstand.</answer>
+      <answer correct="no">Wie ein Kondensator mit sehr kleiner Kapazität.</answer>
+      <answer correct="no">Wie eine Spule mit sehr großer Induktivität.</answer>
+    </question>
+    

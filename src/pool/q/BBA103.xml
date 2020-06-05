@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA103" name="B/BA103">
+      <text>
+        <p>Wie ist das Wort "Travemünde" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Tango Romeo Alpha Viktor Echo, Mike, Uniform, Echo, November, Delta, Echo</answer>
+      <answer correct="no">Tango Romeo Alpha Viktor Echo, Mike, Übel, November, Delta, Echo</answer>
+      <answer correct="no">Tango Romeo Alpha Viktor Echo, Mike, Ülzen, Echo, November, Delta, Echo</answer>
+      <answer correct="no">Tango Romeo Alpha Viktor Echo, Mike, Uniform, Echo, Nancy, Delta, Echo</answer>
+    </question>
+    

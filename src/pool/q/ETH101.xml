@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH101" name="E/TH101">
+      <text>
+        <p>Was sind typische Kurzwellen-Amateurfunksendeantennen?</p>
+      </text>
+      <answer correct="yes">Langdraht-Antenne, Groundplane-Antenne, Yagiantenne, Dipolantenne, Windom-Antenne, Delta-Loop-Antenne</answer>
+      <answer correct="no">Langdraht-Antenne, Groundplane-Antenne, Gestockte Yagiantenne, Dipolantenne, Windom-Antenne, Delta-Loop-Antenne</answer>
+      <answer correct="no">Langdraht-Antenne, Groundplane-Antenne, Gruppenantenne, Dipolantenne, Windom-Antenne, Delta-Loop-Antenne</answer>
+      <answer correct="no">Langdraht-Antenne, Groundplane-Antenne, Kreuzyagi-Antenne, Dipolantenne, Windom-Antenne, Delta-Loop-Antenne</answer>
+    </question>
+    

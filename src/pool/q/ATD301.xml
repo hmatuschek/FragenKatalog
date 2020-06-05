@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD301" name="A/TD301">
+      <text>
+        <p>Welche Form hat die Ausgangsspannung der dargestellten Schaltung?</p>
+        <img src="Atd301" />
+      </text>
+      <answer correct="yes">
+        <img src="Atd301a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd301b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd301c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd301d" />
+      </answer>
+    </question>
+    

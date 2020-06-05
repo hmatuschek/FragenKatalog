@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA207" name="E/TA207">
+      <text>
+        <p>3,75 MHz sind</p>
+      </text>
+      <answer correct="yes">3750 kHz.</answer>
+      <answer correct="no">375 kHz.</answer>
+      <answer correct="no">0,0375 GHz.</answer>
+      <answer correct="no">0,375 GHz.</answer>
+    </question>
+    

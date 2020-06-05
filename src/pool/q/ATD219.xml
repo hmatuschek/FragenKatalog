@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD219" name="A/TD219">
+      <text>
+        <p>Was stellt diese Schaltung dar?</p>
+        <img src="Atd219" />
+      </text>
+      <answer correct="yes">Hochpass</answer>
+      <answer correct="no">Bandpass</answer>
+      <answer correct="no">Sperrkreis</answer>
+      <answer correct="no">Tiefpass</answer>
+    </question>
+    

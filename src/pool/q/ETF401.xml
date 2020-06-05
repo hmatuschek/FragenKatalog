@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF401" name="E/TF401">
+      <text>
+        <p>Die Empfindlichkeit eines Empfängers bezieht sich auf die</p>
+      </text>
+      <answer correct="yes">Fähigkeit des Empfängers, schwache Signale zu empfangen.</answer>
+      <answer correct="no">Stabilität des VFO.</answer>
+      <answer correct="no">Bandbreite des HF-Vorverstärkers.</answer>
+      <answer correct="no">Fähigkeit des Empfängers, starke Signale zu unterdrücken.</answer>
+    </question>
+    

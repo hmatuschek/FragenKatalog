@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA116" name="A/TA116">
+      <text>
+        <p>Die zweite ungeradzahlige Harmonische der Frequenz 144,690 MHz ist</p>
+      </text>
+      <answer correct="yes">434,070 MHz.</answer>
+      <answer correct="no">289,380 MHz.</answer>
+      <answer correct="no">145,000 MHz.</answer>
+      <answer correct="no">723,450 MHz.</answer>
+    </question>
+    

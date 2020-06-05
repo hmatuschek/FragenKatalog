@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ403" name="A/TJ403">
+      <text>
+        <p>Ein Stehwellenmessgerät misst bei einer HF-Leitung im Grunde</p>
+      </text>
+      <answer correct="yes">die Summen der Spannungen, die kapazitiv und induktiv bei einer Koppelschleife einkoppeln.</answer>
+      <answer correct="no">die vorhandene Impedanz in Vor- und Rückrichtung der Leitung.</answer>
+      <answer correct="no">die vorlaufende und rücklaufende Leistung am eingebauten Abschlusswiderstand.</answer>
+      <answer correct="no">die Maximalspannung (Umax) und die Minimalspannung (Umin) auf der Leitung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH151" name="A/TH151">
+      <text>
+        <p>Um die Möglichkeit unerwünschter Abstrahlungen mit Hilfe eines angepassten Antennensystems zu verringern, empfiehlt es sich</p>
+      </text>
+      <answer correct="yes">einen Antennentuner oder ein Filter zu verwenden.</answer>
+      <answer correct="no">mit einem hohen Stehwellenverhältnis zu arbeiten.</answer>
+      <answer correct="no">die Gleichstrom-Speisespannung zu überwachen.</answer>
+      <answer correct="no">eine Mehrbandantenne zu verwenden.</answer>
+    </question>
+    

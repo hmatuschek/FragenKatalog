@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD220" name="V/VD220">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DFØAA - DFØZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Klubstationen (auslaufend Relaisfunkstellen oder Funkbaken).</answer>
+      <answer correct="no">Rufzeichen für Personal der Gaststreitkräfte.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen bei besonderen allgemeinen Anlässen.</answer>
+      <answer correct="no">Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV.</answer>
+    </question>
+    

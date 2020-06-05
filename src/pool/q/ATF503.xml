@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF503" name="A/TF503">
+      <text>
+        <p>Wozu eignet sich eine DSP-Signalverarbeitung in einem Empfänger? Sie eignet sich</p>
+      </text>
+      <answer correct="yes">als Frequenzfilter.</answer>
+      <answer correct="no">als Digital-Analog-Wandler.</answer>
+      <answer correct="no">zur Sprachausgabe.</answer>
+      <answer correct="no">zur Unterdrückung der Spiegelfrequenzen.</answer>
+    </question>
+    

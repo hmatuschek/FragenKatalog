@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD209" name="B/BD209">
+      <text>
+        <p>
+          Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?
+          <br />
+          Die Landeskenner EA, EI, EM, ES entsprechen den Ländern
+        </p>
+      </text>
+      <answer correct="yes">Spanien, Irland, Ukraine, Estland.</answer>
+      <answer correct="no">Spanien, Ukraine, Irland, Estland.</answer>
+      <answer correct="no">Spanien, Irland, Estland, Ukraine.</answer>
+      <answer correct="no">Spanien, Ukraine, Estland, Irland.</answer>
+    </question>
+    

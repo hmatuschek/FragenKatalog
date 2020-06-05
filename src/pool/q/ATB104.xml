@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB104" name="A/TB104">
+      <text>
+        <p>Der Temperaturkoeffizient für den Widerstand von metallischen Leitern ist</p>
+      </text>
+      <answer correct="yes">positiv.</answer>
+      <answer correct="no">negativ.</answer>
+      <answer correct="no">logarithmisch.</answer>
+      <answer correct="no">exponentiell.</answer>
+    </question>
+    

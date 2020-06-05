@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH208" name="E/TH208">
+      <text>
+        <p>Das folgende Bild enthält verschiedene UKW-Vertikalantennen. In welcher der folgenden Zeilen ist die entsprechende Bezeichnung der Antenne richtig zugeordnet?</p>
+        <img src="ETH208" />
+      </text>
+      <answer correct="yes">Bild 1 zeigt einen λ/4-Vertikalstrahler (Viertelwellenstab).</answer>
+      <answer correct="no">Bild 2 zeigt eine Sperrtopf-Antenne.</answer>
+      <answer correct="no">Bild 3 zeigt eine λ/2-Antenne mit Fuchskreis.</answer>
+      <answer correct="no">Bild 4 zeigt eine 5/8-λ-Antenne.</answer>
+    </question>
+    

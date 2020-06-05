@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH140" name="A/TH140">
+      <text>
+        <p>Jeweils eine Seite einer Quad-Antenne ist in Resonanz mit</p>
+      </text>
+      <answer correct="yes">einer Viertelwelle.</answer>
+      <answer correct="no">einer Halbwelle.</answer>
+      <answer correct="no">dreiviertel einer Wellenlänge.</answer>
+      <answer correct="no">einer ganzen Wellenlänge.</answer>
+    </question>
+    

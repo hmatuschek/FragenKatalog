@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE202" name="E/TE202">
+      <text>
+        <p>FM hat gegenüber SSB den Vorteil der</p>
+      </text>
+      <answer correct="yes">geringeren Beeinflussung durch Störquellen.</answer>
+      <answer correct="no">geringen Anforderungen an die Bandbreite.</answer>
+      <answer correct="no">größeren Entfernungsüberbrückung.</answer>
+      <answer correct="no">besseren Kreisgüte.</answer>
+    </question>
+    

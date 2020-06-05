@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ507" name="A/TJ507">
+      <text>
+        <p>Ein digitaler Frequenzzähler verfügt über eine Genauigkeit von 10 ppm und wird für eine Messung bei 145 MHz verwendet. Welcher der Messwerte weist die richtige Anzahl von genauen Dezimalstellen für die angegebene Genauigkeit auf?</p>
+      </text>
+      <answer correct="yes">145,07 MHz</answer>
+      <answer correct="no">145,07522 MHz</answer>
+      <answer correct="no">145,0752 MHz</answer>
+      <answer correct="no">145,075215 MHz</answer>
+    </question>
+    

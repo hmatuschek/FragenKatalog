@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL216" name="A/TL216">
+      <text>
+        <p>Muss ein Funkamateur als Betreiber einer ortsfesten 2-m-Amateurfunkstelle bei der Sendeart F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn und vernachlässigbaren Kabelverlusten die Einhaltung der Personenschutzgrenzwerte nachweisen?</p>
+      </text>
+      <answer correct="yes">Ja, er ist in diesem Fall verpflichtet, die Einhaltung der Personenschutzgrenzwerte nachzuweisen.</answer>
+      <answer correct="no">Nein, der Schutz von Personen in elektromagnetischen Feldern ist durch den Funkamateur erst bei einer Strahlungsleistung von mehr als 10 W EIRP sicherzustellen.</answer>
+      <answer correct="no">Nur wenn die Antenne vertikal polarisiert ist. Bei horizontaler Polarisation kann er davon ausgehen, dass eine Richtantenne mit diesem Gewinn einen sehr kleinen vertikalen Öffnungswinkel hat und die Personenschutzgrenzwerte auf jeden Fall eingehalten werden.</answer>
+      <answer correct="no">Nein, bei der Sendeart F3E und Sendezeiten unter 6 Minuten in der Stunde kann der Schutz von Personen in elektromagnetischen Feldern durch den Funkamateur vernachlässigt werden.</answer>
+    </question>
+    

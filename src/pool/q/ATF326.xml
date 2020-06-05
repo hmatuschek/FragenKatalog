@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF326" name="A/TF326">
+      <text>
+        <p>Welches Diagramm stellt den Frequenzverlauf eines Empfänger-Notchfilters dar?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atf326a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf326b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf326c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf326d" />
+      </answer>
+    </question>
+    

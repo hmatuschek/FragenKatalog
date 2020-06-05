@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD306" name="B/BD306">
+      <text>
+        <p>Welche Landeskenner sind südamerikanischen Ländern zugewiesen?</p>
+      </text>
+      <answer correct="yes">PY, HC, HK, OA, YV</answer>
+      <answer correct="no">LU, VE, HB, OK, YU</answer>
+      <answer correct="no">OA, JA, JT, 4X, SM</answer>
+      <answer correct="no">YV, YU, BY, BV, VE</answer>
+    </question>
+    

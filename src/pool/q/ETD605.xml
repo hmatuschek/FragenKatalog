@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD605" name="E/TD605">
+      <text>
+        <p>Im VFO eines Senders steigt die Induktivität der Oszillatorspule mit der Temperatur. Der Kondensator bleibt sehr stabil. Welche Auswirkungen hat dies bei steigender Temperatur?</p>
+      </text>
+      <answer correct="yes">Die VFO-Frequenz wandert nach unten.</answer>
+      <answer correct="no">Die VFO-Frequenz wandert nach oben.</answer>
+      <answer correct="no">Die VFO-Ausgangsspannung nimmt zu.</answer>
+      <answer correct="no">Die VFO-Ausgangsspannung nimmt ab.</answer>
+    </question>
+    

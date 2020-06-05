@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG211" name="A/TG211">
+      <text>
+        <p>Im Regelfall sollte ein Oszillator zunächst an</p>
+      </text>
+      <answer correct="yes">eine Pufferstufe angeschlossen sein.</answer>
+      <answer correct="no">einen Leistungsverstärker angeschlossen sein.</answer>
+      <answer correct="no">einen HF-Verstärker im C-Betrieb angeschlossen sein.</answer>
+      <answer correct="no">ein Notchfilter angeschlossen sein.</answer>
+    </question>
+    

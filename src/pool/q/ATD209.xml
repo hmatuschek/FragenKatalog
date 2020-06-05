@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD209" name="A/TD209">
+      <text>
+        <p>
+          Welche Resonanzfrequenz f
+          <sub>res</sub>
+           hat die Parallelschaltung einer Spule von 2 μH mit einem Kondensator von 60 pF und einem Widerstand von 10 kΩ?
+        </p>
+      </text>
+      <answer correct="yes">14,5288 MHz</answer>
+      <answer correct="no">145,288 MHz</answer>
+      <answer correct="no">1,45288 MHz</answer>
+      <answer correct="no">145,288 kHz</answer>
+    </question>
+    

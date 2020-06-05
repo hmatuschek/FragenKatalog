@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ107" name="E/TJ107">
+      <text>
+        <p>Für welche Messungen verwendet man ein Oszilloskop? Ein Oszilloskop verwendet man, um</p>
+      </text>
+      <answer correct="yes">Signalverläufe sichtbar zu machen, um beispielsweise Verzerrungen zu erkennen.</answer>
+      <answer correct="no">Frequenzen genau zu messen.</answer>
+      <answer correct="no">den Temperaturverlauf bei Messungen sichtbar zu machen.</answer>
+      <answer correct="no">die Anpassung bei Antennen zu überprüfen.</answer>
+    </question>
+    

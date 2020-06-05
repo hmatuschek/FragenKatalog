@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD110" name="E/TD110">
+      <text>
+        <p>
+          Zwei Widerstände mit R
+          <sub>1</sub>
+           = 100 Ω und R
+          <sub>2</sub>
+           = 150 Ω sind parallel geschaltet.
+          <br />
+          Wie groß ist der Ersatzwiderstand?
+        </p>
+      </text>
+      <answer correct="yes">60 Ω</answer>
+      <answer correct="no">250 Ω</answer>
+      <answer correct="no">75 Ω</answer>
+      <answer correct="no">17,5 Ω</answer>
+    </question>
+    

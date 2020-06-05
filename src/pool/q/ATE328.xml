@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE328" name="A/TE328">
+      <text>
+        <p>Welche Aussage über die Übertragungsarten ist richtig?</p>
+      </text>
+      <answer correct="yes">Bei Halbduplex gibt es nur einen Übertragungskanal, aber es kann durch Umschaltung abwechselnd in beide Richtungen gesendet werden.</answer>
+      <answer correct="no">Bei Duplex gibt es zwei Übertragungskanäle, aber es kann nur durch Umschaltung abwechselnd in beide Richtungen gesendet werden.</answer>
+      <answer correct="no">Bei Simplex gibt es zwei unabhängige Übertragungskanäle.</answer>
+      <answer correct="no">Bei Halbduplex kann nur in eine Richtung gesendet werden.</answer>
+    </question>
+    

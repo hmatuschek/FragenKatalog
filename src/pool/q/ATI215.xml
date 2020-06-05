@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI215" name="A/TI215">
+      <text>
+        <p>Ionosphärische Störungen, hervorgerufen durch stark erhöhte Intensität der UV- und Röntgenstrahlung beeinflussen vor allem</p>
+      </text>
+      <answer correct="yes">die D-Schicht, die dann fast die gesamte KW-Ausstrahlung absorbiert, so dass keine Ausbreitung über die Raumwelle stattfinden kann.</answer>
+      <answer correct="no">die F2-Schicht, die dann so stark ionisiert wird, dass fast die gesamte KW-Ausstrahlung reflektiert wird.</answer>
+      <answer correct="no">die E-Schicht, die dann für die höheren Frequenzen durchlässiger wird und durch Reflexion an der F2-Schicht für gute Ausbreitungsbedingungen sorgt.</answer>
+      <answer correct="no">die F1-Schicht, die durch Absorption der höheren Frequenzen die Reflexion an der F2-Schicht behindert.</answer>
+    </question>
+    

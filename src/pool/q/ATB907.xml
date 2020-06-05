@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB907" name="A/TB907">
+      <text>
+        <p>Was versteht man unter dem Begriff "EIRP"?</p>
+      </text>
+      <answer correct="yes">Es ist die Leistung, die man einem isotropen Strahler zuführen müsste, damit dieser die gleiche Feldstärke erzeugt wie eine im Vergleich herangezogene reale Antenne, in die eine Antenneneingangsleistung P eingespeist wird.</answer>
+      <answer correct="no">Es ist die Eingangsleistung des verwendeten Senders wie sie in der EMVU-Selbsterklärung anzugeben ist.</answer>
+      <answer correct="no">Es handelt sich um die Leistung, die man im Maximum der Strahlungskeule einer Dipolantenne vorfindet.</answer>
+      <answer correct="no">Es ist die durchschnittliche Leistung der Amateurfunkstelle wie sie in der EMVU-Selbsterklärung anzugeben ist.</answer>
+    </question>
+    

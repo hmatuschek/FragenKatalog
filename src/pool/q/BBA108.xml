@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA108" name="B/BA108">
+      <text>
+        <p>Wie ist das Rufzeichen "EA5/DJ4UF" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Echo Alpha fünf Strich Delta Juliett vier Uniform Foxtrott</answer>
+      <answer correct="no">Echo Alpha fünf Strich Delta Juliett vier United Fox</answer>
+      <answer correct="no">England Amerika fünf Strich Dänemark Japan vier Uruguay Frankreich</answer>
+      <answer correct="no">Emil Anton fünf Strich Dora Japan vier Ullrich Friedrich</answer>
+    </question>
+    

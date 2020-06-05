@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE309" name="B/BE309">
+      <text>
+        <p>Was sind "Linkstrecken" und wozu dienen sie?</p>
+      </text>
+      <answer correct="yes">Es sind fest eingerichtete Funkverbindungen zur Vernetzung von Relaisfunkstellen oder Digipeatern.</answer>
+      <answer correct="no">Es sind Einrichtungen bei Relaisfunkstellen oder Digipeatern, die eine Verbindungsherstellung über das Telefonnetz erlauben.</answer>
+      <answer correct="no">Es sind Verbindungen zwischen Netzwerken mit unterschiedlichen Protokollen, z.B. zwischen Packet-Radio-Netz und Pactor.</answer>
+      <answer correct="no">Es sind Digipeater-Einstiege auf einem zweiten Empfangskanal.</answer>
+    </question>
+    

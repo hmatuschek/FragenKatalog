@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI118" name="V/VI118">
+      <text>
+        <p>Wo und wann hat der Funkamateur die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen gemäß BEMFV einzureichen?</p>
+      </text>
+      <answer correct="yes">Sie ist der Bundesnetzagentur nach Aufforderung vorzulegen.</answer>
+      <answer correct="no">Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur vorzulegen; ein Doppel ist dem zuständigen Gewerbeaufsichtsamt zuzusenden.</answer>
+      <answer correct="no">Sie ist entsprechend der 26.Verordung zum Bundesimmissionsschutzgesetz der dafür zuständigen Behörde zuzusenden.</answer>
+      <answer correct="no">Sie ist der für den Standort zuständigen Außenstelle der Bundesnetzagentur vor der Betriebsaufnahme oder einer Änderung mit Leistungszunahme vorzulegen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB801" name="A/TB801">
+      <text>
+        <p>Wie groß ist die HF-Bandbreite, die für die Übertragung eines SSB-Signals erforderlich ist?</p>
+      </text>
+      <answer correct="yes">Sie entspricht der Differenz zwischen der höchsten und der niedrigsten Frequenz des NF-Signals.</answer>
+      <answer correct="no">Sie entspricht der Hälfte der Bandbreite des NF-Signals.</answer>
+      <answer correct="no">Sie entspricht der doppelten Bandbreite des NF-Signals.</answer>
+      <answer correct="no">Sie ist Null, weil bei SSB-Modulation der HF-Träger unterdrückt wird.</answer>
+    </question>
+    

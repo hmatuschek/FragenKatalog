@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD210" name="E/TD210">
+      <text>
+        <p>Welche der nachfolgenden Eigenschaften trifft auf einen Hochpass zu?</p>
+      </text>
+      <answer correct="yes">Frequenzen oberhalb der Grenzfrequenz werden durchgelassen.</answer>
+      <answer correct="no">Frequenzen unterhalb der Grenzfrequenz werden verstärkt.</answer>
+      <answer correct="no">Frequenzen oberhalb der Grenzfrequenz werden stark bedämpft.</answer>
+      <answer correct="no">Frequenzen unterhalb der Grenzfrequenz werden ungedämpft durchgelassen.</answer>
+    </question>
+    

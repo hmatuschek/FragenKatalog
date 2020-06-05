@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC513" name="A/TC513">
+      <text>
+        <p>In welcher Zeile sind die Diodentypen der entsprechenden Kennlinie richtig zugeordnet?</p>
+        <img src="Atc512" />
+      </text>
+      <answer correct="yes">
+        Kennlinie 1: Schottkydiode
+        <br />
+        Kennlinie 2: Germaniumdiode
+        <br />
+        Kennlinie 3: Siliziumdiode
+        <br />
+        Kennlinie 4: Leuchtdiode
+      </answer>
+      <answer correct="no">
+        Kennlinie 1: Siliziumdiode
+        <br />
+        Kennlinie 2: Germaniumdiode
+        <br />
+        Kennlinie 3: Schottkydiode
+        <br />
+        Kennlinie 4: Leuchtdiode
+      </answer>
+      <answer correct="no">
+        Kennlinie 1: Schottkydiode
+        <br />
+        Kennlinie 2: Siliziumdiode
+        <br />
+        Kennlinie 3: Germaniumdiode
+        <br />
+        Kennlinie 4: Leuchtdiode
+      </answer>
+      <answer correct="no">
+        Kennlinie 1: Germaniumdiode
+        <br />
+        Kennlinie 2: Leuchtdiode
+        <br />
+        Kennlinie 3: Siliziumdiode
+        <br />
+        Kennlinie 4: Schottkydiode
+      </answer>
+    </question>
+    

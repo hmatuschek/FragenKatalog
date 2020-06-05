@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL308" name="E/TL308">
+      <text>
+        <p>Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel</p>
+      </text>
+      <answer correct="yes">möglichst weit von der Fahrzeugverkabelung entfernt verlegt werden.</answer>
+      <answer correct="no">im Kabelbaum des Kraftfahrzeugs geführt werden.</answer>
+      <answer correct="no">über das Fahrzeugdach verlegt sein.</answer>
+      <answer correct="no">entlang der Innenseite des Motorraumes verlegt werden.</answer>
+    </question>
+    

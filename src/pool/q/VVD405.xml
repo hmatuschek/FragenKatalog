@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD405" name="V/VD405">
+      <text>
+        <p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>
+      </text>
+      <answer correct="yes">Von seiner Zulassung zur Teilnahme am Amateurfunkdienst nach § 3 Abs. 1 AFuG.</answer>
+      <answer correct="no">Er muss auf jeden Fall Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein.</answer>
+      <answer correct="no">Von seiner Benennung durch den verantwortlichen Funkamateur.</answer>
+      <answer correct="no">Nur von den Betriebsrechten der Rufzeichenzuteilung der Klubstation.</answer>
+    </question>
+    

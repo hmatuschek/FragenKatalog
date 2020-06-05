@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD105" name="E/TD105">
+      <text>
+        <p>
+          Welche Gesamtkapazität hat die folgende Schaltung?
+          <br />
+          Gegeben: C
+          <sub>1</sub>
+           = 0,01 μF; C
+          <sub>2</sub>
+           = 5 nF, C
+          <sub>3</sub>
+           = 5000 pF
+        </p>
+        <img src="ETD105" />
+      </text>
+      <answer correct="yes">5 nF</answer>
+      <answer correct="no">0,015 nF</answer>
+      <answer correct="no">7,5 nF</answer>
+      <answer correct="no">10 nF</answer>
+    </question>
+    

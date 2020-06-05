@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG107" name="B/BG107">
+      <text>
+        <p>Was wird im Amateurfunk unter "IRC" verstanden? IRC ist</p>
+      </text>
+      <answer correct="yes">ein internationaler Antwortschein.</answer>
+      <answer correct="no">die internationale Radio Konferenz.</answer>
+      <answer correct="no">ein adressierter Freiumschlag.</answer>
+      <answer correct="no">ein freigemachter und mit eigener Adresse versehener Umschlag.</answer>
+    </question>
+    

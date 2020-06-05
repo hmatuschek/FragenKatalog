@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF501" name="A/TF501">
+      <text>
+        <p>
+          Folgendes Blockschaltbild stellt das Prinzip einer DSP-Signalverarbeitung dar. Welche Aufgabe haben die beiden Blöcke 1 und 2?
+          <br />
+          (DSP ... Digital Signal Processing)
+        </p>
+        <img src="Atf501" />
+      </text>
+      <answer correct="yes">1: AD-Wandler, 2: DA-Wandler</answer>
+      <answer correct="no">1: DA-Wandler, 2: AD-Wandler</answer>
+      <answer correct="no">beides DA-Wandler</answer>
+      <answer correct="no">beides AD-Wandler</answer>
+    </question>
+    

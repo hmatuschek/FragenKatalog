@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF106" name="A/TF106">
+      <text>
+        <p>Wie groß sollte die Bandbreite des Filters für die 1. ZF in einem durchstimmbaren Empfänger sein?</p>
+      </text>
+      <answer correct="yes">Mindestens so groß wie die größte benötigte Bandbreite der vorgesehenen Betriebsarten.</answer>
+      <answer correct="no">Mindestens so groß wie die doppelte Bandbreite der jeweiligen Betriebsart.</answer>
+      <answer correct="no">Mindestens so groß wie das breiteste zu empfangende Amateurband.</answer>
+      <answer correct="no">Sie muss den vollen Abstimmbereich des Empfängers umfassen..</answer>
+    </question>
+    

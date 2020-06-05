@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA202" name="V/VA202">
+      <text>
+        <p>Wie ist die Funkstelle in den Radio Regulations (VO Funk) definiert?</p>
+      </text>
+      <answer correct="yes">Funkstelle: Ein oder mehrere Sender oder Empfänger oder eine Zusammenschaltung von Sendern und Empfängern einschließlich der Zusatzeinrichtungen, die zum Ausüben eines Funkdienstes an einem Ort erforderlich sind.</answer>
+      <answer correct="no">Eine Funkstelle ist eine Zusammenschaltung technischer Einrichtungen an einem Ort mit der Funkverkehr abgewickelt werden kann.</answer>
+      <answer correct="no">Eine Funkstelle ist eine Zusammenschaltung aller zur Erzeugung und zum Empfang von Funksendungen an einem Ort eingesetzten Einrichtungen.</answer>
+      <answer correct="no">Eine Funkstelle besteht aus einer oder mehreren Sendefunkanlagen und Empfangsfunkanlagen einschließlich der Antennenanlagen und der zum Betrieb erforderlichen Zusatzeinrichtungen und kann mindestens auf einer für einen jeweiligen Funkdienst zugewiesenen Frequenzen betrieben werden.</answer>
+    </question>
+    

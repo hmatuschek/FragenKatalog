@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG520" name="A/TG520">
+      <text>
+        <p>Welches Diagramm stellt den Frequenzgang eines Ausgangsfilters dar, das die Harmonischen eines Einbandsenders wirkungsvoll unterdrückt?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg520a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg520b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg520c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg520d" />
+      </answer>
+    </question>
+    

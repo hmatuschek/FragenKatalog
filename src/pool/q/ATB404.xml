@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB404" name="A/TB404">
+      <text>
+        <p>Dauermagnete finden Anwendung in</p>
+      </text>
+      <answer correct="yes">Drehspulmesswerken.</answer>
+      <answer correct="no">Dreheisenmesswerken.</answer>
+      <answer correct="no">Transformatorenkernen.</answer>
+      <answer correct="no">Spulenkernen.</answer>
+    </question>
+    

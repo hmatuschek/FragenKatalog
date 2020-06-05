@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC314" name="A/TC314">
+      <text>
+        <p>Welche Folgen hat der Skin-Effekt?</p>
+      </text>
+      <answer correct="yes">Der Strom fließt bei hohen Frequenzen nur noch in der Oberfläche des Leiters. Mit sinkendem stromdurchflossenen Querschnitt steigt daher der effektive Widerstand des Leiters.</answer>
+      <answer correct="no">Der Skin-Effekt ist für den mit der Frequenz ansteigenden induktiven Widerstand verantwortlich</answer>
+      <answer correct="no">Der Strom fließt bei hohen Frequenzen nur noch in der Oberfläche des Leiters. Mit sinkendem stromdurchflossenen Querschnitt steigt daher der induktive Widerstand des Leiters.</answer>
+      <answer correct="no">Der Strom fließt bei hohen Frequenzen nur noch in der Oberfläche des Leiters. Mit sinkendem stromdurchflossenen Querschnitt vergrößert sich daher der kapazitive Widerstand des Leiters.</answer>
+    </question>
+    

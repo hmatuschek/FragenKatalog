@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF310" name="A/TF310">
+      <text>
+        <p>
+          Welche Funktion haben die beiden Kondensatoren C
+          <sub>3</sub>
+           und C
+          <sub>4</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atf310" />
+      </text>
+      <answer correct="yes">Sie erzeugen zusammen die notwendige Rückkopplungsspannung für einen LC-Oszillator.</answer>
+      <answer correct="no">Sie erzeugen zusammen die notwendige Rückkopplungsspannung für eine Audionschaltung.</answer>
+      <answer correct="no">
+        C
+        <sub>3</sub>
+         stabilisiert die Basisvorspannung und C
+        <sub>4</sub>
+         die Emittervorspannung.
+      </answer>
+      <answer correct="no">
+        C
+        <sub>3</sub>
+         kompensiert die Basis-Kollektor-Kapazität und C
+        <sub>4</sub>
+         die Basis-Emitter-Kapazität
+      </answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB505" name="A/TB505">
+      <text>
+        <p>Die Polarisation einer elektromagnetischen Welle wird definiert durch</p>
+      </text>
+      <answer correct="yes">die Richtung des elektrischen Feldes (E-Vektor).</answer>
+      <answer correct="no">die Richtung des magnetischen Feldes (H-Vektor).</answer>
+      <answer correct="no">die Richtung der Ausbreitung (S-Vektor Poyntingscher Vektor).</answer>
+      <answer correct="no">die räumliche Anordnung der Empfangsantenne.</answer>
+    </question>
+    

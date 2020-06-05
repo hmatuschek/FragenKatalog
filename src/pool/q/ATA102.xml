@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA102" name="A/TA102">
+      <text>
+        <p>Welche Einheit wird für die magnetische Feldstärke verwendet?</p>
+      </text>
+      <answer correct="yes">Ampere pro Meter (A/m)</answer>
+      <answer correct="no">Tesla (T)</answer>
+      <answer correct="no">Amperemeter (Am)</answer>
+      <answer correct="no">Henry pro Meter (H/m)</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD210" name="B/BD210">
+      <text>
+        <p>Welche Gruppe gibt die Landeskennern der Länder Portugal, Schweiz, Spanien, Belgien, Polen und Irland für ihre Amateurfunkstellen richtig wieder?</p>
+      </text>
+      <answer correct="yes">CT, HB9, EA, ON, SP, EI</answer>
+      <answer correct="no">PO, HB9, EB, OY, SP, IR</answer>
+      <answer correct="no">CU, HB0, EA, BE, SP, EI</answer>
+      <answer correct="no">CT, CH, EA, ON, PL, EI</answer>
+    </question>
+    

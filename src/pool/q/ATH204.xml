@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH204" name="A/TH204">
+      <text>
+        <p>Welchen Eingangs- bzw. Fußpunktwiderstand hat ein λ/2-Dipol bei seiner Grundfrequenz und hinreichender Höhe über dem Boden?</p>
+      </text>
+      <answer correct="yes">ca. 60 bis 75 Ω</answer>
+      <answer correct="no">ca. 30 Ω</answer>
+      <answer correct="no">ca. 120 Ω</answer>
+      <answer correct="no">ca. 240 bis 300 Ω</answer>
+    </question>
+    

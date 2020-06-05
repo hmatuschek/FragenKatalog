@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD403" name="V/VD403">
+      <text>
+        <p>Was ist nötig, damit ein Funkamateur das Rufzeichen einer Klubstation mitbenutzen darf?</p>
+      </text>
+      <answer correct="yes">Er muss Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst sein.</answer>
+      <answer correct="no">Eine Ausbildungsfunkrufzeichenzuteilung nach § 12 der AFuV.</answer>
+      <answer correct="no">Ein Amateurfunkzeugnis der entsprechenden Klasse.</answer>
+      <answer correct="no">Er muss Inhaber eines Rufzeichens der höchsten Amateurfunkklasse sein.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF303" name="E/TF303">
+      <text>
+        <p>Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?</p>
+      </text>
+      <answer correct="yes">Ein Quarzkristall</answer>
+      <answer correct="no">Ein LC-Bandpass</answer>
+      <answer correct="no">Ein Keramikresonator</answer>
+      <answer correct="no">Ein RC-Bandpass</answer>
+    </question>
+    

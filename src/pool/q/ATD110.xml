@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD110" name="A/TD110">
+      <text>
+        <p>Was ist bei der Berechnung von Wechselstromkreisen, die Kombinationen von R, L und C enthalten, zu beachten?</p>
+      </text>
+      <answer correct="yes">Spannungen, Ströme, Widerstände und Leistungen einzelner Komponenten müssen unter Beachtung der Phasenwinkel geometrisch addiert werden.</answer>
+      <answer correct="no">Spannungen, Ströme, Widerstände und Leistungen einzelner Komponenten müssen unter Beachtung der Thomsonschen Schwingungsgleichung addiert werden.</answer>
+      <answer correct="no">An Stelle des ohmschen Gesetzes tritt bei Blindwiderständen im Wechselstromkreis die Thomsonsche Schwingungsgleichung.</answer>
+      <answer correct="no">Für jede Kombination von R, L und C gelten eigene ohmsche Gesetze.</answer>
+    </question>
+    

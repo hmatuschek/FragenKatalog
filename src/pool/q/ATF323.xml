@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF323" name="A/TF323">
+      <text>
+        <p>Die Phasenverschiebung zwischen der Ein- und Ausgangsspannung einer Verstärkerstufe mit einem Transistor in Emitterschaltung beträgt</p>
+      </text>
+      <answer correct="yes">180°.</answer>
+      <answer correct="no">90°.</answer>
+      <answer correct="no">0°.</answer>
+      <answer correct="no">270°.</answer>
+    </question>
+    

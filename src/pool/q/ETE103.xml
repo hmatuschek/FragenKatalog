@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE103" name="E/TE103">
+      <text>
+        <p>Das folgende Oszillogramm zeigt ein AM-Signal. Der Modulationsgrad beträgt hier zirka</p>
+        <img src="ETE103" />
+      </text>
+      <answer correct="yes">50 %.</answer>
+      <answer correct="no">33 %.</answer>
+      <answer correct="no">67 %.</answer>
+      <answer correct="no">75 %.</answer>
+    </question>
+    

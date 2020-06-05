@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD511" name="A/TD511">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atd511" />
+      </text>
+      <answer correct="yes">Produktdetektor zu Demodulation von SSB-Signalen.</answer>
+      <answer correct="no">Flankendemodulator zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Hüllkurvendemodulator zur Demodulation von AM-Signalen.</answer>
+      <answer correct="no">Diskriminator zur Demodulation von FM-Signalen.</answer>
+    </question>
+    

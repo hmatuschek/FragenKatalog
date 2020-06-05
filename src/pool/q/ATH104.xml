@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH104" name="A/TH104">
+      <text>
+        <p>Ein Dipol wird spannungsgespeist, wenn an seinem Einspeisepunkt</p>
+      </text>
+      <answer correct="yes">ein Spannungsbauch und ein Stromknoten liegt. Er ist daher hochohmig.</answer>
+      <answer correct="no">ein Spannungsknoten und ein Strombauch liegt. Er ist daher niederohmig.</answer>
+      <answer correct="no">ein Spannungs- und ein Strombauch liegt. Er ist daher niederohmig.</answer>
+      <answer correct="no">ein Spannungs- und ein Stromknoten liegt. Er ist daher hochohmig.</answer>
+    </question>
+    

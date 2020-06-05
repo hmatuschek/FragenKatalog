@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH302" name="A/TH302">
+      <text>
+        <p>Eine Übertragungsleitung gilt als richtig angepasst, wenn der Widerstand, mit dem sie abgeschlossen ist,</p>
+      </text>
+      <answer correct="yes">den Wert des Wellenwiderstandes aufweist.</answer>
+      <answer correct="no">50 Ω beträgt.</answer>
+      <answer correct="no">reell ist.</answer>
+      <answer correct="no">eine offene Leitung darstellt.</answer>
+    </question>
+    

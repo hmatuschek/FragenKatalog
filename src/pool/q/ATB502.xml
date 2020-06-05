@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB502" name="A/TB502">
+      <text>
+        <p>Wie erfolgt die Ausbreitung einer elektromagnetischen Welle? (Im folgenden Text ist H-Feld die magnetische Feldkomponente und E-Feld die elektrische Feldkomponente.)</p>
+      </text>
+      <answer correct="yes">Sie erfolgt durch eine sich ausbreitende Wechselwirkung zwischen E-Feld und H-Feld.</answer>
+      <answer correct="no">Die Ausbreitung erfolgt nur über das E-Feld. Das H-Feld ist nur im Nahfeld vorhanden.</answer>
+      <answer correct="no">Die Ausbreitung erfolgt nur über das H-Feld. Das E-Feld ist nur im Nahfeld vorhanden.</answer>
+      <answer correct="no">E-Feld und H-Feld breiten sich unabhängig voneinander aus und stehen senkrecht zueinander und zur Ausbreitungsrichtung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD427" name="A/TD427">
+      <text>
+        <p>Wenn ein linearer HF-Leistungsverstärker im AB-Betrieb durch ein SSB-Signal übersteuert wird, führt dies zu</p>
+      </text>
+      <answer correct="yes">Splatter auf benachbarten Frequenzen.</answer>
+      <answer correct="no">parasitären Schwingungen des Verstärkers.</answer>
+      <answer correct="no">Übernahmeverzerrungen bei den Transistoren des Verstärkers.</answer>
+      <answer correct="no">Kreuzmodulation.</answer>
+    </question>
+    

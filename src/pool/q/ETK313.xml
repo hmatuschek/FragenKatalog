@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK313" name="E/TK313">
+      <text>
+        <p>
+          Bei der Hi-Fi-Anlage des Nachbarn wird Einströmung in die NF-Endstufe festgestellt.
+          <br />
+          Eine mögliche Abhilfe wäre
+        </p>
+      </text>
+      <answer correct="yes">geschirmte Lautsprecherleitungen zu verwenden.</answer>
+      <answer correct="no">ein NF-Filter in das Koaxialkabel einzuschleifen.</answer>
+      <answer correct="no">einen Serienkondensator in die Lautsprecherleitung einzubauen.</answer>
+      <answer correct="no">ein geschirmtes Netzkabel für den Receiver zu verwenden.</answer>
+    </question>
+    

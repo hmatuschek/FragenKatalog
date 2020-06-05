@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB918" name="A/TB918">
+      <text>
+        <p>Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 A an. Die Leistung in der Last beträgt</p>
+      </text>
+      <answer correct="yes">200 W.</answer>
+      <answer correct="no">100 W.</answer>
+      <answer correct="no">25 W.</answer>
+      <answer correct="no">250 W.</answer>
+    </question>
+    

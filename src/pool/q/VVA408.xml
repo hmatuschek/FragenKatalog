@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA408" name="V/VA408">
+      <text>
+        <p>Wo sind die Amateurfunkrufzeichen international geregelt?</p>
+      </text>
+      <answer correct="yes">In Artikel 19 und Anhang 42 der Radio Regulations (VO Funk).</answer>
+      <answer correct="no">In § 4 des Amateurfunkgesetzes (AFuG).</answer>
+      <answer correct="no">In der Rufzeichenliste der Bundesnetzagentur.</answer>
+      <answer correct="no">In der Anlage 4 der Amateurfunkverordnung (AFuV).</answer>
+    </question>
+    

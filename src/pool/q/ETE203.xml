@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE203" name="E/TE203">
+      <text>
+        <p>Ein zu großer Hub eines FM-Senders führt dazu,</p>
+      </text>
+      <answer correct="yes">dass die HF-Bandbreite zu groß wird.</answer>
+      <answer correct="no">dass die Sendeendstufe übersteuert wird.</answer>
+      <answer correct="no">dass Verzerrungen auf Grund unerwünschter Unterdrückung der Trägerfrequenz auftreten.</answer>
+      <answer correct="no">dass Verzerrungen auf Grund gegenseitiger Auslöschung der Seitenbänder auftreten.</answer>
+    </question>
+    

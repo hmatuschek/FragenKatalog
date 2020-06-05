@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE152" name="V/VE152">
+      <text>
+        <p>Darf ein Funkamateur mit seinem Amateurfunkgerät Funkverkehr im CB-Funk-Bereich durchführen?</p>
+      </text>
+      <answer correct="yes">Nein. CB-Funkverkehr darf nur mit speziell für diesen Frequenzbereich hergestellten Geräten durchgeführt werden, für die eine Konformitätsbewertung oder Zulassung vorliegt.</answer>
+      <answer correct="no">Ja. Der Funkamateur ist auf Grund seines technischen Wissens in der Lage, das Amateurfunkgerät so einzustellen, dass die technischen Vorschriften für CB-Funkgeräte eingehalten werden.</answer>
+      <answer correct="no">Nur dann, wenn er außer dem Amateurfunkrufzeichen auch eine Genehmigung zum Betrieb von CB-Funkgeräten besitzt.</answer>
+      <answer correct="no">Ja, aber nur, wenn er unter Benutzung seines Amateurfunkrufzeichens die Sendeleistung auf 4 Watt begrenzt.</answer>
+    </question>
+    

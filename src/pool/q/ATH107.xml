@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH107" name="A/TH107">
+      <text>
+        <p>Der Eingangswiderstand eines mittengespeisten λ/2-Dipols zeigt sich bei dessen Resonanzfrequenzen</p>
+      </text>
+      <answer correct="yes">im Wesentlichen als reeller Widerstand.</answer>
+      <answer correct="no">im Wesentlichen als kapazitiver Blindwiderstand.</answer>
+      <answer correct="no">im Wesentlichen als induktiver Blindwiderstand.</answer>
+      <answer correct="no">abwechselnd als kapazitiver oder induktiver Blindwiderstand.</answer>
+    </question>
+    

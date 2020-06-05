@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI233" name="A/TI233">
+      <text>
+        <p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: "Fast zu allen Zeiten lässt sich das Band für den Verkehr mit anderen Kontinenten nutzen. Im Sonnenfleckenminimum ist das Band nur tagsüber und in der Dämmerungsperiode offen. Die Sprungsdistanz liegt zwischen 1000 km im Sonnenfleckenminimum und 400 km im Sonnenfleckenmaximum. Für Europaverbindungen ist das Band nur während des Sonnenfleckenmaximums im Sommer brauchbar, wenn fast keine tote Zone mehr vorhanden ist." Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>
+      </text>
+      <answer correct="yes">20-m-Band.</answer>
+      <answer correct="no">15-m-Band.</answer>
+      <answer correct="no">30-m-Band.</answer>
+      <answer correct="no">40-m-Band.</answer>
+    </question>
+    

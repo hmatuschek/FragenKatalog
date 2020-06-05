@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH218" name="A/TH218">
+      <text>
+        <p>Wie wird die Polarisation einer elektromagnetischen Welle bei der Ausbreitung über die Raumwelle beeinflusst?</p>
+      </text>
+      <answer correct="yes">Die in der Ionosphäre reflektierten Wellen sind - unabhängig von der Polarisation der ausgesendeten Wellen - meist elliptisch polarisiert.</answer>
+      <answer correct="no">Die Polarisation der ausgesendeten Wellen bleibt bei der Reflexion in der Ionosphäre stets unverändert.</answer>
+      <answer correct="no">Die Polarisation der ausgesendeten Wellen wird in der Ionosphäre auf Grund des Faraday-Effektes stets um 90° gedreht.</answer>
+      <answer correct="no">Die Polarisation der ausgesendeten Wellen wird bei jedem Sprung (Hop) in der Ionosphäre auf Grund des Faraday-Effektes um 90° gedreht.</answer>
+    </question>
+    

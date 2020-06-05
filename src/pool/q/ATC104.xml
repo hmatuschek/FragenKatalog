@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC104" name="A/TC104">
+      <text>
+        <p>Drahtwiderstände</p>
+      </text>
+      <answer correct="yes">sind besonders als Hochlastwiderstände bei niedrigen Frequenzen geeignet.</answer>
+      <answer correct="no">Drahtwiderstände werden hauptsächlich in Form von SMD-Widerständen hergestellt.</answer>
+      <answer correct="no">sind induktionsarm und eignen sich besonders für den Einsatz bei sehr hohen Frequenzen.</answer>
+      <answer correct="no">haben einen extrem stark negativen Temperaturkoeffizienten und sind besonders als NTC-Widerstände (Heißleiter) geeignet.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF433" name="A/TF433">
+      <text>
+        <p>Auf welche Frequenz müsste ein Empfänger eingestellt werden, um die dritte Oberwelle einer 7,20-MHz-Aussendung erkennen zu können?</p>
+      </text>
+      <answer correct="yes">28,80 MHz</answer>
+      <answer correct="no">21,60 MHz</answer>
+      <answer correct="no">24,20 MHz</answer>
+      <answer correct="no">28,20 MHz</answer>
+    </question>
+    

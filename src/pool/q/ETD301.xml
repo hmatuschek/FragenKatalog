@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD301" name="E/TD301">
+      <text>
+        <p>Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen?</p>
+      </text>
+      <answer correct="yes">Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand und Stromquellen einen möglichst hohen Innenwiderstand haben.</answer>
+      <answer correct="no">Strom- und Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand haben.</answer>
+      <answer correct="no">Strom- und Spannungsquellen sollten einen möglichst hohen Innenwiderstand haben.</answer>
+      <answer correct="no">Spannungsquellen sollten einen möglichst hohen Innenwiderstand und Stromquellen einen möglichst niedrigen Innenwiderstand haben.</answer>
+    </question>
+    

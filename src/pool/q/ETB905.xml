@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB905" name="E/TB905">
+      <text>
+        <p>Eine Stromversorgung nimmt bei 230 V einen Strom von 0,63 A auf. Welche elektrische Arbeit (Energie) wird bei einer Betriebsdauer von 7 Stunden verbraucht?</p>
+      </text>
+      <answer correct="yes">1,01 kWh</answer>
+      <answer correct="no">0,1 kWh</answer>
+      <answer correct="no">2,56 kWh</answer>
+      <answer correct="no">20,7 kWh</answer>
+    </question>
+    

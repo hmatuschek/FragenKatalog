@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ833" name="A/TJ833">
+      <text>
+        <p>
+          Die Leistung eines 2-m-Senders soll mit einer künstlichen 50-Ω-Antenne bestimmt werden, die über eine Anzapfung bei 5 Ω vom erdnahen Ende verfügt. Zur Messung an diesem Punkt wird die folgende Schaltung eingesetzt.
+          <br />
+          D
+          <sub>1</sub>
+           und D
+          <sub>2</sub>
+           sind Schottkydioden mit U
+          <sub>F</sub>
+           = 0,23 V. Am Ausgang der Schaltung wird dabei mit einem Digitalvoltmeter eine Gleichspannung von 15,3 V gemessen. Wie groß ist etwa die HF-Leistung des Senders?
+        </p>
+        <img src="Atj701" />
+      </text>
+      <answer correct="yes">Zirka 60 Watt</answer>
+      <answer correct="no">Zirka 480 Watt</answer>
+      <answer correct="no">Zirka 340 Watt</answer>
+      <answer correct="no">Zirka 240 Watt</answer>
+    </question>
+    

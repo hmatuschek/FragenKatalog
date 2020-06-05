@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC206" name="A/TC206">
+      <text>
+        <p>An einem unbekannten Kondensator liegt eine Wechselspannung mit 16 V und 50 Hz. Es wird ein Strom von 32 mA gemessen. Welche Kapazität hat der Kondensator?</p>
+      </text>
+      <answer correct="yes">6,37 μF</answer>
+      <answer correct="no">0,637 μF</answer>
+      <answer correct="no">0,45 μF</answer>
+      <answer correct="no">4,5 μF</answer>
+    </question>
+    

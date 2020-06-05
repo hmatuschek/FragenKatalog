@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF309" name="A/TF309">
+      <text>
+        <p>Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 100 Watt auf 400 Watt erhöht?</p>
+      </text>
+      <answer correct="yes">Um eine S-Stufe</answer>
+      <answer correct="no">Um zwei S-Stufen</answer>
+      <answer correct="no">Um vier S-Stufen</answer>
+      <answer correct="no">Um acht S-Stufen.</answer>
+    </question>
+    

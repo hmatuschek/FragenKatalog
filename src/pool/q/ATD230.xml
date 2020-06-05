@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD230" name="A/TD230">
+      <text>
+        <p>Das folgende Bild zeigt ein typisches ZF-Filter und vier seiner möglichen Übertragungskurven (a bis d). Welche Kurve ergibt sich bei kritischer Kopplung und welche bei überkritischer Kopplung?</p>
+        <img src="Atd229" />
+      </text>
+      <answer correct="yes">Die b-Kurve zeigt kritische, die a-Kurve zeigt überkritische Kopplung.</answer>
+      <answer correct="no">Die a-Kurve zeigt kritische, die b-Kurve zeigt überkritische Kopplung.</answer>
+      <answer correct="no">Die c-Kurve zeigt kritische, die b-Kurve zeigt überkritische Kopplung.</answer>
+      <answer correct="no">Die d-Kurve zeigt kritische, die c-Kurve zeigt überkritische Kopplung.</answer>
+    </question>
+    

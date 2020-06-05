@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI212" name="E/TI212">
+      <text>
+        <p>Was bedeutet die "MUF" bei der Kurzwellenausbreitung?</p>
+      </text>
+      <answer correct="yes">Höchste brauchbare Frequenz</answer>
+      <answer correct="no">Niedrigste brauchbare Frequenz</answer>
+      <answer correct="no">Kritische Grenzfrequenz</answer>
+      <answer correct="no">Mittlere Nutzfrequenz</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH317" name="A/TH317">
+      <text>
+        <p>
+          Ein Koaxialkabel (luftisoliert) hat einen Innendurchmesser der Abschirmung von 5 mm. Der Außendurchmesser des inneren Leiters beträgt 1 mm . Wie groß ist der Wellenwiderstand Z
+          <sub>0</sub>
+           des Kabels?
+        </p>
+      </text>
+      <answer correct="yes">ca. 97 Ω</answer>
+      <answer correct="no">ca. 60 Ω</answer>
+      <answer correct="no">ca. 50 Ω</answer>
+      <answer correct="no">ca. 120 Ω</answer>
+    </question>
+    

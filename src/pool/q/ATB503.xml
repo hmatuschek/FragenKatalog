@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB503" name="A/TB503">
+      <text>
+        <p>Die Polarisation einer elektromagnetischen Welle wird durch</p>
+      </text>
+      <answer correct="yes">die Richtung des elektrischen Feldes (Vektor des E-Feldes) angegeben.</answer>
+      <answer correct="no">die Richtung des magnetischen Feldes (Vektor des H-Feldes) angegeben.</answer>
+      <answer correct="no">die Richtung der Ausbreitung (S-Vektor Poyntingscher Vektor) angegeben.</answer>
+      <answer correct="no">die Leistungsflussdichte im Speisepunkt der Antenne bestimmt.</answer>
+    </question>
+    

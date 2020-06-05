@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF423" name="A/TF423">
+      <text>
+        <p>Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal entspricht</p>
+      </text>
+      <answer correct="yes">dem zweifachen der ersten ZF.</answer>
+      <answer correct="no">der Frequenz des lokalen Oszillators.</answer>
+      <answer correct="no">der HF-Eingangsfrequenz.</answer>
+      <answer correct="no">der Frequenz des Preselektors.</answer>
+    </question>
+    

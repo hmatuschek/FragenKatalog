@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB407" name="B/BB407">
+      <text>
+        <p>Wie wird die im Amateurfunk verwendete Betriebsart "PACTOR" nach den Vorgaben der Radio Regulations (VO Funk) bezeichnet?</p>
+      </text>
+      <answer correct="yes">J2B</answer>
+      <answer correct="no">J3B</answer>
+      <answer correct="no">F2A</answer>
+      <answer correct="no">J3A</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD507" name="A/TD507">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atd507" />
+      </text>
+      <answer correct="yes">Phasendiskriminator zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Flanken-Diskriminator zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Hüllkurvendemodulator zur Demodulation von AM-Signalen.</answer>
+      <answer correct="no">Produktdetektor zu Demodulation von SSB-Signalen.</answer>
+    </question>
+    

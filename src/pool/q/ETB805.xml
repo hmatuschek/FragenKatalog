@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB805" name="E/TB805">
+      <text>
+        <p>Wie groß ist die HF-Bandbreite, die bei der Übertragung eines SSB-Signals entsteht?</p>
+      </text>
+      <answer correct="yes">Sie entspricht genau der Bandbreite des NF-Signals.</answer>
+      <answer correct="no">Sie entspricht der Hälfte der Bandbreite des NF-Signals.</answer>
+      <answer correct="no">Sie entspricht der doppelten Bandbreite des NF-Signals.</answer>
+      <answer correct="no">Sie ist Null, weil bei SSB-Modulation der HF-Träger unterdrückt wird.</answer>
+    </question>
+    

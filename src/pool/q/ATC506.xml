@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC506" name="A/TC506">
+      <text>
+        <p>Bei welcher Bedingung wird eine Siliziumdiode leitend?</p>
+      </text>
+      <answer correct="yes">An der Anode liegen 5,7 Volt, an der Katode 5,0 Volt an.</answer>
+      <answer correct="no">An der Anode liegen 5,7 Volt, an der Katode 6,4 Volt an.</answer>
+      <answer correct="no">An der Anode liegen 5,0 Volt, an der Katode 5,1 Volt an.</answer>
+      <answer correct="no">An der Anode liegen 5,0 Volt, an der Katode 5,7 Volt an.</answer>
+    </question>
+    

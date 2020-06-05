@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG236" name="A/TG236">
+      <text>
+        <p>Welche Baugruppen werden benötigt, um aus einem 5,3-MHz-Signal ein 14,3-MHz-Signal erzeugen?</p>
+      </text>
+      <answer correct="yes">Ein Mischer und ein 9-MHz-Oszillator</answer>
+      <answer correct="no">Ein Vervielfacher und ein selektiver Verstärker</answer>
+      <answer correct="no">Ein Phasenvergleicher und ein Oberwellenmischer</answer>
+      <answer correct="no">Ein Frequenzteiler durch 3 und ein Verachtfacher</answer>
+    </question>
+    

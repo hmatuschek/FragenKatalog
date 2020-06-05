@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF407" name="A/TF407">
+      <text>
+        <p>Welche Baugruppe sollte für die Erzeugung eines unterdrückten Zweiseitenband-Trägersignals verwendet werden?</p>
+      </text>
+      <answer correct="yes">Balancemischer</answer>
+      <answer correct="no">Quarzfilter</answer>
+      <answer correct="no">Gegentakt-Transistor</answer>
+      <answer correct="no">Doppeldiode</answer>
+    </question>
+    

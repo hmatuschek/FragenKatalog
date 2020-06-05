@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF313" name="A/TF313">
+      <text>
+        <p>
+          Wozu dienen P und C
+          <sub>4</sub>
+           bei dieser Schaltung? Sie dienen
+        </p>
+        <img src="Atf313" />
+      </text>
+      <answer correct="yes">zur Einstellung der Trägerunterdrückung nach Betrag und Phase.</answer>
+      <answer correct="no">zum Ausgleich von Frequenzgang- und Laufzeitunterschieden.</answer>
+      <answer correct="no">zur Einstellung des Frequenzhubes mit Hilfe der ersten Trägernullstelle.</answer>
+      <answer correct="no">zur Einstellung des Modulationsgrades der erzeugten AM-Signale.</answer>
+    </question>
+    

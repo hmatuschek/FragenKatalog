@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB708" name="A/TB708">
+      <text>
+        <p>Wie verhält sich der Pegel des thermischen Rauschens am Empfängerausgang, wenn von einem Quarzfilter mit einer Bandbreite von 2,5 kHz auf ein Quarzfilter mit einer Bandbreite von 0,5 kHz mit gleicher Durchlassdämpfung und Flankensteilheit umgeschaltet wird? Der Rauschpegel</p>
+      </text>
+      <answer correct="yes">verringert sich um etwa 7 dB.</answer>
+      <answer correct="no">erhöht sich um etwa 7 dB.</answer>
+      <answer correct="no">verringert sich um etwa 20 dB.</answer>
+      <answer correct="no">erhöht sich um etwa 20 dB.</answer>
+    </question>
+    

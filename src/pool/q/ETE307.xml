@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE307" name="E/TE307">
+      <text>
+        <p>Welches ist eine gängige Übertragungsrate in Packet Radio?</p>
+      </text>
+      <answer correct="yes">9600 Baud</answer>
+      <answer correct="no">12000 Baud</answer>
+      <answer correct="no">2700 Baud</answer>
+      <answer correct="no">6400 Baud</answer>
+    </question>
+    

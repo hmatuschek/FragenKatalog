@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG111" name="A/TG111">
+      <text>
+        <p>
+          Im folgenden Blockschaltbild ist die Frequenzaufbereitung für einen Amateurfunk-Transceiver dargestellt. Auf welcher Frequenz muss der VCO
+          <sub>2</sub>
+           eingerastet haben, wenn eine Ausgangsfrequenz von 14,351 MHz abgegeben wird?
+        </p>
+        <img src="Atg110" />
+      </text>
+      <answer correct="yes">17,000 MHz</answer>
+      <answer correct="no">2,351 MHz</answer>
+      <answer correct="no">6,000 MHz</answer>
+      <answer correct="no">6,351 MHz</answer>
+    </question>
+    

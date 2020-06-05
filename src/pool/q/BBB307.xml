@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB307" name="B/BB307">
+      <text>
+        <p>Durch "Fading" sinkt die S-Meter-Anzeige von S9 auf S8. Auf welchen Wert sinkt dabei die Empfänger-Eingangsspannung ab, wenn bei S9 am Empfängereingang 50 μV anliegen? Die Empfänger-Eingangsspannung sinkt auf</p>
+      </text>
+      <answer correct="yes">25 μV.</answer>
+      <answer correct="no">37 μV.</answer>
+      <answer correct="no">40 μV.</answer>
+      <answer correct="no">30 μV.</answer>
+    </question>
+    

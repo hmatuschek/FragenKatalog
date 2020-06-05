@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF406" name="E/TF406">
+      <text>
+        <p>Wie groß ist der Unterschied von S4 nach S7 in dB?</p>
+      </text>
+      <answer correct="yes">18 dB</answer>
+      <answer correct="no">9 dB</answer>
+      <answer correct="no">3 dB</answer>
+      <answer correct="no">24 dB</answer>
+    </question>
+    

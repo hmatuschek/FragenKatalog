@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ606" name="A/TJ606">
+      <text>
+        <p>Ein Absorptionsfrequenzmesser eignet sich zur Prüfung</p>
+      </text>
+      <answer correct="yes">der richtigen Oberwellenauswahl in einem Vervielfacher.</answer>
+      <answer correct="no">der Empfängerübersteuerung.</answer>
+      <answer correct="no">der Übermodulation.</answer>
+      <answer correct="no">von Signalen an der Bandgrenze.</answer>
+    </question>
+    

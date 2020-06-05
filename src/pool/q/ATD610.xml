@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD610" name="A/TD610">
+      <text>
+        <p>Die Bezeichnungen "Colpitts" und "Hartley" stehen für</p>
+      </text>
+      <answer correct="yes">Oszillatoren.</answer>
+      <answer correct="no">Verstärker.</answer>
+      <answer correct="no">FM-Demodulatoren.</answer>
+      <answer correct="no">Modulatoren.</answer>
+    </question>
+    

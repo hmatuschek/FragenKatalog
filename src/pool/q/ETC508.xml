@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC508" name="E/TC508">
+      <text>
+        <p>Wozu dient folgende Schaltung? Sie dient</p>
+        <img src="ETC508" />
+      </text>
+      <answer correct="yes">zur Spannungsstabilisierung.</answer>
+      <answer correct="no">zur Signalbegrenzung.</answer>
+      <answer correct="no">als Leuchtanzeige.</answer>
+      <answer correct="no">zur Stromgewinnung.</answer>
+    </question>
+    

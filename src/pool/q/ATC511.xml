@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC511" name="A/TC511">
+      <text>
+        <p>In welcher Zeile sind die Diodentypen der entsprechenden Kennlinie richtig zugeordnet?</p>
+        <img src="Atc511" />
+      </text>
+      <answer correct="yes">1: Schottkydiode, 2: Germaniumdiode, 3: Siliziumdiode</answer>
+      <answer correct="no">1: Schottkydiode, 2: Siliziumdiode, 3: Germaniumdiode</answer>
+      <answer correct="no">1: Germaniumdiode, 2: Schottkydiode, 3: Siliziumdiode</answer>
+      <answer correct="no">1: Siliziumdiode, 3: Germaniumdiode, 3: Schottkydiode</answer>
+    </question>
+    

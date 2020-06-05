@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF315" name="A/TF315">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atf315" />
+      </text>
+      <answer correct="yes">NF-Verstärker</answer>
+      <answer correct="no">Mikrofonverstärker</answer>
+      <answer correct="no">HF-Verstärker</answer>
+      <answer correct="no">Tongenerator</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL209" name="A/TL209">
+      <text>
+        <p>Warum ist im Nahfeld einer Strahlungsquelle keine einfache Umrechnung zwischen den Feldgrößen E, H und S und damit auch keine vereinfachte Berechnung des Schutzabstandes möglich?</p>
+      </text>
+      <answer correct="yes">Weil die elektrische und die magnetische Feldstärke im Nahfeld keine konstante Phasenbeziehung zueinander aufweisen.</answer>
+      <answer correct="no">Weil die elektrische und die magnetische Feldstärke im Nahfeld immer senkrecht aufeinander stehen und eine Phasendifferenz von 90° aufweisen.</answer>
+      <answer correct="no">Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht senkrecht zur Ausbreitungsrichtung stehen und auf Grund des Einflusses der Erdoberfläche eine Phasendifferenz von größer 180° aufweisen.</answer>
+      <answer correct="no">Weil die elektrische und die magnetische Feldstärke im Nahfeld nicht exakt senkrecht aufeinander stehen und sich durch die nicht ideale Leitfähigkeit des Erdbodens am Sendeort der Feldwellenwiderstand des freien Raumes verändert.</answer>
+    </question>
+    

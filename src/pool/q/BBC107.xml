@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC107" name="B/BC107">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 12-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">24890 - 24990 kHz</answer>
+      <answer correct="no">14000 - 14350 kHz</answer>
+      <answer correct="no">18068 - 18168 kHz</answer>
+      <answer correct="no">21000 - 21450 kHz</answer>
+    </question>
+    

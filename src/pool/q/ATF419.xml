@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF419" name="A/TF419">
+      <text>
+        <p>Die Stabilität des lokalen Oszillators einer Sende-/Empfangsanlage ist teilweise von</p>
+      </text>
+      <answer correct="yes">einer robusten mechanischen Konstruktion abhängig.</answer>
+      <answer correct="no">der Verwendung von Tantalkondensatoren für die frequenzbestimmenden Teile abhängig.</answer>
+      <answer correct="no">der Verwendung von Widerstandsdraht für die Spule abhängig.</answer>
+      <answer correct="no">einer niederohmigen Gleichstromversorgung des VFO abhängig.</answer>
+    </question>
+    

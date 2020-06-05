@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH330" name="A/TH330">
+      <text>
+        <p>Am Eingang einer Antennenleitung, deren Dämpfung mit 5 dB berechnet wurde, werden 10 Watt HF-Leistung eingespeist. Mit der am Leitungsende angeschlossenen Antenne misst man am Leitungseingang ein VSWR von 1. Welches VSWR ist am Leitungseingang zu erwarten, wenn die Antenne am Leitungsende abgeklemmt wird?</p>
+      </text>
+      <answer correct="yes">Ein VSWR von zirka 1,9 oder weniger.</answer>
+      <answer correct="no">Ein VSWR von zirka 3,6 oder mehr.</answer>
+      <answer correct="no">Ein VSWR von zirka 0, da sich vorlaufende und rücklaufende Leistung gegenseitig auslöschen.</answer>
+      <answer correct="no">Ein VSWR, das gegen unendlich geht, da am Ende der Leitung die gesamte HF-Leistung reflektiert wird.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD602" name="E/TD602">
+      <text>
+        <p>Was ist ein LC-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz</p>
+      </text>
+      <answer correct="yes">von einer Spule und einem Kondensator (LC-Schwingkreis) bestimmt wird.</answer>
+      <answer correct="no">durch einen hochstabilen Quarz bestimmt wird.</answer>
+      <answer correct="no">mittels LC-Tiefpass gefiltert wird.</answer>
+      <answer correct="no">mittels LC-Hochpass gefiltert wird.</answer>
+    </question>
+    

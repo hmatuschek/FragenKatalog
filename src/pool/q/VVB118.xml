@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB118" name="V/VB118">
+      <text>
+        <p>Welche Regelungen sind beim Betrieb einer Amateurfunkstelle in einem ausländischen Land zu beachten, das die CEPT-Empfehlungen T/R 61-01 und (05)06 umgesetzt hat?</p>
+      </text>
+      <answer correct="yes">Die zutreffende CEPT-Empfehlung und die im Gastland geltenden Bestimmungen und Auflagen.</answer>
+      <answer correct="no">Die Bestimmungen des Gastlandes, aber nur, wenn der Funkamateur sich für längere Zeit dort aufhält. Mobil betriebene Funkstellen (auf der Durchreise) können wie in Deutschland genutzt werden.</answer>
+      <answer correct="no">Man muss sich mit der Sendeleistung den Bestimmungen des Gastlandes anpassen (in der Regel sind Sendeverstärker zulässig). Die zulässigen Frequenzbereiche sind in den Empfehlungen der IARU geregelt.</answer>
+      <answer correct="no">In Ländern der Europäischen Union (EU) gelten die gleichen Gesetze wie in Deutschland. Nur außerhalb der EU sind die jeweiligen nationalen Gesetze zu beachten. Sie dürfen von den deutschen Bestimmungen abweichen.</answer>
+    </question>
+    

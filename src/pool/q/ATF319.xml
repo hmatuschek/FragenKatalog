@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF319" name="A/TF319">
+      <text>
+        <p>Welche Konfigurationen wäre für die Unterdrückung unerwünschter Signale am Eingang eines Empfängers hilfreich?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atf319a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf319b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf319c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atf319d" />
+      </answer>
+    </question>
+    

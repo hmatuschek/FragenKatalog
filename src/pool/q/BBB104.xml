@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB104" name="B/BB104">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung CQ?</p>
+      </text>
+      <answer correct="yes">Allgemeiner Anruf</answer>
+      <answer correct="no">Telegrafie</answer>
+      <answer correct="no">Große Entfernung</answer>
+      <answer correct="no">Sie werden gerufen.</answer>
+    </question>
+    

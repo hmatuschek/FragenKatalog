@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF405" name="A/TF405">
+      <text>
+        <p>Welche Stromversorgungsart benötigt ein VFO?</p>
+      </text>
+      <answer correct="yes">Temperaturstabilisierte Versorgung</answer>
+      <answer correct="no">Unmittelbare Stromzufuhr aus der Glättungsschaltung</answer>
+      <answer correct="no">Destabilisierte Versorgungsspannungen</answer>
+      <answer correct="no">Stabilisierte Wechselstromversorgung</answer>
+    </question>
+    

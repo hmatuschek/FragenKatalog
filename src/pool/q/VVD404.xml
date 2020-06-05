@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD404" name="V/VD404">
+      <text>
+        <p>Wovon sind die Betriebsrechte eines Funkamateurs bei der Mitbenutzung eines Klubstationsrufzeichens abhängig?</p>
+      </text>
+      <answer correct="yes">Von seiner Zulassung zur Teilnahme am Amateurfunkdienst.</answer>
+      <answer correct="no">Nur von den Betriebsrechten der Zuteilung der Klubstation.</answer>
+      <answer correct="no">Von der CEPT-Klasse der Klubstation.</answer>
+      <answer correct="no">Er muss Inhaber einer Ausbildungsfunkzuteilung nach § 13 der AFuV sein.</answer>
+    </question>
+    

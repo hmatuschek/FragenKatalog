@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA122" name="A/TA122">
+      <text>
+        <p>Welcher Wellenlänge λ entspricht die Frequenz f = 22 MHz?</p>
+      </text>
+      <answer correct="yes">λ = 13,64 m</answer>
+      <answer correct="no">λ = 14,33 m</answer>
+      <answer correct="no">λ = 12,93 m</answer>
+      <answer correct="no">λ = 136,3 m</answer>
+    </question>
+    

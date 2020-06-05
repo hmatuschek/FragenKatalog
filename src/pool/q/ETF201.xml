@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF201" name="E/TF201">
+      <text>
+        <p>Um Schwankungen des NF-Ausgangssignals durch Schwankungen des HF-Eingangssignals zu verringern, wird ein Empfänger mit</p>
+      </text>
+      <answer correct="yes">einer automatischen Verstärkungsregelung ausgestattet.</answer>
+      <answer correct="no">einer NF-Pegelbegrenzung ausgestattet.</answer>
+      <answer correct="no">NF-Filtern ausgestattet.</answer>
+      <answer correct="no">einer NF-Vorspannungsregelung ausgestattet.</answer>
+    </question>
+    

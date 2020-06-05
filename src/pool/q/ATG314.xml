@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG314" name="A/TG314">
+      <text>
+        <p>
+          Bei C
+          <sub>1</sub>
+          , C
+          <sub>2</sub>
+           und L
+          <sub>1</sub>
+           handelt es sich um
+        </p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">einen Pi-Filter zur Anpassung der Antenne an die Ausgangsimpedanz der Röhre.</answer>
+      <answer correct="no">einen regelbaren Bandfilter mit veränderbarer Bandbreite zur Kompensation der Auskoppelverluste.</answer>
+      <answer correct="no">einen abstimmbaren Sperrkreis zur Unterdrückung von Harmonischen.</answer>
+      <answer correct="no">einen Idler-Kreis, der die zweite Harmonische unterdrückt und so den Wirkungsgrad der Verstärkerstufe erhöht.</answer>
+    </question>
+    

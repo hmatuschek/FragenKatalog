@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD206" name="V/VD206">
+      <text>
+        <p>
+          Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DLØZZZ?
+          <br />
+          Es ist ein
+        </p>
+      </text>
+      <answer correct="yes">Klubstationsrufzeichen der Klasse A.</answer>
+      <answer correct="no">personengebundenes Rufzeichen der Klasse A.</answer>
+      <answer correct="no">personengebundenes Rufzeichen der Klasse A oder E, keine genaue Bestimmung möglich.</answer>
+      <answer correct="no">Klubstationsrufzeichen der Klasse E.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE124" name="V/VE124">
+      <text>
+        <p>In welchem der genannten Frequenzbereiche hat der Amateurfunkdienst primären Status?</p>
+      </text>
+      <answer correct="yes">144 - 146 MHz</answer>
+      <answer correct="no">5,65 - 5,85 GHz</answer>
+      <answer correct="no">10,0 - 10,5 GHz</answer>
+      <answer correct="no">1240 - 1300 MHz</answer>
+    </question>
+    

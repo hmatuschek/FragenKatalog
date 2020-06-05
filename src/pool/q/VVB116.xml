@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB116" name="V/VB116">
+      <text>
+        <p>Entsprechend welcher internationalen Regelungen dürfen Inhaber eines deutschen Amateurfunkrufzeichens auch in anderen Ländern vorübergehend am Amateurfunkverkehr teilnehmen, ohne dass sie dort vorher eine besondere Zulassung beantragen müssen?</p>
+      </text>
+      <answer correct="yes">Entsprechend den CEPT-Empfehlungen T/R 61-01 oder 05(06).</answer>
+      <answer correct="no">Entsprechend den in der AFuV umgesetzten EU-Richtlinien.</answer>
+      <answer correct="no">Entsprechend Artikel 19 und Anhang 42 der Radio Regulations (VO Funk).</answer>
+      <answer correct="no">Entsprechend der Charta der Vereinten Nationen und einer entsprechenden UN-Entschließung.</answer>
+    </question>
+    

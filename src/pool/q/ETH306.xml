@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH306" name="E/TH306">
+      <text>
+        <p>Welche Dämpfung hat ein 20 m langes Koaxkabel vom Typ RG 58 bei 29 MHz? (siehe hierzu beiliegendes Diagramm)</p>
+        <img src="ETH305" />
+      </text>
+      <answer correct="yes">1,8 dB</answer>
+      <answer correct="no">4,5 dB</answer>
+      <answer correct="no">3,75 dB</answer>
+      <answer correct="no">1,5 dB</answer>
+    </question>
+    

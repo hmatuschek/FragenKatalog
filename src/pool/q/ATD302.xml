@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD302" name="A/TD302">
+      <text>
+        <p>Welche Ausgangsspannung wird erzeugt, wenn an die dargestellte Schaltung eine Wechselspannung angelegt wird?</p>
+        <img src="Atd302" />
+      </text>
+      <answer correct="yes">
+        <img src="Atd302a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd302b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd302c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd302d" />
+      </answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG202" name="E/TG202">
+      <text>
+        <p>Welche Schaltung in einem Sender bewirkt, dass der Transceiver allein durch die Stimme auf Sendung geschaltet werden kann?</p>
+      </text>
+      <answer correct="yes">VOX</answer>
+      <answer correct="no">PTT</answer>
+      <answer correct="no">RIT</answer>
+      <answer correct="no">PSK</answer>
+    </question>
+    

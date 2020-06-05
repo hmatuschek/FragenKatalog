@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG307" name="E/TG307">
+      <text>
+        <p>Wie wird in der Regel die hochfrequente Ausgangsleistung eines SSB-Senders vermindert?</p>
+      </text>
+      <answer correct="yes">Durch die Verringerung der NF- Ansteuerung und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe.</answer>
+      <answer correct="no">Durch die Veränderung des Arbeitspunktes der Endstufe.</answer>
+      <answer correct="no">Durch die Verringerung des Hubes und/oder durch Einfügung eines Dämpfungsgliedes zwischen Steuersender und Endstufe.</answer>
+      <answer correct="no">Nur durch Verringerung des Hubes allein.</answer>
+    </question>
+    

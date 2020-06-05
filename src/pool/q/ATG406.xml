@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG406" name="A/TG406">
+      <text>
+        <p>Wenn das Grundrauschen auf einer Frequenz im FM-Betrieb ausgeblendet werden soll, verstellt man</p>
+      </text>
+      <answer correct="yes">den Squelch.</answer>
+      <answer correct="no">die VOX.</answer>
+      <answer correct="no">die RIT.</answer>
+      <answer correct="no">das Passband-Tuning.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF321" name="A/TF321">
+      <text>
+        <p>Die Phasenverschiebung zwischen der Ein- und Ausgangsspannung einer Verstärkerstufe mit einem Transistor in Kollektorschaltung beträgt</p>
+      </text>
+      <answer correct="yes">0°.</answer>
+      <answer correct="no">90°.</answer>
+      <answer correct="no">180°.</answer>
+      <answer correct="no">270°.</answer>
+    </question>
+    

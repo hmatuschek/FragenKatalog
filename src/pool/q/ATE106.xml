@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE106" name="A/TE106">
+      <text>
+        <p>Die Übermodulation eines SSB-Signals führt wahrscheinlich zu</p>
+      </text>
+      <answer correct="yes">ausgeprägten Splatter-Erscheinungen.</answer>
+      <answer correct="no">Kreuzmodulation.</answer>
+      <answer correct="no">verminderten Seitenbändern.</answer>
+      <answer correct="no">überhöhtem Hub.</answer>
+    </question>
+    

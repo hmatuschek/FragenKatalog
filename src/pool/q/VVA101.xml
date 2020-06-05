@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA101" name="V/VA101">
+      <text>
+        <p>In welchem zum Internationalen Fernmeldevertrag gehörenden Regelungswerk ist der Begriff "Amateurfunkdienst" definiert?</p>
+      </text>
+      <answer correct="yes">In den Radio Regulations (VO Funk) der ITU (Internationale Fernmeldeunion).</answer>
+      <answer correct="no">In den Normen und Empfehlungen des ETSI (Europäisches Institut für Telekommunikationsnormen).</answer>
+      <answer correct="no">In den Empfehlungen der IARU (Internationale Amateur Radio Union).</answer>
+      <answer correct="no">In den Regelungen der CEPT (Europäische Konferenz der Verwaltungen für Post und Telekommunikation).</answer>
+    </question>
+    

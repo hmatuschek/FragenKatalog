@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB205" name="B/BB205">
+      <text>
+        <p>Was bedeuten die Q-Gruppen "QRT", "QRZ?" und "QSL?" ?</p>
+      </text>
+      <answer correct="yes">Stellen Sie die Übermittlung ein. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?</answer>
+      <answer correct="no">Stellen Sie die Übermittlung ein. Ich bin bereit. Schicken Sie eine QSL-Karte?</answer>
+      <answer correct="no">Stellen Sie die Übermittlung ein. Wie ist Ihr Standort? Können Sie mir Empfangsbestätigung geben?</answer>
+      <answer correct="no">Ich habe nichts für Sie. Von wem werde ich gerufen? Können Sie mir Empfangsbestätigung geben?</answer>
+    </question>
+    

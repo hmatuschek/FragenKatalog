@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD402" name="A/TD402">
+      <text>
+        <p>
+          Welche Funktion haben die Widerstände R
+          <sub>1</sub>
+           und R
+          <sub>2</sub>
+           in der folgenden Schaltung? Sie dienen zur
+        </p>
+        <img src="Atd402" />
+      </text>
+      <answer correct="yes">Einstellung der Basisvorspannung.</answer>
+      <answer correct="no">Reduzierung der Eingangsempfindlichkeit.</answer>
+      <answer correct="no">Verhinderung von Eigenschwingungen.</answer>
+      <answer correct="no">Festlegung der oberen und unteren Grenzfrequenz.</answer>
+    </question>
+    

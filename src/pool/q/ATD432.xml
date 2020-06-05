@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD432" name="A/TD432">
+      <text>
+        <p>
+          An den Eingang dieser Schaltung wird das folgende Signal gelegt. Welches ist ein mögliches Ausgangssignal U
+          <sub>A</sub>
+          ?
+        </p>
+        <img src="Atd432" />
+      </text>
+      <answer correct="yes">
+        <img src="Atd431b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd431a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd431c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd431d" />
+      </answer>
+    </question>
+    

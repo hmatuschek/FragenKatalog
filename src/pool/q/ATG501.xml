@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG501" name="A/TG501">
+      <text>
+        <p>Wodurch können Tastklicks hervorgerufen werden?</p>
+      </text>
+      <answer correct="yes">Durch zu steile Flanken der Tastimpulse</answer>
+      <answer correct="no">Durch eine instabile Stromversorgung</answer>
+      <answer correct="no">Durch zu geringe Aussteuerung des Senders</answer>
+      <answer correct="no">Durch falsche Abstimmung der Pufferstufe</answer>
+    </question>
+    

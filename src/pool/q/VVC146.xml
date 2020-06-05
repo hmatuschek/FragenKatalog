@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC146" name="V/VC146">
+      <text>
+        <p>Was hat ein Funkamateur zu erwarten, der seine Amateurfunkstelle entgegen den Bestimmungen über den Amateurfunkdienst betreibt?</p>
+      </text>
+      <answer correct="yes">Die Bundesnetzagentur kann dies - wenn ein entsprechender Verstoß begangen wurde - mit einer Geldbuße ahnden.</answer>
+      <answer correct="no">Der Funkamateur hat mit Entzug des Amateurfunkzeugnisses und einer Geldstrafe zu rechnen.</answer>
+      <answer correct="no">Der Funkamateur hat mit einer Geldstrafe und mit dem Einzug der Sendefunkanlage zu rechnen.</answer>
+      <answer correct="no">Die Bundesnetzagentur kann die verwendete Funkanlage einziehen.</answer>
+    </question>
+    

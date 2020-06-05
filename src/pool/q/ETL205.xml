@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL205" name="E/TL205">
+      <text>
+        <p>Ein Sender mit 5 Watt Ausgangsleistung ist über eine Antennenleitung, die 2 dB Kabelverluste hat, an eine Antenne mit 5 dB Gewinn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>
+      </text>
+      <answer correct="yes">16,4 Watt</answer>
+      <answer correct="no">6,1 Watt</answer>
+      <answer correct="no">10,0 Watt</answer>
+      <answer correct="no">32,8 Watt</answer>
+    </question>
+    

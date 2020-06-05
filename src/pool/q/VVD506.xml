@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD506" name="V/VD506">
+      <text>
+        <p>Wie hoch ist die maximal zulässige Strahlungsleistung einer Relaisfunkstelle oberhalb 30 MHz?</p>
+      </text>
+      <answer correct="yes">15 Watt ERP</answer>
+      <answer correct="no">15 Watt Senderausgangsleistung</answer>
+      <answer correct="no">750 Watt Senderausgangsleistung bis 23 cm und 75 Watt auf den Bändern darüber.</answer>
+      <answer correct="no">&lt;10 Watt EIRP</answer>
+    </question>
+    

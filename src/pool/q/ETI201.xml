@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI201" name="E/TI201">
+      <text>
+        <p>Die Ausbreitungsgeschwindigkeit freier elektromagnetischer Wellen beträgt etwa</p>
+      </text>
+      <answer correct="yes">300 000 km/s.</answer>
+      <answer correct="no">3 000 000 km/s.</answer>
+      <answer correct="no">30 000 km/s.</answer>
+      <answer correct="no">3 000 km/s.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD503" name="E/TD503">
+      <text>
+        <p>Zur Aufbereitung des SSB-Signals müssen</p>
+      </text>
+      <answer correct="yes">der Träger und ein Seitenband unterdrückt oder ausgefiltert werden.</answer>
+      <answer correct="no">der Träger hinzugesetzt und ein Seitenband ausgefiltert werden.</answer>
+      <answer correct="no">der Träger unterdrückt und ein Seitenband hinzugesetzt werden.</answer>
+      <answer correct="no">der Träger unterdrückt und beide Seitenbänder ausgefiltert werden.</answer>
+    </question>
+    

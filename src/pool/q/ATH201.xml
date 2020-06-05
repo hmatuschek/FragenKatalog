@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH201" name="A/TH201">
+      <text>
+        <p>Der Strahlungswiderstand einer Antenne</p>
+      </text>
+      <answer correct="yes">entspricht dem für einen bestimmten Antennenpunkt berechneten Ersatzwiderstand, der die von der Antenne abgestrahlte Leistung verbrauchen würde.</answer>
+      <answer correct="no">ist die an einem bestimmten Antennenpunkt auftretende Antennenimpedanz, die auch immer die nicht zur Strahlung beitragenden Verlustwiderstände der Antenne beinhaltet.</answer>
+      <answer correct="no">ist ein Blindwiderstand, der zur Anpassung der Antenne verwendet wird.</answer>
+      <answer correct="no">ergibt sich aus der abgestrahlten Leistung dividiert durch das Quadrat der HF-Spannung am Antenneneingang und kann für beliebige Punkte der Antenne angegeben werden.</answer>
+    </question>
+    

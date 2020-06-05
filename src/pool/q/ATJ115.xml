@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ115" name="A/TJ115">
+      <text>
+        <p>Ein Drehspulmessgerät hat meistens eine Genauigkeit von</p>
+      </text>
+      <answer correct="yes">ca. 1,5 % vom Endausschlag.</answer>
+      <answer correct="no">ca. 0,3 % vom Ablesewert.</answer>
+      <answer correct="no">ca. 0,3 % vom Endausschlag.</answer>
+      <answer correct="no">ca. 0,05 % vom Ablesewert.</answer>
+    </question>
+    

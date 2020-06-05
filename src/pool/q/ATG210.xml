@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG210" name="A/TG210">
+      <text>
+        <p>Der VFO eines Senders ist schwankenden Temperaturen unterworfen. Welche wesentliche Auswirkung könnte dies haben?</p>
+      </text>
+      <answer correct="yes">Die Frequenz des Oszillators ändert sich langsam (Drift).</answer>
+      <answer correct="no">Die Frequenz des Oszillators ändert sich sehr schnell (Chirp).</answer>
+      <answer correct="no">Die Amplitude der Oszillatorfrequenz schwankt (unerwünschte AM).</answer>
+      <answer correct="no">Die Frequenz des Oszillators ändert sich unregelmäßig (unerwünschte FM).</answer>
+    </question>
+    

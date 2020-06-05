@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL304" name="E/TL304">
+      <text>
+        <p>Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Überspannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden?</p>
+      </text>
+      <answer correct="yes">Die Außenleiter (Abschirmung) aller Koaxialkabel-Niederführungen müssen über einen Potentialausgleichsleiter normgerecht mit Erde verbunden werden.</answer>
+      <answer correct="no">Für alle Koaxialkabel-Niederführungen sind entsprechend den Sicherheitsvorschriften Überspannungsableiter vorzusehen.</answer>
+      <answer correct="no">Neben der Erdung des Antennenmastes sind keine weiteren Maßnahmen erforderlich.</answer>
+      <answer correct="no">Die Koaxialkabel müssen das entsprechende Schirmungsmaß aufweisen und entsprechend isoliert sein.</answer>
+    </question>
+    

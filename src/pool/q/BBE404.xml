@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE404" name="B/BE404">
+      <text>
+        <p>Warum sollten bei Relaisfunkbetrieb die Durchgänge möglichst kurz gehalten werden?</p>
+      </text>
+      <answer correct="yes">Damit es besonders Mobilstationen leichter möglich ist, die Relaisfunkstelle zu nutzen</answer>
+      <answer correct="no">Um zeitweilig Simplex-Verkehr zu ermöglichen</answer>
+      <answer correct="no">Nach der Amateurfunkverordnung darf ein Durchgang höchstens 60 Sekunden betragen.</answer>
+      <answer correct="no">Die Sprachspeicher einer Relaisfunkstelle haben eine zeitlich begrenzte Kapazität.</answer>
+    </question>
+    

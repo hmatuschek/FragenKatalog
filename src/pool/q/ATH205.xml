@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH205" name="A/TH205">
+      <text>
+        <p>Welche Impedanz hat ein λ/2-Dipol unterhalb und oberhalb seiner Grundfrequenz?</p>
+      </text>
+      <answer correct="yes">Unterhalb der Grundfrequenz ist die Impedanz kapazitiv, oberhalb induktiv.</answer>
+      <answer correct="no">Unterhalb der Grundfrequenz ist die Impedanz induktiv, oberhalb kapazitiv.</answer>
+      <answer correct="no">Unterhalb der Grundfrequenz ist die Impedanz niedriger, oberhalb höher.</answer>
+      <answer correct="no">Unterhalb der Grundfrequenz ist die Impedanz höher, oberhalb niedriger.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ406" name="A/TJ406">
+      <text>
+        <p>Eine Antenne hat ein Stehwellenverhältnis (VSWR) von 3. Wie viel Prozent der vorlaufenden Leistung wird an der Stoßstelle Kabel- Antenne reflektiert?</p>
+      </text>
+      <answer correct="yes">25 %</answer>
+      <answer correct="no">33 %</answer>
+      <answer correct="no">50 %</answer>
+      <answer correct="no">75 %</answer>
+    </question>
+    

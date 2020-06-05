@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI107" name="V/VI107">
+      <text>
+        <p>Was versteht man nach der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV) unter dem "Anzeigeverfahren ortsfester Amateurfunkanlagen"?</p>
+      </text>
+      <answer correct="yes">Ein Verfahren, das es dem Funkamateur ermöglicht, eigenständig sicherzustellen und zu dokumentieren, dass von seiner ortsfesten Amateurfunkstelle keine Gefährdung für Personen ausgeht.</answer>
+      <answer correct="no">Ein Verfahren zur Berechnung des Abstandes zum nächstgelegenen Nachbarn.</answer>
+      <answer correct="no">Die Erklärung des Funkamateurs, dass er den Grenzwert von 10 Watt ERP einhält.</answer>
+      <answer correct="no">Die Erklärung des Funkamateurs, dass er den Grenzwert von 10 Watt EIRP einhält.</answer>
+    </question>
+    

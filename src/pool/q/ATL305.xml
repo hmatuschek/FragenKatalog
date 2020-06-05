@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL305" name="A/TL305">
+      <text>
+        <p>Welche der Antworten a bis d enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Energieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter?</p>
+      </text>
+      <answer correct="yes">grüngelb, braun, blau</answer>
+      <answer correct="no">braun, grüngelb, blau</answer>
+      <answer correct="no">grau, schwarz, rot</answer>
+      <answer correct="no">grüngelb, blau, braun oder schwarz</answer>
+    </question>
+    

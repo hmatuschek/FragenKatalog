@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG506" name="E/TG506">
+      <text>
+        <p>Welche Filtercharakteristik würde sich am besten für einen KW-Mehrband-Sender eignen?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETG506a" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG506b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG506c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG506d" />
+      </answer>
+    </question>
+    

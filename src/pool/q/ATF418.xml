@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF418" name="A/TF418">
+      <text>
+        <p>Ein Empfänger arbeitet mit einer End-ZF von 455 kHz. Welche BFO-Frequenz wäre beim CW-Empfang geeignet?</p>
+      </text>
+      <answer correct="yes">455,8 kHz.</answer>
+      <answer correct="no">465,7 kHz.</answer>
+      <answer correct="no">455 kHz.</answer>
+      <answer correct="no">10,7 MHz.</answer>
+    </question>
+    

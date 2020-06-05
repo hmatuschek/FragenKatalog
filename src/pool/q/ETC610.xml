@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC610" name="E/TC610">
+      <text>
+        <p>Wenn die Basisspannung eines NPN-Transistors gleich der Emitterspannung ist,</p>
+      </text>
+      <answer correct="yes">fließt kein Kollektorstrom.</answer>
+      <answer correct="no">fließt ein Kollektorstrom von etwa 0,6 A.</answer>
+      <answer correct="no">liegt der Kollektorstrom zwischen 10 mA und 2 A.</answer>
+      <answer correct="no">fließt ein sehr hoher Kollektor-Kurzschlussstrom.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ811" name="A/TJ811">
+      <text>
+        <p>Eine künstliche Antenne von 50 Ω verfügt über eine Anzapfung bei 5 Ω vom erdnahen Ende. Was könnte zur ungefähren Ermittlung der Senderausgangsleistung über diesen Messpunkt eingesetzt werden?</p>
+      </text>
+      <answer correct="yes">Digitalmultimeter mit HF-Tastkopf</answer>
+      <answer correct="no">Dipmeter mit Linkleitung</answer>
+      <answer correct="no">Stehwellenmessgerät ohne Abschlusswiderstand.</answer>
+      <answer correct="no">Künstliche 50-Ω-Antenne mit zusätzlichem HF-Dämpfungsglied</answer>
+    </question>
+    

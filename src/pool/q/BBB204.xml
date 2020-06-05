@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB204" name="B/BB204">
+      <text>
+        <p>Was bedeutet es, wenn Ihr Funkpartner meldet: "QRK 1"? Er meint damit, dass</p>
+      </text>
+      <answer correct="yes">die Verständlichkeit meiner Zeichen schlecht ist.</answer>
+      <answer correct="no">ich um 1 kHz Frequenzwechsel machen soll.</answer>
+      <answer correct="no">ich eine Minute warten soll.</answer>
+      <answer correct="no">er atmosphärische Störungen der Stärke 1 hat.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD118" name="V/VD118">
+      <text>
+        <p>Welche technischen Anforderungen stellt die Amateurfunkverordnung u. a. an eine Amateurfunksendeanlage?</p>
+      </text>
+      <answer correct="yes">Unerwünschte Aussendungen sind auf das geringst mögliche Maß zu beschränken.</answer>
+      <answer correct="no">Sofern SSB-Betrieb möglich ist, muss jederzeit zu Messzwecken auch eine Umschaltung auf die Betriebsart FM möglich sein.</answer>
+      <answer correct="no">Zur Reduzierung von Störungen darf das SWR nicht schlechter als 1:3 sein.</answer>
+      <answer correct="no">Die Frequenzschwankungen des Senders dürfen maximal 10 Hz betragen.</answer>
+    </question>
+    

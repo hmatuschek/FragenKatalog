@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB906" name="A/TB906">
+      <text>
+        <p>Die belegte Bandbreite einer Aussendung ist die Frequenzbandbreite,</p>
+      </text>
+      <answer correct="yes">bei der die unterhalb ihrer unteren und oberhalb ihrer oberen Frequenzgrenzen ausgesendeten mittleren Leistungen jeweils 0,5 % der gesamten mittleren Leistung einer gegebenen Aussendung betragen.</answer>
+      <answer correct="no">bei der die oberhalb ihrer unteren und unterhalb ihrer oberen Frequenzgrenzen ausgesendeten mittleren Leistungen jeweils 50 % der gesamten mittleren Leistung einer gegebenen Aussendung betragen.</answer>
+      <answer correct="no">bei der die oberhalb ihrer unteren und unterhalb ihrer oberen Frequenzgrenzen ausgesendeten mittleren Leistungen jeweils 10 % der gesamten mittleren Leistung einer gegebenen Aussendung betragen.</answer>
+      <answer correct="no">bei der die unterhalb ihrer unteren und oberhalb ihrer oberen Frequenzgrenzen ausgesendeten mittleren Leistungen jeweils 5 % der gesamten mittleren Leistung einer gegebenen Aussendung betragen.</answer>
+    </question>
+    

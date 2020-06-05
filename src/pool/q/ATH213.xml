@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH213" name="A/TH213">
+      <text>
+        <p>Die folgende Skizze zeigt das Horizontaldiagramm der relativen Feldstärke einer horizontalen Yagiantenne. Wie groß ist im vorliegenden Fall die Halbwertsbreite (Öffnungswinkel)?</p>
+        <img src="Ath212" />
+      </text>
+      <answer correct="yes">Etwa 55°.</answer>
+      <answer correct="no">Etwa 34°.</answer>
+      <answer correct="no">Etwa 69°.</answer>
+      <answer correct="no">Etwa 27°.</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG202" name="A/TG202">
+      <text>
+        <p>Welcher Frequenzgang ist am besten für den Mikrofonverstärker eines Sprechfunkgeräts geeignet?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg202a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg202b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg202c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg202d" />
+      </answer>
+    </question>
+    

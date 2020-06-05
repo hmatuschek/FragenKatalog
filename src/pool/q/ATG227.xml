@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG227" name="A/TG227">
+      <text>
+        <p>Welche Mischerschaltung unterdrückt am wirksamsten unerwünschte Mischprodukte und Frequenzen?</p>
+      </text>
+      <answer correct="yes">Ein balancierter Ringmischer</answer>
+      <answer correct="no">Ein stabilisierter Produktdetektor</answer>
+      <answer correct="no">Ein optimierter Transistormischer</answer>
+      <answer correct="no">Ein optimierter Diodenmischer</answer>
+    </question>
+    

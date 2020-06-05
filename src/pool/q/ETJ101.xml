@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ101" name="E/TJ101">
+      <text>
+        <p>Das Prinzip eines Drehspulmessgeräts beruht auf</p>
+      </text>
+      <answer correct="yes">der Wechselwirkung der Kräfte zwischen einem permanent magnetischen und einem elektromagnetischen Feld.</answer>
+      <answer correct="no">der Wechselwirkung der Kräfte zwischen einem magnetischen und einem elektrischen Feld.</answer>
+      <answer correct="no">der Wechselwirkung der Kräfte zwischen zwei permanent magnetischen Feldern.</answer>
+      <answer correct="no">dem erdmagnetischen Feld.</answer>
+    </question>
+    

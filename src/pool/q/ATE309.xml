@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE309" name="A/TE309">
+      <text>
+        <p>Beim Aussenden von Daten in der Betriebsart Packet-Radio muss nach dem Hochtasten des Senders eine gewisse Zeitspanne gewartet werden, bevor mit der Datenübertragung begonnen werden kann. Diese Zeitspanne hängt ab</p>
+      </text>
+      <answer correct="yes">vom Einschwingverhalten des Senders und der Zeit bis alle Geräte von Empfang auf Sendung durchgeschaltet haben.</answer>
+      <answer correct="no">vom Einschwingverhalten des Empfängers der Gegenstation und der Anzahl der Benutzer auf der verwendeten Frequenz.</answer>
+      <answer correct="no">von dem im Computer verwendeten Prozessortyp und dessen Taktgeschwindigkeit.</answer>
+      <answer correct="no">von der Zeit bis die Gegenstelle empfangsbereit ist und der Geschwindigkeit des eigenen Computers.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE101" name="A/TE101">
+      <text>
+        <p>Wie unterscheidet sich J3E von A3E in Bezug auf die benötigte Bandbreite?</p>
+      </text>
+      <answer correct="yes">Die Sendeart J3E beansprucht weniger als die halbe Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die Sendeart J3E beansprucht etwas mehr als die halbe Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die Sendeart J3E beansprucht etwa ¼ Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die unterschiedlichen Sendearten lassen keinen Vergleich zu, da sie grundverschieden erzeugt werden.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE329" name="A/TE329">
+      <text>
+        <p>Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschaltung abwechselnd in beide Richtungen gesendet werden kann?</p>
+      </text>
+      <answer correct="yes">Halbduplex</answer>
+      <answer correct="no">Simplex</answer>
+      <answer correct="no">Duplex</answer>
+      <answer correct="no">Vollduplex</answer>
+    </question>
+    

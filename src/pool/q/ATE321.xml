@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE321" name="A/TE321">
+      <text>
+        <p>Was ist ein wesentlicher Unterschied zwischen den Betriebsarten RTTY und PACTOR?</p>
+      </text>
+      <answer correct="yes">Pactor besitzt eine Fehlerkorrektur, RTTY nicht.</answer>
+      <answer correct="no">Pactor belegt eine größere Bandbreite als RTTY.</answer>
+      <answer correct="no">Pactor wird auf UKW, RTTY auf Kurzwelle verwendet.</answer>
+      <answer correct="no">Pactor ist ein digitales Verfahren, RTTY analog.</answer>
+    </question>
+    

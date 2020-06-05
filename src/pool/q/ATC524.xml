@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC524" name="A/TC524">
+      <text>
+        <p>Die Hauptfunktion einer Fotodiode ist</p>
+      </text>
+      <answer correct="yes">die Umwandlung von Licht in elektrischen Strom.</answer>
+      <answer correct="no">die Abgabe von Licht zur Signalanzeige.</answer>
+      <answer correct="no">die Entkopplung zweier Wechselstromkreise.</answer>
+      <answer correct="no">die Gewinnung von Wechselstrom aus Licht.</answer>
+    </question>
+    

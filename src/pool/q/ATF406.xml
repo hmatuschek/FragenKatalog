@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF406" name="A/TF406">
+      <text>
+        <p>Welcher der folgenden als Bandpass einsetzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?</p>
+      </text>
+      <answer correct="yes">Der Quarzkristall</answer>
+      <answer correct="no">Der LC-Bandpass</answer>
+      <answer correct="no">Der Keramikresonator</answer>
+      <answer correct="no">Der RC-Bandpass</answer>
+    </question>
+    

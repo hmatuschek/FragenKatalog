@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG104" name="E/TG104">
+      <text>
+        <p>Was bewirkt in der Regel eine zu hohe Mikrofonverstärkung bei einem SSB-Transceiver?</p>
+      </text>
+      <answer correct="yes">Splatter bei Stationen, die auf dem Nachbarkanal arbeiten.</answer>
+      <answer correct="no">Störungen von Stationen, die auf einem anderen Frequenzband arbeiten.</answer>
+      <answer correct="no">Störungen der Stromversorgung des Transceivers.</answer>
+      <answer correct="no">Störungen von Computern.</answer>
+    </question>
+    

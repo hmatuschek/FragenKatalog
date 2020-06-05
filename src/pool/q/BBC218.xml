@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC218" name="B/BC218">
+      <text>
+        <p>In welchen Bereichen des 2-m- und 70-cm-Bandes arbeiten Amateurfunksatelliten?</p>
+      </text>
+      <answer correct="yes">Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz</answer>
+      <answer correct="no">Im 2-m-Band auf 145,300-146,500 MHz, im 70-cm-Band auf 438,000-440,000 MHz</answer>
+      <answer correct="no">Im 2-m-Band auf 144,800-145,000 MHz, im 70-cm-Band auf 435,000-438,000 MHz</answer>
+      <answer correct="no">Im 2-m-Band auf 145,800-146,000 MHz, im 70-cm-Band auf 433,000-435,000 MHz</answer>
+    </question>
+    

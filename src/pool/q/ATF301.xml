@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF301" name="A/TF301">
+      <text>
+        <p>Wo liegt bei einem Direktüberlagerungsempfänger üblicherweise die Injektionsfrequenz des Mischers? Sie liegt</p>
+      </text>
+      <answer correct="yes">in nächster Nähe zur Empfangsfrequenz.</answer>
+      <answer correct="no">sehr weit über der Empfangsfrequenz.</answer>
+      <answer correct="no">sehr viel tiefer als die Empfangsfrequenz.</answer>
+      <answer correct="no">bei 9 MHz.</answer>
+    </question>
+    

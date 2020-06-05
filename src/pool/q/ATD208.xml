@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD208" name="A/TD208">
+      <text>
+        <p>
+          Welche Resonanzfrequenz f
+          <sub>res</sub>
+           hat die Reihenschaltung einer Spule von 100 μH mit einem Kondensator von 0,01 μF und einem Widerstand von 100 Ω?
+        </p>
+      </text>
+      <answer correct="yes">159,155 kHz</answer>
+      <answer correct="no">15,9155 kHz</answer>
+      <answer correct="no">1,59155 kHz</answer>
+      <answer correct="no">1591,55 kHz</answer>
+    </question>
+    

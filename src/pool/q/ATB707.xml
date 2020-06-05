@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB707" name="A/TB707">
+      <text>
+        <p>Die Leistung eines gleichmäßig über einen Frequenzbereich verteilten Rauschens ist</p>
+      </text>
+      <answer correct="yes">proportional zur Bandbreite.</answer>
+      <answer correct="no">umgekehrt proportional zur Empfängerempfindlichkeit.</answer>
+      <answer correct="no">proportional zum Signal-Rauschabstand.</answer>
+      <answer correct="no">umgekehrt proportional zum Eingangswiderstand.</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG513" name="A/TG513">
+      <text>
+        <p>Welche Schaltung wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg513a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg513b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg513c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg513d" />
+      </answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC207" name="A/TC207">
+      <text>
+        <p>Was versteht man unter dem Blindwiderstand eines Kondensators und von welchen physikalischen Größen hängt er ab?</p>
+      </text>
+      <answer correct="yes">Der Blindwiderstand ist der mit negativem Vorzeichen versehene Wechselstromwiderstand eines Kondensators. Er ist abhängig von der Kapazität des Kondensators und der anliegenden Frequenz. Im Blindwiderstand entstehen keine Wärmeverluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der Gleichstromwiderstand eines Kondensators. Er ist abhängig vom Isolationsmaterial des Kondensators und der anliegenden Spannung. Auch im Blindwiderstand entstehen Wärmeverluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der Wechselstromwiderstand eines Kondensators. Er ist abhängig von der Blindkapazität des Kondensators und der anliegenden Spannung. Im Blindwiderstand entstehen hohe Verluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der HF-Gleichstromwiderstand eines Kondensators. Er wird mit steigender Kapazität sowie bei erhöhtem Wechselstromanteil und steigender Frequenz größer. Je höher die Frequenz umso eher wandern die Ladungen an die Plattenränder (Skin-Effekt).</answer>
+    </question>
+    

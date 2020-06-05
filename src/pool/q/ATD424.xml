@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD424" name="A/TD424">
+      <text>
+        <p>Ein HF-Leistungsverstärker im C-Betrieb wird mit einer Anodenspannung von 800 V und einem Anodenstrom von 130 mA betrieben. Wie hoch ist die zu erwartende Ausgangsleistung des Verstärkers?</p>
+      </text>
+      <answer correct="yes">≈ 80 Watt</answer>
+      <answer correct="no">≈ 100 Watt</answer>
+      <answer correct="no">≈ 60 Watt</answer>
+      <answer correct="no">≈ 40 Watt</answer>
+    </question>
+    

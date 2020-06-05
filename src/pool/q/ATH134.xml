@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH134" name="A/TH134">
+      <text>
+        <p>Wenn man diese Mehrband-Antenne auf 3,5 MHz erregt, dann wirken die LC-Resonanzkreise</p>
+        <img src="Ath133" />
+      </text>
+      <answer correct="yes">wie eine induktive Verlängerung des Strahlers.</answer>
+      <answer correct="no">als Sperrkreise für die Erregerfrequenz.</answer>
+      <answer correct="no">wie eine kapazitive Verkürzung des Strahlers.</answer>
+      <answer correct="no">wie eine Vergrößerung des Strahlungswiderstands der Antenne.</answer>
+    </question>
+    

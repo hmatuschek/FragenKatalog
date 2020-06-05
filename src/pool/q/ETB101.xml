@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB101" name="E/TB101">
+      <text>
+        <p>Welche Gruppe enthält insgesamt die besten gut leitenden Metalle?</p>
+      </text>
+      <answer correct="yes">Silber, Kupfer, Aluminium</answer>
+      <answer correct="no">Silber, Kupfer, Blei</answer>
+      <answer correct="no">Kupfer, Eisen, Zinn</answer>
+      <answer correct="no">Aluminium, Kupfer, Quecksilber</answer>
+    </question>
+    

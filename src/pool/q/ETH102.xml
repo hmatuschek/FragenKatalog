@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH102" name="E/TH102">
+      <text>
+        <p>
+          Welche Antennenformen werden im VHF-UHF-Bereich bei den Funkamateuren in der Regel
+          <u>nicht</u>
+           verwendet?
+        </p>
+      </text>
+      <answer correct="yes">Langdraht-Antennen</answer>
+      <answer correct="no">Yagi-Antennen</answer>
+      <answer correct="no">Quad-Antennen</answer>
+      <answer correct="no">Groundplane-Antennen</answer>
+    </question>
+    

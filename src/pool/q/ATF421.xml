@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF421" name="A/TF421">
+      <text>
+        <p>Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal entspricht dem</p>
+      </text>
+      <answer correct="yes">zweifachen der ersten ZF.</answer>
+      <answer correct="no">zweifachen des HF-Nutzsignals.</answer>
+      <answer correct="no">dreifachen der dritten ZF.</answer>
+      <answer correct="no">HF-Nutzsignal plus der ersten ZF.</answer>
+    </question>
+    

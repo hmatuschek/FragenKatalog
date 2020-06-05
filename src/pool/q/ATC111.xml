@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC111" name="A/TC111">
+      <text>
+        <p>Ein Oszilloskop zeigt einen sinusförmigen Spitze-Spitze-Wert von 25 V an einem 1000-Ω-Widerstand an. Der Effektivstrom durch den Widerstand beträgt</p>
+      </text>
+      <answer correct="yes">8,8 mA.</answer>
+      <answer correct="no">12,5 mA.</answer>
+      <answer correct="no">25 mA.</answer>
+      <answer correct="no">40 A.</answer>
+    </question>
+    

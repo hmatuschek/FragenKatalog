@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE303" name="E/TE303">
+      <text>
+        <p>Welche NF-Zwischenträgerfrequenzen werden in der Regel in Packet Radio bei 1200 Baud benutzt?</p>
+      </text>
+      <answer correct="yes">1200 / 2200 Hz</answer>
+      <answer correct="no">850 / 1200 kHz</answer>
+      <answer correct="no">500 / 1750 Hz</answer>
+      <answer correct="no">300 / 2700 Hz</answer>
+    </question>
+    

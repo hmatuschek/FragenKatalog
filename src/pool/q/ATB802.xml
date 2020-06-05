@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB802" name="A/TB802">
+      <text>
+        <p>Ein Träger von 7,05 MHz wird mit der NF-Frequenz von 2 kHz in SSB (LSB) moduliert. Welche Frequenzen treten im modulierten HF-Signal auf?</p>
+      </text>
+      <answer correct="yes">7,048 MHz</answer>
+      <answer correct="no">7,050 MHz</answer>
+      <answer correct="no">7,052 MHz</answer>
+      <answer correct="no">7,048 MHz und 7,052 MHz</answer>
+    </question>
+    

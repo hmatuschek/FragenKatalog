@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB303" name="A/TB303">
+      <text>
+        <p>Die elektrische Feldstärke um einen einzelnen Leiter ist proportional</p>
+      </text>
+      <answer correct="yes">zur Spannung am Leiter.</answer>
+      <answer correct="no">zum Strom durch den Leiter.</answer>
+      <answer correct="no">zum Querschnitt des Leiters.</answer>
+      <answer correct="no">zur Länge des Leiters.</answer>
+    </question>
+    

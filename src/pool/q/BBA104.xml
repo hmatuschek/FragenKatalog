@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA104" name="B/BA104">
+      <text>
+        <p>Wie ist das Rufzeichen DO9XYZ unter Zuhilfenahme des Internationalen Buchstabieralphabetes richtig buchstabiert?</p>
+      </text>
+      <answer correct="yes">Delta Oscar 9 X-Ray Yankee Zulu</answer>
+      <answer correct="no">Dora Otto 9 Xantippe Ypsilon Zeppelin</answer>
+      <answer correct="no">Delta Oscar 9 X-Ray Yankee Zansibar</answer>
+      <answer correct="no">Denmark Ontario 9 Xylophon Yokohama Zansibar</answer>
+    </question>
+    

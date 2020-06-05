@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB803" name="A/TB803">
+      <text>
+        <p>Ein Träger von 145 MHz wird mit der NF-Frequenz von 2 kHz und einem Hub von 1,8 kHz frequenzmoduliert. Welche Bandbreite hat das modulierte Signal?</p>
+      </text>
+      <answer correct="yes">Die Bandbreite beträgt ungefähr 7,6 kHz</answer>
+      <answer correct="no">Die Bandbreite beträgt ungefähr 3,8 kHz</answer>
+      <answer correct="no">Die Bandbreite beträgt ungefähr 5,8 kHz</answer>
+      <answer correct="no">Die Bandbreite beträgt ungefähr 12 kHz</answer>
+    </question>
+    

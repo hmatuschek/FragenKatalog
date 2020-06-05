@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL203" name="E/TL203">
+      <text>
+        <p>Was versteht man unter dem Begriff "EIRP"?</p>
+      </text>
+      <answer correct="yes">Es ist das Produkt aus der zugeführten Leistung und dem Gewinnfaktor der Antenne und stellt die Leistung dar, die man einem isotropen Strahler zuführen müsste, damit dieser im Fernfeld dieselbe elektrische Feldstärke erzeugte, wie die Antenne.</answer>
+      <answer correct="no">Es ist die Eingangsleistung des verwendeten Senders wie sie in der EMVU-Selbsterklärung anzugeben ist.</answer>
+      <answer correct="no">Es handelt sich um die Leistung, die man im Maximum der Strahlungskeule einer Dipolantenne vorfindet.</answer>
+      <answer correct="no">Es ist das Produkt aus der zugeführten Leistung und dem Antennengewinnfaktor und stellt die durchschnittliche isotrope Spitzenleistung am Senderausgang der Amateurfunkstelle dar, wie sie in der EMVU-Selbsterklärung anzugeben ist.</answer>
+    </question>
+    

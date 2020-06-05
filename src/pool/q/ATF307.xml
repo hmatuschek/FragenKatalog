@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF307" name="A/TF307">
+      <text>
+        <p>
+          Ein Doppelsuper hat eine erste ZF (ZF
+          <sub>1</sub>
+          ) von 10,7 MHz und eine zweite ZF (ZF
+          <sub>2</sub>
+          ) von 450 kHz. Die Empfangsfrequenz soll 28 MHz sein. Die Oszillatoren sollen oberhalb des Nutzsignals schwingen. Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb des Mischer-Eingangssignals schwingen sollen?
+        </p>
+      </text>
+      <answer correct="yes">
+        1. Oszillatorfrequenz: fo
+        <sub>1</sub>
+         = 38,7 MHz
+        <br />
+        2. Oszillatorfrequenz: fo
+        <sub>2</sub>
+         = 11,15 MHz
+      </answer>
+      <answer correct="no">
+        1. Oszillatorfrequenz: fo
+        <sub>1</sub>
+         = 38,7 MHz
+        <br />
+        2. Oszillatorfrequenz: fo
+        <sub>2</sub>
+         = 39,15 MHz
+      </answer>
+      <answer correct="no">
+        1. Oszillatorfrequenz: fo
+        <sub>1</sub>
+         = 11,15 MHz
+        <br />
+        2. Oszillatorfrequenz: fo
+        <sub>2</sub>
+         = 38,7 MHz
+      </answer>
+      <answer correct="no">
+        1. Oszillatorfrequenz: fo
+        <sub>1</sub>
+         = 28,45 MHz
+        <br />
+        2. Oszillatorfrequenz: fo
+        <sub>2</sub>
+         = 17,75 MHz
+      </answer>
+    </question>
+    

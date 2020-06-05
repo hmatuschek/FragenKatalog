@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF439" name="A/TF439">
+      <text>
+        <p>Ein Empfänger liefert bei einem Eingangssignal von 0,25 μV ein Ausgangssignal mit einem Signal-Geräuschabstand von 10 dB. Wie kann diese Eigenschaft angegeben werden?</p>
+      </text>
+      <answer correct="yes">Durch die Empfindlichkeitsangabe 0,25 μV für S/N=10 dB</answer>
+      <answer correct="no">Durch die Grenzempfindlichkeit von 0,25 μV bei 10 dB Rauschen</answer>
+      <answer correct="no">Durch die Rauschzahl F = 10 für 0,25 μV</answer>
+      <answer correct="no">
+        Durch den Interception Point IP
+        <sub>3</sub>
+         = 10 bei 0,25 μV
+      </answer>
+    </question>
+    

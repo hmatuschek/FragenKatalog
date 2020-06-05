@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH331" name="A/TH331">
+      <text>
+        <p>Am Eingang einer Antennenleitung, deren Dämpfung mit 3 dB berechnet wurde, werden 10 Watt HF-Leistung eingespeist. Mit der am Leitungsende angeschlossenen Antenne misst man am Leitungseingang ein VSWR von 3. Mit einer künstlichen 50-Ω-Antenne am Leitungsende beträgt das VSWR am Leitungseingang etwa 1. Was lässt sich aus diesen Messergebnissen schließen?</p>
+      </text>
+      <answer correct="yes">Die Antenne ist fehlerhaft. Sie strahlt so gut wie keine HF-Leistung ab.</answer>
+      <answer correct="no">Die Antennenleitung ist fehlerhaft, an der Antenne kommt so gut wie keine HF-Leistung an.</answer>
+      <answer correct="no">Die Antennenanlage ist in Ordnung. Es werden etwa 5 Watt HF-Leistung abgestrahlt.</answer>
+      <answer correct="no">Die Antennenanlage ist in Ordnung. Es werden etwa 3,75 Watt HF-Leistung abgestrahlt.</answer>
+    </question>
+    

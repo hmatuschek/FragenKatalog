@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ501" name="A/TJ501">
+      <text>
+        <p>Um die Skalenendwerte einer Sende-/Empfangsanlage mit VFO mit hinreichender Genauigkeit zu überprüfen, kann man</p>
+      </text>
+      <answer correct="yes">einen Frequenzzähler verwenden.</answer>
+      <answer correct="no">ein Dipmeter verwenden.</answer>
+      <answer correct="no">einen Absorptionsfrequenzmesser verwenden.</answer>
+      <answer correct="no">ein Oszilloskop verwenden.</answer>
+    </question>
+    

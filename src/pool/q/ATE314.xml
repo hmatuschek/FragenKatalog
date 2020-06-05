@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE314" name="A/TE314">
+      <text>
+        <p>Eine Packet-Radio-Mailbox ist</p>
+      </text>
+      <answer correct="yes">ein Rechnersystem bei dem Texte und Daten über Funk eingespeichert und abgerufen werden können.</answer>
+      <answer correct="no">die Softwaresteuerung einer automatischen Funkstelle.</answer>
+      <answer correct="no">eine fernbedient oder automatisch arbeitende Funkstelle die Internetnachrichten zwischenspeichert.</answer>
+      <answer correct="no">eine Zusatzeinrichtung die E-Mails umwandelt und anschließend zwischenspeichert.</answer>
+    </question>
+    

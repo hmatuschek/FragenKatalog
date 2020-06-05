@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG508" name="A/TG508">
+      <text>
+        <p>Mit welcher Arbeitspunkteinstellung darf die Endstufe eines Einseitenbandsenders im SSB-Betrieb nicht arbeiten, um Verzerrungen (Harmonische und Intermodulationsprodukte), die zu unerwünschten Ausstrahlungen führen, zu vermeiden?</p>
+      </text>
+      <answer correct="yes">Im C-Betrieb</answer>
+      <answer correct="no">Im A-Betrieb</answer>
+      <answer correct="no">Im B-Betrieb</answer>
+      <answer correct="no">Im AB-Betrieb</answer>
+    </question>
+    

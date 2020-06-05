@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB904" name="E/TB904">
+      <text>
+        <p>Welcher Widerstand ist erforderlich um einen Strom von 3 A bei einer Spannung von 90 Volt fließen zu lassen?</p>
+      </text>
+      <answer correct="yes">30 Ω</answer>
+      <answer correct="no">1/30 Ω</answer>
+      <answer correct="no">270 Ω</answer>
+      <answer correct="no">93 Ω</answer>
+    </question>
+    

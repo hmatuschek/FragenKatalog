@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB916" name="A/TB916">
+      <text>
+        <p>Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt</p>
+      </text>
+      <answer correct="yes">200 W.</answer>
+      <answer correct="no">141 W.</answer>
+      <answer correct="no">100 W.</answer>
+      <answer correct="no">283 W.</answer>
+    </question>
+    

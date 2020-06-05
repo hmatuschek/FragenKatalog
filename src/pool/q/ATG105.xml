@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG105" name="A/TG105">
+      <text>
+        <p>Welche Schaltungen sind bei den Stufen A und B des dargestellten Senders erforderlich?</p>
+        <img src="Atg105" />
+      </text>
+      <answer correct="yes">Je ein Frequenzverdreifacher</answer>
+      <answer correct="no">Ein Frequenzverdreifacher und ein Frequenzverdoppler</answer>
+      <answer correct="no">Ein Frequenzvervierfacher und ein Frequenzverdoppler</answer>
+      <answer correct="no">Ein Oberwellenmischer und eine Treiberstufe</answer>
+    </question>
+    

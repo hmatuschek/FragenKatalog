@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA404" name="V/VA404">
+      <text>
+        <p>Weshalb wird in den Radio Regulations (VO Funk) die Erde in verschiedene Funkregionen eingeteilt?</p>
+      </text>
+      <answer correct="yes">Um in den Regionen unterschiedliche Frequenzbereichszuweisungen für die Funkdienste vornehmen zu können.</answer>
+      <answer correct="no">Weil der Amateurfunkverkehr nur innerhalb einer Region zulässig ist.</answer>
+      <answer correct="no">Um für die einzelnen Funkregionen regional gültige Regelungen für Gastlizenzen einführen zu können.</answer>
+      <answer correct="no">Weil die Ausbreitungsbedingungen in den verschiedenen Regionen der Erde unterschiedlich sind und dadurch unterschiedliche Senderleistungen zugestanden werden müssen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ202" name="A/TJ202">
+      <text>
+        <p>Das Drehspulmesswerk eines Dipmeters</p>
+      </text>
+      <answer correct="yes">liefert eine Aussage über die Schwingkreisamplitude im Oszillator.</answer>
+      <answer correct="no">zeigt die von der Oszillatorspule abgestrahlte Leistung in mW an.</answer>
+      <answer correct="no">zeigt die ungefähre Frequenz des Oszillators an.</answer>
+      <answer correct="no">liefert eine Aussage über den Spitzenwert des Modulationsgrades.</answer>
+    </question>
+    

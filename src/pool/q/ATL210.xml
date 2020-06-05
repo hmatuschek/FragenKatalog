@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL210" name="A/TL210">
+      <text>
+        <p>Sie errechnen einen Sicherheitsabstand für Ihre Antenne. Von welchem Punkt aus muss dieser Sicherheitsabstand eingehalten werden, wenn Sie bei der Berechnung die Fernfeldnäherung verwendet haben? Er muss eingehalten werden</p>
+      </text>
+      <answer correct="yes">von jedem Punkt der Antenne.</answer>
+      <answer correct="no">vom Einspeisepunkt der Antenne.</answer>
+      <answer correct="no">von der Mitte der Antenne, d.h. dort, wo sie am Mast befestigt ist.</answer>
+      <answer correct="no">vom untersten Punkt der Antenne.</answer>
+    </question>
+    

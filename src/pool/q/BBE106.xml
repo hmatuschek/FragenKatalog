@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE106" name="B/BE106">
+      <text>
+        <p>Wie gestalten Sie Ihren allgemeinen Anruf in Telefonie, wenn Sie eine Verbindung mit einer australischen Amateurfunkstelle suchen?</p>
+      </text>
+      <answer correct="yes">CQ Australia this is DL7RBI calling (etwa 3mal wiederholen) and DL7RBI is listening (internationales Buchstabieralphabet beim Rufzeichen benutzen).</answer>
+      <answer correct="no">CQ Australien hier ist DL7RBI (etwa 3mal wiederholen) and DL7RBI is listed (internationales Buchstabieralphabet beim Rufzeichen benutzen).</answer>
+      <answer correct="no">Australia, Australia, Australia (etwa 3mal wiederholen) here is DL7RBI listening (internationales Buchstabieralphabet beim Rufzeichen benutzen).</answer>
+      <answer correct="no">CQ this is DL7RBI Australia calling (etwa 3mal wiederholen) and DL7RBI is listening to Australia (internationales Buchstabieralphabet beim Rufzeichen benutzen).</answer>
+    </question>
+    

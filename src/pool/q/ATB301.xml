@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB301" name="A/TB301">
+      <text>
+        <p>An den Metallbelägen eines Wickelkondensators mit 0,15 mm starkem Kunststoff-Dielektrikum liegt eine Spannung von 300 V. Wie hoch ist die elektrische Feldstärke zwischen den Metallbelägen?</p>
+        <img src="Atb301" />
+      </text>
+      <answer correct="yes">2000 kV/m</answer>
+      <answer correct="no">200 V/m</answer>
+      <answer correct="no">2000 V/m</answer>
+      <answer correct="no">200 kV/m</answer>
+    </question>
+    

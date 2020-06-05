@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB202" name="B/BB202">
+      <text>
+        <p>Sollen Sie im Sprechfunkverkehr Abkürzungen aus den Q-Gruppen oder aus den anderen Abkürzungen im Funkverkehr verwenden?</p>
+      </text>
+      <answer correct="yes">Nein, weil die Abkürzungen für den Telegrafiefunkverkehr vorgesehen sind.</answer>
+      <answer correct="no">Ja, weil die Abkürzungen die Abwicklung des Funkverkehrs beschleunigen.</answer>
+      <answer correct="no">Ja, weil die Abkürzungen bei deutschsprachigen Funkverbindungen erlaubt sind.</answer>
+      <answer correct="no">Ja, weil die Abkürzungen die Besonderheit der Sprache im Funkverkehr kennzeichnet.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD317" name="A/TD317">
+      <text>
+        <p>Welche Funktion hat der Block E bei einem Schaltnetzteil?</p>
+        <img src="Atd317" />
+      </text>
+      <answer correct="yes">Es ist ein elektronischer Schalter zur Pulsweitensteuerung.</answer>
+      <answer correct="no">Er soll bei Überspannung den Transformator schützen.</answer>
+      <answer correct="no">Er wandelt die Wechselspannung in Gleichspannung um.</answer>
+      <answer correct="no">Er dient als Puls-Gleichrichter in dieser Schaltung.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB306" name="A/TB306">
+      <text>
+        <p>Wie werden die mit X gekennzeichneten Feldlinien einer Vertikalantenne bezeichnet?</p>
+        <img src="Atb306" />
+      </text>
+      <answer correct="yes">Elektrische Feldlinien</answer>
+      <answer correct="no">Magnetische Feldlinien</answer>
+      <answer correct="no">Polarisierte Feldlinien</answer>
+      <answer correct="no">Horizontale Feldlinien</answer>
+    </question>
+    

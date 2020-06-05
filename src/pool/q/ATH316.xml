@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH316" name="A/TH316">
+      <text>
+        <p>
+          Eine offene Paralleldrahtleitung ist aus Draht mit einem Durchmesser d = 2 mm gefertigt. Der Abstand der parallelen Leiter beträgt a = 20 cm. Wie groß ist der Wellenwiderstand Z
+          <sub>0</sub>
+           der Leitung?
+        </p>
+      </text>
+      <answer correct="yes">ca. 635 Ω</answer>
+      <answer correct="no">ca. 276 Ω</answer>
+      <answer correct="no">ca. 2,8 kΩ</answer>
+      <answer correct="no">ca. 820 Ω</answer>
+    </question>
+    

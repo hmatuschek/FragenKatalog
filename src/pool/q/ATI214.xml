@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI214" name="A/TI214">
+      <text>
+        <p>Ein plötzlicher Anstieg der Intensitäten von UV- und Röntgenstrahlung nach einem Flare (Energieausbruch der Sonne) führt zu erhöhter Ionisierung der D-Schicht und damit zu kurzzeitigem Totalausfall der ionosphärischen Kurzwellenausbreitung. Diese Erscheinung wird auch als</p>
+      </text>
+      <answer correct="yes">Mögel-Dellinger-Effekt bezeichnet.</answer>
+      <answer correct="no">sporadische E-Ausbreitung bezeichnet.</answer>
+      <answer correct="no">kritischer Schwund bezeichnet.</answer>
+      <answer correct="no">Aurora-Effekt bezeichnet.</answer>
+    </question>
+    

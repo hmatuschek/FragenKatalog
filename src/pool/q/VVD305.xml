@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD305" name="V/VD305">
+      <text>
+        <p>Nicht-Funkamateure dürfen am Ausbildungsfunkbetrieb</p>
+      </text>
+      <answer correct="yes">nur unter unmittelbarer Anleitung und Aufsicht eines Funkamateurs mit zugeteiltem Ausbildungsrufzeichen teilnehmen.</answer>
+      <answer correct="no">nur an Klubstationen unter Aufsicht eines Funkamateurs teilnehmen.</answer>
+      <answer correct="no">ohne besondere Auflagen teilnehmen.</answer>
+      <answer correct="no">jederzeit unter Verwendung des persönlichen Rufzeichens des ausbildenden Funkamateurs teilnehmen.</answer>
+    </question>
+    

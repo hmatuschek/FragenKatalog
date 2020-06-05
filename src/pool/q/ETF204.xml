@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF204" name="E/TF204">
+      <text>
+        <p>
+          Ein Doppelsuper hat eine erste ZF von 10,7 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 28 MHz sein.
+          <br />
+          Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen?
+        </p>
+        <img src="ETF204" />
+      </text>
+      <answer correct="yes">Der VFO muss bei 38,70 MHz und der CO bei 11,16 MHz schwingen.</answer>
+      <answer correct="no">Der VFO muss bei 10,26 MHz und der CO bei 17,30 MHz schwingen.</answer>
+      <answer correct="no">Der VFO muss bei 11,16 MHz und der CO bei 38,70 MHz schwingen.</answer>
+      <answer correct="no">Der VFO muss bei 28,460 MHz und der CO bei 38,26 MHz schwingen.</answer>
+    </question>
+    

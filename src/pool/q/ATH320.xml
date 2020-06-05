@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH320" name="A/TH320">
+      <text>
+        <p>Der Verkürzungsfaktor eines Koaxialkabels mit einem Dielektrikum aus massivem Polyäthylen beträgt ungefähr</p>
+      </text>
+      <answer correct="yes">0,66.</answer>
+      <answer correct="no">0,1.</answer>
+      <answer correct="no">0,8.</answer>
+      <answer correct="no">1,0.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD505" name="A/TD505">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atd505" />
+      </text>
+      <answer correct="yes">Flanken-Diskriminator zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Produktdetektor zur Demodulation von SSB-Signalen.</answer>
+      <answer correct="no">Ratiodetektor zur Demodulation von FM-Signalen.</answer>
+      <answer correct="no">Synchrondemodulator zur Demodulation von AM-Signalen.</answer>
+    </question>
+    

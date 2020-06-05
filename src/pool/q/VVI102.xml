@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI102" name="V/VI102">
+      <text>
+        <p>Was müssen Zulassungsinhaber in Bezug auf den Personenschutz einhalten?</p>
+      </text>
+      <answer correct="yes">Die Personenschutzgrenzwerte.</answer>
+      <answer correct="no">Nichts.</answer>
+      <answer correct="no">Eine Strahlungsleistung von kleiner 10 Watt EIRP.</answer>
+      <answer correct="no">Die EMV-Schutzanforderungen für Funkgeräte.</answer>
+    </question>
+    

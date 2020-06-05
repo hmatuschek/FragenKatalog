@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB605" name="E/TB605">
+      <text>
+        <p>Eine Wellenlänge von 80,0 m entspricht einer Frequenz von</p>
+      </text>
+      <answer correct="yes">3,75 MHz</answer>
+      <answer correct="no">3,65 MHz</answer>
+      <answer correct="no">3,56 MHz</answer>
+      <answer correct="no">3,57 MHz</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB612" name="A/TB612">
+      <text>
+        <p>Die Phasendifferenz zwischen den beiden in der Abbildung dargestellten Sinussignalen beträgt</p>
+        <img src="Atb612" />
+      </text>
+      <answer correct="yes">45°.</answer>
+      <answer correct="no">0°.</answer>
+      <answer correct="no">90°.</answer>
+      <answer correct="no">180°.</answer>
+    </question>
+    

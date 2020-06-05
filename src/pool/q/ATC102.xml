@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC102" name="A/TC102">
+      <text>
+        <p>Metallschichtwiderstände</p>
+      </text>
+      <answer correct="yes">haben geringe Fertigungstoleranzen und Temperaturabhängigkeit und sind besonders als Präzisionswiderstände geeignet.</answer>
+      <answer correct="no">sind induktionsarm und eignen sich besonders für den Einsatz bei sehr hohen Frequenzen.</answer>
+      <answer correct="no">sind besonders als Hochlastwiderstände bei niedrigen Frequenzen geeignet.</answer>
+      <answer correct="no">haben einen extrem stark negativen Temperaturkoeffizienten und sind besonders als NTC-Widerstände (Heißleiter) geeignet.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC209" name="A/TC209">
+      <text>
+        <p>Entsteht in einem Wechselstrom durchflossenen Kondensator eine Verlustleistung?</p>
+      </text>
+      <answer correct="yes">Ja, infolge von Verlusten im Dielektrikum, die aber meist vernachlässigbar klein sind.</answer>
+      <answer correct="no">Nein, beim Kondensator handelt es sich immer nur um eine reine Blindleistung.</answer>
+      <answer correct="no">Ja, aber nur dann, wenn Luft als Dielektrikum verwendet wird.</answer>
+      <answer correct="no">Ja, genau wie bei Gleichstrom entsprechend den Formeln für Strom, Spannung und Leistung.</answer>
+    </question>
+    

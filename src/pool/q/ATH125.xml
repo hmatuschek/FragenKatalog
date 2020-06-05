@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH125" name="A/TH125">
+      <text>
+        <p>Welche Antennenart ist hier dargestellt?</p>
+        <img src="Ath125" />
+      </text>
+      <answer correct="yes">Langdrahtantenne</answer>
+      <answer correct="no">Koaxialgespeiste Doppel-Windom-Antenne</answer>
+      <answer correct="no">Dipolantenne</answer>
+      <answer correct="no">Groundplane-Antenne</answer>
+    </question>
+    

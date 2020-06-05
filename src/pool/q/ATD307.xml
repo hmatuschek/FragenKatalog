@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD307" name="A/TD307">
+      <text>
+        <p>Eine Hochspannungs-Stromversorgung ist mit mehreren in Reihe geschalteten Gleichrichterdioden ausgestattet. Welches Bauelement sollte zu jeder Diode wie zugeschaltet sein?</p>
+      </text>
+      <answer correct="yes">Parallelgeschalteter Widerstand</answer>
+      <answer correct="no">In Reihe geschalteter Widerstand</answer>
+      <answer correct="no">Parallelgeschaltete zweite Diode</answer>
+      <answer correct="no">Parallelgeschaltete Spule</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI311" name="A/TI311">
+      <text>
+        <p>In welcher ionosphärischen Schicht treten Aurora-Erscheinungen auf? Sie treten auf in der</p>
+      </text>
+      <answer correct="yes">E-Schicht.</answer>
+      <answer correct="no">F-Schicht.</answer>
+      <answer correct="no">E-Schicht in Äquatornähe.</answer>
+      <answer correct="no">D-Schicht.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ201" name="A/TJ201">
+      <text>
+        <p>Ein Dipmeter ist beispielsweise</p>
+      </text>
+      <answer correct="yes">ein abstimmbarer Oszillator mit Drehspulmesswerk, das anzeigt, wenn dem Oszillator durch einen angekoppelten Schwingkreis bei einer Frequenz Energie entzogen oder zugeführt wird.</answer>
+      <answer correct="no">ein selektiver Feldstärkemesser, der den Maximalwert der elektrischen Feldstärke anzeigt und der zur Überprüfung der Nutzsignal- und Nebenwellenabstrahlungen eingesetzt werden kann.</answer>
+      <answer correct="no">eine abgleichbare Stehwellenmessbrücke, mit der der Reflexionsfaktor und der Impedanzverlauf einer angeschlossenen Antenne oder einer LC-Kombination gemessen werden kann.</answer>
+      <answer correct="no">ein auf eine feste Frequenz eingestellter RC-Schwingkreis mit einem Indikator, der anzeigt, wie stark die Abstrahlung unerwünschter Oberwellen ist.</answer>
+    </question>
+    

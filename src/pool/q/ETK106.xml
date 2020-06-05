@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK106" name="E/TK106">
+      <text>
+        <p>In welchem Fall spricht man von Einstrahlungen bei EMV? Einstrahlungen liegen dann vor, wenn die HF</p>
+      </text>
+      <answer correct="yes">über das ungenügend abgeschirmte Gehäuse in die Elektronik gelangt.</answer>
+      <answer correct="no">über Leitungen oder Kabel in das gestörte Gerät gelangt.</answer>
+      <answer correct="no">über nicht genügend geschirmte Kabel zum gestörten Empfänger gelangt.</answer>
+      <answer correct="no">wegen eines schlechten Stehwellenverhältnisses wieder zum Sender zurück strahlt.</answer>
+    </question>
+    

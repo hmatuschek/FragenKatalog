@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD310" name="A/TD310">
+      <text>
+        <p>
+          Welche Beziehung muss zwischen der Eingangspannung und der Ausgangsspannung der folgenden Schaltung bestehen, damit der Spannungsregler Q
+          <sub>1</sub>
+           seine Funktion erfüllen kann?
+        </p>
+        <img src="Atd310" />
+      </text>
+      <answer correct="yes">Die Eingangsspannung muss deutlich größer als die gewünschte Ausgangsspannung sein (ca. 15%), damit die Ausgangsspannung stabil bleibt.</answer>
+      <answer correct="no">Die Eingangsspannung muss gleich der gewünschten Ausgangsspannung sein, damit eine maximale Stromentnahme am Ausgang erfolgen kann.</answer>
+      <answer correct="no">Die Eingangsspannung muss mindestens doppelt so groß wie die gewünschte Ausgangsspannung sein, damit die Restwelligkeit der Eingangsspannung auf ein Minimum gehalten werden kann.</answer>
+      <answer correct="no">Die Eingangsspannung muss gleich der gewünschten Ausgangsspannung sein, damit eine maximale Unterdrückung der Restwelligkeit der Eingangsspannung am Ausgang eintritt.</answer>
+    </question>
+    

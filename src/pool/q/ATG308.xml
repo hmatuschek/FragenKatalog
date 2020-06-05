@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG308" name="A/TG308">
+      <text>
+        <p>Bei einer Senderausgangsimpedanz von 240 Ω sollte für eine optimale Leistungsübertragung die Last</p>
+      </text>
+      <answer correct="yes">240 Ω betragen.</answer>
+      <answer correct="no">60 Ω betragen.</answer>
+      <answer correct="no">120 Ω betragen.</answer>
+      <answer correct="no">50 Ω betragen.</answer>
+    </question>
+    

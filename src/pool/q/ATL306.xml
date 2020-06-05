@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL306" name="A/TL306">
+      <text>
+        <p>Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich</p>
+      </text>
+      <answer correct="yes">die Anweisungen des Kfz-Herstellers zu beachten.</answer>
+      <answer correct="no">die Bedingungen der Bundesnetzagentur für den Einbau mobiler Sendeanlagen einzuhalten.</answer>
+      <answer correct="no">die Ratschläge des Kfz-Händlers einzuhalten.</answer>
+      <answer correct="no">die Anweisungen des Amateurfunkgeräte-Herstellers zu beachten.</answer>
+    </question>
+    

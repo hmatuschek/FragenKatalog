@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI312" name="A/TI312">
+      <text>
+        <p>Welche Betriebsart eignet sich am besten für Auroraverbindungen?</p>
+      </text>
+      <answer correct="yes">CW</answer>
+      <answer correct="no">SSB</answer>
+      <answer correct="no">FM</answer>
+      <answer correct="no">RTTY</answer>
+    </question>
+    

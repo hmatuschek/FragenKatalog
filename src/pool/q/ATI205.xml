@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI205" name="A/TI205">
+      <text>
+        <p>
+          Was wirkt sich
+          <u>nicht</u>
+           auf die Sprungentfernung aus? Keine Auswirkung hat
+        </p>
+      </text>
+      <answer correct="yes">die Änderung der Strahlungsleistung.</answer>
+      <answer correct="no">die Änderung der Frequenz des ausgesendeten Signals.</answer>
+      <answer correct="no">die Tageszeit.</answer>
+      <answer correct="no">die aktuelle Höhe der ionisierten Schichten.</answer>
+    </question>
+    

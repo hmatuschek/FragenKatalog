@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB111" name="B/BB111">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung "MSG"?</p>
+      </text>
+      <answer correct="yes">Mitteilung</answer>
+      <answer correct="no">Alles richtig verstanden</answer>
+      <answer correct="no">Mit freundlichen Grüßen</answer>
+      <answer correct="no">Mäßiges Signal</answer>
+    </question>
+    

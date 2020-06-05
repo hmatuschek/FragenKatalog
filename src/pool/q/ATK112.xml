@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK112" name="A/TK112">
+      <text>
+        <p>Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie kann das Signal in das Fernsehgerät eindringen?</p>
+      </text>
+      <answer correct="yes">Über jeden beliebigen Leitungsanschluss und/oder über die ZF-Stufen.</answer>
+      <answer correct="no">Über die Antennenleitung und über alle größeren ungeschirmten Spulen im Fernsehgerät (z.B. Entmagnetisierungsschleife).</answer>
+      <answer correct="no">Über die Stromversorgung des Senders und die Stromversorgung des Fernsehgeräts.</answer>
+      <answer correct="no">Über die Fernsehantenne bzw. das Antennenkabel sowie über die Bildröhre.</answer>
+    </question>
+    

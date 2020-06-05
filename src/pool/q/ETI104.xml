@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI104" name="E/TI104">
+      <text>
+        <p>Welchen Einfluss hat die D-Schicht auf die Fernausbreitung?</p>
+      </text>
+      <answer correct="yes">Die D-Schicht führt tagsüber zu starker Dämpfung im 80- und 160-m-Band.</answer>
+      <answer correct="no">Die D-Schicht reflektiert tagsüber die Wellen im 80- und 160-m-Band.</answer>
+      <answer correct="no">Die D-Schicht absorbiert tagsüber die Wellen im 10-m-Band.</answer>
+      <answer correct="no">Die D-Schicht ist im Sonnenfleckenmaximum am wenigsten ausgeprägt.</answer>
+    </question>
+    

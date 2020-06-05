@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG112" name="V/VG112">
+      <text>
+        <p>Durch den Betrieb einer Amateurfunkstelle wird der Fernsehempfang im TV Kanal 10 eines Nachbarn gestört. Eine Überprüfung ergibt, dass sowohl das gestörte Fernsehgerät wie auch die störende Amateurfunkstelle die Vorschriften einhalten und Nachbesserungen nicht mehr möglich sind. Was kann der Funkamateur erwarten, wenn er den störenden Betrieb fortsetzt?</p>
+      </text>
+      <answer correct="yes">Die Anordnung von Betriebseinschränkungen für die Amateurfunkstelle.</answer>
+      <answer correct="no">Nichts.</answer>
+      <answer correct="no">Den sofortigen Widerruf seiner Zulassung zum Amateurfunkdienst.</answer>
+      <answer correct="no">Die Verhängung eines Bußgeldes.</answer>
+    </question>
+    

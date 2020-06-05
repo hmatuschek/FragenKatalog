@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK316" name="A/TK316">
+      <text>
+        <p>Welche Art von Kondensatoren sollte zum Abblocken von HF-Spannungen vorzugsweise verwendet werden? Am besten verwendet man</p>
+      </text>
+      <answer correct="yes">Keramikkondensatoren.</answer>
+      <answer correct="no">Aluminium-Elektrolytkondensatoren.</answer>
+      <answer correct="no">Tantalkondensatoren.</answer>
+      <answer correct="no">Polykarbonatkondensatoren.</answer>
+    </question>
+    

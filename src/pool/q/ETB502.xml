@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB502" name="E/TB502">
+      <text>
+        <p>Wie erfolgt die Ausbreitung einer elektromagnetischen Welle? Die Ausbreitung erfolgt</p>
+      </text>
+      <answer correct="yes">durch eine Wechselwirkung zwischen elektrischem und magnetischem Feld.</answer>
+      <answer correct="no">nur über das elektrische Feld. Das magnetische Feld ist nur im Nahfeld vorhanden.</answer>
+      <answer correct="no">nur über das magnetische Feld. Das elektrische Feld ist nur im Nahfeld vorhanden.</answer>
+      <answer correct="no">über die sich unabhängig voneinander ausbreitenden und senkrecht zueinander stehenden elektrischen und magnetischen Felder.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG502" name="A/TG502">
+      <text>
+        <p>Was passiert, wenn bei einem SSB-Sender die Mikrofonverstärkung zu hoch eingestellt wurde?</p>
+      </text>
+      <answer correct="yes">Es werden mehr Nebenprodukte der Sendefrequenz erzeugt, die als unerwünschte Ausstrahlung Störungen hervorrufen.</answer>
+      <answer correct="no">Die Gleichspannungskomponente des Ausgangssignals erhöht sich, wodurch der Wirkungsgrad des Senders abnimmt.</answer>
+      <answer correct="no">Es werden mehr Subharmonische der Sendefrequenz erzeugt, die als unerwünschte Ausstrahlung Splattern auf den benachbarten Frequenzen hervorrufen.</answer>
+      <answer correct="no">Es werden mehr Oberwellen der Sendefrequenz erzeugt, die als unerwünschte Ausstrahlung Splattern auf den benachbarten Frequenzen hervorrufen.</answer>
+    </question>
+    

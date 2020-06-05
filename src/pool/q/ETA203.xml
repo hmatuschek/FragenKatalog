@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA203" name="E/TA203">
+      <text>
+        <p>Welche Einheit wird für die elektrische Leistung verwendet?</p>
+      </text>
+      <answer correct="yes">Watt (W)</answer>
+      <answer correct="no">Kilowattstunden (kWh)</answer>
+      <answer correct="no">Joule (J)</answer>
+      <answer correct="no">Amperestunden (Ah)</answer>
+    </question>
+    

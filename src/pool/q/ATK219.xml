@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK219" name="A/TK219">
+      <text>
+        <p>Eine 435-MHz-Sendeantenne mit hohem Gewinn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt gegebenenfalls zu</p>
+      </text>
+      <answer correct="yes">einer Übersteuerung eines TV-Empfängers.</answer>
+      <answer correct="no">Problemen mit dem 435-MHz-Empfänger.</answer>
+      <answer correct="no">Eigenschwingungen des 435-MHz-Senders.</answer>
+      <answer correct="no">dem Durchschlag des TV-Antennenkoaxialkabels.</answer>
+    </question>
+    

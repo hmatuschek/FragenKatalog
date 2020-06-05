@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE204" name="A/TE204">
+      <text>
+        <p>Wodurch wird bei Frequenzmodulation die Lautstärke-Information übertragen?</p>
+      </text>
+      <answer correct="yes">Durch die Größe der Trägerfrequenzauslenkung.</answer>
+      <answer correct="no">Durch die Geschwindigkeit der Trägerfrequenzänderung.</answer>
+      <answer correct="no">Durch die Änderung der Geschwindigkeit des Frequenzhubes.</answer>
+      <answer correct="no">Durch die Größe der Amplitude des HF-Signals.</answer>
+    </question>
+    

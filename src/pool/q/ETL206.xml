@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL206" name="E/TL206">
+      <text>
+        <p>Ein Sender mit 75 Watt Ausgangsleistung ist über eine Antennenleitung, die 2,15 dB (Faktor 1,64) Kabelverluste hat, an eine Dipol-Antenne angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt?</p>
+      </text>
+      <answer correct="yes">75 Watt</answer>
+      <answer correct="no">123 W</answer>
+      <answer correct="no">45,7 W</answer>
+      <answer correct="no">60,6 W</answer>
+    </question>
+    

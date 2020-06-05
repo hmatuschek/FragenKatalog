@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG110" name="B/BG110">
+      <text>
+        <p>Welches ist der Sinn der QSL-Karte und wozu kann sie dienen?</p>
+      </text>
+      <answer correct="yes">Die QSL-Karte ist die schriftliche Bestätigung einer Amateurfunkverbindung. Sie dient zur Bestätigung der Angaben, die im QSO gemacht wurden. Ihr weiterer Wert liegt in der Verwendung als Beleg bei der Beantragung von Amateurfunk-Diplomen</answer>
+      <answer correct="no">Die QSL-Karte ist eine Ansichtskarte, die die Station des Funkamateurs zeigt. Sie dient als Werbung für die Gerätehersteller.</answer>
+      <answer correct="no">Die QSL-Karte ist eine Einladung zum Besuch eines Funkamateurs. Sie dient dem näheren Kennenlernen der Funkamateure untereinander.</answer>
+      <answer correct="no">Die QSL-Karte ist eine Reservierungsbestätigung in einer Amateurfunkrunde. Sie sichert dem Funkamateur die Teilnahme an der Runde.</answer>
+    </question>
+    

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG318" name="A/TG318">
+      <text>
+        <p>
+          Wodurch könnte R
+          <sub>1</sub>
+           in der folgenden Schaltung ersetzt werden, um den Arbeitspunkt der Röhre von der HF-Aussteuerung unabhängig einzustellen?
+        </p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">Durch eine Konstantspannungsquelle</answer>
+      <answer correct="no">Durch eine Konstantstromquelle</answer>
+      <answer correct="no">Durch mehrere Siliziumdioden in Sperrrichtung</answer>
+      <answer correct="no">
+        Durch nichts, da R
+        <sub>1</sub>
+         ohnehin überflüssig ist
+      </answer>
+    </question>
+    

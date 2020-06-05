@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC502" name="A/TC502">
+      <text>
+        <p>Ein in Durchlassrichtung betriebener PN-Übergang ermöglicht</p>
+      </text>
+      <answer correct="yes">den Stromfluss von P nach N.</answer>
+      <answer correct="no">den Stromfluss von N nach P.</answer>
+      <answer correct="no">keinen Stromfluss.</answer>
+      <answer correct="no">den Elektronenfluss von P nach N.</answer>
+    </question>
+    

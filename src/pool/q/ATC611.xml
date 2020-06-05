@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC611" name="A/TC611">
+      <text>
+        <p>Bei welcher Basisspannung ist ein NPN-Transistor ausgeschaltet? Er ist ausgeschaltet bei einer Basisspannung, die</p>
+      </text>
+      <answer correct="yes">auf Höhe der Emitterspannung liegt.</answer>
+      <answer correct="no">auf Höhe der Kollektorspannung liegt.</answer>
+      <answer correct="no">zwischen Kollektor und Emitterspannung liegt.</answer>
+      <answer correct="no">mindestens 0,6 V positiver ist, als das Emitterpotenzial.</answer>
+    </question>
+    

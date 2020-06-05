@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB924" name="A/TB924">
+      <text>
+        <p>In welcher Antwort sind alle dargestellten Zusammenhänge zwischen Widerstand, Leistung, Spannung und Strom richtig?</p>
+      </text>
+      <answer correct="yes">R = U²/P; R = P/I²</answer>
+      <answer correct="no">R = U²·P; R = P/I²</answer>
+      <answer correct="no">R = P/U²; R = P·I²</answer>
+      <answer correct="no">R = U²/P; R = P·I²</answer>
+    </question>
+    

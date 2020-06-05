@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD111" name="A/TD111">
+      <text>
+        <p>
+          Wie groß ist die Spannung U, wenn durch R
+          <sub>3</sub>
+           ein Strom von 1 mA fließt und alle Widerstände R
+          <sub>1</sub>
+           bis R
+          <sub>3</sub>
+           je 10 kΩ betragen?
+        </p>
+        <img src="Atd111" />
+      </text>
+      <answer correct="yes">30 V</answer>
+      <answer correct="no">20 V</answer>
+      <answer correct="no">15 V</answer>
+      <answer correct="no">40 V</answer>
+    </question>
+    

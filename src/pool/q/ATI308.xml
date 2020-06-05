@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI308" name="A/TI308">
+      <text>
+        <p>Beim Auftreten von Polarlichtern lassen sich auf den Amateurfunkbändern über 30 MHz beträchtliche Überreichweiten erzielen, weil</p>
+      </text>
+      <answer correct="yes">mit dem Polarlicht stark ionisierte Bereiche auftreten, die Reflexionen erzeugen.</answer>
+      <answer correct="no">mit dem Polarlicht starke Magnetfelder auftreten, die Reflexionen erzeugen.</answer>
+      <answer correct="no">mit dem Polarlicht starke Inversionsfelder auftreten, die Reflexionen erzeugen.</answer>
+      <answer correct="no">mit dem Polarlicht starke sporadische D-Schichten auftreten, die Reflexionen erzeugen.</answer>
+    </question>
+    

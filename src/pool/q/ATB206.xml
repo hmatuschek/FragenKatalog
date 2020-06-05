@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB206" name="A/TB206">
+      <text>
+        <p>Die Leerlaufspannung einer Spannungsquelle beträgt 5,0 V. Schließt man einen Belastungswiderstand mit 1,2 Ω an, so geht die Klemmenspannung der Spannungsquelle auf 4,8 V zurück. Wie hoch ist der Innenwiderstand der Spannungsquelle?</p>
+      </text>
+      <answer correct="yes">0,05 Ω</answer>
+      <answer correct="no">8,2 Ω</answer>
+      <answer correct="no">0,2 Ω</answer>
+      <answer correct="no">0,25 Ω</answer>
+    </question>
+    

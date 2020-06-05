@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE201" name="B/BE201">
+      <text>
+        <p>Was verstehen Sie unter dem Begriff "DX-Pedition"? Es ist</p>
+      </text>
+      <answer correct="yes">eine Amateurfunkexpedition zu Ländern oder Inseln, die selten im Amateurfunk zu hören sind.</answer>
+      <answer correct="no">eine weltweite Aktivitätswoche.</answer>
+      <answer correct="no">ein internationaler Funkwettbewerb.</answer>
+      <answer correct="no">eine Zusammenstellung aller noch von Funkamateuren begehrten Länder.</answer>
+    </question>
+    

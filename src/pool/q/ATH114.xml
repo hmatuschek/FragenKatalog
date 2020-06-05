@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH114" name="A/TH114">
+      <text>
+        <p>Ein Faltdipol hat einen Eingangswiderstand von ungefähr</p>
+      </text>
+      <answer correct="yes">240 Ω.</answer>
+      <answer correct="no">60 Ω.</answer>
+      <answer correct="no">50 Ω.</answer>
+      <answer correct="no">30-60 Ω.</answer>
+    </question>
+    

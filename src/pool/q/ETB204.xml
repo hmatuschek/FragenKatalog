@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB204" name="E/TB204">
+      <text>
+        <p>Kann in folgender Schaltung von zwei gleichen Spannungsquellen Strom fließen? Welche Begründung ist richtig?</p>
+        <img src="ETB204" />
+      </text>
+      <answer correct="yes">Nein, weil kein geschlossener Stromkreis vorhanden ist.</answer>
+      <answer correct="no">Nein, weil der Pluspol mit dem Minuspol verbunden ist.</answer>
+      <answer correct="no">Ja, sogar Kurzschlussstrom, weil der Pluspol mit dem Minuspol verbunden ist.</answer>
+      <answer correct="no">Ja. Der Strom hängt vom Innenwiderstand der Batterien ab.</answer>
+    </question>
+    

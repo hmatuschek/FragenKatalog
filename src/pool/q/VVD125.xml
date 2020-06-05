@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD125" name="V/VD125">
+      <text>
+        <p>Wann muss der Funkamateur ein Logbuch führen?</p>
+      </text>
+      <answer correct="yes">In besonderen Fällen auf Verlangen.</answer>
+      <answer correct="no">Immer.</answer>
+      <answer correct="no">Immer, nur nicht bei Mobil- und Portabelbetrieb.</answer>
+      <answer correct="no">Nie.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG107" name="A/TG107">
+      <text>
+        <p>Welches Schaltungsteil ist in der folgenden Blockschaltung am Ausgang des NF-Verstärkers angeschlossen?</p>
+        <img src="Atg106" />
+      </text>
+      <answer correct="yes">Ein Balancemischer</answer>
+      <answer correct="no">Ein symmetrisches Filter</answer>
+      <answer correct="no">Ein Ringdemodulator</answer>
+      <answer correct="no">Ein unsymmetrischer Mischer</answer>
+    </question>
+    

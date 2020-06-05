@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC204" name="A/TC204">
+      <text>
+        <p>Wie verhält sich der Wechselstromwiderstand eines Kondensators mit zunehmender Frequenz?</p>
+      </text>
+      <answer correct="yes">Er nimmt ab.</answer>
+      <answer correct="no">Er bleibt konstant.</answer>
+      <answer correct="no">Er nimmt zu.</answer>
+      <answer correct="no">Er wird unendlich.</answer>
+    </question>
+    

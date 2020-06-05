@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH221" name="A/TH221">
+      <text>
+        <p>Ein Kabel mit einem Wellenwiderstand von 75 Ω und vernachlässigbarer Dämpfung wird zur Speisung einer Faltdipol-Antenne verwendet. Welches VSWR kann man auf der Leitung erwarten?</p>
+      </text>
+      <answer correct="yes">ca. 3,2 bis 4</answer>
+      <answer correct="no">0,3</answer>
+      <answer correct="no">ca. 1,5 bis 2</answer>
+      <answer correct="no">5,7</answer>
+    </question>
+    

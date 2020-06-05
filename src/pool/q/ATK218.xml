@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK218" name="A/TK218">
+      <text>
+        <p>Zur Verhinderung von Fernsehstörungen, die durch Mantelwellen hervorgerufen werden, ist anstelle einer Mantelwellendrossel alternativ</p>
+      </text>
+      <answer correct="yes">der Einbau eines HF-Trenntrafos möglich.</answer>
+      <answer correct="no">der Einbau eines Tiefpassfilters nach dem Senderausgang möglich.</answer>
+      <answer correct="no">der Einbau eines Bandpassfilters nach dem Senderausgang möglich.</answer>
+      <answer correct="no">der Einbau einer seriellen Drosselspule in den Innenleiter der Empfangsantennenleitung möglich.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB105" name="V/VB105">
+      <text>
+        <p>Mit einer gültigen deutschen Amateurfunkzulassung der Klasse A, die als "CEPT-Amateurfunkgenehmigung" gekennzeichnet ist, dürfen die Betriebsrechte der entsprechenden ausländischen Genehmigung im jeweiligen Beitrittsland gemäß der CEPT-Empfehlung T/R 61-01 wahrgenommen werden,</p>
+      </text>
+      <answer correct="yes">wenn man sich in dem Land nur vorübergehend aufhält.</answer>
+      <answer correct="no">wenn man in dem Land einen Wohnsitz hat.</answer>
+      <answer correct="no">wenn man in Deutschland einen Wohnsitz hat.</answer>
+      <answer correct="no">wenn man in Deutschland keinen Wohnsitz hat.</answer>
+    </question>
+    

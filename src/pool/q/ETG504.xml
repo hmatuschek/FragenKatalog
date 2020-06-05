@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG504" name="E/TG504">
+      <text>
+        <p>Welche Schaltung wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETG504a" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG504b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG504c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETG504d" />
+      </answer>
+    </question>
+    

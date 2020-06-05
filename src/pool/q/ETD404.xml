@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD404" name="E/TD404">
+      <text>
+        <p>Ein IC (integrated circuit) ist</p>
+      </text>
+      <answer correct="yes">eine komplexe Schaltung auf einem Halbleiterkristallplättchen.</answer>
+      <answer correct="no">eine aus vielen einzelnen Bauteilen aufgebaute Schaltung auf einer Platine.</answer>
+      <answer correct="no">eine miniaturisierte, aus SMD-Bauteilen aufgebaute Schaltung.</answer>
+      <answer correct="no">eine Zusammenschaltung verschiedener Baugruppen zu einer Funktionseinheit.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF330" name="A/TF330">
+      <text>
+        <p>Bei welchem der nachfolgenden Fälle misst man nur eine geringe oder gar keine Spannung am Emitterwiderstand einer ZF-Stufe?</p>
+      </text>
+      <answer correct="yes">Wenn der Transistor eine Unterbrechung hat.</answer>
+      <answer correct="no">Wenn der Abblockkondensator seine Kapazität verloren hat.</answer>
+      <answer correct="no">Wenn kein Eingangssignal am Empfänger anliegt.</answer>
+      <answer correct="no">Wenn der Widerstand hochohmig geworden ist.</answer>
+    </question>
+    

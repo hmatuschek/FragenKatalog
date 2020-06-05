@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI113" name="A/TI113">
+      <text>
+        <p>Wodurch kommt die Reflexionsfähigkeit der ionosphärischen Schichten im wesentlichen zustande?</p>
+      </text>
+      <answer correct="yes">Durch die von der Sonne ausgehende UV-Strahlung, welche die Moleküle in den verschiedenen Schichthöhen je nach Strahlungsintensität ionisiert.</answer>
+      <answer correct="no">Durch die von der Sonne ausgehende Infrarotstrahlung, welche die Moleküle in den verschiedenen Schichthöhen je nach Strahlungsintensität ionisiert.</answer>
+      <answer correct="no">Durch die von der Sonne ausgehende UV-Strahlung, welche die Sauerstoffatome in den verschiedenen Schichthöhen je nach Strahlungsintensität aktiviert.</answer>
+      <answer correct="no">Durch die von der Sonne ausgehende Infrarotstrahlung, welche die Sauerstoffatome in den verschiedenen Schichthöhen je nach Strahlungsintensität aktiviert.</answer>
+    </question>
+    

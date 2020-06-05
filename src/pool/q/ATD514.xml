@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD514" name="A/TD514">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen Modulator zur Erzeugung von</p>
+        <img src="Atd514" />
+      </text>
+      <answer correct="yes">frequenzmodulierten Signalen.</answer>
+      <answer correct="no">phasenmodulierten Signalen.</answer>
+      <answer correct="no">AM-Signalen mit unterdrücktem Träger.</answer>
+      <answer correct="no">AM-Signalen.</answer>
+    </question>
+    

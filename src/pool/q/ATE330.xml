@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE330" name="A/TE330">
+      <text>
+        <p>Wie viel verschiedene Zeichen kann man mit 5 Bit (z.B. Baudot-Code bei RTTY) erzeugen?</p>
+      </text>
+      <answer correct="yes">32</answer>
+      <answer correct="no">5</answer>
+      <answer correct="no">64</answer>
+      <answer correct="no">128</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD106" name="V/VD106">
+      <text>
+        <p>Wo ist die Einteilung der deutschen Amateurfunkrufzeichen geregelt?</p>
+      </text>
+      <answer correct="yes">Im Rufzeichenplan gemäß § 10 Abs. 3 AFuV.</answer>
+      <answer correct="no">In Artikel 19 und Anhang 42 der VO Funk.</answer>
+      <answer correct="no">In der Rufzeichenliste der Bundesnetzagentur.</answer>
+      <answer correct="no">In § 4 des Amateurfunkgesetzes.</answer>
+    </question>
+    

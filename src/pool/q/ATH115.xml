@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH115" name="A/TH115">
+      <text>
+        <p>Die Länge des Drahtes zur Herstellung eines Faltdipols entspricht</p>
+      </text>
+      <answer correct="yes">einer Wellenlänge.</answer>
+      <answer correct="no">einer Halbwellenlänge.</answer>
+      <answer correct="no">zwei Wellenlängen.</answer>
+      <answer correct="no">vier Wellenlängen.</answer>
+    </question>
+    

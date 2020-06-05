@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB501" name="A/TB501">
+      <text>
+        <p>Wodurch entsteht ein elektromagnetisches Feld und woraus besteht es?</p>
+      </text>
+      <answer correct="yes">Ein elektromagnetisches Feld entsteht, wenn durch einen elektrischen Leiter ein zeitlich schnell veränderlicher Strom fließt. Es besteht aus der elektrischen und aus der magnetischen Feldkomponente (E-Feld und H-Feld).</answer>
+      <answer correct="no">Ein elektromagnetisches Feld entsteht, wenn durch einen elektrischen Leiter ein konstanter Strom fließt. Es besteht aus dem magnetischen Feld (H-Feld), das wiederum ein elektrisches Feld (E-Feld) induziert.</answer>
+      <answer correct="no">Ein elektromagnetisches Feld entsteht, wenn sich elektrische Ladungen in einem Leiter befinden. Es besteht aus dem elektrischen Feld (E-Feld), das wiederum ein magnetisches Feld (H-Feld) induziert.</answer>
+      <answer correct="no">Ein elektromagnetisches Feld entsteht, wenn an einem elektrischen Leiter eine konstante Spannung angelegt wird. Es besteht aus dem elektrischen Feld (E-Feld), das wiederum ein magnetisches Feld (H-Feld) induziert.</answer>
+    </question>
+    

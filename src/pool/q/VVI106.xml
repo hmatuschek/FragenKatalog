@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI106" name="V/VI106">
+      <text>
+        <p>Die Feldstärkegrenzwerte für den Schutz von Personen in elektromagnetischen Feldern sind von der Frequenz abhängig, weil</p>
+      </text>
+      <answer correct="yes">die Fähigkeit des Körpers, hochfrequente Strahlung zu absorbieren, frequenzabhängig ist.</answer>
+      <answer correct="no">niederfrequente elektromagnetische Felder energiereicher sind als hochfrequente.</answer>
+      <answer correct="no">hochfrequente elektromagnetische Felder energiereicher sind als niederfrequente.</answer>
+      <answer correct="no">die spezifische Absorptionsrate bei einigen Frequenzen nicht messbar ist.</answer>
+    </question>
+    

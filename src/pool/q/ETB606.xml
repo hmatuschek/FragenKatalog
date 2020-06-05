@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB606" name="E/TB606">
+      <text>
+        <p>Welche Bezeichnung ist für eine Schwingung von 145 000 000 Perioden pro Sekunde richtig?</p>
+      </text>
+      <answer correct="yes">145 MHz</answer>
+      <answer correct="no">145 μs</answer>
+      <answer correct="no">145 kHz</answer>
+      <answer correct="no">145 km/s</answer>
+    </question>
+    

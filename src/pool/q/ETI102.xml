@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI102" name="E/TI102">
+      <text>
+        <p>Welche ionosphärischen Schichten bestimmen die Fernausbreitung in der Nacht?</p>
+      </text>
+      <answer correct="yes">Die F2-Schicht</answer>
+      <answer correct="no">Die D-, E- und F2-Schicht</answer>
+      <answer correct="no">Die F1- und F2-Schicht</answer>
+      <answer correct="no">Die D- und E-Schicht</answer>
+    </question>
+    

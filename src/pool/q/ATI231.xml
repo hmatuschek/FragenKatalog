@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI231" name="A/TI231">
+      <text>
+        <p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: "Das Band ist nur in Zeiten starker Sonnenaktivität für Verbindungen über die Raumwelle brauchbar. Tagsüber bestehen dann hervorragende DX-Möglichkeiten, auch mit sehr kleiner Sendeleistung. Die tote Zone beträgt bis zu 4000 km. Der Ausbreitungsweg muss auf der Tagseite erfolgen." Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>
+      </text>
+      <answer correct="yes">10-m-Band.</answer>
+      <answer correct="no">15-m-Band.</answer>
+      <answer correct="no">20-m-Band.</answer>
+      <answer correct="no">40-m-Band.</answer>
+    </question>
+    

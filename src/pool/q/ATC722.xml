@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC722" name="A/TC722">
+      <text>
+        <p>Welche dezimalen Werte haben die Stellen der Dualzahl 111111 von links nach rechts?</p>
+      </text>
+      <answer correct="yes">32, 16, 8, 4, 2, 1</answer>
+      <answer correct="no">1, 2, 4, 8, 16, 32</answer>
+      <answer correct="no">65536, 256, 16, 4, 2, 1</answer>
+      <answer correct="no">100000, 10000, 1000, 100, 10, 1</answer>
+    </question>
+    

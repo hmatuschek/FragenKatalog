@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF318" name="A/TF318">
+      <text>
+        <p>Der Ausgang eines richtig eingestellten Balancemischers enthält</p>
+      </text>
+      <answer correct="yes">die zwei Seitenbänder.</answer>
+      <answer correct="no">viele Mischprodukte.</answer>
+      <answer correct="no">einen verringerten Träger plus Seitenbänder.</answer>
+      <answer correct="no">den vollständigen Träger.</answer>
+    </question>
+    

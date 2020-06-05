@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH419" name="A/TH419">
+      <text>
+        <p>Für welche Antennenimpedanz ist der folgende Balun-Transformator aus zweimal 8 Windungen ausgelegt?</p>
+        <img src="Ath419" />
+      </text>
+      <answer correct="yes">200 Ω</answer>
+      <answer correct="no">50 Ω</answer>
+      <answer correct="no">100 Ω</answer>
+      <answer correct="no">400 Ω</answer>
+    </question>
+    

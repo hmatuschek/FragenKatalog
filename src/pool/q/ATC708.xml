@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC708" name="A/TC708">
+      <text>
+        <p>
+          Welches der vier im Bild dargestellten Ausgangssignale X
+          <sub>1</sub>
+           bis X
+          <sub>4</sub>
+           liefert ein EXOR-Gatter, wenn an dessen Eingängen die Signale E
+          <sub>1</sub>
+           und E
+          <sub>2</sub>
+           anliegen?
+        </p>
+        <img src="Atc707" />
+      </text>
+      <answer correct="yes">
+        X
+        <sub>3</sub>
+      </answer>
+      <answer correct="no">
+        X
+        <sub>1</sub>
+      </answer>
+      <answer correct="no">
+        X
+        <sub>2</sub>
+      </answer>
+      <answer correct="no">
+        X
+        <sub>4</sub>
+      </answer>
+    </question>
+    

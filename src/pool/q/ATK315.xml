@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK315" name="A/TK315">
+      <text>
+        <p>In einer Babyüberwachungsanlage mit zwei Geräten, die über ein langes Zwillingslitzenkabel miteinander verbunden sind, treten Störungen durch den Betrieb eines nahen Senders auf. Eine Möglichkeit zur Verringerung der Beeinflussungen besteht darin,</p>
+      </text>
+      <answer correct="yes">ein geschirmtes Verbindungskabel zu verwenden.</answer>
+      <answer correct="no">die Länge des Kabels zu verdoppeln.</answer>
+      <answer correct="no">ein doppeltes Zwillingslitzenkabel zu verwenden.</answer>
+      <answer correct="no">das Zwillingslitzenkabel aufzusplitten und getrennt zu verlegen.</answer>
+    </question>
+    

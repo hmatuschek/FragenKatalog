@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH314" name="A/TH314">
+      <text>
+        <p>Bei einer Leitung mit symmetrischer Übertragung</p>
+      </text>
+      <answer correct="yes">ist Strom und Spannung in den beiden Leitern gegenüber Erde gleich groß und gegenphasig.</answer>
+      <answer correct="no">liegt einer der beiden Leiter auf Erdpotential.</answer>
+      <answer correct="no">sind die Impedanzen bei beiden Leitern gegen Erde unendlich hoch.</answer>
+      <answer correct="no">ist Strom und Spannung in den beiden Leitern gegenüber Erde gleich groß und gleichphasig.</answer>
+    </question>
+    

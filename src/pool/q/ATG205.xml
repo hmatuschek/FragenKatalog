@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG205" name="A/TG205">
+      <text>
+        <p>Welche Tastformung eines CW-Senders vermeidet an wirksamsten die Entstehung von Tastklicks?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg205a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205d" />
+      </answer>
+    </question>
+    

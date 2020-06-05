@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD213" name="V/VD213">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DN1AA - DN8ZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Ausbildungsfunkbetrieb.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen.</answer>
+      <answer correct="no">Rufzeichen für Relaisfunkstellen.</answer>
+      <answer correct="no">Rufzeichen für Funkbaken.</answer>
+    </question>
+    

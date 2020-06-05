@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF316" name="A/TF316">
+      <text>
+        <p>
+          Welchem Zweck dient Tr
+          <sub>1</sub>
+           in der Schaltung?
+        </p>
+        <img src="Atf315" />
+      </text>
+      <answer correct="yes">Zur Widerstandsanpassung</answer>
+      <answer correct="no">Zur Spannungsverstärkung</answer>
+      <answer correct="no">Zur Leistungsverstärkung</answer>
+      <answer correct="no">Zur Verstärkungssteuerung</answer>
+    </question>
+    

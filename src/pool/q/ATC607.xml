@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC607" name="A/TC607">
+      <text>
+        <p>Welche Kollektorspannungen haben NPN- und PNP-Transistoren?</p>
+      </text>
+      <answer correct="yes">NPN-Transistoren benötigen positive, PNP-Transistoren negative Kollektorspannungen.</answer>
+      <answer correct="no">NPN- und PNP-Transistoren benötigen negative Kollektorspannungen.</answer>
+      <answer correct="no">PNP-Transistoren benötigen positive, NPN-Transistoren negative Kollektorspannung.</answer>
+      <answer correct="no">PNP- und NPN-Transistoren benötigen positive Kollektorspannungen.</answer>
+    </question>
+    

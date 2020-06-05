@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD202" name="E/TD202">
+      <text>
+        <p>Der im folgenden Bild dargestellte Impedanzfrequenzgang ist typisch für</p>
+        <img src="ETD202" />
+      </text>
+      <answer correct="yes">einen Parallelschwingkreis.</answer>
+      <answer correct="no">einen Kondensator.</answer>
+      <answer correct="no">eine Spule.</answer>
+      <answer correct="no">einen Serienschwingkreis.</answer>
+    </question>
+    

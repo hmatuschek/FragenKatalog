@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD221" name="V/VD221">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DAØAA - DAØZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Klubstationen.</answer>
+      <answer correct="no">Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV.</answer>
+      <answer correct="no">Rufzeichen für ATV-Relaisfunkstellen.</answer>
+      <answer correct="no">Rufzeichen für Funkbaken.</answer>
+    </question>
+    

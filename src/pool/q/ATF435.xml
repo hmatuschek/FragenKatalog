@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF435" name="A/TF435">
+      <text>
+        <p>Was ist die Hauptursache für Intermodulationsprodukte in einem Empfänger?</p>
+      </text>
+      <answer correct="yes">Es sind Nichtlinearitäten in den HF-Stufen.</answer>
+      <answer correct="no">Der Empfänger ist nicht genau auf den Kanal eingestellt.</answer>
+      <answer correct="no">Es wird ein unlineares Quarzfilter verwendet.</answer>
+      <answer correct="no">Es wird ein zu hochwertiger Preselektor verwendet.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD417" name="A/TD417">
+      <text>
+        <p>Ein Leistungsverstärker hebt die Eingangsleistung von 2,5 Watt auf 38 Watt Ausgangsleistung an. Dem entspricht eine Leistungsverstärkung von</p>
+      </text>
+      <answer correct="yes">11,8 dB.</answer>
+      <answer correct="no">15,2 dB.</answer>
+      <answer correct="no">17,7 dB.</answer>
+      <answer correct="no">23,6 dB.</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD203" name="E/TD203">
+      <text>
+        <p>Welcher Schwingkreis passt zu dem neben der jeweiligen Schaltung dargestellten Verlauf des Scheinwiderstandes?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETD203a" />
+      </answer>
+      <answer correct="no">
+        <img src="ETD203b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETD203c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETD203d" />
+      </answer>
+    </question>
+    

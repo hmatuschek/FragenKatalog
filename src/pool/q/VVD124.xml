@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD124" name="V/VD124">
+      <text>
+        <p>Wozu können Aufzeichnungen der Sendetätigkeit (z.B. Stationstagebuch) dienen?</p>
+      </text>
+      <answer correct="yes">Sie können zur Aufklärung elektromagnetischer Unverträglichkeiten dienen.</answer>
+      <answer correct="no">Ein präzise geführtes Stationstagebuch kann u.a. als Grundlage für die Erteilung einer EMVU-Bescheinigung dienen.</answer>
+      <answer correct="no">Dort können die Rufzeichen der Gegenfunkstellen festgehalten werden, damit der Bundesnetzagentur jederzeit der Nachweis erbracht werden kann, dass nur mit genehmigten Funkstellen Funkverkehr abgewickelt wurde.</answer>
+      <answer correct="no">Sie können nur als Aktivitätsnachweis über den Funkbetrieb gegenüber der örtlichen Amateurfunkvereinigung dienen.</answer>
+    </question>
+    

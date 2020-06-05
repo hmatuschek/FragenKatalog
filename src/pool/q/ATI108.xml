@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI108" name="A/TI108">
+      <text>
+        <p>In welcher Höhe über dem Boden befindet sich in etwa die F1-Schicht? Sie befindet sich in ungefähr</p>
+      </text>
+      <answer correct="yes">200 km Höhe.</answer>
+      <answer correct="no">80 km Höhe.</answer>
+      <answer correct="no">120 km Höhe.</answer>
+      <answer correct="no">500 km Höhe.</answer>
+    </question>
+    

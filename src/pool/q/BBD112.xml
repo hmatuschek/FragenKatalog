@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD112" name="B/BD112">
+      <text>
+        <p>Zu welcher Rufzeichenart gehören Rufzeichen mit dem Präfix DN1 bis DN8 und zwei bis drei Buchstaben im Suffix?</p>
+      </text>
+      <answer correct="yes">Ausbildungsrufzeichen</answer>
+      <answer correct="no">Klubstationsrufzeichen</answer>
+      <answer correct="no">Personengebundene Rufzeichen</answer>
+      <answer correct="no">Rufzeichen für automatisch arbeitende Stationen</answer>
+    </question>
+    

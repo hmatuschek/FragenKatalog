@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB509" name="A/TB509">
+      <text>
+        <p>Durch welche Größe sind elektrische und magnetische Komponenten eines elektromagnetischen Feldes im Fernfeld miteinander verknüpft?</p>
+      </text>
+      <answer correct="yes">Durch den Feldwellenwiderstand des Freiraums</answer>
+      <answer correct="no">Durch die Maxwell-Gleichungen</answer>
+      <answer correct="no">Durch die Ausbreitung in der Ionosphäre</answer>
+      <answer correct="no">Durch die Polarisationsrichtung der Antenne</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC112" name="B/BC112">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 40-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">7000 - 7200 kHz</answer>
+      <answer correct="no">3500 - 3800 kHz</answer>
+      <answer correct="no">14000 - 14350 kHz</answer>
+      <answer correct="no">10100 - 10150 kHz</answer>
+    </question>
+    

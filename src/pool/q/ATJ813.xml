@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ813" name="A/TJ813">
+      <text>
+        <p>Die Resonanzfrequenz eines abgestimmten HF-Kreises kann mit einem</p>
+      </text>
+      <answer correct="yes">Dipmeter überprüft werden.</answer>
+      <answer correct="no">Gleichspannungsmesser überprüft werden.</answer>
+      <answer correct="no">digitalen Frequenzmessgerät überprüft werden.</answer>
+      <answer correct="no">Ohmmeter überprüft werden.</answer>
+    </question>
+    

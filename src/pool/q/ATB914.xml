@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB914" name="A/TB914">
+      <text>
+        <p>Welche Belastbarkeit muss ein 100-Ohm-Widerstand, an dem 10 Volt anliegen, mindestens haben?</p>
+      </text>
+      <answer correct="yes">1 W</answer>
+      <answer correct="no">0,125 W</answer>
+      <answer correct="no">10 W</answer>
+      <answer correct="no">100 mW</answer>
+    </question>
+    

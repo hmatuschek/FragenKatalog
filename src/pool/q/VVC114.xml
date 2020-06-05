@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC114" name="V/VC114">
+      <text>
+        <p>Welchen Zwecken dient der Amateurfunkdienst nach dem AFuG?</p>
+      </text>
+      <answer correct="yes">Zur eigenen Weiterbildung der Funkamateure und zur Völkerverständigung. Zur Unterstützung von Hilfsaktionen in Not- und Katastrophenfällen.</answer>
+      <answer correct="no">Als Versuchsfunk zur technischen Fortentwicklung von Funkanlagen. Zur eigenen Weiterbildung mit gewerblich wirtschaftlichem Interesse.</answer>
+      <answer correct="no">Als Vorführfunk zu Demonstrationszwecken. Der Unterstützung von Sicherheitsdiensten (Polizei, Feuerwehr, DLRG usw.).</answer>
+      <answer correct="no">Für freizügige Funkexperimente bei Ausbildungen. Zur Vermeidung von illegalen Funkspektrumsnutzungen in anderen Frequenzbereichen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF312" name="A/TF312">
+      <text>
+        <p>Um eine Rückkopplung der HF-Signale einer Leistungsverstärkerstufe zum VFO zu verhindern, sollte die Gleichstromversorgung des VFO's</p>
+      </text>
+      <answer correct="yes">gut gefiltert und entkoppelt werden.</answer>
+      <answer correct="no">möglichst spannungsfest angekoppelt werden.</answer>
+      <answer correct="no">möglichst temperaturabhängig sein.</answer>
+      <answer correct="no">im HF-Bereich nicht gefiltert werden.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC118" name="V/VC118">
+      <text>
+        <p>Ab wann dürfen Sie eine Amateurfunkstelle betreiben?</p>
+      </text>
+      <answer correct="yes">Mit dem Besitz einer Zulassung zum Amateurfunkdienst.</answer>
+      <answer correct="no">Mit dem Besitz eines Amateurfunkzeugnisses oder einer harmonisierten Prüfungsbescheinigung.</answer>
+      <answer correct="no">Nach Teilnahme an einer fachlichen Prüfung für Funkamateure.</answer>
+      <answer correct="no">Nach einer Frequenzzuteilung aufgrund der Frequenzzuteilungsverordnung.</answer>
+    </question>
+    

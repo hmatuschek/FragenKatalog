@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC509" name="E/TC509">
+      <text>
+        <p>Wozu dient die folgende Schaltung? Sie dient</p>
+        <img src="ETC509" />
+      </text>
+      <answer correct="yes">als Leuchtanzeige.</answer>
+      <answer correct="no">zur Signalbegrenzung.</answer>
+      <answer correct="no">zur Spannungsstabilisierung.</answer>
+      <answer correct="no">zur Stromgewinnung.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH138" name="A/TH138">
+      <text>
+        <p>Welche Antenne ist hier dargestellt und wozu dient der Kondensator?</p>
+        <img src="Ath138" />
+      </text>
+      <answer correct="yes">λ/4-Groundplane mit Verkürzungskondensator</answer>
+      <answer correct="no">λ/2-Groundplane mit λ/4-Verkürzungskondensator</answer>
+      <answer correct="no">λ/4-Sperrtopfantenne mit Verlängerungskondensator</answer>
+      <answer correct="no">λ/4-Kreuzdipol mit kapazitiv verkürztem λ/4-Vertikalstrahler</answer>
+    </question>
+    

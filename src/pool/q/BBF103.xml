@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF103" name="B/BF103">
+      <text>
+        <p>Welche Notzeichen werden in der Telefonie verwendet?</p>
+      </text>
+      <answer correct="yes">Mayday</answer>
+      <answer correct="no">XXX, TTT</answer>
+      <answer correct="no">Distresse</answer>
+      <answer correct="no">DDD, SOS</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD210" name="A/TD210">
+      <text>
+        <p>Wie groß ist die Resonanzfrequenz dieser Schaltung, wenn C = 6,8 pF, R = 10 Ω und L = 1 μH beträgt?</p>
+        <img src="Atd210" />
+      </text>
+      <answer correct="yes">61,033 MHz</answer>
+      <answer correct="no">6,1033 MHz</answer>
+      <answer correct="no">610,33 MHz</answer>
+      <answer correct="no">610,33 kHz</answer>
+    </question>
+    

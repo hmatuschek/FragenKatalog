@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ201" name="E/TJ201">
+      <text>
+        <p>Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes anhand des ohmschen Gesetzes zu ermitteln?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETJ201a" />
+      </answer>
+      <answer correct="no">
+        <img src="ETJ201b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETJ201c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETJ201d" />
+      </answer>
+    </question>
+    

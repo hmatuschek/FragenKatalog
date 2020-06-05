@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG201" name="E/TG201">
+      <text>
+        <p>Wie heißt die Stufe in einem Sender, welche die Eigenschaft hat, leise Sprachsignale gegenüber den lauten etwas anzuheben?</p>
+      </text>
+      <answer correct="yes">Speech Processor</answer>
+      <answer correct="no">Noise Blanker</answer>
+      <answer correct="no">Clarifier</answer>
+      <answer correct="no">Notchfilter</answer>
+    </question>
+    

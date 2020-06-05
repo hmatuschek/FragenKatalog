@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG228" name="A/TG228">
+      <text>
+        <p>Um zu vermeiden, dass unerwünschte Mischprodukte die Senderausgangsstufe erreichen, sollte das Ausgangssignal des Mischers</p>
+      </text>
+      <answer correct="yes">gut gefiltert werden.</answer>
+      <answer correct="no">unmittelbar gekoppelt werden.</answer>
+      <answer correct="no">an einen linear dämpfenden Transistor angeschlossen werden.</answer>
+      <answer correct="no">an eine Widerstandskopplung angeschlossen werden.</answer>
+    </question>
+    

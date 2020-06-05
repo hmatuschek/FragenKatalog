@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC105" name="A/TC105">
+      <text>
+        <p>Ein Widerstand von 10 kΩ hat eine maximale Spannungsfestigkeit von 0,7 kV und eine maximale Belastbarkeit von einem Watt. Welche Gleichspannung darf höchstens an den Widerstand angelegt werden ohne ihn zu überlasten?</p>
+      </text>
+      <answer correct="yes">0,1 kV</answer>
+      <answer correct="no">10 V</answer>
+      <answer correct="no">700 V</answer>
+      <answer correct="no">1 V</answer>
+    </question>
+    

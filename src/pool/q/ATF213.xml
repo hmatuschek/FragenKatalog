@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF213" name="A/TF213">
+      <text>
+        <p>
+          Dies ist das Blockschaltbild eines modernen Empfängers mit PLL-Frequenzaufbereitung. Es soll eine Frequenz von 15,0 MHz empfangen werden. Welche Frequenzen liefern VCO
+          <sub>1</sub>
+           und VCO
+          <sub>2</sub>
+          , wenn der programmierbare Frequenzvervielfacher n
+          <sub>p</sub>
+           dabei 18 MHz liefert?
+          <br />
+          <pre>
+            VCO
+            <sub>1</sub>
+                    VCO
+            <sub>2</sub>
+          </pre>
+        </p>
+        <img src="Atf213" />
+      </text>
+      <answer correct="yes">
+        <pre>67,5 MHz    85,5 MHz</pre>
+      </answer>
+      <answer correct="no">
+        <pre>68,5 MHz    85,5 MHz</pre>
+      </answer>
+      <answer correct="no">
+        <pre>85,5 MHz    67,5 MHz</pre>
+      </answer>
+      <answer correct="no">
+        <pre>67,5 MHz    87,5 MHz</pre>
+      </answer>
+    </question>
+    

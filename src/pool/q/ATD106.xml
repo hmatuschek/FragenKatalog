@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD106" name="A/TD106">
+      <text>
+        <p>
+          Wie groß ist die Gesamtkapazität, wenn drei Kondensatoren C
+          <sub>1</sub>
+           = 0,06 nF, C
+          <sub>2</sub>
+           = 40 pF und C
+          <sub>3</sub>
+           = 20 pF in Reihe geschaltet werden?
+        </p>
+      </text>
+      <answer correct="yes">10,9 pF</answer>
+      <answer correct="no">0,12 nF</answer>
+      <answer correct="no">4,1 pF</answer>
+      <answer correct="no">40 pF</answer>
+    </question>
+    

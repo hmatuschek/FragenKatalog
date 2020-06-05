@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ505" name="A/TJ505">
+      <text>
+        <p>Welches der folgenden Messgeräte ist für genaue Frequenzmessungen am besten geeignet?</p>
+      </text>
+      <answer correct="yes">Frequenzzähler</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Oszilloskop</answer>
+      <answer correct="no">Dipmeter</answer>
+    </question>
+    

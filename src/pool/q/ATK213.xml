@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK213" name="A/TK213">
+      <text>
+        <p>Ein SSB-Sender wird Störungen auf benachbarten Frequenzen hervorrufen, wenn</p>
+      </text>
+      <answer correct="yes">der Leistungsverstärker übersteuert wird.</answer>
+      <answer correct="no">das Antennenkabel einen Wackelkontakt hat.</answer>
+      <answer correct="no">die Ansteuerung der NF-Stufe zu gering ist.</answer>
+      <answer correct="no">das Ausgangs-PI-Filter falsch abgestimmt ist.</answer>
+    </question>
+    

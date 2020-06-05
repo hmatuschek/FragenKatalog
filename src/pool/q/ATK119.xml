@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK119" name="A/TK119">
+      <text>
+        <p>Während einer ATV-Aussendung erscheint das Bild auch auf dem Fernsehgerät der Nachbarn. Eine mögliche Abhilfe der Störung wäre die</p>
+      </text>
+      <answer correct="yes">Verminderung der Ausgangsleistung.</answer>
+      <answer correct="no">Erhöhung des Modulationsgrades der ATV-Aussendung.</answer>
+      <answer correct="no">Verringerung von Bildkontrast und -helligkeit beim Nachbarn.</answer>
+      <answer correct="no">Verbesserung der Seitenbandunterdrückung beim Nachbarn.</answer>
+    </question>
+    

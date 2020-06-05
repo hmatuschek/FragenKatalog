@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD210" name="V/VD210">
+      <text>
+        <p>Welche der folgenden Amateurfunkrufzeichen werden in Deutschland auch zugeteilt?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Klubstationen mit 1-buchstabigem oder 4- bis 7-stelligem Suffix, das mit einem Buchstaben endet.</answer>
+      <answer correct="no">Rufzeichen mit 1- bis 7-stelligem Suffix als personengebundenes Rufzeichen gemäß § 3 Abs. 1 des Amateurfunkgesetzes.</answer>
+      <answer correct="no">Rufzeichen für Relaisfunkstellen und Funkbaken mit 1-buchstabigem oder mit 4- bis 7-stelligem Suffix.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen mit 1-buchstabigem oder mit 4- bis 7-stelligem Präfix, dessen letztes Zeichen eine Ziffer sein muss.</answer>
+    </question>
+    

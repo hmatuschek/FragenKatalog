@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE411" name="B/BE411">
+      <text>
+        <p>Die Begriffe 1) OSCAR, 2) Uplink, 3) Downlink, 4) Azimut/Elevation bedeuten in der angegebenen Reihenfolge:</p>
+      </text>
+      <answer correct="yes">
+        1) Umlaufender Satellit, der Amateurfunktechnik beinhaltet
+        <br />
+        2) Senderichtung von der Erde zum Satelliten
+        <br />
+        3) Senderichtung vom Satelliten zur Erde
+        <br />
+        4) Horizontale / vertikale Winkelangaben
+      </answer>
+      <answer correct="no">
+        1) Umlaufender Satellit, der Amateurfunktechnik beinhaltet
+        <br />
+        2) Senderichtung vom Satelliten zur Erde
+        <br />
+        3) Senderichtung von der Erde zum Satelliten
+        <br />
+        4) Horizontale / vertikale Entfernungsangaben
+      </answer>
+      <answer correct="no">
+        1) Ortsfester Satellit der Amateurfunktechnik beinhaltet
+        <br />
+        2) Senderichtung vom Satelliten zur Erde
+        <br />
+        3) Senderichtung von der Erde zum Satelliten
+        <br />
+        4) Horizontale / vertikale Winkelangaben
+      </answer>
+      <answer correct="no">
+        1) Ortsfester Satellit, der Amateurfunktechnik beinhaltet
+        <br />
+        2) Senderichtung von der Erde zum Satelliten
+        <br />
+        3) Senderichtung vom Satelliten zur Erde
+        <br />
+        4) Horizontale / vertikale Längenangaben zur Berechnung der Laufzeiten
+      </answer>
+    </question>
+    

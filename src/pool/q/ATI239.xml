@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI239" name="A/TI239">
+      <text>
+        <p>Welches dieser Frequenzbänder kann am ehesten bei einem Sonnenfleckenminimum für dauerhafte Weitverkehrsverbindungen verwendet werden?</p>
+      </text>
+      <answer correct="yes">14 MHz</answer>
+      <answer correct="no">3,5 MHz</answer>
+      <answer correct="no">28 MHz</answer>
+      <answer correct="no">7 MHz</answer>
+    </question>
+    

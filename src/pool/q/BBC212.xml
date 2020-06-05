@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC212" name="B/BC212">
+      <text>
+        <p>Welcher Frequenzbereich soll im 20-m-Band auf Empfehlung der Internationalen Amateur Radio Union bevorzugt für SSB genutzt werden?</p>
+      </text>
+      <answer correct="yes">14112-14350 kHz</answer>
+      <answer correct="no">14000-14350 kHz</answer>
+      <answer correct="no">14030-14150 kHz</answer>
+      <answer correct="no">14100-14300 kHz</answer>
+    </question>
+    

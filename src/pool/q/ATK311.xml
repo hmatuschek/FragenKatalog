@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK311" name="A/TK311">
+      <text>
+        <p>Die Einfügungsdämpfung im Durchlassbereich eines passiven Hochpassfilters für ein Fernsehantennenkabel sollte</p>
+      </text>
+      <answer correct="yes">höchstens 2 bis 3 dB betragen.</answer>
+      <answer correct="no">höchstens 10 bis 15 dB betragen.</answer>
+      <answer correct="no">mindestens 40 bis 60 dB betragen.</answer>
+      <answer correct="no">mindestens 80 bis 100 dB betragen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH324" name="A/TH324">
+      <text>
+        <p>Welche Leitungen sollten für die HF-Verbindungen zwischen Einrichtungen in der Amateurfunkstelle verwendet werden, um unerwünschte Abstrahlungen zu vermeiden?</p>
+      </text>
+      <answer correct="yes">Hochwertige asymmetrische Koaxialkabel</answer>
+      <answer correct="no">Symmetrische Feederleitungen</answer>
+      <answer correct="no">Unabgestimmte Speiseleitungen</answer>
+      <answer correct="no">Hochwertige abgeschirmte Netzanschlusskabel</answer>
+    </question>
+    

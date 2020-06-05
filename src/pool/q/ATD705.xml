@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD705" name="A/TD705">
+      <text>
+        <p>Die Ausgangsfrequenz eines VCO ändert sich von 16,5 MHz auf 16,75 MHz, wenn sich die Regelspannung von 5,1 V auf 7,6 V ändert. Welche Regelempfindlichkeit hat der VCO?</p>
+      </text>
+      <answer correct="yes">100 kHz /V</answer>
+      <answer correct="no">250 kHz/V</answer>
+      <answer correct="no">50 kHz /V</answer>
+      <answer correct="no">1 MHz/V</answer>
+    </question>
+    

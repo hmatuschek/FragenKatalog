@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC138" name="V/VC138">
+      <text>
+        <p>Die Bundesnetzagentur kann bei Verstößen gegen AFuG oder AFuV</p>
+      </text>
+      <answer correct="yes">eine Einschränkung des Betriebes oder die Außerbetriebnahme der Amateurfunkstelle anordnen.</answer>
+      <answer correct="no">einen sofortigen Abbau der Amateurfunkstelle noch vor Ort anordnen.</answer>
+      <answer correct="no">ein Unbrauchbarmachen der Amateurfunkstelle durch Entnahme wichtiger Teile aus dem Sender anordnen.</answer>
+      <answer correct="no">eine kostenpflichtige fachliche Nachprüfung anordnen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC143" name="V/VC143">
+      <text>
+        <p>Welche der nachfolgenden Handlungen stellt eine Ordnungswidrigkeit im Sinne des Amateurfunkgesetzes dar?</p>
+      </text>
+      <answer correct="yes">Der Betrieb einer Amateurfunkstelle ohne Amateurfunkzulassung.</answer>
+      <answer correct="no">Die Nachrichtenübermittlung in Not- und Katastrophenfällen an Dritte.</answer>
+      <answer correct="no">Die Verletzung der Pflicht zur Führung eines Stationstagebuches.</answer>
+      <answer correct="no">Die Nichteinhaltung der Personenschutzgrenzwerte.</answer>
+    </question>
+    

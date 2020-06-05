@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE101" name="V/VE101">
+      <text>
+        <p>Wo sind die ausführlichen Nutzungsbedingungen und die ausgewiesenen Frequenzbereiche für den Amateurfunkdienst in Deutschland zu finden?</p>
+      </text>
+      <answer correct="yes">In der Anlage 1 der Amateurfunkverordnung (AFuV).</answer>
+      <answer correct="no">In Artikel 5 der VO Funk.</answer>
+      <answer correct="no">Im Frequenznutzungsplan.</answer>
+      <answer correct="no">In der Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV).</answer>
+    </question>
+    

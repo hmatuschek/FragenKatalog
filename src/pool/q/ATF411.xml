@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF411" name="A/TF411">
+      <text>
+        <p>In dem dargestellten Diagramm beträgt die Grenzbandbreite bei -60 dB etwa</p>
+        <img src="Atf410" />
+      </text>
+      <answer correct="yes">4 kHz.</answer>
+      <answer correct="no">5,6 kHz.</answer>
+      <answer correct="no">6 kHz.</answer>
+      <answer correct="no">2,5 kHz.</answer>
+    </question>
+    

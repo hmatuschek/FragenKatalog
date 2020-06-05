@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB302" name="B/BB302">
+      <text>
+        <p>Was bedeuten die Buchstaben RST, mit denen Sie die Sendung Ihrer Gegenstation beurteilen können?</p>
+      </text>
+      <answer correct="yes">
+        R = Lesbarkeit,
+        <br />
+        S = Signalstärke,
+        <br />
+        T = Tonqualität
+      </answer>
+      <answer correct="no">
+        R = Rufzeichen,
+        <br />
+        S = Signalstärke,
+        <br />
+        T = Tonqualität
+      </answer>
+      <answer correct="no">
+        R = Lesbarkeit,
+        <br />
+        S = Signalstärke,
+        <br />
+        T = Trägerfrequenz
+      </answer>
+      <answer correct="no">
+        R = Rufzeichen,
+        <br />
+        S = Standort,
+        <br />
+        T = Tonqualität
+      </answer>
+    </question>
+    

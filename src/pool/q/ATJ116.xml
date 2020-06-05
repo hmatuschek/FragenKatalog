@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ116" name="A/TJ116">
+      <text>
+        <p>Welche Spannung wird bei dem folgenden Messinstrument angezeigt, wenn dessen Messbereich auf 10 V eingestellt ist?</p>
+        <img src="Atj116" />
+      </text>
+      <answer correct="yes">2,93 V</answer>
+      <answer correct="no">29,3 V</answer>
+      <answer correct="no">8,8 V</answer>
+      <answer correct="no">88 V</answer>
+    </question>
+    

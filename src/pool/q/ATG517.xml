@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG517" name="A/TG517">
+      <text>
+        <p>Welche Harmonische eines 70-cm-Senders führt am ehesten zu Störungen im UHF-Bereich?</p>
+      </text>
+      <answer correct="yes">Die zweite Harmonische</answer>
+      <answer correct="no">Die dritte Harmonische</answer>
+      <answer correct="no">Die vierte Harmonische</answer>
+      <answer correct="no">Die fünfte Harmonische</answer>
+    </question>
+    

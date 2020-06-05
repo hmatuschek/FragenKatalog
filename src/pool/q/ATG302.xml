@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG302" name="A/TG302">
+      <text>
+        <p>Was kann man bezüglich der Ausgangsleistung eines SSB-Senders in Abhängigkeit von der Modulation aussagen?</p>
+      </text>
+      <answer correct="yes">Sie ist sehr gering, wenn der Sender nicht moduliert wird.</answer>
+      <answer correct="no">Sie ist unabhängig von der Modulation.</answer>
+      <answer correct="no">Sie reduziert sich um 50 %, wenn der Sender moduliert wird.</answer>
+      <answer correct="no">Sie ist am höchsten, wenn der Sender nicht moduliert wird.</answer>
+    </question>
+    

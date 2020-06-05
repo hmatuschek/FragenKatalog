@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF110" name="B/BF110">
+      <text>
+        <p>Nach den Empfehlungen der International Amateur Radio Union gibt es bei 14300, 18160 und 21360 kHz so genannte Aktivitätszentren für Notfunkverkehr. Was ist das besondere an diesen Frequenzen?</p>
+      </text>
+      <answer correct="yes">Sie dürfen weltweit für den Notfunkverkehr im Amateurfunk benutzt werden.</answer>
+      <answer correct="no">Sie dürfen nur für den Notfunkverkehr innerhalb der eigenen Landesgrenze benutzt werden.</answer>
+      <answer correct="no">Sie dürfen nur für den Notfunk innerhalb der IARU-Region 1 verwendet werden.</answer>
+      <answer correct="no">Sie haben keine besondere Bedeutung.</answer>
+    </question>
+    

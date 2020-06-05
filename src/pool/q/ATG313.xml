@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG313" name="A/TG313">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">eine HF-Endstufe mit einer Triode in Gitterbasisschaltung.</answer>
+      <answer correct="no">einen HF-Oszillator mit Katodenmodulation.</answer>
+      <answer correct="no">eine UKW-Vorstufe mit einer Triode in Katodenbasisschaltung.</answer>
+      <answer correct="no">ein Pendelaudion mit Selbstüberlagerung.</answer>
+    </question>
+    

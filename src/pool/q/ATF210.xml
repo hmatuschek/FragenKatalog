@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF210" name="A/TF210">
+      <text>
+        <p>Welchen Frequenzbereich kann der VFO des im folgenden Blockschaltbild gezeichneten HF-Teils eines Empfängers haben?</p>
+        <img src="Atf210" />
+      </text>
+      <answer correct="yes">20 bis 47 MHz oder 53...80 MHz</answer>
+      <answer correct="no">20 bis 47 MHz oder 47...74 MHz</answer>
+      <answer correct="no">23 bis 41 MHz oder 53...80 MHz</answer>
+      <answer correct="no">23 bis 41 MHz oder 47...74 MHz</answer>
+    </question>
+    

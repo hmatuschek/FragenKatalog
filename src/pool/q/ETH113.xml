@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH113" name="E/TH113">
+      <text>
+        <p>An welchem Element einer Yagi-Antenne erfolgt die Energieeinspeisung? Sie erfolgt am</p>
+      </text>
+      <answer correct="yes">Strahler</answer>
+      <answer correct="no">Direktor</answer>
+      <answer correct="no">Reflektor</answer>
+      <answer correct="no">Strahler und am Reflektor gleichzeitig</answer>
+    </question>
+    

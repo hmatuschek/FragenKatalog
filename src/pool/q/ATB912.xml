@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB912" name="A/TB912">
+      <text>
+        <p>Gelten die Formeln für die Leistung an einem ohmschen Widerstand auch bei Wechselspannung?</p>
+      </text>
+      <answer correct="yes">Ja, es sind aber die Effektivwerte einzusetzen.</answer>
+      <answer correct="no">Nein, denn Spannung und Strom ändern sich laufend.</answer>
+      <answer correct="no">Ja, es darf aber immer nur mit den Spitzenwerten gerechnet werden.</answer>
+      <answer correct="no">Nein, denn Spannung und Strom sind um den Phasenwinkel Phi verschoben.</answer>
+    </question>
+    

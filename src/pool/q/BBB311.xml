@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB311" name="B/BB311">
+      <text>
+        <p>Wie wird ein Aurora-Signal in Telegrafie beurteilt? Es wird beurteilt mit</p>
+      </text>
+      <answer correct="yes">R, S und "A" für Aurora, da der Ton bei Aurora sehr rau ist und nicht beurteilt werden kann.</answer>
+      <answer correct="no">R, S, T.</answer>
+      <answer correct="no">R und T, da Aurora als Lineartransponder wirkt.</answer>
+      <answer correct="no">R, S, T und "A" für Aurora.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD225" name="A/TD225">
+      <text>
+        <p>Im folgenden Bild ist ein Filter dargestellt. Es handelt sich um ein</p>
+        <img src="Atd225" />
+      </text>
+      <answer correct="yes">Hochpassfilter.</answer>
+      <answer correct="no">Sperrfilter.</answer>
+      <answer correct="no">Tiefpassfilter.</answer>
+      <answer correct="no">Notchfilter in Verbindung mit einem Hochpassfilter.</answer>
+    </question>
+    

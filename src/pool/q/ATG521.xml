@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG521" name="A/TG521">
+      <text>
+        <p>Die dritte Harmonische einer 29,5-MHz-Aussendung fällt in</p>
+      </text>
+      <answer correct="yes">den FM-Rundfunkbereich.</answer>
+      <answer correct="no">den VHF-Fernsehbereich.</answer>
+      <answer correct="no">den UKW-Betriebsfunk-Bereich.</answer>
+      <answer correct="no">den 2-m-Amateurfunkbereich.</answer>
+    </question>
+    

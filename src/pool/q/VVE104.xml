@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE104" name="V/VE104">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (160-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">1810 kHz - 2000 kHz</answer>
+      <answer correct="no">1805 kHz - 1850 kHz</answer>
+      <answer correct="no">1800 kHz - 1900 kHz</answer>
+      <answer correct="no">1800 kHz - 1990 kHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG204" name="A/TG204">
+      <text>
+        <p>Wie können Tastklicks bei einem CW-Sender, die in einem Empfänger zu hören sind, verringert werden? Sie können verringert werden durch</p>
+      </text>
+      <answer correct="yes">Verrundung der Flanken des Tastsignals.</answer>
+      <answer correct="no">Verwendung einer nicht abgeschirmten Leitung zur Taste.</answer>
+      <answer correct="no">Verwendung eines sehr kleinen Hubes an der Taste.</answer>
+      <answer correct="no">langsamere Tastung.</answer>
+    </question>
+    

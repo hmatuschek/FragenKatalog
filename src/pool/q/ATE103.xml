@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE103" name="A/TE103">
+      <text>
+        <p>Auf welcher Frequenz sollte der Schwebungston eines BFO für den Empfang von CW-Signalen ungefähr liegen?</p>
+      </text>
+      <answer correct="yes">800 Hz</answer>
+      <answer correct="no">200 Hz</answer>
+      <answer correct="no">2,3 kHz</answer>
+      <answer correct="no">455 kHz</answer>
+    </question>
+    

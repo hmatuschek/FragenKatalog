@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF324" name="A/TF324">
+      <text>
+        <p>Wie verhält sich der Kollektorstrom eines NPN-Transistors in einer HF-Verstärkerstufe im B-Betrieb, wenn die Basisspannung erhöht wird?</p>
+      </text>
+      <answer correct="yes">Er nimmt erheblich zu.</answer>
+      <answer correct="no">Er verringert sich geringfügig.</answer>
+      <answer correct="no">Er bleibt konstant.</answer>
+      <answer correct="no">Er nimmt erheblich ab.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ814" name="A/TJ814">
+      <text>
+        <p>Ein abgestimmter Kreis wird mit einem Dipmeter geprüft. Um eine Änderung der Resonanzfrequenz zu vermeiden, ist</p>
+      </text>
+      <answer correct="yes">eine verhältnismäßig lose Kopplung erforderlich.</answer>
+      <answer correct="no">Widerstandskopplung erforderlich.</answer>
+      <answer correct="no">eine starke Kopplung erforderlich.</answer>
+      <answer correct="no">höchstmögliche Kopplung erforderlich.</answer>
+    </question>
+    

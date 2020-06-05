@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB109" name="V/VB109">
+      <text>
+        <p>Wie muss die Rufzeichennennung von DL1ER bei der Nutzung der CEPT-Amateurfunkgenehmigung in der Schweiz erfolgen?</p>
+      </text>
+      <answer correct="yes">HB9/DL1ER</answer>
+      <answer correct="no">DL1ER/HB9</answer>
+      <answer correct="no">Die Nennung von DL1ER ist ausreichend.</answer>
+      <answer correct="no">DL1ER-HB9/portabel oder DL1ER-HB9/mobil.</answer>
+    </question>
+    

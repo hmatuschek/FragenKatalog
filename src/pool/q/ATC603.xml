@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC603" name="A/TC603">
+      <text>
+        <p>Der folgende Transistor ist ein</p>
+        <img src="Atc603" />
+      </text>
+      <answer correct="yes">Selbstsperrender N-Kanal-Isolierschicht FET (MOSFET).</answer>
+      <answer correct="no">Selbstsperrender P-Kanal-Isolierschicht FET (MOSFET).</answer>
+      <answer correct="no">Selbstleitender N-Kanal-Isolierschicht FET (MOSFET).</answer>
+      <answer correct="no">Selbstleitender P-Kanal-Isolierschicht FET (MOSFET).</answer>
+    </question>
+    

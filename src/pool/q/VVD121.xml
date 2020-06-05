@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD121" name="V/VD121">
+      <text>
+        <p>Ist das Aussenden des unmodulierten oder ungetasteten Trägers zulässig?</p>
+      </text>
+      <answer correct="yes">Ja, kurzzeitig, z.B. zum Abstimmen.</answer>
+      <answer correct="no">Ja, unbegrenzt, es wird ja keine Information übertragen.</answer>
+      <answer correct="no">Nein, weil sonst die Endstufe zu heiß wird.</answer>
+      <answer correct="no">So lange bis ein Ruf wahrgenommen wird.</answer>
+    </question>
+    

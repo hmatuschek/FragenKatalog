@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD611" name="A/TD611">
+      <text>
+        <p>"Chirp" ist eine Form der Frequenzinstabilität. Es wird hervorgerufen durch</p>
+      </text>
+      <answer correct="yes">Frequenzänderungen des Oszillators z.B. durch zu schwach ausgelegte Stromversorgung.</answer>
+      <answer correct="no">Frequenzänderungen des Oszillators, weil die Tastung auf der falschen Stufe erfolgt.</answer>
+      <answer correct="no">Phasensprung der Oszillatorfrequenz durch zu steile Flanken des Tastsignals.</answer>
+      <answer correct="no">Kontaktprellungen am Tastrelais.</answer>
+    </question>
+    

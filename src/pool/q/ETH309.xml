@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH309" name="E/TH309">
+      <text>
+        <p>Welche Vorteile hat eine Paralleldraht-Speiseleitung gegenüber der Speisung über ein Koaxialkabel?</p>
+      </text>
+      <answer correct="yes">Sie hat geringere Dämpfung und hohe Spannungsfestigkeit.</answer>
+      <answer correct="no">Sie vermeidet Mantelwellen durch Wegfall der Abschirmung.</answer>
+      <answer correct="no">Sie erlaubt leichtere Kontrolle des Wellenwiderstandes durch Verschieben der Spreizer.</answer>
+      <answer correct="no">Sie bietet guten Blitzschutz durch niederohmige Drähte.</answer>
+    </question>
+    

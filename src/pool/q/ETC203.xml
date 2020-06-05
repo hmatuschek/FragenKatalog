@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC203" name="E/TC203">
+      <text>
+        <p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p>
+        <img src="ETC203" />
+      </text>
+      <answer correct="yes">330 μF</answer>
+      <answer correct="no">3,3 μF</answer>
+      <answer correct="no">33 μF</answer>
+      <answer correct="no">33000 μF</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC528" name="A/TC528">
+      <text>
+        <p>In welcher der folgenden Schaltungen ist die Diode zur Spannungsbegrenzung einer Schaltstufe richtig eingesetzt?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc528a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc528b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc528c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc528d" />
+      </answer>
+    </question>
+    

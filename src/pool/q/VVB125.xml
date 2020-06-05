@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB125" name="V/VB125">
+      <text>
+        <p>Welche der folgenden Aussagen ist richtig?</p>
+      </text>
+      <answer correct="yes">Die CEPT-Novice-Amateurfunk-Prüfungsbescheinigung kann die Erteilung einer entsprechenden Novice-Individualgenehmigung für Funkamateure in einem anderen Land vereinfachen.</answer>
+      <answer correct="no">Die CEPT-Novice-Amateurfunk-Prüfungsbescheinigung berechtigt den Inhaber zur Durchführung von Amateurfunkbetrieb gemäß der ECC-Empfehlung (05)06.</answer>
+      <answer correct="no">Die CEPT-Novice-Amateurfunk-Prüfungsbescheinigung berechtigt den Inhaber zur Durchführung von Amateurfunkbetrieb gemäß der CEPT-Empfehlung T/R 61-01.</answer>
+      <answer correct="no">Die CEPT-Novice-Amateurfunk-Prüfungsbescheinigung ist in allen im ERC-Report 32 genannten CEPT-Ländern anerkannt. Sie berechtigt den Inhaber zur Beantragung eines ausländischen Rufzeichens für den vorübergehenden Aufenthalt.</answer>
+    </question>
+    

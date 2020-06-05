@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD305" name="B/BD305">
+      <text>
+        <p>Welche Landeskenner sind afrikanischen Ländern zugewiesen?</p>
+      </text>
+      <answer correct="yes">SU, 3V, ZS, 9X, 5H</answer>
+      <answer correct="no">EL, LU, VK, VU, ZL</answer>
+      <answer correct="no">ZS, ZL, PY, 3V, 5B</answer>
+      <answer correct="no">ST, VU, XE, OK, 4N</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC505" name="A/TC505">
+      <text>
+        <p>Wie ändert sich die Durchlassspannung einer Diode mit der Temperatur?</p>
+      </text>
+      <answer correct="yes">Die Spannung sinkt bei steigender Temperatur.</answer>
+      <answer correct="no">Die Spannung hängt allein vom Durchlassstrom ab.</answer>
+      <answer correct="no">Die Spannung hängt nur vom Trägermaterial ab (Germanium/Silizium).</answer>
+      <answer correct="no">Die Spannung steigt bei wachsender Temperatur.</answer>
+    </question>
+    

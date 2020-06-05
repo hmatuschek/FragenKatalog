@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD603" name="A/TD603">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atd603" />
+      </text>
+      <answer correct="yes">einen LC-Oszillator in induktiver Dreipunktschaltung.</answer>
+      <answer correct="no">einen LC-Oszillator in kapazitiver Dreipunktschaltung.</answer>
+      <answer correct="no">einen Oberton-Oszillator in Kollektorschaltung.</answer>
+      <answer correct="no">einen Oberton-Oszillator in Emitterschaltung.</answer>
+    </question>
+    

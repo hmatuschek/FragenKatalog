@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE113" name="B/BE113">
+      <text>
+        <p>Eine Station ruft auf VHF/UHF "CQ" mit dem Zusatz "DX". Wann sollten Sie antworten?</p>
+      </text>
+      <answer correct="yes">Nur bei Stationen, die erkennbar einige hundert Kilometer entfernt sind, ggf., wenn nach mehrmaligen erfolglosen Anrufen niemand antwortet.</answer>
+      <answer correct="no">Nur wenn die Entfernung zwischen beiden Stationen höchstens 500 km beträgt und sonst niemand auf den Anruf antwortet.</answer>
+      <answer correct="no">Nur wenn ich als hörende Station die rufende Station mit guter Lautstärke empfange.</answer>
+      <answer correct="no">Nur wenn es sich bei der anrufenden Station um eine außereuropäische Station handelt oder wenn - nach mehrmaligen erfolglosen Anrufen - niemand antwortet.</answer>
+    </question>
+    

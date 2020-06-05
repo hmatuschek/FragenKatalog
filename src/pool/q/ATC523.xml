@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC523" name="A/TC523">
+      <text>
+        <p>Die Hauptfunktion eines Optokopplers ist</p>
+      </text>
+      <answer correct="yes">die Entkopplung zweier Stromkreise.</answer>
+      <answer correct="no">die Erzeugung von Wechselstrom durch Licht.</answer>
+      <answer correct="no">die Abgabe von Licht zur Signalanzeige.</answer>
+      <answer correct="no">die Erzeugung von Gleichstrom durch Licht.</answer>
+    </question>
+    

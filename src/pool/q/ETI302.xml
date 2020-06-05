@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI302" name="E/TI302">
+      <text>
+        <p>Überhorizontverbindungen im UHF/VHF-Bereich kommen u.a. zustande durch</p>
+      </text>
+      <answer correct="yes">Streuung der Wellen an troposphärischen Bereichen unterschiedlicher Beschaffenheit.</answer>
+      <answer correct="no">Reflexion der Wellen in der Troposphäre durch das Auftreten sporadischer D-Schichten.</answer>
+      <answer correct="no">Polarisationsdrehungen in der Troposphäre bei hoch liegender Bewölkung.</answer>
+      <answer correct="no">Polarisationsdrehungen in der Troposphäre an Gewitterfronten.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC105" name="E/TC105">
+      <text>
+        <p>Welches Bauteil hat folgendes Schaltzeichen?</p>
+        <img src="ETC105" />
+      </text>
+      <answer correct="yes">NTC</answer>
+      <answer correct="no">PTC</answer>
+      <answer correct="no">LDR</answer>
+      <answer correct="no">VDR</answer>
+    </question>
+    

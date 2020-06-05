@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC626" name="A/TC626">
+      <text>
+        <p>
+          Folgendes Signal U
+          <sub>E</sub>
+           wurde auf den Eingang folgender Schaltung gegeben. In welcher Antwort sind alle dargestellten Signale phasenrichtig zugeordnet?
+        </p>
+        <img src="Atc626" />
+      </text>
+      <answer correct="yes">
+        <img src="Atc626a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc626b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc626c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc626d" />
+      </answer>
+    </question>
+    

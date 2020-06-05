@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI207" name="E/TI207">
+      <text>
+        <p>Was versteht man unter dem Begriff "Mögel-Dellinger-Effekt"?</p>
+      </text>
+      <answer correct="yes">Den totalen, zeitlich begrenzten Ausfall der Reflexion in der Ionosphäre.</answer>
+      <answer correct="no">Den zeitlich begrenzten Schwund durch Mehrwegeausbreitung in der Ionosphäre.</answer>
+      <answer correct="no">Die zeitlich begrenzt auftretende Verzerrung der Modulation.</answer>
+      <answer correct="no">Das Übersprechen der Modulation eines starken Senders auf andere, über die Ionosphäre übertragene HF-Signale.</answer>
+    </question>
+    

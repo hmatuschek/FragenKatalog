@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD119" name="V/VD119">
+      <text>
+        <p>Welche technischen Anforderungen stellt die Amateurfunkverordnung u. a. an eine Amateurfunksendeanlage?</p>
+      </text>
+      <answer correct="yes">Die Amateurfunkstelle ist nach den allgemein anerkannten Regeln der Technik einzurichten und zu unterhalten.</answer>
+      <answer correct="no">Es dürfen, zur Verminderung von Störungen, nur noch transistorisierte, CE gekennzeichnete Sendefunkanlagen eingesetzt werden. Endstufen dürfen jedoch weiterhin mit Röhren betrieben werden.</answer>
+      <answer correct="no">Die Antenne der Amateurfunkstelle muss über eine koaxiale Zuleitung mit dem Sender bzw. der Endstufe verbunden werden.</answer>
+      <answer correct="no">Die Sendefunkanlage darf bauartbedingt keine höhere Leistung erzeugen können, als der Funkamateur in seiner Zeugnisklasse verwenden darf.</answer>
+    </question>
+    

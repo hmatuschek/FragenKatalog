@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK205" name="A/TK205">
+      <text>
+        <p>Durch welche Maßnahme können Tastklicks verringert werden? Durch</p>
+      </text>
+      <answer correct="yes">die Verringerung der Flankensteilheit.</answer>
+      <answer correct="no">die Vergrößerung der Flankensteilheit.</answer>
+      <answer correct="no">den Einsatz eines Bandpassfilters.</answer>
+      <answer correct="no">die Verringerung des Tastenhubes.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC612" name="A/TC612">
+      <text>
+        <p>Wie groß ist die Basisspannung eines NPN-Silizium- Transistors, wenn sich dieser in leitendem Zustand befindet?</p>
+      </text>
+      <answer correct="yes">Sie ist etwa 0,6 V höher als die Emitterspannung.</answer>
+      <answer correct="no">Sie entspricht der Kollektorspannung.</answer>
+      <answer correct="no">Sie ist viel höher als die Emitterspannung.</answer>
+      <answer correct="no">Sie liegt etwa 0,6V unter der Emitterspannung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB111" name="V/VB111">
+      <text>
+        <p>Darf ein Funkamateur mit einer CEPT-Amateurfunkgenehmigung in allen CEPT-Ländern Amateurfunkverkehr abwickeln?</p>
+      </text>
+      <answer correct="yes">Nein, nur in den Staaten der CEPT, die die Empfehlung T/R 61-01 umgesetzt haben, sofern er dort keinen festen Wohnsitz hat.</answer>
+      <answer correct="no">Ja. Alle CEPT-Mitgliedsländer müssen sich an die Empfehlung T/R 61-01 halten.</answer>
+      <answer correct="no">Nein. Die Anwendung der CEPT-Empfehlung T/R 61-01 ist nur in den Mitgliedsstaaten der Europäischen Union zulässig.</answer>
+      <answer correct="no">Ja. Er muss sich aber an die Amateurfunkregelungen des Heimatlandes halten.</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE304" name="E/TE304">
+      <text>
+        <p>
+          Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)?
+          <br />
+          Ein TNC
+        </p>
+      </text>
+      <answer correct="yes">besteht aus einem Modem und dem Controller für die digitale Aufbereitung der Daten.</answer>
+      <answer correct="no">wandelt nur die Töne in digitale Daten und schickt diese an den PC.</answer>
+      <answer correct="no">wandelt nur die Töne in digitale Daten und schickt diese an den Sender.</answer>
+      <answer correct="no">ist ein Modem (Modulator und Demodulator) für digitale Signale.</answer>
+    </question>
+    

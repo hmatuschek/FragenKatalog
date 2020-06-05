@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH219" name="A/TH219">
+      <text>
+        <p>Für die Erzeugung von zirkularer Polarisation mit Yagi-Antennen wird eine horizontale und eine dazu um 90 Grad um die Strahlungsachse gedrehte Yagi-Antenne zusammengeschaltet. Was ist dabei zu beachten, damit tatsächlich zirkulare Polarisation entsteht?</p>
+      </text>
+      <answer correct="yes">Bei einer der Antennen muss die Welle um λ/4 verzögert werden. Dies kann entweder durch eine zusätzlich eingefügte Viertelwellen- Verzögerungsleitung oder durch mechanische "Verschiebung" beider Yagi-Antennen um λ/4 gegeneinander hergestellt werden.</answer>
+      <answer correct="no">Bei einer der Antennen muss die Welle um λ/2 verzögert werden. Dies kann entweder durch eine zusätzlich eingefügte λ/2-Verzögerungsleitung oder durch mechanische "Verschiebung" beider Yagi-Antennen um λ/2 gegeneinander hergestellt werden.</answer>
+      <answer correct="no">Die Zusammenschaltung der Antennen muss über eine Halbwellen-Lecherleitung erfolgen. Zur Anpassung an den Wellenwiderstand muss zwischen der Speiseleitung und den Antennen noch ein λ/4-Transformationsstück eingefügt werden.</answer>
+      <answer correct="no">Die kreuzförmig angeordneten Elemente der beiden Antennen sind um 45° zu verdrehen, so dass in der Draufsicht ein liegendes Kreuz gebildet wird. Die Antennen werden über Leitungsstücke gleicher Länge parallel geschaltet. Die Anpassung erfolgt mit einem Symmetrierglied.</answer>
+    </question>
+    

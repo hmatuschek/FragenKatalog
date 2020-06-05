@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA120" name="A/TA120">
+      <text>
+        <p>Welche Frequenz entspricht einer Wellenlänge von 30 mm im Freiraum?</p>
+      </text>
+      <answer correct="yes">10 GHz</answer>
+      <answer correct="no">100 MHz</answer>
+      <answer correct="no">1 MHz</answer>
+      <answer correct="no">100 kHz</answer>
+    </question>
+    

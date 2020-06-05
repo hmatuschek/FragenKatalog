@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ603" name="A/TJ603">
+      <text>
+        <p>Das einfachste Gerät, mit dem geprüft werden kann, ob ein Quarz mit dem richtigen Oberton arbeitet, ist ein</p>
+      </text>
+      <answer correct="yes">Absorptionsfrequenzmesser.</answer>
+      <answer correct="no">Digitalvoltmeter.</answer>
+      <answer correct="no">Hitzdraht-Amperemeter.</answer>
+      <answer correct="no">Breitband-Pegelmesser.</answer>
+    </question>
+    

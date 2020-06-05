@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB915" name="A/TB915">
+      <text>
+        <p>Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Wie hoch ist die Stromentnahme bei einer 12-V-Versorgung?</p>
+      </text>
+      <answer correct="yes">4 A</answer>
+      <answer correct="no">250 mA</answer>
+      <answer correct="no">750 mA</answer>
+      <answer correct="no">36 A</answer>
+    </question>
+    

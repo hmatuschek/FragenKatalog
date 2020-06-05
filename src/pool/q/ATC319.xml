@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC319" name="A/TC319">
+      <text>
+        <p>Durch Gegeninduktion wird in einer Spule eine Spannung erzeugt, wenn</p>
+      </text>
+      <answer correct="yes">ein veränderlicher Strom durch eine magnetisch gekoppelte benachbarte Spule fließt.</answer>
+      <answer correct="no">durch eine magnetisch gekoppelte benachbarte Spule kein Strom fließt.</answer>
+      <answer correct="no">ein konstanter Gleichstrom durch eine magnetisch gekoppelte benachbarte Spule fließt.</answer>
+      <answer correct="no">sich die Spule in einem konstanten Magnetfeld befindet.</answer>
+    </question>
+    

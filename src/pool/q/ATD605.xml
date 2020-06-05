@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD605" name="A/TD605">
+      <text>
+        <p>Bei dieser Oszillatorschaltung handelt es sich um einen kapazitiv rückgekoppelten Quarz-Oszillator in</p>
+        <img src="Atd605" />
+      </text>
+      <answer correct="yes">Basisschaltung, in der der Quarz in Serienresonanz betrieben wird.</answer>
+      <answer correct="no">Basisschaltung, in der der Quarz in Parallelresonanz betrieben wird.</answer>
+      <answer correct="no">Emitterschaltung, in der der Quarz in Parallelresonanz betrieben wird.</answer>
+      <answer correct="no">Emitterschaltung, in der der Quarz in Serienresonanz betrieben wird.</answer>
+    </question>
+    

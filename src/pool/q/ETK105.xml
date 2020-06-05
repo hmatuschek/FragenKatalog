@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK105" name="E/TK105">
+      <text>
+        <p>In welchem Fall spricht man von Einströmungen bei EMV? Einströmungen liegen dann vor, wenn die HF</p>
+      </text>
+      <answer correct="yes">über Leitungen oder Kabel in das zu überprüfende Gerät gelangt.</answer>
+      <answer correct="no">über das ungenügend abgeschirmte Gehäuse in die Elektronik gelangt.</answer>
+      <answer correct="no">über nicht genügend geschirmte Kabel zum Anpassgerät geführt wird.</answer>
+      <answer correct="no">wegen eines schlechten Stehwellenverhältnisses wieder zum Sender zurück strömt.</answer>
+    </question>
+    

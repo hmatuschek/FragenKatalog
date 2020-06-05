@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ827" name="A/TJ827">
+      <text>
+        <p>Worauf deutet die folgende Wellenform der Ausgangsspannung eines Leistungsverstärkers hin?</p>
+        <img src="Atj827" />
+      </text>
+      <answer correct="yes">Der Verstärker wird übersteuert und erzeugt Oberwellen.</answer>
+      <answer correct="no">Vor dem Modulator erfolgt eine Hubbegrenzung.</answer>
+      <answer correct="no">Das Ansteuersignal ist zu schwach, um den Verstärker voll auszusteuern.</answer>
+      <answer correct="no">Eine Blitzschutzpatrone begrenzt die Spannung.</answer>
+    </question>
+    

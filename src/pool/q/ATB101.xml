@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB101" name="A/TB101">
+      <text>
+        <p>Der spezifische Widerstand eines Drahtes entspricht dem Widerstand des Drahtes</p>
+      </text>
+      <answer correct="yes">bei einer Länge von 1000 mm und einem Querschnitt von 1 mm².</answer>
+      <answer correct="no">bei einer Länge von 100 mm und einem Querschnitt von 1 mm².</answer>
+      <answer correct="no">bei einer Länge von 1 m und einem Querschnitt von 0,1 mm².</answer>
+      <answer correct="no">bei einer Länge von 100 mm und einem Querschnitt von 0,1 mm².</answer>
+    </question>
+    

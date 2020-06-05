@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH202" name="A/TH202">
+      <text>
+        <p>Welchen Eingangs- bzw. Fußpunktwiderstand hat ein Faltdipol?</p>
+      </text>
+      <answer correct="yes">ca. 240 bis 300 Ω</answer>
+      <answer correct="no">ca. 30 bis 60 Ω</answer>
+      <answer correct="no">ca. 60 Ω</answer>
+      <answer correct="no">ca. 120 Ω</answer>
+    </question>
+    

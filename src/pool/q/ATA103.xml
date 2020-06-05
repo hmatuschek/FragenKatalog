@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA103" name="A/TA103">
+      <text>
+        <p>In welcher Einheit wird die Impedanz angegeben?</p>
+      </text>
+      <answer correct="yes">Ohm</answer>
+      <answer correct="no">Farad</answer>
+      <answer correct="no">Siemens</answer>
+      <answer correct="no">Henry</answer>
+    </question>
+    

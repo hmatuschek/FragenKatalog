@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC310" name="A/TC310">
+      <text>
+        <p>Mit einem Schalenkern dessen AL-Wert mit 250 angegeben ist, soll eine Spule mit einer Induktivität von 2 mH hergestellt werden. Wie groß ist die erforderliche Windungszahl?</p>
+      </text>
+      <answer correct="yes">89</answer>
+      <answer correct="no">3</answer>
+      <answer correct="no">2828</answer>
+      <answer correct="no">53</answer>
+    </question>
+    

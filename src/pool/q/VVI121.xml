@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI121" name="V/VI121">
+      <text>
+        <p>Wer muss seine Amateurfunkstelle bei der Bundesnetzagentur anzeigen?</p>
+      </text>
+      <answer correct="yes">Alle Funkamateure, die ortsfeste Amateurfunkstellen mit Strahlungsleistungen oberhalb der in der BEMFV genannten Grenze betreiben möchten.</answer>
+      <answer correct="no">Alle Funkamateure.</answer>
+      <answer correct="no">Alle Funkamateure der Zeugnisklasse A.</answer>
+      <answer correct="no">Alle Funkamateure, die auf der Kurzwelle aktiv sind.</answer>
+    </question>
+    

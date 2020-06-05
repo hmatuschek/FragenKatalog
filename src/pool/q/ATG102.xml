@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG102" name="A/TG102">
+      <text>
+        <p>Diese Schaltung ermöglicht</p>
+        <img src="Atg102" />
+      </text>
+      <answer correct="yes">die Hubbegrenzung und -einstellung bei FM-Funkgeräten.</answer>
+      <answer correct="no">die HF-Pegelbegrenzung und -einstellung bei FM-Funkgeräten.</answer>
+      <answer correct="no">die Erzeugung von Amplitudenmodulation.</answer>
+      <answer correct="no">die Erzeugung von Phasenmodulation.</answer>
+    </question>
+    

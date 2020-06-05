@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC106" name="B/BC106">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 10-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">28000 - 29700 kHz</answer>
+      <answer correct="no">18068 - 18168 kHz</answer>
+      <answer correct="no">24890 - 24990 kHz</answer>
+      <answer correct="no">21000 - 21450 kHz</answer>
+    </question>
+    

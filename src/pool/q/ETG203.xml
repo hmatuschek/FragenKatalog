@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG203" name="E/TG203">
+      <text>
+        <p>Welche Anforderungen muss ein FM-Funkgerät erfüllen, damit es für die Übertragung von Packet Radio mit 9600 Baud geeignet ist?</p>
+      </text>
+      <answer correct="yes">Es muss sende- und empfangsseitig den Frequenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein z.B. &lt; 10...100 ms.</answer>
+      <answer correct="no">Es muss sende- und empfangsseitig den Frequenzbereich von 300 Hz bis 3,4 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss zwischen 100...300 ms liegen.</answer>
+      <answer correct="no">Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein TNC oder Modem angeschlossen werden kann.</answer>
+      <answer correct="no">Es muss den Frequenzbereich von 300 Hz bis 10 kHz linear übertragen können und ein TX-Delay von kleiner 1 ms haben.</answer>
+    </question>
+    

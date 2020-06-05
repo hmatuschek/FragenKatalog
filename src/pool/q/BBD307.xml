@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD307" name="B/BD307">
+      <text>
+        <p>Welche Bedeutung hat das Rufzeichen VE8ZZ/AM?</p>
+      </text>
+      <answer correct="yes">Es handelt sich um eine Amateurfunkstelle mit einem kanadischen Rufzeichen, die in einem Luftfahrzeug betrieben wird.</answer>
+      <answer correct="no">Es handelt sich um eine kanadische Amateurfunkstelle, die vorübergehend in den Vereinigten Staaten von Amerika betrieben wird.</answer>
+      <answer correct="no">Es handelt sich um eine kanadische Amateurfunkstelle, die in der Betriebsart Amplitudenmodulation betrieben wird.</answer>
+      <answer correct="no">Es handelt sich um eine automatisch arbeitende Pactor-Amateurfunkstelle mit angeschlossener Mailbox in Kanada.</answer>
+    </question>
+    

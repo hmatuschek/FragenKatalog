@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC101" name="E/TC101">
+      <text>
+        <p>Die Farbringe gelb, violett und orange auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von</p>
+      </text>
+      <answer correct="yes">47 kΩ</answer>
+      <answer correct="no">4,7 kΩ</answer>
+      <answer correct="no">470 kΩ</answer>
+      <answer correct="no">4,7 MΩ</answer>
+    </question>
+    

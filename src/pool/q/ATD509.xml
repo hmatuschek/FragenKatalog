@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD509" name="A/TD509">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atd509" />
+      </text>
+      <answer correct="yes">PLL-FM-Demodulator.</answer>
+      <answer correct="no">SSB-Demodulator mit PLL-gesteuertem BFO.</answer>
+      <answer correct="no">ZF-Verstärker.</answer>
+      <answer correct="no">AM-Modulator.</answer>
+    </question>
+    

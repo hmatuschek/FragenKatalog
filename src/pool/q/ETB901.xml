@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB901" name="E/TB901">
+      <text>
+        <p>Die Maßeinheit der elektrischen Leistung ist</p>
+      </text>
+      <answer correct="yes">Watt</answer>
+      <answer correct="no">Joule</answer>
+      <answer correct="no">Kilowattstunden</answer>
+      <answer correct="no">Amperestunden</answer>
+    </question>
+    

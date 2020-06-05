@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD304" name="V/VD304">
+      <text>
+        <p>Wann ist mit dem Entzug eines Ausbildungsrufzeichens zu rechnen?</p>
+      </text>
+      <answer correct="yes">Wenn das Ausbildungsrufzeichen fortgesetzt in Abwesenheit des Ausbilders benutzt wird.</answer>
+      <answer correct="no">Wenn der Ausbildungsfunkverkehr mobil durchgeführt wird.</answer>
+      <answer correct="no">Wenn durch den Ausbildungsfunkverkehr BCI und TVI verursacht wird.</answer>
+      <answer correct="no">Wenn es zu Störungen von Amateurfunk-Kontesten kommt.</answer>
+    </question>
+    

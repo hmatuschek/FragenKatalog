@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA113" name="A/TA113">
+      <text>
+        <p>Der Ausgangspegel eines Senders beträgt 20 dBW. Dies entspricht einer Ausgangsleistung von</p>
+      </text>
+      <answer correct="yes">10² W.</answer>
+      <answer correct="no">
+        10
+        <sup>0,5</sup>
+         W.
+      </answer>
+      <answer correct="no">
+        10
+        <sup>20</sup>
+         W.
+      </answer>
+      <answer correct="no">
+        10
+        <sup>1</sup>
+         W.
+      </answer>
+    </question>
+    

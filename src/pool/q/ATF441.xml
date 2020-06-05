@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF441" name="A/TF441">
+      <text>
+        <p>Was bedeutet die Rauschzahl F=2 bei einem UHF-Vorverstärker? Das Ausgangssignal des Verstärkers hat ein</p>
+      </text>
+      <answer correct="yes">um 3dB geringeres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um 3dB höheres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um 6dB geringeres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um 6dB höheres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+    </question>
+    

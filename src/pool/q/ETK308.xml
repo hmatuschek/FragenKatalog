@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK308" name="E/TK308">
+      <text>
+        <p>Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift werden?</p>
+      </text>
+      <answer correct="yes">Ein Hochpassfilter</answer>
+      <answer correct="no">Ein Tiefpassfilter</answer>
+      <answer correct="no">Eine Bandsperre für die Fernsehbereiche</answer>
+      <answer correct="no">Ein regelbares Dämpfungsglied</answer>
+    </question>
+    

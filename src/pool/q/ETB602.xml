@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB602" name="E/TB602">
+      <text>
+        <p>Welcher Wellenlänge λ entspricht die Frequenz 1,84 MHz?</p>
+      </text>
+      <answer correct="yes">163 m</answer>
+      <answer correct="no">16,3 m</answer>
+      <answer correct="no">10,5 m</answer>
+      <answer correct="no">61,3 m</answer>
+    </question>
+    

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB601" name="A/TB601">
+      <text>
+        <p>
+          Welche der im folgenden Diagramm eingezeichneten Gleichspannungen (U
+          <sub>1</sub>
+           ... U
+          <sub>6</sub>
+          ) setzen an einem Wirkwiderstand die gleiche Leistung um wie die dargestellte sinusförmige Wechselspannung?
+        </p>
+        <img src="Atb601" />
+      </text>
+      <answer correct="yes">
+        U
+        <sub>2</sub>
+         oder U
+        <sub>5</sub>
+      </answer>
+      <answer correct="no">
+        U
+        <sub>1</sub>
+         oder U
+        <sub>6</sub>
+      </answer>
+      <answer correct="no">
+        U
+        <sub>3</sub>
+         oder U
+        <sub>4</sub>
+      </answer>
+      <answer correct="no">
+        nur U
+        <sub>2</sub>
+      </answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK206" name="A/TK206">
+      <text>
+        <p>Die gesamte Bandbreite einer FMAussendung beträgt 15 kHz. Wie groß ist der Abstand der Mittenfrequenz von der Bandgrenze mindestens zu wählen, damit die Aussendung innerhalb des Bandes bleibt?</p>
+      </text>
+      <answer correct="yes">7,5 kHz</answer>
+      <answer correct="no">0 kHz</answer>
+      <answer correct="no">15 kHz</answer>
+      <answer correct="no">2,7 kHz</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC516" name="A/TC516">
+      <text>
+        <p>Eine unbelastete Z-Diode soll eine 12-V-Betriebsspannung auf 5 V stabilisieren. Dabei soll ein Strom von 25 mA durch die Z-Diode fließen. Berechnen Sie den Vorwiderstand. Die Werte des benötigten Vorwiderstandes betragen</p>
+        <img src="Atc516" />
+      </text>
+      <answer correct="yes">280 Ω / 175 mW.</answer>
+      <answer correct="no">280 Ω / 300 mW.</answer>
+      <answer correct="no">480 Ω / 300 mW.</answer>
+      <answer correct="no">200 Ω / 175 mW.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD502" name="E/TD502">
+      <text>
+        <p>Welche Aussage zum Frequenzmodulator ist richtig? Durch das Informationssignal</p>
+      </text>
+      <answer correct="yes">wird die Frequenz des Trägers beeinflusst. Die Amplitude des Trägers bleibt dabei konstant.</answer>
+      <answer correct="no">wird die Amplitude des Trägers beeinflusst. Die Frequenz des Trägers bleibt dabei konstant.</answer>
+      <answer correct="no">werden gleichzeitig Frequenz und Amplitude des Trägers beeinflusst.</answer>
+      <answer correct="no">findet keinerlei Beeinflussung von Trägerfrequenz oder Trägeramplitude statt. Die Information steuert nur die Kapazität des Oszillators.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI110" name="A/TI110">
+      <text>
+        <p>Welche ionosphärische Schicht ermöglicht im wesentlichen Weitverkehrsverbindungen im Kurzwellenbereich?</p>
+      </text>
+      <answer correct="yes">F2-Schicht</answer>
+      <answer correct="no">D-Schicht</answer>
+      <answer correct="no">E-Schicht</answer>
+      <answer correct="no">F1-Schicht</answer>
+    </question>
+    

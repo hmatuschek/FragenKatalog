@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG109" name="B/BG109">
+      <text>
+        <p>Was ist bei angeordneter Logbuchführung bei einem Wechsel der "Logbuchsoftware" zu berücksichtigen?</p>
+      </text>
+      <answer correct="yes">Die alte Software muss verfügbar bleiben, um die Betriebsdaten bei eventuellen späteren Überprüfungen einsehen zu können.</answer>
+      <answer correct="no">Es sollte auf eine Software für ein 32-Bit-System gewechselt werden.</answer>
+      <answer correct="no">Die alte Software muss auf jeden Fall gelöscht werden, um Kollisionen bei den Datenformaten zu vermeiden.</answer>
+      <answer correct="no">Es sollte ein Logbuchprogramm mit Druckfunktion verwendet werden, um zu vermeiden, dass weiterhin ein herkömmliches Papierlogbuch geführt werden muss.</answer>
+    </question>
+    

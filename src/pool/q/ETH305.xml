@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH305" name="E/TH305">
+      <text>
+        <p>Welche Dämpfung hat ein 25 m langes Koaxkabel vom Typ Aircell 7 bei 145 MHz? (siehe hierzu beiliegendes Diagramm)</p>
+        <img src="ETH305" />
+      </text>
+      <answer correct="yes">1,9 dB</answer>
+      <answer correct="no">7,5 dB</answer>
+      <answer correct="no">3,75 dB</answer>
+      <answer correct="no">1,5 dB</answer>
+    </question>
+    

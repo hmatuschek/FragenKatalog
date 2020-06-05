@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA121" name="A/TA121">
+      <text>
+        <p>Eine Wellenlänge von 10 cm im Freiraum entspricht einer Frequenz von</p>
+      </text>
+      <answer correct="yes">3 GHz.</answer>
+      <answer correct="no">1,9 GHz.</answer>
+      <answer correct="no">3 MHz.</answer>
+      <answer correct="no">10 GHz.</answer>
+    </question>
+    

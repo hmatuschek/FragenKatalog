@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD314" name="A/TD314">
+      <text>
+        <p>Bei einem Transformationsverhältnis von 8:1 sollte die Spannungsfestigkeit der Diode (max. Spannung plus 10 % Sicherheitsaufschlag) in dieser Schaltung nicht weniger als</p>
+        <img src="Atd313" />
+      </text>
+      <answer correct="yes">90 Volt betragen.</answer>
+      <answer correct="no">143 Volt betragen.</answer>
+      <answer correct="no">63 Volt betragen.</answer>
+      <answer correct="no">32 Volt betragen.</answer>
+    </question>
+    

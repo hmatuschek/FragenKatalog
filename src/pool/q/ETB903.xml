@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB903" name="E/TB903">
+      <text>
+        <p>Welche Spannung lässt einen Strom von 2 A durch einen Widerstand von 50 Ohm fließen?</p>
+      </text>
+      <answer correct="yes">100 Volt</answer>
+      <answer correct="no">200 Volt</answer>
+      <answer correct="no">25 Volt</answer>
+      <answer correct="no">52 Volt</answer>
+    </question>
+    

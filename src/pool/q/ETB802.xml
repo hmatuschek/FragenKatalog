@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB802" name="E/TB802">
+      <text>
+        <p>Was ist der Unterschied zwischen LSB und USB?</p>
+      </text>
+      <answer correct="yes">LSB arbeitet mit Trägerunterdrückung und dem unteren Seitenband, USB arbeitet mit Trägerunterdrückung und dem oberen Seitenband.</answer>
+      <answer correct="no">LSB arbeitet mit Träger und zwei Seitenbändern, USB arbeitet mit Trägerunterdrückung und einem Seitenband.</answer>
+      <answer correct="no">LSB arbeitet mit Träger und einem Seitenband, USB arbeitet mit Trägerunterdrückung und beiden Seitenbändern.</answer>
+      <answer correct="no">LSB arbeitet mit Trägerunterdrückung und dem oberen Seitenband, USB arbeitet mit Trägerunterdrückung und dem unteren Seitenband.</answer>
+    </question>
+    

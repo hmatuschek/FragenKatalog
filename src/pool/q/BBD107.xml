@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD107" name="B/BD107">
+      <text>
+        <p>In welcher Form muss ein Funkamateur aus einem Land, das die CEPT-Empfehlung T/R 61-01 anwendet, sein Heimatrufzeichen beim Betrieb einer Amateurfunkstelle in Deutschland ergänzen?</p>
+      </text>
+      <answer correct="yes">Dem Heimatrufzeichen wird DL/ vorangestellt.</answer>
+      <answer correct="no">Dem Heimatrufzeichen wird /DL angehängt.</answer>
+      <answer correct="no">Dem Heimatrufzeichen wird DO/ vorangestellt.</answer>
+      <answer correct="no">Dem Heimatrufzeichen wird /DO angehängt.</answer>
+    </question>
+    

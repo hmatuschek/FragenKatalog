@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB304" name="B/BB304">
+      <text>
+        <p>Wie groß ist der Unterschied zwischen S4 und S7 in Dezibel?</p>
+      </text>
+      <answer correct="yes">18 dB</answer>
+      <answer correct="no">9 dB</answer>
+      <answer correct="no">28 dB</answer>
+      <answer correct="no">3 dB</answer>
+    </question>
+    

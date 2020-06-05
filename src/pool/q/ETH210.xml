@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH210" name="E/TH210">
+      <text>
+        <p>Eine Drahtantenne für den Amateurfunk im KW-Bereich</p>
+      </text>
+      <answer correct="yes">kann eine beliebige Länge haben.</answer>
+      <answer correct="no">muss unbedingt lambda-halbe lang sein.</answer>
+      <answer correct="no">muss genau lambda-viertel lang sein.</answer>
+      <answer correct="no">muss eine Länge von dreiviertel Lambda haben.</answer>
+    </question>
+    

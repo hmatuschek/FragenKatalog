@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG102" name="E/TG102">
+      <text>
+        <p>Welche der nachfolgenden Antworten trifft für die Wirkungsweise eines Transverters zu?</p>
+      </text>
+      <answer correct="yes">Ein Transverter setzt beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band und beim Senden das 10-m-Sendesignal auf das 70-cm-Band um.</answer>
+      <answer correct="no">Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band um.</answer>
+      <answer correct="no">Ein Transverter setzt beim Senden als auch beim Empfangen z.B. ein frequenzmoduliertes Signal in ein amplitudenmoduliertes Signal um.</answer>
+      <answer correct="no">Ein Transverter setzt nur den zu empfangenden Frequenzbereich in einen anderen Frequenzbereich um, z.B. das 70-cm-Band in das 10-m-Band.</answer>
+    </question>
+    

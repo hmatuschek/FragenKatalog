@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC713" name="A/TC713">
+      <text>
+        <p>
+          Wie groß ist der Betrag der Spannungsverstärkung U
+          <sub>A</sub>
+          /U
+          <sub>E</sub>
+           der folgenden Operationsverstärkerschaltung?
+        </p>
+        <img src="Atc713" />
+      </text>
+      <answer correct="yes">10</answer>
+      <answer correct="no">11</answer>
+      <answer correct="no">19,8</answer>
+      <answer correct="no">24,2</answer>
+    </question>
+    

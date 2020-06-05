@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK107" name="E/TK107">
+      <text>
+        <p>Wie nennt man die elektromagnetische Störung, die durch die Aussendung des reinen Nutzsignals beim Empfang anderer Frequenzen in benachbarten Empfängern auftreten kann?</p>
+      </text>
+      <answer correct="yes">Blockierung oder störende Beeinflussung</answer>
+      <answer correct="no">Störung durch unerwünschte Aussendungen</answer>
+      <answer correct="no">Störung durch Nebenaussendungen</answer>
+      <answer correct="no">Hinzunehmende Störung</answer>
+    </question>
+    

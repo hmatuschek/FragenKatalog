@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE150" name="V/VE150">
+      <text>
+        <p>Wer legt in Deutschland die Bereiche für die unterschiedlichen Betriebsarten in den Amateurfunkbändern verbindlich fest?</p>
+      </text>
+      <answer correct="yes">Derzeit gibt es keine gesetzliche Festlegung einzelner Bereiche. Die IARU gibt jedoch Empfehlungen für die Nutzung heraus.</answer>
+      <answer correct="no">Der Frequenznutzungsausschuss der Bundesnetzagentur. Er übernimmt in der Regel die Empfehlungen der IARU.</answer>
+      <answer correct="no">Es gibt keinerlei Einschränkungen und Empfehlungen hinsichtlich der Nutzung.</answer>
+      <answer correct="no">Das HF-Referat des DARC in Verbindung mit der IARU.</answer>
+    </question>
+    

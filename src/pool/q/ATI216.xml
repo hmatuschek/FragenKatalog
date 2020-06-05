@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI216" name="A/TI216">
+      <text>
+        <p>Ionosphärischer Schwund kann auf</p>
+      </text>
+      <answer correct="yes">das Zusammenwirken zwischen Raum- und Bodenwellen zurückzuführen sein.</answer>
+      <answer correct="no">eine unzulänglich angepasste Antenne zurückzuführen sein.</answer>
+      <answer correct="no">die Verwendung einer falschen Polarisation zurückzuführen sein.</answer>
+      <answer correct="no">ein unzulängliches Koaxialkabel zurückzuführen sein.</answer>
+    </question>
+    

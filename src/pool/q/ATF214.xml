@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF214" name="A/TF214">
+      <text>
+        <p>An welcher Stelle einer Amateurfunkanlage sollte ein VHF-Vorverstärker eingefügt werden?</p>
+      </text>
+      <answer correct="yes">Möglichst direkt an der VHF-Antenne</answer>
+      <answer correct="no">Möglichst unmittelbar vor dem Empfängereingang</answer>
+      <answer correct="no">Zwischen Senderausgang und Antennenkabel</answer>
+      <answer correct="no">Zwischen Stehwellenmessgerät und Empfängereingang</answer>
+    </question>
+    

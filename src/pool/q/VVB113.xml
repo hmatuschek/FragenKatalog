@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB113" name="V/VB113">
+      <text>
+        <p>Wo sind die Informationen und Bedingungen für die Ausstellung und die Nutzung der CEPT-Amateurfunkgenehmigung zu finden?</p>
+      </text>
+      <answer correct="yes">In der CEPT-Empfehlung T/R 61-01 und den Amtsblattverfügungen zu deren Umsetzung.</answer>
+      <answer correct="no">In der AFuV.</answer>
+      <answer correct="no">In der ECC-Empfehlung (05)06 und den Amtsblattverfügungen zu deren Umsetzung.</answer>
+      <answer correct="no">In der CEPT-Empfehlung T/R 61-02 und im ERC-Report 32.</answer>
+    </question>
+    

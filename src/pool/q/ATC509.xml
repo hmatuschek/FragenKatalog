@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC509" name="A/TC509">
+      <text>
+        <p>Die Auswahlantworten enthalten Siliziumdioden mit unterschiedlichen Arbeitspunkten. Bei welcher Antwort befindet sich die Diode in leitendem Zustand?</p>
+      </text>
+      <answer correct="yes">
+        <pre>
+          -1,3 V
+          <img src="Atc507r" />
+           -2,0 V
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+          -0,6 V
+          <img src="Atc507l" />
+           -1,3 V
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+           4,3 V
+          <img src="Atc507r" />
+            5,0 V
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+           4,1 V
+          <img src="Atc507l" />
+            3,4 V
+        </pre>
+      </answer>
+    </question>
+    

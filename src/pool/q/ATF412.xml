@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF412" name="A/TF412">
+      <text>
+        <p>Ein Frequenzmarken-Generator in einem Empfänger sollte möglichst</p>
+      </text>
+      <answer correct="yes">ein Quarzoszillator sein.</answer>
+      <answer correct="no">ein LC-Oszillator sein.</answer>
+      <answer correct="no">ein RC-Oszillator sein.</answer>
+      <answer correct="no">ein BFO sein.</answer>
+    </question>
+    

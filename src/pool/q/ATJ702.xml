@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ702" name="A/TJ702">
+      <text>
+        <p>Wozu dient diese Schaltung? Sie dient</p>
+        <img src="Atj701" />
+      </text>
+      <answer correct="yes">zum Abgleich von HF-Schaltungen.</answer>
+      <answer correct="no">als Messkopf für Messungen mit einem HF-Dipmeter.</answer>
+      <answer correct="no">zur Messung der Resonanzfrequenz mit einem Frequenzzähler.</answer>
+      <answer correct="no">als Tastkopf für einen Logiktester.</answer>
+    </question>
+    

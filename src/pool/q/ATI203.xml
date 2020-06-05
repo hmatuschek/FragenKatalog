@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI203" name="A/TI203">
+      <text>
+        <p>Eine Aussendung auf 14,18 MHz kann von der Funkstelle A in einer Entfernung von 1500 km, nicht jedoch von der Funkstelle B in 60 km Entfernung empfangen werden. Der Grund hierfür ist, dass</p>
+      </text>
+      <answer correct="yes">Funkstelle B sich innerhalb der ersten Sprungzone befindet.</answer>
+      <answer correct="no">die Boden- und Raumwellen sich bei Funkstelle B gegenseitig aufheben.</answer>
+      <answer correct="no">zwei an verschiedenen ionosphärischen Schichten reflektierte Wellen mit auslöschender Phase bei Funkstelle B eintreffen</answer>
+      <answer correct="no">bei Funkstelle B der Mögel-Dellinger-Effekt aufgetreten ist.</answer>
+    </question>
+    

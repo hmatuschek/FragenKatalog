@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH105" name="A/TH105">
+      <text>
+        <p>Ein mittengespeister λ/2-Dipol ist bei seiner Grundfrequenz und deren ungeradzahligen Vielfachen</p>
+      </text>
+      <answer correct="yes">stromgespeist, in Serienresonanz und am Eingang niederohmig.</answer>
+      <answer correct="no">spannungsgespeist, in Parallelresonanz und am Eingang hochohmig.</answer>
+      <answer correct="no">strom- und spannungsgespeist und weist einen rein kapazitiven Eingangswiderstand auf.</answer>
+      <answer correct="no">strom- und spannungsgespeist und weist einen rein induktiven Eingangswiderstand auf.</answer>
+    </question>
+    

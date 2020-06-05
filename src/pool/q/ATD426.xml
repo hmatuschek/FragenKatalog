@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD426" name="A/TD426">
+      <text>
+        <p>Eine Treiberstufe eines HF-Verstärkers braucht am Eingang eine Leistung von 1 Watt um am Ausgang 10 Watt an die Endstufe abgeben zu können. Sie benötigt dazu eine Gleichstromleistung von 25 Watt. Wie hoch ist der Wirkungsgrad der Treiberstufe?</p>
+      </text>
+      <answer correct="yes">40 %</answer>
+      <answer correct="no">25 %</answer>
+      <answer correct="no">15 %</answer>
+      <answer correct="no">10 %</answer>
+    </question>
+    

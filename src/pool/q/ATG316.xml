@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG316" name="A/TG316">
+      <text>
+        <p>Wie wird die folgende Endstufe richtig auf die Sendefrequenz abgestimmt?</p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">
+        C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         auf maximale Kapazität stellen. C
+        <sub>1</sub>
+         auf Dip im Anodenstrom (Resonanz) stellen, dann mit C
+        <sub>2</sub>
+         einen etwas höheren Anodenstrom einstellen (Leistung auskoppeln). Vorgang mit C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         wechselweise mehrmals wiederholen bis die maximale Ausgangsleistung erreicht ist. Nach dem Abstimmvorgang sollte ein Dip von etwa 10 % verbleiben.
+      </answer>
+      <answer correct="no">
+        C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         auf minimale Kapazität stellen. C
+        <sub>2</sub>
+         auf Dip im Anodenstrom (Resonanz) stellen, dann mit C
+        <sub>1</sub>
+         einen etwas höheren Anodenstrom einstellen (Leistung auskoppeln). Vorgang mit C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         wechselweise mehrmals wiederholen bis die maximale Ausgangsleistung erreicht ist. Nach dem Abstimmvorgang sollte ein Dip von etwa 20 % verbleiben.
+      </answer>
+      <answer correct="no">
+        C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         auf maximale Kapazität stellen. C
+        <sub>1</sub>
+         auf Dip im Anodenstrom (Resonanz) stellen, dann mit C
+        <sub>2</sub>
+         einen etwas niedrigeren Anodenstrom einstellen (Leistung einkoppeln). Vorgang mit C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         wechselweise mehrmals wiederholen bis die maximale Oberwellenleistung erreicht ist. Nach dem Abstimmvorgang sollte ein Dip von etwa 10 % verbleiben.
+      </answer>
+      <answer correct="no">
+        C
+        <sub>1</sub>
+         und C
+        <sub>2</sub>
+         auf minimale Kapazität stellen. C
+        <sub>2</sub>
+         auf maximalen Anodenstrom (Resonanz) stellen, dann mit C
+        <sub>1</sub>
+         einen etwas niedrigeren Anodenstrom (Dip) einstellen. Vorgang so oft wiederholen bis die maximale Ausgangsleistung erreicht ist. Nach dem Abstimmvorgang sollte ein Dip von etwa 20 % verbleiben.
+      </answer>
+    </question>
+    

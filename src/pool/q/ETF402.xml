@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF402" name="E/TF402">
+      <text>
+        <p>Welchen Vorteil bietet ein Überlagerungsempfänger gegenüber einem Geradeaus-Empfänger?</p>
+      </text>
+      <answer correct="yes">Bessere Trennschärfe</answer>
+      <answer correct="no">Höhere Bandbreiten</answer>
+      <answer correct="no">Geringere Anforderungen an die VFO-Stabilität</answer>
+      <answer correct="no">Wesentlich einfachere Konstruktion</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB124" name="V/VB124">
+      <text>
+        <p>Die CEPT-Empfehlung T/R 61-02 beinhaltet Regelungen für</p>
+      </text>
+      <answer correct="yes">die Ausstellung und Anerkennung von harmonisierten Amateurfunkprüfungsbescheinigungen.</answer>
+      <answer correct="no">die freie Ein- und Ausfuhr von Amateurfunkgeräten im Rahmen der beigetretenen Länder.</answer>
+      <answer correct="no">die gegenseitige Anerkennung von Amateurfunkgenehmigungen in CEPT- und Nicht-CEPT-Ländern.</answer>
+      <answer correct="no">die elektromagnetische Verträglichkeit von Amateurfunkgeräten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB403" name="A/TB403">
+      <text>
+        <p>Welcher Effekt verringert die Induktivität einer von hochfrequentem Strom durchflossenen Spule beim Einführen eines Kupferoder Aluminiumkerns?</p>
+      </text>
+      <answer correct="yes">Das hochfrequente Magnetfeld kann nicht in den Kern eindringen, was den Querschnitt des Feldes verringert.</answer>
+      <answer correct="no">Kupfer und Aluminium sind diamagnetisch und schwächen das Feld ab.</answer>
+      <answer correct="no">Das leitfähige Metall schließt das Feld kurz.</answer>
+      <answer correct="no">Kupfer und Aluminium sind unmagnetisch und haben keinen Einfluss auf das Feld.</answer>
+    </question>
+    

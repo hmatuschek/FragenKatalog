@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ817" name="A/TJ817">
+      <text>
+        <p>Welche Konfiguration gewährleistet die höchste Genauigkeit bei der Prüfung der Trägerfrequenz eines FM-Senders?</p>
+      </text>
+      <answer correct="yes">Frequenzzähler und unmodulierter Träger</answer>
+      <answer correct="no">Oszilloskop und unmodulierter Träger</answer>
+      <answer correct="no">Frequenzzähler und modulierter Träger</answer>
+      <answer correct="no">Absorptionsfrequenzmesser und modulierter Träger</answer>
+    </question>
+    

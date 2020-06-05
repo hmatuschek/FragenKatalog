@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC125" name="V/VC125">
+      <text>
+        <p>Kann ein zugeteiltes Rufzeichen durch die Bundesnetzagentur geändert werden?</p>
+      </text>
+      <answer correct="yes">Ja, wenn wichtige Gründe dazu bei der Behörde vorliegen.</answer>
+      <answer correct="no">Ja, aber nicht öfter als alle 5 Jahre einmal, da jeder Rufzeichenwechsel für den Funkamateur gebührenpflichtig ist.</answer>
+      <answer correct="no">Nein, das einmal zugeteilte Rufzeichen ist zeitlebens ideelles Eigentum des Funkamateurs, für das er bei Erstzuteilung auch bezahlen musste.</answer>
+      <answer correct="no">Nein, es sei denn, die Behörde bezahlt dem Funkamateur den Neudruck von QSL-Karten.</answer>
+    </question>
+    

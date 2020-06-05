@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA301" name="V/VA301">
+      <text>
+        <p>Was ist in den Radio Regulations (VO Funk) bezüglich der Morsequalifikation für Funkamateure festgelegt?</p>
+      </text>
+      <answer correct="yes">Die nationalen Verwaltungen bestimmen selbst, ob bei ihnen für eine Amateurfunkgenehmigung Morsekenntnisse nachgewiesen werden müssen.</answer>
+      <answer correct="no">Nur wer eine Morseprüfung mit mindestens Tempo 60 BpM bestanden hat, darf mehr als 500 Watt Sendeleistung anwenden.</answer>
+      <answer correct="no">Wer Frequenzen unter 30 MHz nutzen will, muss eine Morseprüfung ablegen.</answer>
+      <answer correct="no">Wer Frequenzbereiche unterhalb des 10-m-Bandes benutzen möchte, muss eine Morse-Hörprüfung ablegen.</answer>
+    </question>
+    

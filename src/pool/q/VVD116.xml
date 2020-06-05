@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD116" name="V/VD116">
+      <text>
+        <p>Offene Sprache im Funkverkehr bedeutet, dass der Funkverkehr</p>
+      </text>
+      <answer correct="yes">nicht durch geheime Kodes oder unbekannte Verfahren verschleiert werden darf.</answer>
+      <answer correct="no">nicht kodiert und nicht fremdsprachig abgewickelt werden darf.</answer>
+      <answer correct="no">nur in den landesüblichen Sprachen abgewickelt werden darf.</answer>
+      <answer correct="no">keine Abkürzungen enthalten darf.</answer>
+    </question>
+    

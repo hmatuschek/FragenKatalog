@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH203" name="E/TH203">
+      <text>
+        <p>Welchen Eingangs- bzw. Fußpunktwiderstand hat die Groundplane?</p>
+      </text>
+      <answer correct="yes">ca. 30 ... 50 Ω</answer>
+      <answer correct="no">ca. 60 ... 120 Ω</answer>
+      <answer correct="no">ca. 600 Ω</answer>
+      <answer correct="no">ca. 240 Ω</answer>
+    </question>
+    

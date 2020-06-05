@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC610" name="A/TC610">
+      <text>
+        <p>Wie groß ist der Kollektorstrom eines bipolaren Transistors, wenn die Spannung an seiner Basis die gleiche Höhe hat wie die Spannung an seinem Emitter?</p>
+      </text>
+      <answer correct="yes">Es fließt kein Kollektorstrom.</answer>
+      <answer correct="no">Es fließt der maximale Kollektorstrom.</answer>
+      <answer correct="no">Es fließen ca. 5 bis 10 Milliampere.</answer>
+      <answer correct="no">Es fließen je nach Kollektorspannung 0,01 Ampere bis 1 Ampere.</answer>
+    </question>
+    

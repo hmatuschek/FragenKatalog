@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF211" name="A/TF211">
+      <text>
+        <p>Welchen Frequenzen können die drei Oszillatoren des im folgenden Blockschaltbild gezeichneten Empfängers haben, wenn eine Frequenz von 3,65 MHz empfangen wird? Bei welcher Antwort sind alle drei Frequenzen richtig?</p>
+        <img src="Atf211" />
+      </text>
+      <answer correct="yes">
+        VFO: 46,35 MHz;
+        <br />
+        CO1: 41 MHz;
+        <br />
+        CO2: 9,455 MHz
+      </answer>
+      <answer correct="no">
+        VFO: 23,65 MHz;
+        <br />
+        CO1: 59 MHz;
+        <br />
+        CO2: 8,545 MHz
+      </answer>
+      <answer correct="no">
+        VFO: 46,35 MHz;
+        <br />
+        CO1: 41 MHz;
+        <br />
+        CO2: 9,545 MHz
+      </answer>
+      <answer correct="no">
+        VFO: 46,35 MHz;
+        <br />
+        CO1: 51 MHz;
+        <br />
+        CO2: 9,455 MHz
+      </answer>
+    </question>
+    

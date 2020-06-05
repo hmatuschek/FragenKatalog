@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE115" name="B/BE115">
+      <text>
+        <p>Sie möchten im 20-m-Band einen allgemeinen Anruf starten. Sie finden eine Frequenz die offensichtlich nicht belegt ist. Wie gehen Sie vor?</p>
+      </text>
+      <answer correct="yes">Ich beobachte die Frequenz und frage dann etwa zwei bis dreimal ob die Frequenz besetzt ist. Erfolgt keine Antwort, kann ich davon ausgehen, dass die Frequenz frei ist und dort CQ rufen.</answer>
+      <answer correct="no">Ich warte und beobachte die Frequenz für einige Sekunden. Höre ich nichts, so kann ich mit meinem CQ-Ruf beginnen.</answer>
+      <answer correct="no">Da ich auf der Frequenz kein Signal höre kann ich mit meinem CQ-Ruf beginnen.</answer>
+      <answer correct="no">Ich stimme meinen Sender auf der Frequenz ab und starte dann meinen CQ-Ruf.</answer>
+    </question>
+    

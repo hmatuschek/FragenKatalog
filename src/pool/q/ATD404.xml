@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD404" name="A/TD404">
+      <text>
+        <p>
+          Wie verhält sich die Spannungs-Verstärkung bei der folgenden Schaltung, wenn der Kondensator C
+          <sub>1</sub>
+           entfernt wird?
+        </p>
+        <img src="Atd403" />
+      </text>
+      <answer correct="yes">Sie nimmt ab.</answer>
+      <answer correct="no">Sie bleibt konstant.</answer>
+      <answer correct="no">Sie nimmt zu.</answer>
+      <answer correct="no">Sie fällt auf Null ab.</answer>
+    </question>
+    

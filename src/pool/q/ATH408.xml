@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH408" name="A/TH408">
+      <text>
+        <p>Wie groß ist die Impedanz am Punkt X, wenn die elektrische Länge der abgebildeten Leitung λ/4 beträgt?</p>
+        <img src="Ath408" />
+      </text>
+      <answer correct="yes">Sehr hochohmig</answer>
+      <answer correct="no">Annähernd 0 Ω</answer>
+      <answer correct="no">50 Ω</answer>
+      <answer correct="no">Ungefähr 100 Ω</answer>
+    </question>
+    

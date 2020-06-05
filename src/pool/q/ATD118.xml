@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD118" name="A/TD118">
+      <text>
+        <p>
+          Welche Gesamtkapazität hat diese Schaltung, wenn C
+          <sub>1</sub>
+           = 0,01 μF, C
+          <sub>2</sub>
+           = 5 nF und C
+          <sub>3</sub>
+           = 5000 pF betragen?
+        </p>
+        <img src="Atd118" />
+      </text>
+      <answer correct="yes">5 nF</answer>
+      <answer correct="no">12,5 nF</answer>
+      <answer correct="no">7,5 nF</answer>
+      <answer correct="no">0,015 nF</answer>
+    </question>
+    

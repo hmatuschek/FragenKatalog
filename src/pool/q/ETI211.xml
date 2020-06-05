@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI211" name="E/TI211">
+      <text>
+        <p>In welcher ionosphärischen Schicht treten gelegentlich Aurora-Erscheinungen auf?</p>
+      </text>
+      <answer correct="yes">In der E-Schicht</answer>
+      <answer correct="no">In der F-Schicht</answer>
+      <answer correct="no">In der E-Schicht in der Nähe des Äquators</answer>
+      <answer correct="no">In der D-Schicht</answer>
+    </question>
+    

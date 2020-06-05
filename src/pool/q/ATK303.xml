@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK303" name="A/TK303">
+      <text>
+        <p>Welchen Frequenzgang sollte ein Filter zur Verringerung der Oberwellenausgangsleistung eines KW-Senders haben?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atk303a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk303b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk303c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk303d" />
+      </answer>
+    </question>
+    

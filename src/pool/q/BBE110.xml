@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE110" name="B/BE110">
+      <text>
+        <p>Sie hören 4U1ITU in Telefonie rufen: "CQ VK/ZL this is 4U1ITU". Sollten Sie 4U1ITU anrufen, wenn Sie gerne ein QSO mit ihm führen würden?</p>
+      </text>
+      <answer correct="yes">Nein! 4U1ITU sucht eine Verbindung mit Australien oder Neuseeland.</answer>
+      <answer correct="no">Ja! 4U1ITU in Australien/Neuseeland sucht eine Verbindung.</answer>
+      <answer correct="no">Ja! Aber nur wenn Sie geborener Australier oder Neuseeländer sind.</answer>
+      <answer correct="no">Nein! 4U1ITU sucht nur Verbindungen mit Indien oder Südafrika.</answer>
+    </question>
+    

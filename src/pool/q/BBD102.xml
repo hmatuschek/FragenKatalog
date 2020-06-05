@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD102" name="B/BD102">
+      <text>
+        <p>Was erkennen Sie aus dem Rufzeichen DA5XX?</p>
+      </text>
+      <answer correct="yes">Es handelt sich um eine Amateurfunkstelle, die für besondere experimentelle und technischwissenschaftliche Studien betrieben wird.</answer>
+      <answer correct="no">Es handelt sich um eine Versuchsfunkstelle, die zur Erprobung technischer oder wissenschaftlicher Entwicklungen betrieben wird.</answer>
+      <answer correct="no">Es handelt sich um ein Klasse-A-Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind.</answer>
+      <answer correct="no">Es handelt sich um eine Kurzzeitzuteilung für einen ausländischen Funkamateur, der eine Amateurfunkprüfungsbescheinigung, aber kein individuelles Rufzeichen hat.</answer>
+    </question>
+    

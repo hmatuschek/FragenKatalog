@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH318" name="A/TH318">
+      <text>
+        <p>Die Ausbreitungsgeschwindigkeit in einem Koaxialkabel</p>
+      </text>
+      <answer correct="yes">ist geringer als im Freiraum.</answer>
+      <answer correct="no">ist höher als im Freiraum.</answer>
+      <answer correct="no">entspricht der Geschwindigkeit im Freiraum.</answer>
+      <answer correct="no">ist fast unbegrenzt.</answer>
+    </question>
+    

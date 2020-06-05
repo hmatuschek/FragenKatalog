@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE215" name="A/TE215">
+      <text>
+        <p>Wenn ein FM-Sender mit einem Modulationsindex m = 2,4 betrieben wird,</p>
+      </text>
+      <answer correct="yes">hat seine Trägerfrequenz eine Nullstelle.</answer>
+      <answer correct="no">nimmt der Trägerpegel um den Faktor 2,4 zu.</answer>
+      <answer correct="no">verändert sich der Trägerpegel nicht, da es sich um FM handelt.</answer>
+      <answer correct="no">ist der maximale Hub erreicht.</answer>
+    </question>
+    

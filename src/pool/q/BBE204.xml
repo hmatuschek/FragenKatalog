@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE204" name="B/BE204">
+      <text>
+        <p>Was ist gemeint, wenn die Gegenstation sagt: "split up 14250 to 14280"?</p>
+      </text>
+      <answer correct="yes">Die seltene Station hört oberhalb ihrer Sendefrequenz in dem angegebenen Bereich.</answer>
+      <answer correct="no">Die seltene Station kündigt einen Frequenzwechsel in den angegebenen Bereich an.</answer>
+      <answer correct="no">Die seltene Station bitte anrufende Stationen in dem angegebenen Bereich CW zu verwenden.</answer>
+      <answer correct="no">Die seltene Station nimmt in dem angegebenen Bereich eine Liste auf.</answer>
+    </question>
+    

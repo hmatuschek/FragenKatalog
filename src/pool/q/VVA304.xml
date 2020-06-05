@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA304" name="V/VA304">
+      <text>
+        <p>Was gilt hinsichtlich der Anwendung von Kodes und Verschlüsselungen im internationalen Amateurfunkverkehr zwischen Funkamateuren?</p>
+      </text>
+      <answer correct="yes">Der Funkverkehr zwischen Amateurfunkstellen verschiedener Länder darf nicht zur Verschleierung des Inhalts verschlüsselt werden.</answer>
+      <answer correct="no">Beim Funkverkehr zwischen Amateurfunkstellen dürfen keine Kodes oder Verschlüsselungen verwendet werden.</answer>
+      <answer correct="no">Der Austausch von Steuersignalen zwischen Erd- und Weltraumfunkstellen des Amateurfunkdienstes über Satelliten darf nicht zur Verschleierung des Inhalts verschlüsselt werden.</answer>
+      <answer correct="no">Beim Funkverkehr zwischen Amateurfunkstellen dürfen alle bekannten und geheimen Kodes oder Verschlüsselungen verwendet werden.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH108" name="E/TH108">
+      <text>
+        <p>Bei welcher Länge hat eine Vertikalantenne die günstigsten Strahlungseigenschaften?</p>
+      </text>
+      <answer correct="yes">5λ/8</answer>
+      <answer correct="no">λ/4</answer>
+      <answer correct="no">λ/2</answer>
+      <answer correct="no">3λ/4</answer>
+    </question>
+    

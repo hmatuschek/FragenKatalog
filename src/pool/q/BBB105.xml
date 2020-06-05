@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB105" name="B/BB105">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung CW?</p>
+      </text>
+      <answer correct="yes">Telegrafie (continuous wave)</answer>
+      <answer correct="no">Telefonie (continuous wireless)</answer>
+      <answer correct="no">Allgemeiner Anruf (calling wide)</answer>
+      <answer correct="no">Sie werden gerufen. (calling wave)</answer>
+    </question>
+    

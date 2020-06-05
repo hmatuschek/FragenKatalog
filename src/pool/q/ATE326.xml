@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE326" name="A/TE326">
+      <text>
+        <p>Wie nennt man eine Darstellung der Empfangssignale auf einem Computer, wobei als horizontale Achse die Frequenz, als vertikale Achse die Zeit und als Stärke des Signals die Breite einer Linie dargestellt wird?</p>
+      </text>
+      <answer correct="yes">Wasserfalldiagramm</answer>
+      <answer correct="no">Fourieranalyse</answer>
+      <answer correct="no">Schmetterlingsdarstellung</answer>
+      <answer correct="no">Lissajous-Figuren</answer>
+    </question>
+    

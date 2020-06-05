@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD204" name="E/TD204">
+      <text>
+        <p>
+          Wie ändert sich die Resonanzfrequenz eines Schwingkreises, wenn
+          <br />
+          1. die Spule weniger Windungen erhält,
+          <br />
+          2. die Länge der Spule durch Zusammenschieben der Drahtwicklung verringert wird,
+          <br />
+          3. ein Ferritkern in das Innere der Spule gebracht wird?
+        </p>
+      </text>
+      <answer correct="yes">Die Resonanzfrequenz wird bei 1. größer und bei 2. und 3. kleiner.</answer>
+      <answer correct="no">Die Resonanzfrequenz wird bei 1. und 2. kleiner und bei 3. größer.</answer>
+      <answer correct="no">Die Resonanzfrequenz wird bei 1. kleiner und bei 2. und 3. größer.</answer>
+      <answer correct="no">Die Resonanzfrequenz wird bei 1. und 2. größer und bei 3. kleiner.</answer>
+    </question>
+    

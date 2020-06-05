@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH157" name="A/TH157">
+      <text>
+        <p>Ein Drahtdipol hat eine Gesamtlänge von 20,00 m. Für welche Frequenz ist der Dipol in Resonanz, wenn mit einem Korrekturfaktor von 0,95 gerechnet werden kann.</p>
+      </text>
+      <answer correct="yes">7,12 MHz</answer>
+      <answer correct="no">6,77 MHz</answer>
+      <answer correct="no">7,50 MHz</answer>
+      <answer correct="no">7,00 MHz</answer>
+    </question>
+    

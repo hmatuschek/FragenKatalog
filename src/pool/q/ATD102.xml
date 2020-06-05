@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD102" name="A/TD102">
+      <text>
+        <p>Eine Reihenschaltung besteht aus drei Kondensatoren von je 0,03 μF. Wie groß ist die Gesamtkapazität dieser Schaltung?</p>
+      </text>
+      <answer correct="yes">0,01 μF</answer>
+      <answer correct="no">0,09 μF</answer>
+      <answer correct="no">0,001 μF</answer>
+      <answer correct="no">0,009 μF</answer>
+    </question>
+    

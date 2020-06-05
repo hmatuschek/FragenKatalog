@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE308" name="A/TE308">
+      <text>
+        <p>Beim Aussenden von Daten in der Betriebsart Packet-Radio muss nach dem Hochtasten des Senders eine gewisse Zeitspanne gewartet werden, bevor mit der Datenübertragung begonnen werden kann. Wie heißt der Parameter mit dem diese Zeitspanne eingestellt wird?</p>
+      </text>
+      <answer correct="yes">TX-Delay</answer>
+      <answer correct="no">DWAIT</answer>
+      <answer correct="no">RX-Delay</answer>
+      <answer correct="no">Frack</answer>
+    </question>
+    

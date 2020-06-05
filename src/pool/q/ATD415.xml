@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD415" name="A/TD415">
+      <text>
+        <p>Das folgende Oszillogramm zeigt die Ausgangsspannung eines Verstärkers, an dessen Eingang eine rein sinusförmige Wechselspannung anliegt. Welche Harmonische wird von dem Verstärker erzeugt?</p>
+        <img src="Atb706" />
+      </text>
+      <answer correct="yes">Die dritte Harmonische</answer>
+      <answer correct="no">Die zweite Harmonische</answer>
+      <answer correct="no">Die vierte Harmonische</answer>
+      <answer correct="no">Die fünfte Harmonische</answer>
+    </question>
+    

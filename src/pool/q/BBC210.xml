@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC210" name="B/BC210">
+      <text>
+        <p>Welches Seitenband wird bei SSB-Betrieb im 20-m-Band in der Regel benutzt?</p>
+      </text>
+      <answer correct="yes">In der Regel wird im 20-m-Band das obere Seitenband benutzt.</answer>
+      <answer correct="no">Im Europaverkehr wird das untere, sonst im Weitverkehr (so genannter DX-Verkehr) wird das obere Seitenband benutzt.</answer>
+      <answer correct="no">Um den Nachteil der relativ niedrigen Sendefrequenz des 20-m-Bandes auszugleichen, wird das untere Seitenband benutzt.</answer>
+      <answer correct="no">In der unteren Bandhälfte das untere Seitenband, in der oberen Bandhälfte das obere Seitenband.</answer>
+    </question>
+    

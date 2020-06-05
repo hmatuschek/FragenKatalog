@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE311" name="A/TE311">
+      <text>
+        <p>Welche Punkte in einem FM-Transceiver sind für die Zuführung bzw. das Abgreifen eines 9600-Baud-FSK-Signals geeignet?</p>
+      </text>
+      <answer correct="yes">Die Zuführung des Sendesignals könnte z.B. direkt am FM-Modulator einer Sende-ZFAufbereitung erfolgen. Der Abgriff des Empfangssignals könnte z.B. an einem geeigneten Punkt direkt am Demodulator erfolgen.</answer>
+      <answer correct="no">Die Zuführung des Sendesignals könnte z.B. am Eingang des Mikrofonverstärkers erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen.</answer>
+      <answer correct="no">Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am seriellen Bus des Mikrocontrollers erfolgen. Der Abgriff des Empfangssignals könnte an einem geeigneten Punkt direkt am Demodulator erfolgen.</answer>
+      <answer correct="no">Die Zuführung des Sendesignals könnte z.B. über einen geeigneten Punkt am Eingang des Ringmodulators erfolgen. Der Abgriff des Empfangssignals könnte z.B. unter Verwendung eines zusätzlichen Hochpassfilters direkt am Ausgang des Audioverstärkers erfolgen.</answer>
+    </question>
+    

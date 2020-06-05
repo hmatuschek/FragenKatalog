@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD601" name="A/TD601">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atd601" />
+      </text>
+      <answer correct="yes">einen kapazitiv rückgekoppelten Dreipunkt-Oszillator.</answer>
+      <answer correct="no">einen Hochfrequenzverstärker in Basisschaltung.</answer>
+      <answer correct="no">einen Hochfrequenzverstärker in Emitterschaltung.</answer>
+      <answer correct="no">einen Oberton-Oszillator in Kollektorschaltung.</answer>
+    </question>
+    

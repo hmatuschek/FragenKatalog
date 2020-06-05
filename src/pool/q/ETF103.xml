@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF103" name="E/TF103">
+      <text>
+        <p>Welche Aussage ist für einen Doppelsuper richtig?</p>
+      </text>
+      <answer correct="yes">Mit einer niedrigen zweiten ZF erreicht man leicht eine gute Trennschärfe.</answer>
+      <answer correct="no">Das von der Antenne aufgenommene Signal bleibt bis zum Demodulator in seiner Frequenz erhalten.</answer>
+      <answer correct="no">Durch eine hohe erste ZF erreicht man leicht eine gute Trennschärfe.</answer>
+      <answer correct="no">Durch eine niedrige zweite ZF erreicht man leicht eine gute Spiegelselektion.</answer>
+    </question>
+    

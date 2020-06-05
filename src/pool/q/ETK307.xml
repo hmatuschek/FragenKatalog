@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK307" name="E/TK307">
+      <text>
+        <p>Um die Störwahrscheinlichkeit zu verringern, sollte die benutzte Sendeleistung</p>
+      </text>
+      <answer correct="yes">auf das für eine zufrieden stellende Kommunikation erforderliche Minimum eingestellt werden.</answer>
+      <answer correct="no">nur auf den zulässigen Pegel eingestellt werden.</answer>
+      <answer correct="no">auf die für eine zufriedenstellende Kommunikation erforderlichen 100 W eingestellt werden.</answer>
+      <answer correct="no">die Hälfte des maximal zulässigen Pegels betragen.</answer>
+    </question>
+    

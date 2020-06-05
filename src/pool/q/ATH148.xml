@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH148" name="A/TH148">
+      <text>
+        <p>Bei einer Yagi-Antenne mit dem folgenden Strahlungsdiagramm beträgt die ERP in Richtung A 0,6 Watt und in Richtung B 15 Watt. Welches Vor-Rück-Verhältnis hat die Antenne?</p>
+        <img src="Ath148" />
+      </text>
+      <answer correct="yes">14 dB</answer>
+      <answer correct="no">27,9 dB</answer>
+      <answer correct="no">2,8 dB</answer>
+      <answer correct="no">25 dB</answer>
+    </question>
+    

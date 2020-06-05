@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE409" name="B/BE409">
+      <text>
+        <p>Weshalb sind die Frequenzen 14099-14101, 18109-18111, 21149-21151, 24929-24931 und 28190-28225 kHz freizuhalten?</p>
+      </text>
+      <answer correct="yes">Diese Frequenzen sind nach der IARU-Empfehlung für das Internationale Bakenprojekt (IBP) vorgesehen und sind für die Beobachtung der Ausbreitungsbedingungen anhand von Bakensignalen freizuhalten.</answer>
+      <answer correct="no">Diese Frequenzbereiche sind nach der IARU-Empfehlung für Packet Radio vorgesehen und sollen für die Beobachtung dieser Sendungen freigehalten werden.</answer>
+      <answer correct="no">Diese Frequenzen sind nach der IARU-Empfehlung besonders für DX-Verkehr vorgesehen und sollen möglichst für Funkverkehr bei "DX-Expeditionen" genutzt werden.</answer>
+      <answer correct="no">Diese Frequenzbereiche sind nach Empfehlung der Radio Regulations (VO Funk) für besondere Amateurfunk-Zeitzeichen- und Normalfrequenzaussendungen vorgesehen und sollen möglichst freigehalten werden.</answer>
+    </question>
+    

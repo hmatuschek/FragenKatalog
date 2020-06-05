@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA101" name="E/TA101">
+      <text>
+        <p>0,042 A entspricht</p>
+      </text>
+      <answer correct="yes">42·10<sup>-3</sup> A.</answer>
+      <answer correct="no">42·10<sup>3</sup> A.</answer>
+      <answer correct="no">42·10<sup>-2</sup> A.</answer>
+      <answer correct="no">42·10<sup>-1</sup> A.</answer>
+    </question>
+    

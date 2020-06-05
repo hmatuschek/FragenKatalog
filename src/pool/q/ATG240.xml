@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG240" name="A/TG240">
+      <text>
+        <p>Wozu dient der Widerstand R von 180 Ohm parallel zur Trafowicklung?</p>
+        <img src="Atg240" />
+      </text>
+      <answer correct="yes">Er soll die Entstehung parasitärer Schwingungen verhindern.</answer>
+      <answer correct="no">Er dient zur Anpassung der Primärwicklung an die folgende PA.</answer>
+      <answer correct="no">Er dient zur Erhöhung des HF-Wirkungsgrades der Verstärkerstufe.</answer>
+      <answer correct="no">Er dient zur Begrenzung des Kollektorstroms bei Übersteuerung.</answer>
+    </question>
+    

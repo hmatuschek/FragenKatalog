@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH327" name="A/TH327">
+      <text>
+        <p>Um Ordnung in der Amateurfunkstelle herzustellen, verlegen Sie alle Netzanschlusskabel und HF-Speiseleitungen in einem Kabelkanal. Welche Nachteile kann diese Maßnahme haben?</p>
+      </text>
+      <answer correct="yes">Die nebeneinander liegenden HF- und Netzkabel können Netzstörungen hervorrufen.</answer>
+      <answer correct="no">Die nebeneinander liegenden HF- und Netzkabel können zu unerwünschter 50-Hz-Modulation auf dem Koaxialkabel führen.</answer>
+      <answer correct="no">Zwischen den nebeneinander liegenden HF- und Netzkabeln kann es zu Spannungsüberschlägen kommen.</answer>
+      <answer correct="no">Die nebeneinander liegenden HF- und Netzkabel können sich bei guter Isolierung nicht gegenseitig beeinflussen.</answer>
+    </question>
+    

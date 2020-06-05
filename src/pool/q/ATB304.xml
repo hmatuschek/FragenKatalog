@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB304" name="A/TB304">
+      <text>
+        <p>Ein HF-Abklatschkondensator am Anodenkreis einer Senderendstufe hat eine 0,15 mm starke PTFE-Folie als Dielektrikum. Die Durchschlagsfestigkeit von PTFE beträgt ca. 400 kV/cm. Wie groß wäre die maximale Spannung, die an den Kondensator angelegt werden kann, ohne dass die Folie durchschlagen wird?</p>
+      </text>
+      <answer correct="yes">6 kV</answer>
+      <answer correct="no">60 kV</answer>
+      <answer correct="no">600 V</answer>
+      <answer correct="no">2,6 kV</answer>
+    </question>
+    

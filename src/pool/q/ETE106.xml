@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE106" name="E/TE106">
+      <text>
+        <p>
+          Das folgende Oszillogramm zeigt ein typisches Zweiton-SSB-Testsignal.
+          <br />
+          Bestimmen Sie den Modulationsgrad!
+        </p>
+        <img src="ETE105" />
+      </text>
+      <answer correct="yes">Man kann keinen Modulationsgrad bestimmen, da es keinen Träger gibt.</answer>
+      <answer correct="no">Er beträgt 100 %.</answer>
+      <answer correct="no">Er beträgt 0 %.</answer>
+      <answer correct="no">Er beträgt ca. 50 %.</answer>
+    </question>
+    

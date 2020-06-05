@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA205" name="E/TA205">
+      <text>
+        <p>
+          Welche der nachfolgenden Antworten enthält
+          <u>nur</u>
+           Basiseinheiten nach dem internationalen Einheitensystem?
+        </p>
+      </text>
+      <answer correct="yes">Ampere, Kelvin, Meter, Sekunde</answer>
+      <answer correct="no">Sekunde, Meter, Volt, Watt</answer>
+      <answer correct="no">Farad, Henry, Ohm, Sekunde</answer>
+      <answer correct="no">Grad, Hertz, Ohm, Sekunde</answer>
+    </question>
+    

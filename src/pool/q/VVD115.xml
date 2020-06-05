@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD115" name="V/VD115">
+      <text>
+        <p>Darf ein Funkamateur verdeckte bzw. geheime Nachrichten an seinen Funkfreund senden?</p>
+      </text>
+      <answer correct="yes">Nein. Der Amateurfunkverkehr muss in offener Sprache abgewickelt werden und darf nicht zur Verschleierung verschlüsselt werden.</answer>
+      <answer correct="no">Ja, in allen Sprachen, Betriebsarten und Kodierungen.</answer>
+      <answer correct="no">Ja, aber nur zu Testzwecken.</answer>
+      <answer correct="no">Ja, aber nur in den landesüblichen Sprachen, Betriebsarten und Kodierungen.</answer>
+    </question>
+    

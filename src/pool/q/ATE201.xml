@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE201" name="A/TE201">
+      <text>
+        <p>Welche nachfolgende Sendeart hat die geringste Störanfälligkeit bei Funkanlagen in Kraftfahrzeugen?</p>
+      </text>
+      <answer correct="yes">F3E, weil hier die wichtige Information nicht in der Amplitude enthalten ist.</answer>
+      <answer correct="no">C3F, weil hier die wichtige Information in der Amplitude des Restseitenbandes enthalten ist.</answer>
+      <answer correct="no">J3E, weil hier die wichtige Information in der Amplitude eines Seitenbandes enthalten ist.</answer>
+      <answer correct="no">A3E, weil hier die wichtige Information in den Amplituden der beiden Seitenbänder enthalten ist.</answer>
+    </question>
+    

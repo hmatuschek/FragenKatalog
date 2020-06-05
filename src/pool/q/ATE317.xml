@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE317" name="A/TE317">
+      <text>
+        <p>Was versteht man bei Packet-Radio unter dem Begriff "TX-Delay"?</p>
+      </text>
+      <answer correct="yes">Das Zeitintervall zwischen dem Einschalten des Senders und dem Beginn der Datenübertragung.</answer>
+      <answer correct="no">Die Zeit, bis eine gesendete Nachricht beim Empfänger ankommt.</answer>
+      <answer correct="no">Die maximale Zeitspanne, die eine Station senden darf.</answer>
+      <answer correct="no">Die Zeit, die der Funkamateur warten muss, bis er senden darf.</answer>
+    </question>
+    

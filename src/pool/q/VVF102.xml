@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF102" name="V/VF102">
+      <text>
+        <p>Bei welcher Handlung verletzt ein Funkamateur das Fernmeldegeheimnis?</p>
+      </text>
+      <answer correct="yes">Bei Empfang, Verwertung oder Weitergabe von Nachrichten, die nicht für Funkamateure, die Allgemeinheit oder einen unbestimmten Personenkreis bestimmt sind.</answer>
+      <answer correct="no">Bei Verwertung oder Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, an denen der Funkamateur nicht selbst beteiligt war.</answer>
+      <answer correct="no">Bei Verwertung oder Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, unabhängig davon, ob der Funkamateur selbst beteiligt war.</answer>
+      <answer correct="no">Bei Aufzeichnung und Weitergabe von Gesprächsinhalten und Daten aus Amateurfunkverbindungen, insbesondere, wenn die Weitergabe an Nicht-Funkamateure erfolgt.</answer>
+    </question>
+    

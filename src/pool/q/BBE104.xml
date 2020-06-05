@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE104" name="B/BE104">
+      <text>
+        <p>Die deutsche Amateurfunkstelle DC8WV ruft auf dem 80-m-Band oberhalb 3700 kHz in Morsetelegrafie "CQ de DC8WV pse k". Dürfen Sie auf diesen allgemeinen Anruf auch in der Betriebsart SSB-Telefonie antworten?</p>
+      </text>
+      <answer correct="yes">Ja. Es ist allerdings die Regel, zunächst nur in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte.</answer>
+      <answer correct="no">Nein. Es ist eine nationale Regel, zunächst in der gleichen Betriebsart zu antworten, in der der Anruf der anderen Station erfolgte.</answer>
+      <answer correct="no">Ja, weil die Betriebsfrequenz in einem Frequenzbereich liegt, in dem auch die Betriebsart Telefonie benutzt werden darf und weil DC8WV mit dem angehängten "k" zum Ausdruck bringt, dass er für die Betriebsart bei der Antwort keine Beschränkung festlegt.</answer>
+      <answer correct="no">Ja, da oberhalb 3700 kHz keine Morsetelegrafie angewendet werden darf, und ich DC8WV in Telefonie darauf aufmerksam machen sollte.</answer>
+    </question>
+    

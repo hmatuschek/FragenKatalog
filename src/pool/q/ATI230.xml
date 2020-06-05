@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI230" name="A/TI230">
+      <text>
+        <p>Die LUF für eine Funkstrecke ist</p>
+      </text>
+      <answer correct="yes">die niedrigste brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann.</answer>
+      <answer correct="no">der Mittelwert der höchsten und niedrigsten brauchbaren Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann.</answer>
+      <answer correct="no">die gemessene brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann.</answer>
+      <answer correct="no">die geeignetste brauchbare Frequenz im KW-Bereich, bei der die Verbindung zwischen zwei Orten über die Raumwelle hergestellt werden kann.</answer>
+    </question>
+    

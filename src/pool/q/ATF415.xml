@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF415" name="A/TF415">
+      <text>
+        <p>In einigen NF-Endstufen eines Verstärkers wird der Lautsprecher über einen Abwärtstransformator angesteuert. Dies gewährleistet</p>
+      </text>
+      <answer correct="yes">eine Anpassung des Verstärkers an den Lautsprecher.</answer>
+      <answer correct="no">einen höheren NF-Gewinn.</answer>
+      <answer correct="no">eine bessere NF-Qualität.</answer>
+      <answer correct="no">einen sparsameren Stromverbrauch.</answer>
+    </question>
+    

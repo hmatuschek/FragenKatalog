@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ203" name="E/TJ203">
+      <text>
+        <p>Die Zeitbasis eines Oszilloskops ist so eingestellt, dass ein Skalenteil 0,5 ms entspricht. Welche Frequenz hat die angelegte Spannung?</p>
+        <img src="ETJ203" />
+      </text>
+      <answer correct="yes">250 Hz.</answer>
+      <answer correct="no">500 Hz.</answer>
+      <answer correct="no">667 Hz.</answer>
+      <answer correct="no">333 Hz.</answer>
+    </question>
+    

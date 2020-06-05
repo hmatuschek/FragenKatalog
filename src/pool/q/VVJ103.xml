@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVJ103" name="V/VJ103">
+      <text>
+        <p>Wie ist die Stromversorgung von Eigenbaugeräten elektrotechnisch sicher aufzubauen?</p>
+      </text>
+      <answer correct="yes">Nach den VDE-Vorschriften.</answer>
+      <answer correct="no">Nach keinen besonderen Vorschriften, da ein Funkamateur als sachkundige Person gilt.</answer>
+      <answer correct="no">Nach den Vorschriften der örtlichen Stromversorger.</answer>
+      <answer correct="no">Nach den CEPT-Empfehlungen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB703" name="A/TB703">
+      <text>
+        <p>Was sind Harmonische?</p>
+      </text>
+      <answer correct="yes">Harmonische sind die ganzzahligen (1, 2, 3 ...) Vielfachen einer Frequenz.</answer>
+      <answer correct="no">Harmonische sind die ganzzahligen (1, 2, 3 ...) Teile einer Frequenz.</answer>
+      <answer correct="no">Harmonische sind die erzeugten Frequenzen oberhalb der ursprünglichen Frequenz.</answer>
+      <answer correct="no">Harmonische sind identisch mit den Oberwellen, wobei die Grundwelle keine Harmonische ist.</answer>
+    </question>
+    

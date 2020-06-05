@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK302" name="E/TK302">
+      <text>
+        <p>Ein Sender sollte so betrieben werden, dass</p>
+      </text>
+      <answer correct="yes">er keine unerwünschten Aussendungen hervorruft.</answer>
+      <answer correct="no">die Selbsterregung maximiert wird.</answer>
+      <answer correct="no">parasitäre Schwingungen vorhanden sind.</answer>
+      <answer correct="no">die Oberwellenabschirmung minimiert wird.</answer>
+    </question>
+    

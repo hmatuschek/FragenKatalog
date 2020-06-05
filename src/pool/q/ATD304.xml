@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD304" name="A/TD304">
+      <text>
+        <p>Falls nachgewiesen wird, dass Störungen über das Stromversorgungsnetz in Geräte eindringen, ist wahrscheinlich</p>
+      </text>
+      <answer correct="yes">der Einbau eines Netzfilters erforderlich.</answer>
+      <answer correct="no">der Austausch des Netzteils erforderlich.</answer>
+      <answer correct="no">die Entfernung der Erdung und Neuverlegung des Netzanschlusskabels erforderlich.</answer>
+      <answer correct="no">die Benachrichtigung des zuständigen Stromversorgers erforderlich.</answer>
+    </question>
+    

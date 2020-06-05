@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE119" name="V/VE119">
+      <text>
+        <p>Welche Antwort enthält nur Frequenzbereiche, die auch von Rufzeicheninhabern der Klasse E genutzt werden dürfen?</p>
+      </text>
+      <answer correct="yes">1810 - 2000 kHz, 3500 - 3800 kHz, 21000 - 21450 kHz und 28000 - 29700 kHz</answer>
+      <answer correct="no">135,7 - 137,8 kHz, 1810 - 2000 kHz, 7000 - 7200 kHz und 21000 - 21450 kHz</answer>
+      <answer correct="no">1815 - 1835 kHz, 10100 - 10150 kHz, 14000 - 14350 kHz und 21000 - 21450 kHz</answer>
+      <answer correct="no">1850 - 1890 kHz, 7000 - 7200 kHz, 18068 - 18168 kHz und 24890 - 24990 kHz</answer>
+    </question>
+    

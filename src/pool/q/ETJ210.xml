@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ210" name="E/TJ210">
+      <text>
+        <p>Ein Stehwellenmessgerät wird eingesetzt bei Sendern zur Messung</p>
+      </text>
+      <answer correct="yes">der Antennenanpassung.</answer>
+      <answer correct="no">der Oberwellenausgangsleistung.</answer>
+      <answer correct="no">der Bandbreite.</answer>
+      <answer correct="no">des Wirkungsgrades.</answer>
+    </question>
+    

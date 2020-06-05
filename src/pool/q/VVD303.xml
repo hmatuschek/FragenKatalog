@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD303" name="V/VD303">
+      <text>
+        <p>Was ist u.a. im Zusammenhang mit der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>
+      </text>
+      <answer correct="yes">Der Ausbildungsfunkbetrieb darf nur im Berechtigungsumfang der Rufzeichenzuteilung durchgeführt werden.</answer>
+      <answer correct="no">Der Ausbildungsfunkverkehr darf nicht in der Betriebsart A1A (Morsen) durchgeführt werden.</answer>
+      <answer correct="no">Der Ausbildungsfunkverkehr darf nur mit einer maximalen Strahlungsleistung von 10 Watt EIRP durchgeführt werden.</answer>
+      <answer correct="no">Der Ausbildungsfunkverkehr darf nur an einer Klubstation durchgeführt werden.</answer>
+    </question>
+    

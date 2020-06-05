@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA101" name="A/TA101">
+      <text>
+        <p>Welche Einheit wird für die elektrische Feldstärke verwendet?</p>
+      </text>
+      <answer correct="yes">Volt pro Meter (V/m)</answer>
+      <answer correct="no">Watt pro Quadratmeter (W/m²)</answer>
+      <answer correct="no">Ampere pro Meter (A/m)</answer>
+      <answer correct="no">Henry pro Meter (H/m)</answer>
+    </question>
+    

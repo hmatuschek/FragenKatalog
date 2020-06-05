@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD223" name="V/VD223">
+      <text>
+        <p>Werden von der Bundesnetzagentur Ausbildungsrufzeichen für Klubstationen vergeben?</p>
+      </text>
+      <answer correct="yes">Nein.</answer>
+      <answer correct="no">Ja, aber nur auf Antrag des verantwortlichen Funkamateurs.</answer>
+      <answer correct="no">Ja.</answer>
+      <answer correct="no">Ausbildungsrufzeichen für Klubstationen werden in besonders begründeten Fällen vergeben.</answer>
+    </question>
+    

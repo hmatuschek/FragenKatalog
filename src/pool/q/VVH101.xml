@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVH101" name="V/VH101">
+      <text>
+        <p>Welches Gesetz bzw. welche Vorschrift beinhaltet Regelungen für das Inverkehrbringen, den freien Warenverkehr und die Inbetriebnahme, die auch für serienmäßig hergestellte Amateurfunkgeräte gelten?</p>
+      </text>
+      <answer correct="yes">Das Gesetz über Funkanlagen und Telekommunikationsendeinrichtungen.</answer>
+      <answer correct="no">Die Amateurfunkverordnung.</answer>
+      <answer correct="no">Die Verordnung über elektromagnetische Felder vom 16.12.1996.</answer>
+      <answer correct="no">Für solche Amateurfunkgeräte gibt es keine spezielle Regelung; Streitigkeiten werden nach dem Bürgerlichen Gesetzbuch ausgetragen.</answer>
+    </question>
+    

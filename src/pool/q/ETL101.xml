@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL101" name="E/TL101">
+      <text>
+        <p>Um eine Amateurfunkstelle in Bezug auf EMV zu optimieren</p>
+      </text>
+      <answer correct="yes">sollten alle Einrichtungen mit einer guten HF-Erdung versehen werden.</answer>
+      <answer correct="no">sollte der Sender mit der Wasserleitung im Haus verbunden werden.</answer>
+      <answer correct="no">sollten alle schlechten Erdverbindungen entfernt werden.</answer>
+      <answer correct="no">sollten Wasserleitungsanschlüsse aus Polyäthylen zur Isolation vorgesehen werden.</answer>
+    </question>
+    

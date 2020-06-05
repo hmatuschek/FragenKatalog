@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH420" name="A/TH420">
+      <text>
+        <p>Folgender Balun-Transformator aus zweimal 8 Windungen ist gegeben. Von A nach B wird ein Faltdipol mit 200 Ohm Impedanz angeschlossen. Welche Impedanz misst man zwischen A und M?</p>
+        <img src="Ath420" />
+      </text>
+      <answer correct="yes">50 Ω</answer>
+      <answer correct="no">100 Ω</answer>
+      <answer correct="no">200 Ω</answer>
+      <answer correct="no">400 Ω</answer>
+    </question>
+    

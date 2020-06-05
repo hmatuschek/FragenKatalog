@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA403" name="V/VA403">
+      <text>
+        <p>Nach den Radio Regulations (VO Funk) ist die Erde in verschiedene Funkregionen unterteilt. Wie viele Funkregionen gibt es und zu welcher davon gehört Australien?</p>
+      </text>
+      <answer correct="yes">Drei Funkregionen. Australien gehört zur Region 3.</answer>
+      <answer correct="no">Vier Funkregionen. Australien gehört zur Region 1.</answer>
+      <answer correct="no">Vierzehn Funkregionen. Australien gehört zur Region 4.</answer>
+      <answer correct="no">Fünf Funkregionen. Australien gehört zur Region 2.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF404" name="A/TF404">
+      <text>
+        <p>Die Spule, die Bestandteil des frequenzbestimmenden Elementes eines VFO ist, sollte</p>
+      </text>
+      <answer correct="yes">eine solide mechanische Konstruktion aufweisen.</answer>
+      <answer correct="no">aus Widerstandsdraht bestehen.</answer>
+      <answer correct="no">freitragend sein.</answer>
+      <answer correct="no">um einen Stahlkern gewickelt sein.</answer>
+    </question>
+    

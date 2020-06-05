@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD304" name="B/BD304">
+      <text>
+        <p>Welche fünf Landeskenner sind einem einzigen Kontinent zuzuordnen?</p>
+      </text>
+      <answer correct="yes">CE, PY, LU, OA, YV</answer>
+      <answer correct="no">HV, EA, EP, ZS, 4S</answer>
+      <answer correct="no">OH, OA, OZ, SM, UA</answer>
+      <answer correct="no">G, F, K, W, JA, SP</answer>
+    </question>
+    

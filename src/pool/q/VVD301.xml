@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD301" name="V/VD301">
+      <text>
+        <p>Von wem ist während des Ausbildungsfunkbetriebs das zugeteilte Ausbildungsrufzeichen zu benutzen?</p>
+      </text>
+      <answer correct="yes">Grundsätzlich nur vom Auszubildenden.</answer>
+      <answer correct="no">Grundsätzlich nur vom Ausbilder.</answer>
+      <answer correct="no">Vom Auszubildenden und vom Ausbilder.</answer>
+      <answer correct="no">Immer nur vom Inhaber der benutzten Amateurfunkstation.</answer>
+    </question>
+    

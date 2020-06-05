@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD303" name="B/BD303">
+      <text>
+        <p>Welche Gruppe gibt Landeskenner der Länder China, Japan, Kanada, Australien, Mexiko und USA für ihre Amateurfunkstellen richtig wieder?</p>
+      </text>
+      <answer correct="yes">BY, JA, VE, VK, XE, K</answer>
+      <answer correct="no">BY, JA, VK, VE, MX, W</answer>
+      <answer correct="no">CE, JA, VE, VK, XE, W</answer>
+      <answer correct="no">CE, JA, VE, VK, MX, N</answer>
+    </question>
+    

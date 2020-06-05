@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC204" name="E/TC204">
+      <text>
+        <p>Welche Kapazität hat nebenstehend abgebildeter Kondensator?</p>
+        <img src="ETC204" />
+      </text>
+      <answer correct="yes">470 pF</answer>
+      <answer correct="no">4,7 pF</answer>
+      <answer correct="no">47 pF</answer>
+      <answer correct="no">47000 pF</answer>
+    </question>
+    

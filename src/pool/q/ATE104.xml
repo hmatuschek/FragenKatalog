@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE104" name="A/TE104">
+      <text>
+        <p>Durch Modulation</p>
+      </text>
+      <answer correct="yes">werden Informationen auf einen Träger aufgeprägt.</answer>
+      <answer correct="no">wird einem Träger Informationen entnommen.</answer>
+      <answer correct="no">werden Sprach- und CW-Signale kombiniert.</answer>
+      <answer correct="no">werden dem Signal NF-Komponenten entnommen.</answer>
+    </question>
+    

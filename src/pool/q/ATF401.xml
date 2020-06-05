@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF401" name="A/TF401">
+      <text>
+        <p>Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszillator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welches ist die richtige Spiegelfrequenz?</p>
+      </text>
+      <answer correct="yes">49,9 MHz</answer>
+      <answer correct="no">39,2 MHz</answer>
+      <answer correct="no">17,8 MHz</answer>
+      <answer correct="no">48,9 MHz</answer>
+    </question>
+    

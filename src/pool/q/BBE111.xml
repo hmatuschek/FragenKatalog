@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE111" name="B/BE111">
+      <text>
+        <p>Was bedeutet der im 20-m-Band gesendete Anruf "CQ CQ CQ DX de HB9AFN"?</p>
+      </text>
+      <answer correct="yes">HB9AFN sucht eine Überseeverbindung und sollte durch europäische Funkamateure nicht angerufen werden.</answer>
+      <answer correct="no">HB9AFN sucht eine Verbindung mit dem Ausland und sollte durch andere Funkamateure nicht angerufen werden.</answer>
+      <answer correct="no">HB9AFN sucht eine Verbindung über 500 km und sollte durch Funkamateure aus einer geringeren Entfernung als 500 km nicht angerufen werden.</answer>
+      <answer correct="no">HB9AFN sucht eine Verbindung mit Stationen von den Philippinen (Präfix "DX").</answer>
+    </question>
+    

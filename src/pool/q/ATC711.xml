@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC711" name="A/TC711">
+      <text>
+        <p>Was ist ein Operationsverstärker?</p>
+      </text>
+      <answer correct="yes">Operationsverstärker sind gleichstromgekoppelte Verstärker mit sehr hohem Verstärkungsfaktor und großer Linearität.</answer>
+      <answer correct="no">Operationsverstärker sind wechselstromgekoppelte Verstärker mit niedrigem Eingangswiderstand und großer Linearität.</answer>
+      <answer correct="no">Operationsverstärker sind in Empfängerstufen eingebaute Analogverstärker mit sehr niedrigem Verstärkungsfaktor aber großer Linearität.</answer>
+      <answer correct="no">Operationsverstärker sind digitale Schaltkreise mit niedrigem Verstärkungsfaktor aber großer Linearität.</answer>
+    </question>
+    

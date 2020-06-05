@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI103" name="V/VI103">
+      <text>
+        <p>Was bedeutet die Abkürzung EMVU?</p>
+      </text>
+      <answer correct="yes">Elektromagnetische Verträglichkeit in der Umwelt.</answer>
+      <answer correct="no">Elektromagnetische Verträglichkeit von Geräten.</answer>
+      <answer correct="no">Elektronische Messung von elektromagnetischen Unverträglichkeiten.</answer>
+      <answer correct="no">Eine Bürgerinitiative zum Schutz vor elektromagnetischen Unverträglichkeiten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC208" name="E/TC208">
+      <text>
+        <p>Mit zunehmender Frequenz</p>
+      </text>
+      <answer correct="yes">sinkt der Wechselstromwiderstand von Kondensatoren.</answer>
+      <answer correct="no">sinkt der Wechselstromwiderstand von Kondensatoren bis zu einem Minimum und steigt dann wieder.</answer>
+      <answer correct="no">steigt der Wechselstromwiderstand von Kondensatoren.</answer>
+      <answer correct="no">steigt der Wechselstromwiderstand von Kondensatoren bis zu einem Maximum und sinkt dann wieder.</answer>
+    </question>
+    

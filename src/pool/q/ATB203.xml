@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB203" name="A/TB203">
+      <text>
+        <p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 A abgibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Spannungsquelle?</p>
+      </text>
+      <answer correct="yes">0,25 Ω</answer>
+      <answer correct="no">6,75 Ω</answer>
+      <answer correct="no">13 Ω</answer>
+      <answer correct="no">0,5 Ω</answer>
+    </question>
+    

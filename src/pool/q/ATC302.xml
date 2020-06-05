@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC302" name="A/TC302">
+      <text>
+        <p>In einer reinen Induktivität, die an einer Wechselspannungsquelle angeschlossen ist, eilt der Strom der angelegten Spannung</p>
+      </text>
+      <answer correct="yes">um 90° nach.</answer>
+      <answer correct="no">um 45° voraus.</answer>
+      <answer correct="no">um 45° nach.</answer>
+      <answer correct="no">um 90° voraus.</answer>
+    </question>
+    

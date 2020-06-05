@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB102" name="E/TB102">
+      <text>
+        <p>Welches der genannten Metalle hat die beste elektrische Leitfähigkeit?</p>
+      </text>
+      <answer correct="yes">Silber</answer>
+      <answer correct="no">Kupfer</answer>
+      <answer correct="no">Gold</answer>
+      <answer correct="no">Zinn</answer>
+    </question>
+    

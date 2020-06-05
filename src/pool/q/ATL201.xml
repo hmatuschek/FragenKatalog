@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL201" name="A/TL201">
+      <text>
+        <p>Sie besitzen eine λ/4-Vertikalantenne. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von weniger als 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass Sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung ohne Berücksichtigung der Kabelverluste dabei sein?</p>
+      </text>
+      <answer correct="yes">3 Watt</answer>
+      <answer correct="no">10 Watt</answer>
+      <answer correct="no">5 Watt</answer>
+      <answer correct="no">2 Watt</answer>
+    </question>
+    

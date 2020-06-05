@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK207" name="A/TK207">
+      <text>
+        <p>Durch welche Maßnahme kann die übermäßige Bandbreite einer FM-Aussendung verringert werden? Durch die Verringerung der</p>
+      </text>
+      <answer correct="yes">Hubeinstellung.</answer>
+      <answer correct="no">HF-Begrenzung.</answer>
+      <answer correct="no">Vorspannung in der Endstufe.</answer>
+      <answer correct="no">Trägerfrequenz.</answer>
+    </question>
+    

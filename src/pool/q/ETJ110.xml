@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ110" name="E/TJ110">
+      <text>
+        <p>Welche der folgenden Bauteile könnten für eine genaue künstliche Antenne, die bei 28 MHz eingesetzt werden soll, verwendet werden?</p>
+      </text>
+      <answer correct="yes">10 Kohleschichtwiderstände von 500 Ω</answer>
+      <answer correct="no">ein 50-Ω-Drahtwiderstand</answer>
+      <answer correct="no">2 parallel geschaltete Drahtwiderstände von 100 Ω</answer>
+      <answer correct="no">ein Spulenanpassfilter im Ölbad</answer>
+    </question>
+    

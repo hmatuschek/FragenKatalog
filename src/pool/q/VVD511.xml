@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD511" name="V/VD511">
+      <text>
+        <p>Welcher Fall ist als störungsfreier Betrieb einer Relaisfunkstelle im Sinne des § 13 Abs. 4 AFuV anzusehen?</p>
+      </text>
+      <answer correct="yes">Lang andauernder Funkverkehr.</answer>
+      <answer correct="no">Mutwillige Störungen oder unberechtigte Aussendungen.</answer>
+      <answer correct="no">Die Verbreitung von Inhalten, die gegen AFuG, AFuV oder gegen allgemeines Recht verstoßen.</answer>
+      <answer correct="no">Die Benutzung einer Relaisfunkstelle mit falscher Rufzeichenklasse.</answer>
+    </question>
+    

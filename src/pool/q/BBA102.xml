@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA102" name="B/BA102">
+      <text>
+        <p>Wie ist das Wort "München" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Mike Uniform Echo November Charlie Hotel Echo November</answer>
+      <answer correct="no">Mike United Echo Nancy Charlie Hotel Echo Nancy</answer>
+      <answer correct="no">Mike Uniform Emil Nevada Charlie Hotel Emil November</answer>
+      <answer correct="no">Michigan Union Echo November Charlie Hotel Echo Nancy</answer>
+    </question>
+    

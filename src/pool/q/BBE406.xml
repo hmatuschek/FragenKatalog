@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE406" name="B/BE406">
+      <text>
+        <p>Bei deutschen 70-cm-Relaisfunkstellen liegt die Ausgabefrequenz üblicherweise</p>
+      </text>
+      <answer correct="yes">7,6 MHz höher als die Eingabefrequenz.</answer>
+      <answer correct="no">600 kHz niedriger als die Eingabefrequenz.</answer>
+      <answer correct="no">600 kHz höher als die Eingabefrequenz.</answer>
+      <answer correct="no">7,6 MHz niedriger als die Eingabefrequenz.</answer>
+    </question>
+    

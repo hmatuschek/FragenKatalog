@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG239" name="A/TG239">
+      <text>
+        <p>
+          Weshalb wurden bei C
+          <sub>1</sub>
+          , C
+          <sub>2</sub>
+           und C
+          <sub>3</sub>
+           je zwei Kondensatoren parallel geschaltet?
+        </p>
+        <img src="Atg239" />
+      </text>
+      <answer correct="yes">Der Kondensator geringer Kapazität dient jeweils zum Abblocken hoher Frequenzen, der Kondensator hoher Kapazität zum Abblocken niedriger Frequenzen.</answer>
+      <answer correct="no">Die Kapazität nur eines Kondensators reicht bei der hohen Frequenz nicht aus.</answer>
+      <answer correct="no">Der Kondensator mit der geringen Kapazität dient zur Siebung der niedrigen und der Kondensator mit der hohen Kapazität zur Siebung der hohen Frequenzen.</answer>
+      <answer correct="no">Zu einem Elektrolytkondensator muss immer ein keramischer Kondensator parallel geschaltet werden, weil er sonst bei hohen Frequenzen zerstört werden würde.</answer>
+    </question>
+    

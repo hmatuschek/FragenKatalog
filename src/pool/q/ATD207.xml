@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD207" name="A/TD207">
+      <text>
+        <p>
+          Wie groß ist die Resonanzfrequenz dieser Schaltung, wenn C
+          <sub>1</sub>
+           = 0,1 nF, C
+          <sub>2</sub>
+           = 1,5 nF, C
+          <sub>3</sub>
+           = 220 pF und L = 1 mH beträgt?
+        </p>
+        <img src="Atd207" />
+      </text>
+      <answer correct="yes">117,973 kHz</answer>
+      <answer correct="no">11,797 kHz</answer>
+      <answer correct="no">1,18 kHz</answer>
+      <answer correct="no">1,17973 MHz</answer>
+    </question>
+    

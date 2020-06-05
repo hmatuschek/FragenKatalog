@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC214" name="B/BC214">
+      <text>
+        <p>Aus welchem Grund sollten Sie in der Dunkelheit und im Winter auch tagsüber im Bereich von 3500-3510 kHz keine innerdeutschen oder innereuropäischen Telegrafie-QSOs durchführen?</p>
+      </text>
+      <answer correct="yes">Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich als "CW DX" ausgewiesen und sollte für interkontinentale Verbindungen freigehalten werden.</answer>
+      <answer correct="no">Gemäß Frequenzbereichszuweisungsplan ist dieser Bereich auch kommerziellen Stationen zugewiesen und muss nachts und im Winter freigehalten werden.</answer>
+      <answer correct="no">Im IARU-Region-1-Kurzwellenbandplan ist dieser Bereich für Digimode-Betriebsarten ausgewiesen und sollte von CW-Stationen nicht benutzt werden.</answer>
+      <answer correct="no">Weil dieser Bereich im Ausland auch für Rundfunkstationen ausgewiesen ist und daher nachts und im Winter durch den Amateurfunkdienst nicht genutzt werden darf.</answer>
+    </question>
+    

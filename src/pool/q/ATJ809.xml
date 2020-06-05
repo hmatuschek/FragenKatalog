@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ809" name="A/TJ809">
+      <text>
+        <p>Zur genauen Messung des Effektivwertes eines nicht sinusförmigen Stromes bis in den GHz-Bereich eignet sich</p>
+      </text>
+      <answer correct="yes">ein Messgerät mit Thermoumformer.</answer>
+      <answer correct="no">ein Oszillograf.</answer>
+      <answer correct="no">ein Messgerät mit Diodentastkopf.</answer>
+      <answer correct="no">ein Digitalmultimeter.</answer>
+    </question>
+    

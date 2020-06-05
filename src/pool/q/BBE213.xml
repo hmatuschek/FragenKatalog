@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE213" name="B/BE213">
+      <text>
+        <p>Wie erkennt ein Funkamateur in der Regel, dass er mit "PY" auf dem "indirekten" und somit längeren Weg gearbeitet hat?</p>
+      </text>
+      <answer correct="yes">Aus der Stellung seiner Richtantenne erkennt er, dass diese der Richtung des kürzesten Weges nach Brasilien um 180° entgegengesetzt ist. Das heißt, er hat "PY" auf dem "langen Weg" gearbeitet.</answer>
+      <answer correct="no">Durch die verhallte Tonlage der Verbindung erkennt er, dass diese in zwei Richtungen nach Brasilien stattgefunden hat. Das heißt, er hat "PY" nicht nur direkt sondern auf einem "längeren Weg" gearbeitet.</answer>
+      <answer correct="no">Aus der Stellung seiner Richtantenne erkennt er, dass diese in Richtung des längeren Weges nach Brasilien eingesetzt ist. Das heißt, er hat "PY" auf dem "direkten Weg" gearbeitet.</answer>
+      <answer correct="no">Durch die verhallte Tonlage der Verbindung nach Brasilien, Ausbreitung der Funkwellen über zwei entgegengesetzte Wege.</answer>
+    </question>
+    

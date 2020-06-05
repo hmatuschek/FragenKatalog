@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD510" name="V/VD510">
+      <text>
+        <p>Wann kann ein verantwortlicher Funkamateur einen bestimmten Funkamateur vorübergehend vom Betrieb über die von ihm betreute Relaisfunkstelle ausschließen?</p>
+      </text>
+      <answer correct="yes">Wenn dies dazu dient den störungsfreien Betrieb der Relaisfunkstelle sicherzustellen.</answer>
+      <answer correct="no">Wenn ein Funkamateur die Relaisfunkstelle zu häufig benutzt.</answer>
+      <answer correct="no">Wenn technische Mängel seiner Station zu Störungen führen.</answer>
+      <answer correct="no">Wenn ein Funkamateur das Mindestalter noch nicht erreicht hat.</answer>
+    </question>
+    

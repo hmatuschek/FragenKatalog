@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ706" name="A/TJ706">
+      <text>
+        <p>Was stellt diese Schaltung dar?</p>
+        <img src="Atj706" />
+      </text>
+      <answer correct="yes">Feldstärkeanzeiger</answer>
+      <answer correct="no">Einfacher Peilempfänger</answer>
+      <answer correct="no">Antennenimpedanzmesser</answer>
+      <answer correct="no">Dipmeter</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK211" name="A/TK211">
+      <text>
+        <p>Das Nutzsignal eines 144-MHz-Senders verursacht die Übersteuerung eines in der Nähe befindlichen UHF-Fernsehempfängers. Das Problem lässt sich durch den Einbau eines</p>
+      </text>
+      <answer correct="yes">Hochpassfilters in das Antennenzuführungskabel des Fernsehempfängers lösen.</answer>
+      <answer correct="no">Tiefpassfilter in das Antennenzuführungskabel des Fernsehempfängers lösen.</answer>
+      <answer correct="no">Subharmonischenfilters vor dem Tuner des Fernsehempfängers lösen.</answer>
+      <answer correct="no">ZF-Begrenzers hinter dem Tuner des Fernsehempfängers lösen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB205" name="E/TB205">
+      <text>
+        <p>Wie lange könnte man mit einem voll geladenen Akku mit 55 Ah einen Amateurfunkempfänger betreiben, der einen Strom von 0,8 A aufnimmt?</p>
+      </text>
+      <answer correct="yes">68 Stunden und 45 Minuten</answer>
+      <answer correct="no">Genau 44 Stunden</answer>
+      <answer correct="no">6 Stunden 52 Minuten und 30 Sekunden</answer>
+      <answer correct="no">69 Stunden und 15 Minuten</answer>
+    </question>
+    

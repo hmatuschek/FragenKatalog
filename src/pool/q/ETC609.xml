@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC609" name="E/TC609">
+      <text>
+        <p>Ein bipolarer Transistor ist</p>
+      </text>
+      <answer correct="yes">stromgesteuert.</answer>
+      <answer correct="no">spannungsgesteuert.</answer>
+      <answer correct="no">thermisch gesteuert.</answer>
+      <answer correct="no">ein Gleichspannungsverstärker.</answer>
+    </question>
+    

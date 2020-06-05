@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD306" name="E/TD306">
+      <text>
+        <p>Welches ist der Hauptnachteil eines Schaltnetzteils gegenüber einem konventionellen Netzteil?</p>
+      </text>
+      <answer correct="yes">Ein Schaltnetzteil erzeugt Oberwellen seiner Taktfrequenz, die beim Empfang zu Störungen führen können.</answer>
+      <answer correct="no">Ein Schaltnetzteil benötigt einen größeren Transformator.</answer>
+      <answer correct="no">Ein Schaltnetzteil kann keine so hohen Ströme abgeben.</answer>
+      <answer correct="no">Ein Schaltnetzteil hat höhere Verluste.</answer>
+    </question>
+    

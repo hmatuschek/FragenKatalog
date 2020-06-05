@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK318" name="E/TK318">
+      <text>
+        <p>Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch</p>
+      </text>
+      <answer correct="yes">Sender im 160-m-Band.</answer>
+      <answer correct="no">UHF-Sender.</answer>
+      <answer correct="no">VHF-Sender.</answer>
+      <answer correct="no">Sender im 10-m-Band.</answer>
+    </question>
+    

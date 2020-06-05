@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD219" name="V/VD219">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DBØAA - DBØZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Relaisfunkstellen oder Funkbaken.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen bei besonderen Anlässen allgemeiner Art.</answer>
+      <answer correct="no">Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV.</answer>
+      <answer correct="no">Rufzeichen für Personal der Gaststreitkräfte.</answer>
+    </question>
+    

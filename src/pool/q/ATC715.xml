@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC715" name="A/TC715">
+      <text>
+        <p>
+          Der Eingangswiderstand der folgenden Operationsverstärkerschaltung soll 1 kΩ betragen und es wird eine Spannungsverstärkung von zirka 20 erwünscht. Wie groß muss der Rückkopplungswiderstand R
+          <sub>2</sub>
+           sein?
+        </p>
+        <img src="Atc715" />
+      </text>
+      <answer correct="yes">zirka 20 kΩ</answer>
+      <answer correct="no">zirka 1 kΩ</answer>
+      <answer correct="no">zirka 400 kΩ</answer>
+      <answer correct="no">zirka 1,9 kΩ</answer>
+    </question>
+    

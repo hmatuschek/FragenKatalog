@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ705" name="A/TJ705">
+      <text>
+        <p>Was muss für die genaue Messung der HF-Ausgangsleistung eines Senders mit einer solchen Schaltung berücksichtigt werden?</p>
+        <img src="Atj705" />
+      </text>
+      <answer correct="yes">Korrekturwerte, die z.B. aus Vergleichsmessungen stammen.</answer>
+      <answer correct="no">
+        R
+        <sub>1</sub>
+         muss genau 50 Ω betragen.
+      </answer>
+      <answer correct="no">Bei den Umrechnungen darf nur mit dem Effektivwert gerechnet werden.</answer>
+      <answer correct="no">Die Messschaltung muss vor jeder Messung mit einem Dipmeter überprüft werden.</answer>
+    </question>
+    

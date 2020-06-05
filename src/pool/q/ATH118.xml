@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH118" name="A/TH118">
+      <text>
+        <p>In welcher Zeile sind besonders für den Kurzwellenbereich geeignete Antennen aufgeführt?</p>
+      </text>
+      <answer correct="yes">Delta-Loop, Rhombus-Antenne, Groundplane</answer>
+      <answer correct="no">Beam, Groundplane-Antenne, Hornstrahler</answer>
+      <answer correct="no">Helical-Antenne, Rhombus-Antenne, Hornstrahler</answer>
+      <answer correct="no">Parabolantenne, Windom-Antenne, Langyagi</answer>
+    </question>
+    

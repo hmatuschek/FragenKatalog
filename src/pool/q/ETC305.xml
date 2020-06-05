@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC305" name="E/TC305">
+      <text>
+        <p>Schaltet man zwei Glühlampen gleichzeitig an eine Spannungsquelle, wobei eine Glühlampe zum Helligkeitsausgleich über einen Widerstand und die andere über eine Spule mit vielen Windungen und Eisenkern angeschlossen ist, so</p>
+        <img src="ETC305" />
+      </text>
+      <answer correct="yes">leuchtet H1 zuerst.</answer>
+      <answer correct="no">leuchtet H2 zuerst.</answer>
+      <answer correct="no">leuchten H1 und H2 genau gleich schnell.</answer>
+      <answer correct="no">leuchtet H2 kurz auf und geht wieder aus. H1 leuchtet.</answer>
+    </question>
+    

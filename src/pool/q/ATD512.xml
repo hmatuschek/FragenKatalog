@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD512" name="A/TD512">
+      <text>
+        <p>Durch Addition eines Nutz- oder Störsignals zur Versorgungsspannung der Senderendstufe wird</p>
+      </text>
+      <answer correct="yes">AM erzeugt.</answer>
+      <answer correct="no">FM erzeugt.</answer>
+      <answer correct="no">NBFM erzeugt.</answer>
+      <answer correct="no">PM erzeugt.</answer>
+    </question>
+    

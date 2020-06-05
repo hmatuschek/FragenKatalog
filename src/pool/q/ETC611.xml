@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC611" name="E/TC611">
+      <text>
+        <p>Wie erfolgt die Steuerung des Stroms im Feldeffekttransistor (FET)?</p>
+      </text>
+      <answer correct="yes">Die Gatespannung steuert den Widerstand des Kanals zwischen Source und Drain.</answer>
+      <answer correct="no">Die Gatespannung ist allein verantwortlich für den Drainstrom.</answer>
+      <answer correct="no">Der Gatestrom ist allein verantwortlich für den Drainstrom.</answer>
+      <answer correct="no">Der Gatestrom steuert den Widerstand des Kanals zwischen Source und Drain.</answer>
+    </question>
+    

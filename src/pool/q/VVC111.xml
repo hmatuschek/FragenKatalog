@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC111" name="V/VC111">
+      <text>
+        <p>Der Amateurfunkdienst ist</p>
+      </text>
+      <answer correct="yes">ein experimenteller, nicht-kommerzieller Funkdienst, der von zugelassenen Funkamateuren untereinander z.B. zur Kommunikation und für die eigene Ausbildung wahrgenommen wird.</answer>
+      <answer correct="no">ein Funkdienst, der auf allen im Frequenznutzungsplan ausgewiesenen Frequenzen Vorrang gegenüber anderen Funkdiensten genießt.</answer>
+      <answer correct="no">ein Funkdienst, der von Funkamateuren mit speziell dafür zugelassenen Funkgeräten auf allen im Frequenznutzungsplan ausgewiesenen Frequenzen ausgeübt werden darf.</answer>
+      <answer correct="no">ein Funkdienst, der von Funkamateuren aus persönlicher Neigung und aus wissenschaftlich-wirtschaftlichen Interessen wahrgenommen wird.</answer>
+    </question>
+    

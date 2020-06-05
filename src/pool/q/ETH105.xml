@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH105" name="E/TH105">
+      <text>
+        <p>
+          Sie wollen verschiedene Antennen testen, ob sie für den Funkbetrieb auf Kurzwelle für das 80-m-Band geeignet sind. Man stellt Ihnen jeweils drei Antennen zur Verfügung. Welches Angebot wählen sie, um nur die drei
+          <u>besonders</u>
+           geeigneten Antennen testen zu müssen?
+        </p>
+      </text>
+      <answer correct="yes">Dipol, Delta-Loop, W3DZZ-Antenne</answer>
+      <answer correct="no">Beam, Groundplane-Antenne, Dipol</answer>
+      <answer correct="no">Dipol, W3DZZ-Antenne, Beam</answer>
+      <answer correct="no">Dipol, Delta-Loop, Langyagi</answer>
+    </question>
+    

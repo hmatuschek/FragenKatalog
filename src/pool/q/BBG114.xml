@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG114" name="B/BG114">
+      <text>
+        <p>Was sollten Sie bei der Eintragung von Uhrzeiten in Stationstagebuch und QSL-Karten beachten?</p>
+      </text>
+      <answer correct="yes">Sie sollten in UTC eingetragen werden, damit der Funkpartner im Ausland das QSO in seinem Logbuch leichter finden kann.</answer>
+      <answer correct="no">Sie sollten immer in der eigenen Ortszeit erfolgen, da jeder Funkamateur die Zeiten passend umrechnen kann.</answer>
+      <answer correct="no">Sie sollten in der Ortszeit des Funkpartners eingetragen werden, damit er das QSO in seinem Logbuch leichter finden kann.</answer>
+      <answer correct="no">Die Uhrzeit kann in jeder beliebigen Uhrzeit eingetragen werden.</answer>
+    </question>
+    

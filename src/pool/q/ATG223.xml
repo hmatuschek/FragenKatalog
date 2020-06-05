@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG223" name="A/TG223">
+      <text>
+        <p>
+          Welchem Zweck dient C
+          <sub>5</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atg222" />
+      </text>
+      <answer correct="yes">Zur HF-Entkopplung</answer>
+      <answer correct="no">Zur Abstimmung</answer>
+      <answer correct="no">Zur Wechselstromkopplung</answer>
+      <answer correct="no">Zur Kopplung mit der nächstfolgenden Stufe</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF417" name="A/TF417">
+      <text>
+        <p>Für die Demodulation von SSB-Signalen wird normalerweise ein Hilfsträgeroszillator verwendet. In hochwertigen Empfängern ist dieser Oszillator</p>
+      </text>
+      <answer correct="yes">quarzgesteuert.</answer>
+      <answer correct="no">varaktorgesteuert.</answer>
+      <answer correct="no">freischwingend.</answer>
+      <answer correct="no">ein VFO.</answer>
+    </question>
+    

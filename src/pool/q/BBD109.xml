@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD109" name="B/BD109">
+      <text>
+        <p>Muss beim Betrieb einer tragbaren oder vorübergehend ortsfest betriebenen Amateurfunkstelle in Deutschland dem Rufzeichen der Zusatz "/p" hinzugefügt werden?</p>
+      </text>
+      <answer correct="yes">Nein, er kann aber zur weiteren Information verwendet werden.</answer>
+      <answer correct="no">Ja, weil für die Überwachungsbehörde erkennbar sein muss, dass die Amateurfunkstelle an einem anderen, als dem gemeldeten Standort betrieben wird.</answer>
+      <answer correct="no">Ja, weil dies durch die internationalen Regelungen in der VO Funk so vorgegeben ist.</answer>
+      <answer correct="no">Nein, den Zusatz müssen in Deutschland nur ausländische Stationen führen.</answer>
+    </question>
+    

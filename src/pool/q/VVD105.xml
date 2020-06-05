@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD105" name="V/VD105">
+      <text>
+        <p>Welche der genannten Bestimmungen enthält Regelungen darüber, welche Frequenzbereiche der Inhaber einer Amateurfunkzulassung entsprechend seiner Zeugnisklasse benutzen darf?</p>
+      </text>
+      <answer correct="yes">Die Anlage 1 der Amateurfunkverordnung (AFuV).</answer>
+      <answer correct="no">Der internationale Frequenzbereichszuweisungsplan in Artikel 5 der VO Funk.</answer>
+      <answer correct="no">Das Gesetz über den Amateurfunk (AFuG).</answer>
+      <answer correct="no">Die Anlage der Frequenzbereichszuweisungsplanverordnung (FreqBZPV).</answer>
+    </question>
+    

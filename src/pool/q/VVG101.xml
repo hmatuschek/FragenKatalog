@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG101" name="V/VG101">
+      <text>
+        <p>Was hat der Funkamateur zu veranlassen, wenn bei ihm der Empfang auf Grund mangelnder Empfängerstörfestigkeit stark beeinträchtigt wird?</p>
+      </text>
+      <answer correct="yes">Er hat die Störungen hinzunehmen, wenn die störenden Geräte den Anforderungen des EMVG oder FTEG genügen.</answer>
+      <answer correct="no">Er braucht Störungen grundsätzlich nicht hinzunehmen.</answer>
+      <answer correct="no">Er hat die Störungen in jedem Fall hinzunehmen.</answer>
+      <answer correct="no">Er hat die Störungen nur dann hinzunehmen, wenn das störende Gerät von erheblicher Bedeutung für den Betreiber ist (z.B. von einer Alarmanlage).</answer>
+    </question>
+    

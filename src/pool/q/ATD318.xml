@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD318" name="A/TD318">
+      <text>
+        <p>Welches ist der Hauptnachteil eines Schaltnetzteils gegenüber einem Netzteil mit Längsregelung?</p>
+        <img src="Atd317" />
+      </text>
+      <answer correct="yes">Ein Schaltnetzteil erzeugt Oberwellen, die zu Störungen führen können.</answer>
+      <answer correct="no">Ein Schaltnetzteil benötigt einen größeren Transformator.</answer>
+      <answer correct="no">Ein Schaltnetzteil kann keine so hohen Ströme abgeben.</answer>
+      <answer correct="no">Ein Schaltnetzteil hat höhere Verluste.</answer>
+    </question>
+    

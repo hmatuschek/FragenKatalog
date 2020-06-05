@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC612" name="E/TC612">
+      <text>
+        <p>Wie bezeichnet man die Anschlüsse des nebenstehenden Transistors?</p>
+        <img src="ETC612" />
+      </text>
+      <answer correct="yes">
+        <pre>1 ... Drain,     2 ... Source,  3 ... Gate.</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1 ... Source,    2 ... Drain,   3 ... Gate.</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1 ... Anode,     2 ... Katode,  3 ... Gate.</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1 ... Kollektor, 2 ... Emitter, 3 ... Basis.</pre>
+      </answer>
+    </question>
+    

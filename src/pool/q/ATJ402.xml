@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ402" name="A/TJ402">
+      <text>
+        <p>Für welchen Zweck wird eine Stehwellenmessbrücke verwendet? Sie wird verwendet</p>
+      </text>
+      <answer correct="yes">zur Überprüfung der Anpassung.</answer>
+      <answer correct="no">zur Frequenzkontrolle.</answer>
+      <answer correct="no">zur Modulationskontrolle.</answer>
+      <answer correct="no">als Abschluss des Senders.</answer>
+    </question>
+    

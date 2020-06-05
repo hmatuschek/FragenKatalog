@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF434" name="A/TF434">
+      <text>
+        <p>Die Empfindlichkeit eines Empfängers kann durch</p>
+      </text>
+      <answer correct="yes">starke HF-Signale auf einer nahen Frequenz beeinträchtigt werden.</answer>
+      <answer correct="no">gute Erdung verbessert werden.</answer>
+      <answer correct="no">zu starke NF-Filterung beeinträchtigt werden.</answer>
+      <answer correct="no">fehlerhafte Einstellung des BFO beeinträchtigt werden.</answer>
+    </question>
+    

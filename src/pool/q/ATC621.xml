@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC621" name="A/TC621">
+      <text>
+        <p>
+          Die Betriebsspannung beträgt 10 V, der Kollektorstrom soll 2 mA betragen, die Gleichstromverstärkung des Transistors beträgt 200. Die Kollektor-Emitterspannung soll 6 V betragen. Berechnen Sie den Vorwiderstand R
+          <sub>1</sub>
+          .
+        </p>
+        <img src="Atc621" />
+      </text>
+      <answer correct="yes">540 kΩ</answer>
+      <answer correct="no">76,4 kΩ</answer>
+      <answer correct="no">85,5 kΩ</answer>
+      <answer correct="no">1,98 kΩ</answer>
+    </question>
+    

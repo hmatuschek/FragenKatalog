@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK113" name="A/TK113">
+      <text>
+        <p>Ein Funkamateur wohnt in einem Reihenhaus. An welcher Stelle sollte die KW-Drahtantenne angebracht werden, um die Störwahrscheinlichkeit auf ein Mindestmaß zu begrenzen? Sie sollte möglichst</p>
+      </text>
+      <answer correct="yes">rechtwinklig zur Häuserzeile angebracht werden.</answer>
+      <answer correct="no">am gemeinsamen Schornstein neben der Fernsehantenne angebracht werden.</answer>
+      <answer correct="no">entlang der Häuserzeile auf der Höhe der Dachrinne angebracht werden.</answer>
+      <answer correct="no">innerhalb des Dachbereichs angebracht werden.</answer>
+    </question>
+    

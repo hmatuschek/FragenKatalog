@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH312" name="A/TH312">
+      <text>
+        <p>Welche Vorteile hat eine Paralleldraht-Speiseleitung?</p>
+      </text>
+      <answer correct="yes">Sie hat geringere Dämpfung als andere Speiseleitungen und hohe Spannungsfestigkeit.</answer>
+      <answer correct="no">Sie vermeidet Mantelwellen durch Wegfall der Abschirmung.</answer>
+      <answer correct="no">Sie erlaubt leichtere Kontrolle des Wellenwiderstandes durch Verschieben der Spreizer.</answer>
+      <answer correct="no">Sie bietet guten Blitzschutz durch niederohmige Drähte.</answer>
+    </question>
+    

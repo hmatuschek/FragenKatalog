@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE318" name="A/TE318">
+      <text>
+        <p>Welches der genannten Übertragungsverfahren passt die Übertragungsgeschwindigkeit automatisch den Kanaleigenschaften an?</p>
+      </text>
+      <answer correct="yes">Pactor.</answer>
+      <answer correct="no">SSTV.</answer>
+      <answer correct="no">Packet-Radio.</answer>
+      <answer correct="no">RTTY.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC140" name="V/VC140">
+      <text>
+        <p>Unter welchen Voraussetzungen kann einem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst widerrufen werden?</p>
+      </text>
+      <answer correct="yes">Bei fortgesetztem Verstoß gegen das Amateurfunkgesetz oder gegen die Amateurfunkverordnung.</answer>
+      <answer correct="no">Bei festgestellten Eintragungen in das Strafregister.</answer>
+      <answer correct="no">Bei Überschreitung des zulässigen Personenschutzabstandes.</answer>
+      <answer correct="no">Bei verspätet gestelltem Verlängerungsantrag für eine Relaisfunkstelle.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK120" name="A/TK120">
+      <text>
+        <p>Bei einem Besuch beim Nachbarn zur Prüfung von Fernsehrundfunkstörungen ist zunächst</p>
+      </text>
+      <answer correct="yes">die Antennenleitung vom Fernsehgeräts zu trennen um zu prüfen, ob die Störungen anhalten.</answer>
+      <answer correct="no">das Fernsehgerät zu erden und abzuschalten um zu prüfen, ob die Störungen anhalten.</answer>
+      <answer correct="no">die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden.</answer>
+      <answer correct="no">der Netzstecker aus der Steckdose zu ziehen um zu prüfen, ob die Störung über das Netz eingeschleppt wird.</answer>
+    </question>
+    

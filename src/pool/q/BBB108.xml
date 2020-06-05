@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB108" name="B/BB108">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung "K" am Ende eines Durchgangs in Telegrafie?</p>
+      </text>
+      <answer correct="yes">Aufforderung zum Senden</answer>
+      <answer correct="no">Unterbrechung der Sendung</answer>
+      <answer correct="no">Bitte warten!</answer>
+      <answer correct="no">Beendigung des Funkverkehrs</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC313" name="A/TC313">
+      <text>
+        <p>Ein Spulenkern hat einen AL-Wert von 30. Wie groß ist die erforderliche Windungszahl zur Herstellung einer Induktivität von 12 μH?</p>
+      </text>
+      <answer correct="yes">20</answer>
+      <answer correct="no">400</answer>
+      <answer correct="no">360</answer>
+      <answer correct="no">6</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD228" name="A/TD228">
+      <text>
+        <p>Welche Kopplung eines Bandfilters wird "kritische Kopplung" genannt?</p>
+      </text>
+      <answer correct="yes">Die Kopplung, bei der die Resonanzkurve ihre größte Breite hat und dabei am Resonanzmaximum noch völlig eben ist.</answer>
+      <answer correct="no">Die Kopplung, bei der die Resonanzkurve des Bandfilters ihre größtmögliche Breite hat.</answer>
+      <answer correct="no">Die Kopplung, bei der die Resonanzkurve des Bandfilters eine Welligkeit von 3 dB (Höcker- zu Sattelspannung) zeigt.</answer>
+      <answer correct="no">Die Kopplung, bei der die Ausgangspannung des Bandfilters das 0,707-fache der Eingangsspannung erreicht.</answer>
+    </question>
+    

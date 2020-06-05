@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD308" name="A/TD308">
+      <text>
+        <p>Für welchen Zweck werden Z-Dioden primär eingesetzt?</p>
+      </text>
+      <answer correct="yes">Zur Spannungsstabilisierung</answer>
+      <answer correct="no">Zur Signalbegrenzung</answer>
+      <answer correct="no">Zur Gleichrichtung in Messgeräten</answer>
+      <answer correct="no">Zur elektronischen Umschaltung</answer>
+    </question>
+    

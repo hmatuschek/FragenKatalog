@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK307" name="A/TK307">
+      <text>
+        <p>Die Signale eines 144-MHz-Senders werden in das Abschirmgeflecht des Antennenkabels eines FM-Rundfunkempfängers induziert und verursachen Störungen. Eine Möglichkeit zur Verringerung der Störungen besteht darin,</p>
+      </text>
+      <answer correct="yes">eine Mantelwellendrossel in das Kabel vor den FM-Rundfunkempfänger einzusetzen.</answer>
+      <answer correct="no">die Erdverbindung des Senders abzuklemmen.</answer>
+      <answer correct="no">das Abschirmgeflecht am Antennenstecker des Empfängers abzuklemmen.</answer>
+      <answer correct="no">den 144-MHz-Sender mit einem Tiefpassfilter auszustatten.</answer>
+    </question>
+    

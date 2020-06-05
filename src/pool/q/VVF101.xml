@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF101" name="V/VF101">
+      <text>
+        <p>Enthält das TKG für den Funkamateur anwendbare Regelungen?</p>
+      </text>
+      <answer correct="yes">Ja, einige Regelungen sind auch auf den Amateurfunkdienst anwendbar.</answer>
+      <answer correct="no">Nein, dafür gibt es das eigenständige Amateurfunkgesetz mit Amateurfunkverordnung.</answer>
+      <answer correct="no">Nein, der Amateurfunkdienst ist im TKG ausdrücklich ausgeschlossen.</answer>
+      <answer correct="no">Nein, es enthält keine auf den Amateurfunkdienst anwendbaren Regelungen.</answer>
+    </question>
+    

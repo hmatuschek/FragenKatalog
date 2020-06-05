@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH152" name="A/TH152">
+      <text>
+        <p>Bei welcher der nachfolgend genannten Antennenkonfigurationen ist eine Abstrahlung von der Speiseleitung am wenigsten wahrscheinlich?</p>
+      </text>
+      <answer correct="yes">Bei einem mit symmetrischer Speiseleitung mittengespeisten Dipol.</answer>
+      <answer correct="no">Bei einem mit doppelt geschirmten Koaxialkabel mittengespeisten Dipol.</answer>
+      <answer correct="no">Bei einer L-Antenne mit senkrechter Speiseleitung.</answer>
+      <answer correct="no">Bei einer endgespeisten Langdrahtantenne mit direkt angeschlossener Speiseleitung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF504" name="A/TF504">
+      <text>
+        <p>Wofür ist die DSP in einem Transceiver geeignet? Eine DSP eignet sich beispielsweise</p>
+      </text>
+      <answer correct="yes">als Frequenzfilter oder als Dynamikkompressor.</answer>
+      <answer correct="no">zur Frequenzstabilisierung.</answer>
+      <answer correct="no">zur Speicherung von Frequenzen.</answer>
+      <answer correct="no">als Signalfeinverstimmung zwischen Sender und Empfänger.</answer>
+    </question>
+    

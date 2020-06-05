@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD111" name="B/BD111">
+      <text>
+        <p>Ein Rufzeichen mit dem Zusatz "/m" kann bei einer Amateurfunkstelle bedeuten,</p>
+      </text>
+      <answer correct="yes">dass es sich um eine bewegliche Amateurfunkstelle in einem Landfahrzeug handelt.</answer>
+      <answer correct="no">dass die Amateurfunkstelle als Leitstation bei einem Peilwettbewerb fungiert.</answer>
+      <answer correct="no">dass bei der Amateurfunkstelle eine Mailbox angeschlossen ist.</answer>
+      <answer correct="no">dass es sich um eine vorübergehend ortsfest betriebene Amateurfunkstelle in einem Landfahrzeug handelt.</answer>
+    </question>
+    

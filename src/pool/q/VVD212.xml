@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD212" name="V/VD212">
+      <text>
+        <p>DL5XYZ benutzt sein im Kraftfahrzeug eingebautes Funkgerät für Sprechfunkverkehr. Wie kann der Zusatz zu seinem Rufzeichen lauten?</p>
+      </text>
+      <answer correct="yes">Mobil</answer>
+      <answer correct="no">Portabel</answer>
+      <answer correct="no">/p</answer>
+      <answer correct="no">Es ist kein Zusatz erlaubt.</answer>
+    </question>
+    

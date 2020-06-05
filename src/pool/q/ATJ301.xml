@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ301" name="A/TJ301">
+      <text>
+        <p>Die Zeitbasis eines Oszillografen ist so eingestellt, dass ein Skalenteil 0,5 ms entspricht. Welche Frequenz hat die angelegte Spannung?</p>
+        <img src="Atj301" />
+      </text>
+      <answer correct="yes">250 Hz</answer>
+      <answer correct="no">500 Hz</answer>
+      <answer correct="no">667 Hz</answer>
+      <answer correct="no">333 Hz</answer>
+    </question>
+    

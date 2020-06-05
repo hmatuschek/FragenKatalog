@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD604" name="E/TD604">
+      <text>
+        <p>Wie verhält sich die Frequenz eines LC-Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg geringer wird?</p>
+      </text>
+      <answer correct="yes">Die Frequenz wird erhöht.</answer>
+      <answer correct="no">Die Schwingungen reißen ab (Aussetzer).</answer>
+      <answer correct="no">Die Frequenz wird niedriger.</answer>
+      <answer correct="no">Die Frequenz bleibt stabil.</answer>
+    </question>
+    

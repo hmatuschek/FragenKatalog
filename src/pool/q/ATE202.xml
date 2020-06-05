@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE202" name="A/TE202">
+      <text>
+        <p>
+          Was gilt in etwa für die Bandbreite B eines FM-Signals, wenn der Modulationsindex m &lt; 0,5 wird? (f
+          <sub>mod</sub>
+           sei die Modulationsfrequenz und Δf der Hub.)
+        </p>
+      </text>
+      <answer correct="yes">
+        f
+        <sub>mod</sub>
+         &gt; Δf . Die Bandbreite wird im wesentlichen durch f
+        <sub>mod</sub>
+         bestimmt; B ≈ 2·f
+        <sub>mod</sub>
+        .
+      </answer>
+      <answer correct="no">
+        f
+        <sub>mod</sub>
+         &lt; Δf . Die Bandbreite wird im wesentlichen durch Δf bestimmt; B ≈ 2·Δf.
+      </answer>
+      <answer correct="no">
+        f
+        <sub>mod</sub>
+         &lt; Δf . Die Bandbreite wird im wesentlichen durch m·Δf bestimmt; B ≈ m·Δf.
+      </answer>
+      <answer correct="no">
+        f
+        <sub>mod</sub>
+         &gt; Δf . Die Bandbreite wird im wesentlichen durch m·f
+        <sub>mod</sub>
+         bestimmt; B ≈ m·f
+        <sub>mod</sub>
+        .
+      </answer>
+    </question>
+    

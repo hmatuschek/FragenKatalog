@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF502" name="A/TF502">
+      <text>
+        <p>Wozu kann eine DSP-Signalverarbeitung bei einem Amateurfunkgerät beispielsweise dienen?</p>
+      </text>
+      <answer correct="yes">Zur weitgehenden Unterdrückung von Störgeräuschen oder zur Dynamikkompression.</answer>
+      <answer correct="no">Zur digitalen Erzeugung der Empfänger-Regelspannung aus dem Audiosignal.</answer>
+      <answer correct="no">Zur direkten Modulation der Sendeendstufen und zur Unterdrückung von unerwünschten Aussendungen.</answer>
+      <answer correct="no">Zur Beseitigung von Spiegelfrequenzen und zur weitgehenden Unterdrückung von Nebenaussendungen.</answer>
+    </question>
+    

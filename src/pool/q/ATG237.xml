@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG237" name="A/TG237">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen zweistufigen</p>
+        <img src="Atg237" />
+      </text>
+      <answer correct="yes">Breitband-HF-Verstärker.</answer>
+      <answer correct="no">selektiven Hochfrequenzverstärker.</answer>
+      <answer correct="no">Gegentakt-Verstärker.</answer>
+      <answer correct="no">Niederfrequenz-Verstärker.</answer>
+    </question>
+    

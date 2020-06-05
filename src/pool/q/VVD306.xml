@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD306" name="V/VD306">
+      <text>
+        <p>Beim Ausbildungsfunkbetrieb sind</p>
+      </text>
+      <answer correct="yes">von dem Auszubildenden Angaben über den Funkbetrieb schriftlich festzuhalten.</answer>
+      <answer correct="no">vom Ausbilder Angaben über die Teilnehmer an die Bundesnetzagentur zu senden.</answer>
+      <answer correct="no">Funkamateure der Klasse E als Ausbilder nicht zugelassen.</answer>
+      <answer correct="no">vom Ausbilder Aufzeichnungen über die Sendetätigkeit und die Teilnehmer am Ausbildungsfunkbetrieb zu führen.</answer>
+    </question>
+    

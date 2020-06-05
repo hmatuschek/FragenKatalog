@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE410" name="B/BE410">
+      <text>
+        <p>
+          Welche Gruppe enthält die richtig dargestellte Bedeutung der nachfolgend genannten Begriffe in der richtigen Reihenfolge?
+          <br />
+          1) Repeater, 2) Digipeater, 3) Mailbox
+        </p>
+      </text>
+      <answer correct="yes">
+        1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)
+        <br />
+        2) Relaisfunkstelle für Packet Radio
+        <br />
+        3) Datenbank mit allgemeinen Zugriff zum Einspeichern und Auslesen von Informationen
+      </answer>
+      <answer correct="no">
+        1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird
+        <br />
+        2) Digitale Multimedia Funkbake
+        <br />
+        3) Datenbank mit allgemeinen Zugriff zum Einspeichern und Auslesen von Informationen
+      </answer>
+      <answer correct="no">
+        1) Fernbediente Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird
+        <br />
+        2) Relaisfunkstelle für digitales Amateurfunkfernsehen
+        <br />
+        3) Einrichtung zur automatischen Antennenanpassung bei Relaisfunkstellen und Funkbaken
+      </answer>
+      <answer correct="no">
+        1) Automatisch arbeitende Amateurfunkstelle, die an einem festen Standort unbesetzt betrieben wird (Relaisfunkstelle)
+        <br />
+        2) Relaisfunkstelle für digitales Amateurfunkfernsehen
+        <br />
+        3) Einrichtung zur automatischen Antennenanpassung bei Relaisfunkstellen und Funkbaken
+      </answer>
+    </question>
+    

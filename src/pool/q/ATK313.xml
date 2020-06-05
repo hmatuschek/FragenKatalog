@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK313" name="A/TK313">
+      <text>
+        <p>Welches der nachfolgenden Filter könnte vor einem Netzanschlusskabel eingeschleift werden, um darüber fließende HF-Ströme wirksam zu dämpfen?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atk313a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk313b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk313c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atk313d" />
+      </answer>
+    </question>
+    

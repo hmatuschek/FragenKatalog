@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF104" name="A/TF104">
+      <text>
+        <p>Wie ist bei modernen KW-Transceivern der Frequenzplan eines z.B. von 100 kHz bis 30 MHz durchstimmbaren Empfängers?</p>
+      </text>
+      <answer correct="yes">Die 1. ZF liegt höher als das Doppelte der maximalen Empfangsfrequenz. Nach der Filterung im Roofing-Filter (1. ZF) wird auf die 2. ZF im Bereich um 9 bis 10 MHz heruntergemischt.</answer>
+      <answer correct="no">Die Empfangsfrequenz wird direkt in die NF-Lage heruntergemischt (Direktmischung). Dabei können keine Spiegelfrequenzen auftreten.</answer>
+      <answer correct="no">Die 1. ZF liegt unter der niedrigsten Empfangsfrequenz. Ein Mitlauffilter unterdrückt Spiegelfrequenzen und andere Störfrequenzen.</answer>
+      <answer correct="no">Die 1. ZF liegt im Bereich um 9 bis 10 MHz. Dabei wird beim Abstimmen in Stufen umgeschaltet.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB909" name="E/TB909">
+      <text>
+        <p>Ein Mobil-Transceiver (Sender-Empfänger) hat bei Sendebetrieb eine Leistungsaufnahme von 100 Watt aus dem 12-V-Bordnetz des Kraftfahrzeuges. Wie groß ist die Stromaufnahme?</p>
+      </text>
+      <answer correct="yes">8,33 A</answer>
+      <answer correct="no">16,6 A</answer>
+      <answer correct="no">1200 A</answer>
+      <answer correct="no">0,12 A</answer>
+    </question>
+    

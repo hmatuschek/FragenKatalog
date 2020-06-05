@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK111" name="A/TK111">
+      <text>
+        <p>Welche sofortige Reaktion ist angebracht, wenn der Nachbar sich über HF-Einströmungen beklagt?</p>
+      </text>
+      <answer correct="yes">Sie bieten höflich an, die erforderlichen Prüfungen in die Wege zu leiten.</answer>
+      <answer correct="no">Er sollte höflich darauf hingewiesen werden, dass es an seiner eigenen Einrichtung liegt.</answer>
+      <answer correct="no">Er sollte darauf hingewiesen werden, dass Sie hierfür nicht zuständig sind.</answer>
+      <answer correct="no">Sie benachrichtigen die Bundesnetzagentur und den RTA.</answer>
+    </question>
+    

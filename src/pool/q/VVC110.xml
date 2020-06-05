@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC110" name="V/VC110">
+      <text>
+        <p>Darf ein Funkamateur Nachrichten, die nicht den Amateurfunkdienst betreffen, für und an Dritte übermitteln?</p>
+      </text>
+      <answer correct="yes">Nur in Not- und Katastrophenfällen.</answer>
+      <answer correct="no">Nein, unter keinen Umständen.</answer>
+      <answer correct="no">Ja, jederzeit.</answer>
+      <answer correct="no">Nur nach Aufforderung durch die zuständige Außenstelle der Bundesnetzagentur.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF106" name="V/VF106">
+      <text>
+        <p>Welcher der nachfolgend genannten Tatbestände ist eine Ordnungswidrigkeit gemäß TKG?</p>
+      </text>
+      <answer correct="yes">Nutzung von Frequenzen ohne Frequenzzuteilung.</answer>
+      <answer correct="no">Das schuldhafte Verursachen von elektromagnetischen Störungen, entgegen den Weisungen der Bundesnetzagentur.</answer>
+      <answer correct="no">Die Übermittlung von Amateurfunknachrichten von oder an Dritte durch einen Funkamateur.</answer>
+      <answer correct="no">Der Betrieb einer Amateurfunkstelle zu gewerblich-wirtschaftlichen Zwecken.</answer>
+    </question>
+    

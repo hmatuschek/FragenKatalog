@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC124" name="V/VC124">
+      <text>
+        <p>Darf ein Funkamateur seine Amateurfunkzulassung oder das damit zugeteilte Rufzeichen unter besonderen Umständen vorübergehend einer anderen Person übertragen?</p>
+      </text>
+      <answer correct="yes">Nein, die Amateurfunkzulassung und das damit zugeteilte Rufzeichen sind an die in der Zulassungsurkunde angegebene Person gebunden.</answer>
+      <answer correct="no">Ja, aber nur an unmittelbare Familienangehörige, wenn diese die Station des Funkamateurs unter dessen Aufsicht benutzen.</answer>
+      <answer correct="no">Ja, wenn es sich bei der anderen Person um einen Funkamateur mit erfolgreich abgelegter Prüfung handelt, dieser aber selbst keine Zulassung (Rufzeichen) besitzt.</answer>
+      <answer correct="no">Nein, es sei denn an einen ihm bekannten ausländischen Funkamateur, der sich nur vorübergehend zu Besuch in Deutschland aufhält.</answer>
+    </question>
+    

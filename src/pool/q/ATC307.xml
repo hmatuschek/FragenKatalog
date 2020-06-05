@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC307" name="A/TC307">
+      <text>
+        <p>Neben dem induktiven Blindwiderstand treten in der Wechselstrom durchflossenen Spule auch Verluste auf, die rechnerisch in einem seriellen Verlustwiderstand zusammengefasst werden können. Die Verluste einer Spule werden angegeben durch</p>
+      </text>
+      <answer correct="yes">den Verlustfaktor tan δ (Tangens Delta), der dem Kehrwert des Gütefaktors entspricht.</answer>
+      <answer correct="no">den relativen Verlustwiderstand in Ohm pro Nanohenry, mit dem die Spulengüte berechnet werden kann.</answer>
+      <answer correct="no">den relativen Blindwiderstand in Ohm pro Nanohenry, mit dem die Spulengüte berechnet werden kann..</answer>
+      <answer correct="no">den Verlustfaktor cos φ (Cosinus Phi), der dem Kehrwert des Gütefaktors entspricht.</answer>
+    </question>
+    

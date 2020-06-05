@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK312" name="A/TK312">
+      <text>
+        <p>Ein Nachbar beschwert sich über Störungen seines Fernsehempfängers, die allerdings auch bei abgeschalteter TV-Antenne auftreten. Die Störungen fallen zeitlich mit den Übertragungszeiten des Funkamateurs zusammen. Als erster Schritt</p>
+      </text>
+      <answer correct="yes">ist ein Netzfilter vorzusehen.</answer>
+      <answer correct="no">ist das Fernsehgerät und der Sender von der Bundesnetzagentur zu überprüfen.</answer>
+      <answer correct="no">ist die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden.</answer>
+      <answer correct="no">ist der EMV-Beauftragte des RTA um Prüfung des Fernsehgeräts zu bitten.</answer>
+    </question>
+    

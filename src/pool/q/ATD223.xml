@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD223" name="A/TD223">
+      <text>
+        <p>Bei dem dargestellten Filter handelt es sich um ein</p>
+        <img src="Atd223" />
+      </text>
+      <answer correct="yes">Sperrfilter.</answer>
+      <answer correct="no">Tiefpassfilter.</answer>
+      <answer correct="no">Hochpassfilter.</answer>
+      <answer correct="no">Dämpfungsglied.</answer>
+    </question>
+    

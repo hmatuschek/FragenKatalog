@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB405" name="E/TB405">
+      <text>
+        <p>Welcher der nachfolgenden Werkstoffe ist ein ferromagnetischer Stoff?</p>
+      </text>
+      <answer correct="yes">Eisen</answer>
+      <answer correct="no">Chrom</answer>
+      <answer correct="no">Kupfer</answer>
+      <answer correct="no">Aluminium</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ703" name="A/TJ703">
+      <text>
+        <p>Was stellt diese Schaltung dar?</p>
+        <img src="Atj703" />
+      </text>
+      <answer correct="yes">Messkopf zur HF-Leistungsmessung</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Antennenimpedanzmesser</answer>
+      <answer correct="no">HF-Dipmeter</answer>
+    </question>
+    

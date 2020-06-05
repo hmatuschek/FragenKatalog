@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD111" name="V/VD111">
+      <text>
+        <p>Ein Funkamateur verzichtet auf seine Zulassung und damit auf die Zuteilung seines personengebundenen Rufzeichens. Kann er damit rechnen, dass er auf Antrag dieses Rufzeichen nach 2 Jahren erneut zugeteilt bekommt?</p>
+      </text>
+      <answer correct="yes">Nein, der Funkamateur kann nur mit der Zuteilung dieses Rufzeichens rechnen, wenn er den Antrag auf erneute Zuteilung innerhalb eines Jahres nach Verzicht stellt.</answer>
+      <answer correct="no">Ja, freigewordene Rufzeichen werden erst nach Ablauf von 10 Jahren an einen anderen Funkamateur neu vergeben.</answer>
+      <answer correct="no">Ja, Rufzeichen sind personengebunden und können daher sowieso nicht an andere Personen vergeben werden.</answer>
+      <answer correct="no">Nein, durch Verzicht frei gewordene Rufzeichen dürfen generell für 10 Jahre nicht vergeben werden.</answer>
+    </question>
+    

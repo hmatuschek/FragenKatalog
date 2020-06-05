@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK114" name="A/TK114">
+      <text>
+        <p>Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfänger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor,</p>
+      </text>
+      <answer correct="yes">eine außen angebrachte Fernsehantenne zu installieren.</answer>
+      <answer correct="no">ein doppelt geschirmtes Koaxialkabel für die Antennenleitung zu verwenden.</answer>
+      <answer correct="no">einen Vorverstärker in die Antennenleitung einzuschleifen.</answer>
+      <answer correct="no">den Fernsehrundfunkempfänger zu wechseln.</answer>
+    </question>
+    

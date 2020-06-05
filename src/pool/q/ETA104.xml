@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA104" name="E/TA104">
+      <text>
+        <p>4 200 000 Hz entspricht</p>
+      </text>
+      <answer correct="yes">4,2·10<sup>6</sup>Hz.</answer>
+      <answer correct="no">4,2·10<sup>5</sup>Hz.</answer>
+      <answer correct="no">42·10<sup>6</sup>Hz.</answer>
+      <answer correct="no">42·10<sup>-5</sup>Hz.</answer>
+    </question>
+    

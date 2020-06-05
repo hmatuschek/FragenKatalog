@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD115" name="A/TD115">
+      <text>
+        <p>Welche Belastbarkeit kann die Zusammenschaltung von drei gleich großen Widerständen mit einer Einzelbelastbarkeit von je 1 W erreichen, wenn alle 3 Widerstände entweder parallel oder in Reihe geschaltet werden?</p>
+      </text>
+      <answer correct="yes">3 W bei Parallel- und bei Reihenschaltung.</answer>
+      <answer correct="no">3 W bei Parallel- und 1 W bei Reihenschaltung.</answer>
+      <answer correct="no">1 W bei Parallel- und 3 W bei Reihenschaltung.</answer>
+      <answer correct="no">1 W bei Parallel- und bei Reihenschaltung.</answer>
+    </question>
+    

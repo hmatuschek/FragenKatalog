@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK117" name="A/TK117">
+      <text>
+        <p>Ein starkes HF-Signal gelangt in die ZF-Stufe des Rundfunkempfängers des Nachbarn. Dieses Phänomen wird als</p>
+      </text>
+      <answer correct="yes">Direkteinstrahlung bezeichnet.</answer>
+      <answer correct="no">Direktabsorption bezeichnet.</answer>
+      <answer correct="no">Direktmischung bezeichnet.</answer>
+      <answer correct="no">HF-Durchschlag bezeichnet.</answer>
+    </question>
+    

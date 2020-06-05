@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA110" name="B/BA110">
+      <text>
+        <p>Wie ist das Rufzeichen "YO9XH" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Yankee Oskar 9 X-Ray Hotel</answer>
+      <answer correct="no">Ypsilon Ontario 9 X-Ray Hotel</answer>
+      <answer correct="no">Yankee Oskar 9 X-Ray Honolulu</answer>
+      <answer correct="no">Yuliett Ontario 9 Xanthippe Hotel</answer>
+    </question>
+    

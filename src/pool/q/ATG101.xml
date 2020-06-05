@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG101" name="A/TG101">
+      <text>
+        <p>Dieses Blockschaltbild zeigt einen SSB-Sender. Welche Stufe muss beim " ? " arbeiten?</p>
+        <img src="Atg101" />
+      </text>
+      <answer correct="yes">Ein Quarzfilter als Seitenbandsperre</answer>
+      <answer correct="no">Ein USB-Hochpass als Trägerfrequenzsperre</answer>
+      <answer correct="no">Ein LSB-Tiefpass als Trägerfrequenzsperre</answer>
+      <answer correct="no">Ein ZF-Notchfilter als Seitenbandsperre</answer>
+    </question>
+    

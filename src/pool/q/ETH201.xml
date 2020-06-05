@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH201" name="E/TH201">
+      <text>
+        <p>Welche elektrische Länge muss eine Dipolantenne haben, damit sie in Resonanz ist?</p>
+      </text>
+      <answer correct="yes">Sie muss ein ganzzahliges Vielfaches von λ/2 betragen. (n · λ/2, n=1, 2, 3...)</answer>
+      <answer correct="no">Sie muss ein ungeradzahliges Vielfaches von λ/4 betragen. (n · λ/4, n=1, 3, 5...)</answer>
+      <answer correct="no">Sie muss 5/8λ, λ/4 oder deren geradzahlige Vielfache (n · λ/4, n=2, 4, 6...) betragen.</answer>
+      <answer correct="no">Sie darf kein ganzzahliges Vielfaches von λ betragen.</answer>
+    </question>
+    

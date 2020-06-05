@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC107" name="V/VC107">
+      <text>
+        <p>Mit welchen anderen Funkstellen darf der Funkamateur Funkverkehr abwickeln?</p>
+      </text>
+      <answer correct="yes">Nur mit anderen Funkstellen des Amateurfunkdienstes.</answer>
+      <answer correct="no">Mit allen Funkstellen, die auf den Amateurfunkbändern tätig sind.</answer>
+      <answer correct="no">Mit anderen Amateurfunkstellen und Funkstellen der Behörden und Organisationen mit Sicherheitsaufgaben (BOS).</answer>
+      <answer correct="no">Mit anderen Amateurfunkstellen und Funkstellen des Flug- und/oder Seefunkdienstes.</answer>
+    </question>
+    

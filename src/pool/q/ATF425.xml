@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF425" name="A/TF425">
+      <text>
+        <p>Eine hohe erste ZF vereinfacht die Filterung zur Vermeidung von</p>
+      </text>
+      <answer correct="yes">Spiegelfrequenzstörungen.</answer>
+      <answer correct="no">Beeinflussung des lokalen Oszillators.</answer>
+      <answer correct="no">Nebenaussendungen.</answer>
+      <answer correct="no">Störungen der zweiten ZF.</answer>
+    </question>
+    

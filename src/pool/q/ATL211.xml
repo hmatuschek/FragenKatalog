@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL211" name="A/TL211">
+      <text>
+        <p>Wie errechnen Sie die Leistung am Einspeisepunkt der Antenne (Antenneneingangsleistung) bei bekannter Senderausgangsleistung?</p>
+      </text>
+      <answer correct="yes">
+        Sie addieren die Verluste zwischen Senderausgang und Antenneneingang und berechnen aus dieser Dämpfung einen Dämpfungsfaktor D; die Antenneneingangsleistung ist dann P
+        <sub>Ant</sub>
+         = D·P
+        <sub>Sender</sub>
+        .
+      </answer>
+      <answer correct="no">
+        Antenneneingangsleistung und Senderausgangsleistung sind gleich, da die Kabelverluste bei Amateurfunkstationen vernachlässigbar klein sind, d. h. es gilt P
+        <sub>Ant</sub>
+         = P
+        <sub>Sender</sub>
+        .
+      </answer>
+      <answer correct="no">
+        Die Antenneneingangsleistung ist der Spitzenwert der Senderausgangsleistung, also P
+        <sub>Ant</sub>
+         = √(2·P
+        <sub>Sender</sub>
+        ).
+      </answer>
+      <answer correct="no">
+        Die Antenneneingangsleistung ist der Spitzen-Spitzen-Wert der Senderausgangsleistung, also P
+        <sub>Ant</sub>
+         = 2·√(2·P
+        <sub>Sender</sub>
+        ).
+      </answer>
+    </question>
+    

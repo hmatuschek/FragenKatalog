@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ829" name="A/TJ829">
+      <text>
+        <p>Die Pulsbreite wird mit einem Oszilloskop normalerweise bei</p>
+      </text>
+      <answer correct="yes">50 % der Amplitude gemessen.</answer>
+      <answer correct="no">90 % der Amplitude gemessen.</answer>
+      <answer correct="no">70 % der Amplitude gemessen.</answer>
+      <answer correct="no">10 % der Amplitude gemessen.</answer>
+    </question>
+    

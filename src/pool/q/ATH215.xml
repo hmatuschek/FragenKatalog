@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH215" name="A/TH215">
+      <text>
+        <p>Bei einer Drahtantenne bewirkt eine Erhöhung der Drahtlänge</p>
+      </text>
+      <answer correct="yes">eine Verringerung der Resonanzfrequenz.</answer>
+      <answer correct="no">die Erhöhung der Güte.</answer>
+      <answer correct="no">eine Vergrößerung der Belastbarkeit.</answer>
+      <answer correct="no">eine Erhöhung der Resonanzfrequenz.</answer>
+    </question>
+    

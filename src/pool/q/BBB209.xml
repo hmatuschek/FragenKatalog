@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB209" name="B/BB209">
+      <text>
+        <p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: "pse qrp"?</p>
+      </text>
+      <answer correct="yes">Sie verringern die Sendeleistung.</answer>
+      <answer correct="no">Sie erhöhen die Sendeleistung.</answer>
+      <answer correct="no">Sie wechseln die Frequenz.</answer>
+      <answer correct="no">Sie senden eine Bestätigungskarte an die Gegenstation.</answer>
+    </question>
+    

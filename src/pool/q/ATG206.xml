@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG206" name="A/TG206">
+      <text>
+        <p>Eine Art der Instabilität eines CW-Senders ist das "Chirpen". Was ist die Ursache dafür?</p>
+      </text>
+      <answer correct="yes">Das Verziehen der Oszillatorfrequenz beim Tasten des Senders.</answer>
+      <answer correct="no">Die Übermodulation der Endstufe beim Tasten des Senders.</answer>
+      <answer correct="no">Das Ansprechen der AGC-Stufe beim Tasten des Senders.</answer>
+      <answer correct="no">Die Überhöhung des Frequenzhubs beim Tasten des Senders.</answer>
+    </question>
+    

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC619" name="A/TC619">
+      <text>
+        <p>
+          Die Betriebsspannung beträgt 10 V, der Kollektorstrom soll 2 mA betragen, die Gleichstromverstärkung des Transistors beträgt 200. Durch den Querwiderstand R
+          <sub>2</sub>
+           soll der zehnfache Basisstrom fließen. Berechnen Sie den Vorwiderstand R
+          <sub>1</sub>
+          .
+        </p>
+        <img src="Atc619" />
+      </text>
+      <answer correct="yes">85,5 kΩ</answer>
+      <answer correct="no">940 kΩ</answer>
+      <answer correct="no">76,4 kΩ</answer>
+      <answer correct="no">540 kΩ</answer>
+    </question>
+    

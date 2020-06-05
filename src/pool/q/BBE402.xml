@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE402" name="B/BE402">
+      <text>
+        <p>Wie wird eine Funkverbindung beurteilt, wenn über eine F3E-Relaisfunkstelle gearbeitet wird?</p>
+      </text>
+      <answer correct="yes">Es wird nur die Lesbarkeit R beurteilt, weil sich die Signalstärke S auf die Relaisfunkstelle bezieht.</answer>
+      <answer correct="no">Es werden die Lesbarkeit R und die Signalstärke S beurteilt, weil das zu einem vollständigen Rapport dazugehört.</answer>
+      <answer correct="no">Es werden die Lesbarkeit R und die Signalstärke S vermindert um eine S-Stufe beurteilt, weil die Relaisfunkstelle meist eine höhere Leistung als die anderen Stationen haben.</answer>
+      <answer correct="no">Es werden nur verbale Aussagen gemacht, da die exakte Einschätzung bei Betrieb über eine Relaisfunkstelle nicht möglich ist.</answer>
+    </question>
+    

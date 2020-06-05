@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC117" name="V/VC117">
+      <text>
+        <p>Was ist erforderlich, um den Amateurfunkbetrieb ausüben zu dürfen?</p>
+      </text>
+      <answer correct="yes">Eine Zulassung zur Teilnahme am Amateurfunkdienst.</answer>
+      <answer correct="no">Ein schriftlicher Nachweis darüber, dass die Amateurfunkstelle keine Störungen verursacht.</answer>
+      <answer correct="no">Ein Amateurfunkzeugnis.</answer>
+      <answer correct="no">Eine EMVU-Bescheinigung.</answer>
+    </question>
+    

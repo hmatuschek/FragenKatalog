@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB608" name="E/TB608">
+      <text>
+        <p>Den Frequenzbereich zwischen 30 und 300 MHz bezeichnet man als</p>
+      </text>
+      <answer correct="yes">VHF (very high frequency)</answer>
+      <answer correct="no">UHF (ultra high frequency)</answer>
+      <answer correct="no">MF (medium frequency)</answer>
+      <answer correct="no">SHF (super high frequency)</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD129" name="V/VD129">
+      <text>
+        <p>Ist für den Betrieb einer Amateurfunkstelle auf Wasser beziehungsweise in der Luft eine Sondergenehmigung der Bundesnetzagentur erforderlich?</p>
+      </text>
+      <answer correct="yes">Nein.</answer>
+      <answer correct="no">Ja, aber nur in Einzelfällen.</answer>
+      <answer correct="no">Ja, in jedem Fall ist eine Sonderzuteilung erforderlich.</answer>
+      <answer correct="no">Nur bei Strahlungsleistungen über 10 Watt EIRP.</answer>
+    </question>
+    

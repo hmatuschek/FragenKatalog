@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG519" name="A/TG519">
+      <text>
+        <p>Bei der erstmaligen Prüfung eines Senders sollten die Signale zunächst</p>
+      </text>
+      <answer correct="yes">in eine künstliche 50-Ω-Antenne eingespeist werden.</answer>
+      <answer correct="no">in eine Antenne eingespeist werden.</answer>
+      <answer correct="no">in einen Kondensator mit einem Blindwiderstand von 50 Ω eingespeist werden.</answer>
+      <answer correct="no">in einen 50-Ω-Drahtwiderstand eingespeist werden.</answer>
+    </question>
+    

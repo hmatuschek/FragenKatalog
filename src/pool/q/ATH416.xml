@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH416" name="A/TH416">
+      <text>
+        <p>Eine symmetrische Antenne (Dipol) soll mit einem unsymmetrischen Kabel (Koaxkabel) gleicher Impedanz gespeist werden. Dabei erreicht man einen Symmetriereffekt zum Beispiel</p>
+      </text>
+      <answer correct="yes">durch Symmetrierglieder wie Umwegleitung oder Balun.</answer>
+      <answer correct="no">durch die Einfügung von Sperrkreisen (Traps) in den Dipol.</answer>
+      <answer correct="no">durch Parallelschalten eines am freien Ende offenen λ/4-langen Leitungsstücks (Stub) am Speisepunkt der Antenne.</answer>
+      <answer correct="no">durch Parallelschalten eines am freien Ende kurzgeschlossenen λ/2-langen Leitungsstücks (Stub) am Speisepunkt der Antenne.</answer>
+    </question>
+    

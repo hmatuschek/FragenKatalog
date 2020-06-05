@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD201" name="V/VD201">
+      <text>
+        <p>Welche Rückschlüsse lässt das Rufzeichen DP1ZZZ zu?</p>
+      </text>
+      <answer correct="yes">Es ist eine feste deutsche Amateurfunkstelle an einem exterritorialen Standort.</answer>
+      <answer correct="no">Es ist eine Sonderfunkstelle der Deutschen Post AG.</answer>
+      <answer correct="no">Es ist eine Amateurfunkstelle, die zu einem besonderen Anlass betrieben wird (Sonderrufzeichen).</answer>
+      <answer correct="no">Es ist eine Ausbildungsfunkstelle mit einem speziellen Rufzeichen.</answer>
+    </question>
+    

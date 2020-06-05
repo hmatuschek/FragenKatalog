@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG207" name="A/TG207">
+      <text>
+        <p>Wenn der Stromversorgung einer Endstufe NF-Signale überlagert sind, kann dies unerwünschte Modulation der Sendefrequenz erzeugen. Diese zeigt sich als</p>
+      </text>
+      <answer correct="yes">AM</answer>
+      <answer correct="no">FM</answer>
+      <answer correct="no">NBFM</answer>
+      <answer correct="no">PM</answer>
+    </question>
+    

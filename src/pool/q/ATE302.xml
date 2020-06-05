@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE302" name="A/TE302">
+      <text>
+        <p>Welche NF-Bandbreite beansprucht ein 1200-Bd-Packet-Radio-AFSK-Signal?</p>
+      </text>
+      <answer correct="yes">ca. 3 kHz</answer>
+      <answer correct="no">ca. 6,6 kHz</answer>
+      <answer correct="no">12,5 kHz</answer>
+      <answer correct="no">25 kHz</answer>
+    </question>
+    

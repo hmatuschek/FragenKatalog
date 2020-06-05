@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB405" name="A/TB405">
+      <text>
+        <p>
+          Wie nennt man das Feld im
+          <u>Innern</u>
+           einer langen Zylinderspule beim Fließen eines Gleichstroms?
+        </p>
+        <img src="Atb405" />
+      </text>
+      <answer correct="yes">Homogenes magnetisches Feld</answer>
+      <answer correct="no">Homogenes elektrisches Feld</answer>
+      <answer correct="no">Konzentrisches magnetisches Feld</answer>
+      <answer correct="no">Zentriertes magnetisches Feld</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH229" name="A/TH229">
+      <text>
+        <p>An einen Sender mit 100 W Ausgangsleistung ist eine Dipolantenne angeschlossen. Die Dämpfung des Kabels beträgt 10 dB. Wie hoch ist die äquivalente isotrope Strahlungsleistung (EIRP)?</p>
+      </text>
+      <answer correct="yes">16,4 Watt</answer>
+      <answer correct="no">90 Watt</answer>
+      <answer correct="no">164 Watt</answer>
+      <answer correct="no">10 Watt</answer>
+    </question>
+    

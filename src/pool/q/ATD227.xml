@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD227" name="A/TD227">
+      <text>
+        <p>Für HF-Filter sollten vorzugsweise</p>
+      </text>
+      <answer correct="yes">Keramik- oder Luftkondensatoren verwendet werden.</answer>
+      <answer correct="no">Aluminium-Elektrolytkondensatoren verwendet werden.</answer>
+      <answer correct="no">Tantal-Elektrolytkondensatoren verwendet werden.</answer>
+      <answer correct="no">Polykarbonatkondensatoren verwendet werden.</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD205" name="V/VD205">
+      <text>
+        <p>
+          Zu welchem Verwendungszweck und welcher Klasse gehört das Rufzeichen DGØZZZ?
+          <br />
+          Es ist ein
+        </p>
+      </text>
+      <answer correct="yes">personengebundenes Rufzeichen oder Klubstationsrufzeichen der Klasse A.</answer>
+      <answer correct="no">personengebundenes Rufzeichen der Klasse E.</answer>
+      <answer correct="no">personengebundenes Rufzeichen oder Ausbildungsrufzeichen der Klasse A.</answer>
+      <answer correct="no">Klubstationsrufzeichen der Klasse E.</answer>
+    </question>
+    

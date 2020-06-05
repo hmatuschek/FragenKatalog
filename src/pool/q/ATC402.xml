@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC402" name="A/TC402">
+      <text>
+        <p>Ein Transformator setzt die Spannung von 230 Volt auf 6 Volt herunter und liefert dabei einen Strom von 1,15 A. Wie groß ist der dadurch in der Primärwicklung zu erwartende Strom bei Vernachlässigung der Verluste?</p>
+      </text>
+      <answer correct="yes">30 mA</answer>
+      <answer correct="no">22,7 mA</answer>
+      <answer correct="no">0,83 mA</answer>
+      <answer correct="no">33,3 mA</answer>
+    </question>
+    

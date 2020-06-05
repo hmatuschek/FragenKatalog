@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC141" name="V/VC141">
+      <text>
+        <p>Was hat ein Funkamateur mit zugeteiltem Rufzeichen zu erwarten, wenn er fortgesetzt gegen AFuG oder AFuV verstößt?</p>
+      </text>
+      <answer correct="yes">Den Widerruf der Amateurfunkzulassung.</answer>
+      <answer correct="no">Eine Gefängnisstrafe von bis zu 2 Jahren.</answer>
+      <answer correct="no">Eine kostenpflichtige Nachprüfung.</answer>
+      <answer correct="no">Eine Geldstrafe.</answer>
+    </question>
+    

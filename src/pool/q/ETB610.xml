@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB610" name="E/TB610">
+      <text>
+        <p>Welche Frequenz hat die in diesem Oszillogramm dargestellte Spannung?</p>
+        <img src="ETB610" />
+      </text>
+      <answer correct="yes">83,3 kHz</answer>
+      <answer correct="no">833,3 kHz</answer>
+      <answer correct="no">8,3 MHz</answer>
+      <answer correct="no">83,3 MHz</answer>
+    </question>
+    

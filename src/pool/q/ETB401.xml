@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB401" name="E/TB401">
+      <text>
+        <p>Welche Einheit wird für die magnetische Feldstärke verwendet?</p>
+      </text>
+      <answer correct="yes">Ampere pro Meter (A/m)</answer>
+      <answer correct="no">Watt pro Quadratmeter (W/m²)</answer>
+      <answer correct="no">Volt pro Meter (V/m)</answer>
+      <answer correct="no">Henry pro Meter (H/m)</answer>
+    </question>
+    

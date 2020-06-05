@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG310" name="A/TG310">
+      <text>
+        <p>LC-Schaltungen unmittelbar vor und hinter einem HF-Leistungsverstärker dienen</p>
+      </text>
+      <answer correct="yes">zur optimalen Anpassung der Ein- und Ausgangsimpedanzen.</answer>
+      <answer correct="no">zur optimalen Einstellung des Arbeitspunktes nach Betrag und Phase.</answer>
+      <answer correct="no">zur Verringerung der rücklaufenden Leistung bei Fehlanpassung.</answer>
+      <answer correct="no">zur Erhöhung des HF-Wirkungsgrades der Verstärkerstufe.</answer>
+    </question>
+    

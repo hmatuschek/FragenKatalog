@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF306" name="A/TF306">
+      <text>
+        <p>Einem Mischer werden die Frequenzen 136 MHz und 145 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt?</p>
+      </text>
+      <answer correct="yes">9 MHz und 281 MHz</answer>
+      <answer correct="no">127 MHz und 154 MHz</answer>
+      <answer correct="no">272 MHz und 290 MHz</answer>
+      <answer correct="no">140,5 MHz und 281 MHz</answer>
+    </question>
+    

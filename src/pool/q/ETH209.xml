@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH209" name="E/TH209">
+      <text>
+        <p>Das folgende Bild enthält verschiedene UKW-Antennen. Welche der folgenden Antworten ist richtig?</p>
+        <img src="ETH209" />
+      </text>
+      <answer correct="yes">Bild 1 zeigt eine horizontal polarisierte Yagi-Antenne.</answer>
+      <answer correct="no">Bild 2 zeigt eine Kreuz-Yagi-Antenne.</answer>
+      <answer correct="no">Bild 3 zeigt eine gestockte X-Yagi-Antenne.</answer>
+      <answer correct="no">Bild 4 zeigt eine vertikal polarisierte Yagi-Antenne.</answer>
+    </question>
+    

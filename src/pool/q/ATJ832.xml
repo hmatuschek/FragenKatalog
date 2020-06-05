@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ832" name="A/TJ832">
+      <text>
+        <p>
+          Mit der folgenden Schaltung soll die Ausgangsleistung eines 2-m-Handfunkgerätes gemessen werden.
+          <br />
+          D
+          <sub>1</sub>
+           und D
+          <sub>2</sub>
+           sind Schottkydioden mit U
+          <sub>F</sub>
+           = 0,23 V. Am Ausgang wird mit einem Digitalvoltmeter eine Gleichspannung von 15,3 V gemessen. Wie groß ist etwa die HF-Leistung am Eingang der Schaltung?
+        </p>
+        <img src="Atj832" />
+      </text>
+      <answer correct="yes">Zirka 600 mW</answer>
+      <answer correct="no">Zirka 4,7 Watt</answer>
+      <answer correct="no">Zirka 1,2 Watt</answer>
+      <answer correct="no">Zirka 2,4 Watt</answer>
+    </question>
+    

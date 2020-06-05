@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD117" name="V/VD117">
+      <text>
+        <p>Welche der folgenden Aussagen ist richtig?</p>
+      </text>
+      <answer correct="yes">Q-Gruppen und Amateurfunkabkürzungen gelten als offene Sprache.</answer>
+      <answer correct="no">Landeskenner und kodierte Abkürzungen gelten als offene Sprache.</answer>
+      <answer correct="no">Nur das gesprochene Wort gilt als offene Sprache.</answer>
+      <answer correct="no">Nur Morsezeichen und digitale Verschlüsselungen gelten als offene Sprache.</answer>
+    </question>
+    

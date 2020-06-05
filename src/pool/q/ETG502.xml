@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG502" name="E/TG502">
+      <text>
+        <p>Welches Filter wäre zwischen Senderausgang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrahlungen geeignet?</p>
+      </text>
+      <answer correct="yes">Ein Tiefpassfilter</answer>
+      <answer correct="no">Ein Hochpassfilter</answer>
+      <answer correct="no">Ein Antennenfilter</answer>
+      <answer correct="no">Ein Sperrkreisfilter</answer>
+    </question>
+    

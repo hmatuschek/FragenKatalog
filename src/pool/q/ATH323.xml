@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH323" name="A/TH323">
+      <text>
+        <p>Wie verhält sich das Stehwellenverhältnis, wenn Wasser in eine genau angepasste Antennenspeiseleitung eindringt?</p>
+      </text>
+      <answer correct="yes">Es erhöht sich.</answer>
+      <answer correct="no">Es nimmt ab.</answer>
+      <answer correct="no">Es fällt auf 1:1 ab.</answer>
+      <answer correct="no">Es bleibt konstant.</answer>
+    </question>
+    

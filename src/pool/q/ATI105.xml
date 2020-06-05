@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI105" name="A/TI105">
+      <text>
+        <p>In welcher Höhe befindet sich die für die Fernausbreitung wichtige E-Schicht an einem Sommertag? Sie befindet sich in ungefähr</p>
+      </text>
+      <answer correct="yes">90 bis 120 km Höhe.</answer>
+      <answer correct="no">200 km Höhe.</answer>
+      <answer correct="no">400 km Höhe.</answer>
+      <answer correct="no">70 bis 90 km Höhe.</answer>
+    </question>
+    

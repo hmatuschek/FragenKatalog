@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE118" name="V/VE118">
+      <text>
+        <p>Welche Antwort enthält nur Frequenzbereiche, die auch von Rufzeicheninhabern der Klasse E genutzt werden dürfen?</p>
+      </text>
+      <answer correct="yes">144 - 146 MHz, 430 - 440 MHz und 10 - 10,5 GHz</answer>
+      <answer correct="no">144 - 146 MHz, 430 - 440 MHz und 1240 - 1300 MHz</answer>
+      <answer correct="no">Alle Amateurfunkfrequenzbereiche oberhalb 144 MHz</answer>
+      <answer correct="no">1810 - 2000 kHz, 3500 - 3800 kHz und alle Amateurfunkfrequenzbereiche oberhalb 28 MHz</answer>
+    </question>
+    

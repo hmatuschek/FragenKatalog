@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ834" name="A/TJ834">
+      <text>
+        <p>Das folgende Bild zeigt das Zweiton-SSB-Ausgangssignal eines KW-Senders, das mit einem Oszilloskop ausreichender Bandbreite über einen 10:1-Tastkopf direkt an der angeschlossenen künstlichen 50-Ω-Antenne gemessen wurde. Welche Ausgangsleistung (PEP) liefert der Sender?</p>
+        <img src="Ate113" />
+      </text>
+      <answer correct="yes">36,0 W</answer>
+      <answer correct="no">144 W</answer>
+      <answer correct="no">400 W</answer>
+      <answer correct="no">576 W</answer>
+    </question>
+    

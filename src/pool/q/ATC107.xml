@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC107" name="A/TC107">
+      <text>
+        <p>Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 48 mA eine Spannung von 208 V abfallen soll?</p>
+      </text>
+      <answer correct="yes">10 W</answer>
+      <answer correct="no">100 W</answer>
+      <answer correct="no">4,8 W</answer>
+      <answer correct="no">0,5 W</answer>
+    </question>
+    

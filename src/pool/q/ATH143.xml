@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH143" name="A/TH143">
+      <text>
+        <p>Der Anbau von Reflektoren und einem Direktor an einen Faltdipol</p>
+      </text>
+      <answer correct="yes">verringert die Impedanz.</answer>
+      <answer correct="no">erhöht die Impedanz.</answer>
+      <answer correct="no">hat keinen Einfluss auf die Impedanz.</answer>
+      <answer correct="no">verhindert Rückwärtsstrahlung.</answer>
+    </question>
+    

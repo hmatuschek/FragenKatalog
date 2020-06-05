@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH150" name="A/TH150">
+      <text>
+        <p>Eine Richtantenne mit einem Gewinn von 15 dB über dem Halbwellendipol und einem Vor-Rück-Verhältnis von 25 dB wird mit 6 Watt Senderleistung direkt gespeist. Welche ERP strahlt die Antenne entgegengesetzt zur Senderichtung ab?</p>
+      </text>
+      <answer correct="yes">0,6 Watt</answer>
+      <answer correct="no">0,019 Watt</answer>
+      <answer correct="no">0,19 Watt</answer>
+      <answer correct="no">60 Watt</answer>
+    </question>
+    

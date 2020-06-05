@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI213" name="E/TI213">
+      <text>
+        <p>Wie nennt man den ionosphärischen Feldstärkeschwund durch Überlagerung von Boden- und Raumwelle, der sich bei der Kurzwellenausbreitung besonders bei AM Sendungenbemerkbar macht?</p>
+      </text>
+      <answer correct="yes">Fading</answer>
+      <answer correct="no">Flatterfading</answer>
+      <answer correct="no">MUF</answer>
+      <answer correct="no">Mögel-Dellinger-Effekt</answer>
+    </question>
+    

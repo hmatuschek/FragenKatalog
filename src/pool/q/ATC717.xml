@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC717" name="A/TC717">
+      <text>
+        <p>Welche der folgenden Operationsverstärkerschaltungen arbeitet als nichtinvertierender Spannungsverstärker richtig?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc716b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc716a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc716c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc716d" />
+      </answer>
+    </question>
+    

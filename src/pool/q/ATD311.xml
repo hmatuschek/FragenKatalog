@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD311" name="A/TD311">
+      <text>
+        <p>Welchen Verlauf hat die Spannung U ?</p>
+        <img src="Atd311" />
+      </text>
+      <answer correct="yes">
+        <img src="Atd311a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd311b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd311c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd311d" />
+      </answer>
+    </question>
+    

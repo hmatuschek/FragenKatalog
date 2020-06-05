@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG233" name="A/TG233">
+      <text>
+        <p>Welche Aufgabe hat diese Schaltung am Senderausgang und was ist bei der Bemessung des Spannungsteilers zu beachten?</p>
+        <img src="Atg233" />
+      </text>
+      <answer correct="yes">
+        Sie dient als HF-Spannungsmesser. Der Spannungsteiler R
+        <sub>1</sub>
+        /R
+        <sub>2</sub>
+         muss so bemessen sein, dass die Spannungsbelastbarkeit der Diode nicht überschritten wird. Der Widerstand R
+        <sub>1</sub>
+         muss so bemessen sein, dass die an der Diode entstehenden Oberwellen von der Antenne möglichst hoch entkoppelt sind.
+      </answer>
+      <answer correct="no">
+        Sie dient als SWR-Anzeige. Der Spannungsteiler R
+        <sub>1</sub>
+        /R
+        <sub>2</sub>
+         wird mit Hilfe eines Reflektometers voreingestellt. Die Spannungsbelastbarkeit der Diode darf nicht überschritten werden. Der Widerstand R
+        <sub>1</sub>
+         muss so bemessen sein, dass die an der gekrümmten Kennlinie der Diode zusätzlich entstehenden Oberwellen nicht die Messung verfälschen.
+      </answer>
+      <answer correct="no">
+        Sie dient als Antennenimpedanzmesser. Der Spannungsteiler R
+        <sub>1</sub>
+        /R
+        <sub>2</sub>
+         wird als Impedanzanpassung der Messdiode verwendet. Die Spannungsbelastbarkeit der Diode darf nicht überschritten werden. Der Widerstand R
+        <sub>1</sub>
+         muss so bemessen sein, dass die an der gekrümmten Kennlinie der Diode zusätzlich entstehenden Oberwellen nicht die Messung verfälschen.
+      </answer>
+      <answer correct="no">
+        Sie dient als Leistungsmesser. Über den Spannungsteiler R
+        <sub>1</sub>
+        /R
+        <sub>2</sub>
+         wird das HF-Hitzdraht-Amperemeter kalibriert. Der Widerstand R
+        <sub>1</sub>
+         muss so bemessen sein, dass die an der gekrümmten Kennlinie der Diode zusätzlich entstehenden Oberwellen vom Messinstrument möglichst hoch entkoppelt sind und nicht die Messung verfälschen.
+      </answer>
+    </question>
+    

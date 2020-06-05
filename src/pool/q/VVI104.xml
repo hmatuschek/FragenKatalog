@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI104" name="V/VI104">
+      <text>
+        <p>In welchem Regelungswerk ist der Schutz von Personen bei der Einwirkung elektromagnetischer Felder auch ausführlich für den Amateurfunk geregelt?</p>
+      </text>
+      <answer correct="yes">In der BEMFV.</answer>
+      <answer correct="no">In der VO Funk.</answer>
+      <answer correct="no">Im EMVG.</answer>
+      <answer correct="no">In der AFuV.</answer>
+    </question>
+    

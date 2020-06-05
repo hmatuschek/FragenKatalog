@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI313" name="A/TI313">
+      <text>
+        <p>In welchen Gebieten treten Reflexionen an Nordlicht-Erscheinungen auf? Sie treten auf</p>
+      </text>
+      <answer correct="yes">in den Polargebieten.</answer>
+      <answer correct="no">in den äquatorialen Gebieten.</answer>
+      <answer correct="no">im Bereich der Sonnenflecken.</answer>
+      <answer correct="no">in den tropischen Regionen.</answer>
+    </question>
+    

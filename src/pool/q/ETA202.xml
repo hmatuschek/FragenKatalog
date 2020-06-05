@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA202" name="E/TA202">
+      <text>
+        <p>Welche Einheit wird für die elektrische Ladung verwendet?</p>
+      </text>
+      <answer correct="yes">Amperesekunde (As)</answer>
+      <answer correct="no">Kilowatt (kW)</answer>
+      <answer correct="no">Joule (J)</answer>
+      <answer correct="no">Ampere (A)</answer>
+    </question>
+    

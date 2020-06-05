@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ605" name="A/TJ605">
+      <text>
+        <p>Ein Absorptionsfrequenzmesser ist ein Hilfsmittel zur Prüfung</p>
+      </text>
+      <answer correct="yes">der Oberwellenausstrahlungen.</answer>
+      <answer correct="no">der Frequenzdrift.</answer>
+      <answer correct="no">des Spitzenwertes des Modulationsgrades.</answer>
+      <answer correct="no">der genauen Sendefrequenz.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA109" name="B/BA109">
+      <text>
+        <p>Wie ist das Rufzeichen "PY8JW" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Papa Yankee 8 Juliett Whiskey</answer>
+      <answer correct="no">Papa Yankee 8 Japan Whiskey</answer>
+      <answer correct="no">Paraguay Yankee 8 Juliett Whiskey</answer>
+      <answer correct="no">Pacific Yankee 8 Juliett Wilhelm</answer>
+    </question>
+    

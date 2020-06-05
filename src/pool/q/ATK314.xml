@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK314" name="A/TK314">
+      <text>
+        <p>Beim Betrieb eines Funkempfängers mit digitalen Schaltungen auf einer gedruckten Leiterplatte treten erhebliche Störungen auf. Diese könnten verringert werden, indem die Leiterplatte</p>
+      </text>
+      <answer correct="yes">in einem geerdeten Metallgehäuse untergebracht wird.</answer>
+      <answer correct="no">in Epoxydharz eingegossen wird.</answer>
+      <answer correct="no">über kunststoffisolierte Leitungen angeschlossen wird.</answer>
+      <answer correct="no">in einem Kunststoffgehäuse untergebracht wird.</answer>
+    </question>
+    

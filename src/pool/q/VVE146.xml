@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE146" name="V/VE146">
+      <text>
+        <p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 40 kHz?</p>
+      </text>
+      <answer correct="yes">144 - 146 MHz</answer>
+      <answer correct="no">430 - 440 MHz</answer>
+      <answer correct="no">1240 - 1300 MHz</answer>
+      <answer correct="no">28,0 - 29,7 MHz</answer>
+    </question>
+    

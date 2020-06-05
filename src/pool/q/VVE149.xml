@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE149" name="V/VE149">
+      <text>
+        <p>Welche Aussage ist richtig?</p>
+      </text>
+      <answer correct="yes">Der Sekundärfunkdienst hat im Störungsfall gegenüber einem Primärfunkdienst eingeschränkte Nutzungsrechte.</answer>
+      <answer correct="no">Eine Funkstelle des Sekundärfunkdienstes muss vor Betriebsaufnahme durch eine Selbsterklärung die Störsicherheit erklären.</answer>
+      <answer correct="no">Bei einem Sekundärfunkdienst handelt es sich um eine nicht kommerzielle Funknutzung.</answer>
+      <answer correct="no">Der Sekundärfunkdienst hat Vorrang, wenn er zuerst auf Sendung war.</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG104" name="B/BG104">
+      <text>
+        <p>
+          In welchen Fällen muss ein Stationstagebuch geführt werden?
+          <br />
+          Es muss geführt werden
+        </p>
+      </text>
+      <answer correct="yes">auf Anordnung der zuständigen Behörde.</answer>
+      <answer correct="no">wenn die zulässigen Grenzwerte zum Personenschutz überschritten werden.</answer>
+      <answer correct="no">wenn die effektive isotrope Strahlungsleistung (EIRP) mehr als 10 Watt beträgt.</answer>
+      <answer correct="no">in den ersten zwei Jahren nach der Zulassung am Amateurfunkdienst.</answer>
+    </question>
+    

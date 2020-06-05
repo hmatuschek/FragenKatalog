@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB110" name="B/BB110">
+      <text>
+        <p>Wie gestalten Sie als DO1LEN einen allgemeinen Anruf in Telegrafie?</p>
+      </text>
+      <answer correct="yes">CQ CQ CQ DE DO1LEN DO1LEN DO1LEN</answer>
+      <answer correct="no">CQ CQ CQ CQ CQ CQ DE DO1LEN</answer>
+      <answer correct="no">QRZ QRZ QRZ DE DO1LEN DO1LEN DO1LEN</answer>
+      <answer correct="no">CQ QRZ CQ QRZ DE DO1LEN DO1LEN DO1LEN</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI307" name="E/TI307">
+      <text>
+        <p>Wie wirkt sich "Aurora" auf die Signalqualität eines Funksignals aus?</p>
+      </text>
+      <answer correct="yes">CW-Signale haben einen flatternden und verbrummten Ton.</answer>
+      <answer correct="no">CW-Signale haben einen besseren Ton.</answer>
+      <answer correct="no">Die Lesbarkeit der SSB-Signale verbessert sich.</answer>
+      <answer correct="no">Die Lesbarkeit der FM-Signale verbessert sich.</answer>
+    </question>
+    

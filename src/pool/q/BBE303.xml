@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE303" name="B/BE303">
+      <text>
+        <p>Wie teilen Sie Ihrem Funkpartner in der Betriebsart SSTV seinen "Rapport" mit?</p>
+      </text>
+      <answer correct="yes">Ich schreibe den Rapport direkt in das zu übertragende Bild.</answer>
+      <answer correct="no">Ich teile ihm den Rapport später auf der QSL-Karte mit.</answer>
+      <answer correct="no">Ich sende den Rapport nach der Bildübertragung in CW.</answer>
+      <answer correct="no">Ich teile ihm den Rapport während der Bildübertragung in SSB mit.</answer>
+    </question>
+    

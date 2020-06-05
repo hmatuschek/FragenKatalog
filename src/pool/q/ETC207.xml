@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC207" name="E/TC207">
+      <text>
+        <p>Bei welchem der folgenden Bauformen von Kondensatoren muss beim Einbau auf die Polarität geachtet werden?</p>
+      </text>
+      <answer correct="yes">Elektrolytkondensator</answer>
+      <answer correct="no">Keramischer Kondensator</answer>
+      <answer correct="no">Styroflexkondensator</answer>
+      <answer correct="no">Plattenkondensator</answer>
+    </question>
+    

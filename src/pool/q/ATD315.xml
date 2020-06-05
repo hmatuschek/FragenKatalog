@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD315" name="A/TD315">
+      <text>
+        <p>Welche Gleichrichterschaltung erzeugt eine Vollweg-Gleichrichtung mit der angezeigten Polarität?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atd315a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd315b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd315c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd315d" />
+      </answer>
+    </question>
+    

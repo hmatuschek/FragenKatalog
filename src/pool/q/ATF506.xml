@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF506" name="A/TF506">
+      <text>
+        <p>Bei einem Transceiver soll für Steuerungszwecke über die CAT-Schnittstelle der hexadezimale Wert "84h" eingestellt werden. Das dazu verwendete Steuerprogramm erlaubt aber nur eine dezimale Eingabe des Wertes. Welcher dezimale Wert muss eingegeben werden?</p>
+      </text>
+      <answer correct="yes">132</answer>
+      <answer correct="no">72</answer>
+      <answer correct="no">1344</answer>
+      <answer correct="no">01010100</answer>
+    </question>
+    

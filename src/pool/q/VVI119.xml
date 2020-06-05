@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI119" name="V/VI119">
+      <text>
+        <p>Welche Aussendungen von Amateurfunkanlagen müssen bei der Ermittlung des standortbezogenen Sicherheitsabstandes berücksichtigt werden?</p>
+      </text>
+      <answer correct="yes">Alle Aussendungen der ortsfesten Amateurfunkstelle, die ein Funkamateur zeitgleich durchzuführen beabsichtigt.</answer>
+      <answer correct="no">Ausschließlich Aussendungen von ortsfest betriebenen Amateurfunkstellen mit einer Strahlungsleistung (EIRP) größer 10 Watt.</answer>
+      <answer correct="no">Nur die Aussendungen bei der maximalen Sendeleistung.</answer>
+      <answer correct="no">Alle Aussendungen mit einer Strahlungsleistung (EIRP) größer 10 Watt, auch Aussendungen im Mobilbetrieb.</answer>
+    </question>
+    

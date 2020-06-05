@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD606" name="E/TD606">
+      <text>
+        <p>Der Vorteil von Quarzoszillatoren gegenüber LC-Oszillatoren liegt darin, dass sie</p>
+      </text>
+      <answer correct="yes">eine bessere Frequenzstabilität aufweisen.</answer>
+      <answer correct="no">eine breitere Resonanzkurve haben.</answer>
+      <answer correct="no">einen geringeren Anteil an Oberwellen erzeugen.</answer>
+      <answer correct="no">ein sehr viel geringes Seitenbandrauschen erzeugen.</answer>
+    </question>
+    

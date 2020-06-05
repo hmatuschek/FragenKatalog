@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF311" name="A/TF311">
+      <text>
+        <p>
+          Welchem Zweck dient D
+          <sub>1</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atf310" />
+      </text>
+      <answer correct="yes">Sie sorgt für eine stabile Versorgungsspannung, damit die Oszillatorfrequenz stabil bleibt.</answer>
+      <answer correct="no">Sie zeigt das korrekte Einschwingen des Oszillators an.</answer>
+      <answer correct="no">
+        Sie sorgt für eine konstante Ausgangsamplitude des Oszillators über den gesamten Abstimmbereich von C
+        <sub>1</sub>
+        .
+      </answer>
+      <answer correct="no">Sie ermöglicht eine Frequenzmodulation des Oszillators.</answer>
+    </question>
+    

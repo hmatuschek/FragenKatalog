@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD319" name="A/TD319">
+      <text>
+        <p>Welche Ausgangsspannung entsteht mit folgender Spannungsregler-Schaltung?</p>
+        <img src="Atd319" />
+      </text>
+      <answer correct="yes">8,9 V</answer>
+      <answer correct="no">6 V</answer>
+      <answer correct="no">18 V</answer>
+      <answer correct="no">14,9 V</answer>
+    </question>
+    

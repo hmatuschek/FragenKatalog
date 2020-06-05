@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH206" name="E/TH206">
+      <text>
+        <p>Ein Halbwellendipol wird auf der Grundfrequenz in der Mitte</p>
+      </text>
+      <answer correct="yes">stromgespeist.</answer>
+      <answer correct="no">spannungsgespeist.</answer>
+      <answer correct="no">endgespeist.</answer>
+      <answer correct="no">parallel gespeist.</answer>
+    </question>
+    

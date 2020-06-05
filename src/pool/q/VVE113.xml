@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE113" name="V/VE113">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (6-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">50,08 - 51,00 MHz</answer>
+      <answer correct="no">50,0 - 52,0 MHz</answer>
+      <answer correct="no">50,8 - 51,8 MHz</answer>
+      <answer correct="no">51,08 - 52,00 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD429" name="A/TD429">
+      <text>
+        <p>Was ist die Ursache für Eigenschwingungen eines Verstärkers?</p>
+      </text>
+      <answer correct="yes">Kopplung zwischen Ein- und Ausgang</answer>
+      <answer correct="no">Unzulängliche Verstärkung</answer>
+      <answer correct="no">Zu hohe Restwelligkeit in der Stromversorgung</answer>
+      <answer correct="no">Unzulängliche Regelung der Stromversorgung</answer>
+    </question>
+    

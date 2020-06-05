@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH220" name="A/TH220">
+      <text>
+        <p>Eine Antenne hat ein Stehwellenverhältnis (VSWR) von 3. Wie viel Prozent der vorlaufenden Leistung werden von der Zuleitung auf die Antenne übertragen?</p>
+      </text>
+      <answer correct="yes">75 %</answer>
+      <answer correct="no">50 %</answer>
+      <answer correct="no">25 %</answer>
+      <answer correct="no">29 %</answer>
+    </question>
+    

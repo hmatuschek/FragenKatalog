@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL103" name="A/TL103">
+      <text>
+        <p>Ein Sender ist mittels eines kurzen Koaxialkabels an eine Kollinearantenne mit 6 dB Gewinn angeschlossen. Wenn die der Antenne zugeführte Ausgangsleistung auf 5 W verringert wird, treten keine Störungen der Hi-Fi-Anlage des Nachbarn auf. Die Strahlungsleistung entspricht dabei einer ERP von</p>
+      </text>
+      <answer correct="yes">20 W.</answer>
+      <answer correct="no">1 W.</answer>
+      <answer correct="no">10 W.</answer>
+      <answer correct="no">30 W.</answer>
+    </question>
+    

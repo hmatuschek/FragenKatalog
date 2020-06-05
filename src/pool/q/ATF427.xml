@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF427" name="A/TF427">
+      <text>
+        <p>Um unerwünschte Abstrahlungen auf ein Minimum zu beschränken, sollte eine Mischstufe</p>
+      </text>
+      <answer correct="yes">gut abgeschirmt sein.</answer>
+      <answer correct="no">niederfrequent entkoppelt werden.</answer>
+      <answer correct="no">nicht geerdet werden.</answer>
+      <answer correct="no">mit gut gesiebter Gleichspannung gespeist werden.</answer>
+    </question>
+    

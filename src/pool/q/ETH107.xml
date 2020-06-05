@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH107" name="E/TH107">
+      <text>
+        <p>Wie nennt man eine Schleifenantenne, die aus drei gleich langen Drahtstücken besteht?</p>
+      </text>
+      <answer correct="yes">Delta-Loop-Antenne</answer>
+      <answer correct="no">3-Element Quad-Loop-Antenne</answer>
+      <answer correct="no">W3DZZ Antenne</answer>
+      <answer correct="no">3-Element-Beam</answer>
+    </question>
+    

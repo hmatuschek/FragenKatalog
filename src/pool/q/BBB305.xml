@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB305" name="B/BB305">
+      <text>
+        <p>In welcher Weise werden nach dem RST-System die Aussendungen einer Amateurfunkstelle beurteilt?</p>
+      </text>
+      <answer correct="yes">
+        Lesbarkeit in Stufen von 1-5,
+        <br />
+        Signalstärke in Stufen von 1-9 und
+        <br />
+        Tonqualität in Stufen von 1-9
+      </answer>
+      <answer correct="no">
+        Lesbarkeit in Stufen von 1-5,
+        <br />
+        Signalstärke in Stufen von 1-5 und
+        <br />
+        Tonhöhe in Stufen von 1-9
+      </answer>
+      <answer correct="no">
+        Signalqualität in Stufen von 1-5,
+        <br />
+        Signalstärke in Stufen von 1-5 und
+        <br />
+        Tonqualität in Stufen von 1-9
+      </answer>
+      <answer correct="no">
+        Lesbarkeit in Stufen von 1-9,
+        <br />
+        Signalqualität in Stufen von 1-5 und
+        <br />
+        Tonhöhe in Stufen von 1-4
+      </answer>
+    </question>
+    

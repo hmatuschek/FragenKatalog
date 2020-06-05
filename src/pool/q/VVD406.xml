@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD406" name="V/VD406">
+      <text>
+        <p>Welche der genannten Funkamateure dürfen an einer Klubstation der Klasse A Funkbetrieb im 40-m-Amateurfunkband durchführen?</p>
+      </text>
+      <answer correct="yes">Inhaber einer Amateurfunkzulassung der Klasse A.</answer>
+      <answer correct="no">Inhaber einer Amateurfunkzulassung der Klasse E.</answer>
+      <answer correct="no">Inhaber eines Amateurfunkzeugnisses der Klasse E ohne Amateurfunkzulassung.</answer>
+      <answer correct="no">Inhaber eines Amateurfunkzeugnisses der Klasse A ohne Amateurfunkzulassung.</answer>
+    </question>
+    

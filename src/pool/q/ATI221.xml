@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI221" name="A/TI221">
+      <text>
+        <p>Damit ein Signal zur Erde zurückreflektiert wird, müsste bei zunehmender Sendefrequenz die Ionisierung der reflektierenden Schicht</p>
+      </text>
+      <answer correct="yes">höher sein.</answer>
+      <answer correct="no">niedriger sein.</answer>
+      <answer correct="no">auf Null gehen.</answer>
+      <answer correct="no">sich nicht ändern.</answer>
+    </question>
+    

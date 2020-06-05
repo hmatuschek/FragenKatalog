@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB503" name="E/TB503">
+      <text>
+        <p>Das folgende Bild zeigt die Feldlinien eines elektromagnetischen Feldes. Welche Polarisation hat die skizzierte Wellenfront?</p>
+        <img src="ETB503" />
+      </text>
+      <answer correct="yes">Horizontale Polarisation</answer>
+      <answer correct="no">Vertikale Polarisation</answer>
+      <answer correct="no">Rechtsdrehende Polarisation</answer>
+      <answer correct="no">Zirkulare Polarisation</answer>
+    </question>
+    

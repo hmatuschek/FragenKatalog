@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK212" name="A/TK212">
+      <text>
+        <p>Um Oberwellenausstrahlungen eines UHF-Senders zu minimieren, sollte dem Gerät</p>
+      </text>
+      <answer correct="yes">ein Tiefpassfilter nachgeschaltet werden.</answer>
+      <answer correct="no">ein Hochpassfilter nachgeschaltet werden.</answer>
+      <answer correct="no">eine Bandsperre vorgeschaltet werden.</answer>
+      <answer correct="no">ein Notchfilter vorgeschaltet werden.</answer>
+    </question>
+    

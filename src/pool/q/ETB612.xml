@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB612" name="E/TB612">
+      <text>
+        <p>Eine sinusförmige Wechselspannung hat einen Spitzenwert von 12 V. Wie groß ist der Effektivwert der Wechselspannung?</p>
+      </text>
+      <answer correct="yes">8,5 V</answer>
+      <answer correct="no">6,0 V</answer>
+      <answer correct="no">17 V</answer>
+      <answer correct="no">24 V</answer>
+    </question>
+    

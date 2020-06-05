@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL208" name="E/TL208">
+      <text>
+        <p>Sie besitzen einen λ/4-Vertikalstrahler. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strahlungsleistung von kleiner 10 W EIRP verwenden dürfen, müssen Sie die Sendeleistung soweit reduzieren, dass sie unter diesem Wert bleiben. Wie groß darf die Sendeleistung dabei sein?</p>
+      </text>
+      <answer correct="yes">kleiner 3 Watt (Zuleitungsverluste vernachlässigt)</answer>
+      <answer correct="no">kleiner 6 Watt (Zuleitungsverluste vernachlässigt)</answer>
+      <answer correct="no">kleiner 10 Watt (Zuleitungsverluste vernachlässigt)</answer>
+      <answer correct="no">kleiner 16,4 Watt (Zuleitungsverluste vernachlässigt)</answer>
+    </question>
+    

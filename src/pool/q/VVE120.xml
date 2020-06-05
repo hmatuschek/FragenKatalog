@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE120" name="V/VE120">
+      <text>
+        <p>In welchem der genannten Frequenzbereiche hat der Amateurfunkdienst primären Status?</p>
+      </text>
+      <answer correct="yes">7000 - 7100 kHz</answer>
+      <answer correct="no">10100 - 10150 kHz</answer>
+      <answer correct="no">1850 - 1890 kHz</answer>
+      <answer correct="no">135,7 - 137,8 kHz</answer>
+    </question>
+    

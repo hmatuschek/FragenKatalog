@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC119" name="V/VC119">
+      <text>
+        <p>Ist die Erteilung einer Amateurfunkzulassung von einem Mindestalter abhängig?</p>
+      </text>
+      <answer correct="yes">Nein, das AFuG sieht kein Mindestalter vor.</answer>
+      <answer correct="no">Ja, die Bewerber müssen mindestens 18 Jahre alt sein.</answer>
+      <answer correct="no">Ja, die Bewerber können ab dem 15. Lebensjahr eine Zulassung erhalten.</answer>
+      <answer correct="no">Ja, für Klasse A müssen die Bewerber mindestens 10 Jahre alt sein.</answer>
+    </question>
+    

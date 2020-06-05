@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB602" name="A/TB602">
+      <text>
+        <p>
+          Wie groß ist der Spitzen-Spitzen-Wert (U
+          <sub>ss</sub>
+          ) der in der Abbildung dargestellten Spannung?
+        </p>
+        <img src="Atb602" />
+      </text>
+      <answer correct="yes">40 Volt</answer>
+      <answer correct="no">20 Volt</answer>
+      <answer correct="no">10 Volt</answer>
+      <answer correct="no">4 Volt</answer>
+    </question>
+    

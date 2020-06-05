@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB508" name="A/TB508">
+      <text>
+        <p>Welche Aussage trifft auf die elektromagnetische Ausstrahlung im ungestörten Fernfeld zu?</p>
+      </text>
+      <answer correct="yes">Die E-Feldkomponente, die H-Feldkomponente und die Ausbreitungsrichtung befinden sich alle in einem rechten Winkel zueinander.</answer>
+      <answer correct="no">Die E-Feldkomponente und die H-Feldkomponente befinden sich in einem Winkel von 180° zueinander. Die Ausbreitungsrichtung verläuft dazu in einem Winkel von 90°.</answer>
+      <answer correct="no">Die E-Feldkomponente und die H-Feldkomponente sind phasengleich und befinden sich in einem Winkel von 0° zueinander. Die Ausbreitungsrichtung verläuft dazu in einem Winkel von 90°.</answer>
+      <answer correct="no">Die Ausbreitungsrichtung befindet sich in einem Winkel von 180° zur E-Feldkomponente und verläuft parallel zur H-Feldkomponente.</answer>
+    </question>
+    

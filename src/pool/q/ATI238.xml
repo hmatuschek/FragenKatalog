@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI238" name="A/TI238">
+      <text>
+        <p>Welches der nachstehend aufgeführten Frequenzbänder ist für Aussendungen zwischen Hamburg und München während des Tages am besten geeignet?</p>
+      </text>
+      <answer correct="yes">40-m-Band</answer>
+      <answer correct="no">160-m-Band</answer>
+      <answer correct="no">80-m-Band</answer>
+      <answer correct="no">15-m-Band</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH321" name="A/TH321">
+      <text>
+        <p>Wie lang ist ein Koaxialkabel, das für eine ganze Wellenlänge bei 100 MHz zugeschnitten wurde, wenn der Verkürzungsfaktor 0,6 beträgt?</p>
+      </text>
+      <answer correct="yes">1,8 m</answer>
+      <answer correct="no">0,18 m</answer>
+      <answer correct="no">3 m</answer>
+      <answer correct="no">6 m</answer>
+    </question>
+    

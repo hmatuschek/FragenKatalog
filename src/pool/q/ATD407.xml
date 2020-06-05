@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD407" name="A/TD407">
+      <text>
+        <p>
+          Was lässt sich über den Wechselstromeingangswiderstand r
+          <sub>e</sub>
+           und den Wechselstromausgangswiderstand r
+          <sub>a</sub>
+           dieser Vorverstärkerschaltung aussagen?
+        </p>
+        <img src="Atd401" />
+      </text>
+      <answer correct="yes">
+        r
+        <sub>e</sub>
+         ist klein (z.B. 100 Ω ... 5 kΩ) und r
+        <sub>a</sub>
+         ist gegenüber r
+        <sub>e</sub>
+         groß (z.B. 5 kΩ ... 50 kΩ).
+      </answer>
+      <answer correct="no">
+        r
+        <sub>e</sub>
+        e ist groß (z.B. 10 kΩ ... 200 kΩ) und r
+        <sub>a</sub>
+         ist gegenüber r
+        <sub>e</sub>
+         klein (z.B. 4 Ω  ... 100 Ω).
+      </answer>
+      <answer correct="no">
+        r
+        <sub>e</sub>
+         und r
+        <sub>a</sub>
+         sind beide relativ klein (z.B. 20 Ω ... 5 kΩ).
+      </answer>
+      <answer correct="no">
+        r
+        <sub>e</sub>
+         und r
+        <sub>a</sub>
+         sind beide relativ groß (z.B. 10 kΩ ... 200 kΩ).
+      </answer>
+    </question>
+    

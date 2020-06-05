@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG301" name="E/TG301">
+      <text>
+        <p>Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung von 10 dB angeschlossen. Wie groß ist der Ausgangspegel der Endstufe?</p>
+      </text>
+      <answer correct="yes">10 dBW</answer>
+      <answer correct="no">1 dBW</answer>
+      <answer correct="no">3 dBW</answer>
+      <answer correct="no">20 dBW</answer>
+    </question>
+    

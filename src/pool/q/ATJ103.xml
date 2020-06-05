@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ103" name="A/TJ103">
+      <text>
+        <p>
+          Das Drehspulmesswerk in der folgenden Schaltung hat einen maximalen Messstrom I
+          <sub>M</sub>
+           = 0,3 mA und einen Messwerkwiderstand R
+          <sub>M</sub>
+           = 300 Ω. R
+          <sub>V</sub>
+           = 9,7 kΩ
+          <br />
+          Welche Gleichspannung muss an die Gesamtschaltung angelegt werden, damit das Messwerk Vollausschlag anzeigt?
+        </p>
+        <img src="Atj102" />
+      </text>
+      <answer correct="yes">3 Volt</answer>
+      <answer correct="no">10 Volt</answer>
+      <answer correct="no">30 Volt</answer>
+      <answer correct="no">1 Volt</answer>
+    </question>
+    

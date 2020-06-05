@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE109" name="A/TE109">
+      <text>
+        <p>Welche Sendeverfahren weisen das größte Störpotential in Bezug auf NFVerstärkersysteme auf?</p>
+      </text>
+      <answer correct="yes">Einseitenbandmodulation (SSB) und Morsetelegrafie (CW).</answer>
+      <answer correct="no">Frequenzmodulation (FM) und Frequenzumtastung (FSK).</answer>
+      <answer correct="no">Frequenzumtastung (FSK) und Morsetelegrafie (CW).</answer>
+      <answer correct="no">Einseitenbandmodulation (SSB) und Frequenzmodulation (FM).</answer>
+    </question>
+    

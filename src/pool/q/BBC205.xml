@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC205" name="B/BC205">
+      <text>
+        <p>Welches ist die internationale Anruffrequenz für SSB im 2-m-Band?</p>
+      </text>
+      <answer correct="yes">144,300 MHz</answer>
+      <answer correct="no">144,000 MHz</answer>
+      <answer correct="no">144,500 MHz</answer>
+      <answer correct="no">145,300 MHz</answer>
+    </question>
+    

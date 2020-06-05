@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD408" name="A/TD408">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atd408" />
+      </text>
+      <answer correct="yes">einen Verstärker als Emitterfolger.</answer>
+      <answer correct="no">einen Verstärker in Emitterschaltung.</answer>
+      <answer correct="no">einen Oszillator in Kollektorschaltung.</answer>
+      <answer correct="no">eine Stufe in einer Basisschaltung.</answer>
+    </question>
+    

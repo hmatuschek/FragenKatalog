@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE305" name="E/TE305">
+      <text>
+        <p>
+          Was bedeutet im Prinzip "Packet Radio"?
+          <br />
+          Die Daten werden
+        </p>
+      </text>
+      <answer correct="yes">paketweise (stoßweise) gesendet.</answer>
+      <answer correct="no">in der Mailbox in Paketen aufbewahrt.</answer>
+      <answer correct="no">8-Bit-weise parallel gepackt gesendet.</answer>
+      <answer correct="no">zu 8 Bit gepackt und dann gesendet.</answer>
+    </question>
+    

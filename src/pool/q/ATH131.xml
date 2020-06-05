@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH131" name="A/TH131">
+      <text>
+        <p>Wie wird die folgende Antenne in der Amateurfunkliteratur bezeichnet?</p>
+        <img src="Ath131" />
+      </text>
+      <answer correct="yes">Sie wird Fuchs-Antenne genannt.</answer>
+      <answer correct="no">Sie wird Windom-Antenne genannt.</answer>
+      <answer correct="no">Sie wird G5RV-Antenne genannt.</answer>
+      <answer correct="no">Sie wird Zeppelin-Antenne genannt.</answer>
+    </question>
+    

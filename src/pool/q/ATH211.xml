@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH211" name="A/TH211">
+      <text>
+        <p>Die Halbwertsbreite einer Antenne ist der Winkelbereich, innerhalb dem</p>
+      </text>
+      <answer correct="yes">die Feldstärke auf nicht weniger als den 0,707-fachen Wert der maximalen Feldstärke absinkt.</answer>
+      <answer correct="no">die Feldstärke auf nicht weniger als die Hälfte der maximalen Feldstärke absinkt.</answer>
+      <answer correct="no">die Strahlungsdichte auf nicht weniger als den 1/√2-fachen Wert der maximalen Strahlungsdichte absinkt.</answer>
+      <answer correct="no">die abgestrahlte Leistung auf nicht weniger als den 1/√2-fachen Wert des Leistungsmaximums absinkt.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH141" name="A/TH141">
+      <text>
+        <p>Das folgende Bild enthält eine einfache Richtantenne. Die Bezeichnungen der Elemente in numerischer Reihenfolge lauten</p>
+        <img src="Ath141" />
+      </text>
+      <answer correct="yes">1 Reflektor, 2 Strahler und 3 Direktor.</answer>
+      <answer correct="no">1 Strahler, 2 Direktor und 3 Reflektor.</answer>
+      <answer correct="no">1 Direktor, 2 Strahler und 3 Reflektor.</answer>
+      <answer correct="no">1 Direktor, 2 Reflektor und 3 Strahler.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB204" name="A/TB204">
+      <text>
+        <p>Die Leerlaufspannung einer Gleichspannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 1 A abgibt, sinkt die Klemmenspannung auf 12,5 V. Wie groß ist der Wirkungsgrad?</p>
+      </text>
+      <answer correct="yes">92,6 %</answer>
+      <answer correct="no">100 %</answer>
+      <answer correct="no">7,5 %</answer>
+      <answer correct="no">13,5 %</answer>
+    </question>
+    

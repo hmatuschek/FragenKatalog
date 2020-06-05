@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD214" name="A/TD214">
+      <text>
+        <p>Welchen Gütefaktor Q hat die Reihenschaltung einer Spule von 100 μH mit einem Kondensator von 0,01 μF und einem Widerstand von 10 Ω?</p>
+      </text>
+      <answer correct="yes">10</answer>
+      <answer correct="no">1</answer>
+      <answer correct="no">0,1</answer>
+      <answer correct="no">100</answer>
+    </question>
+    

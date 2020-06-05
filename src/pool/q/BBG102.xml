@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG102" name="B/BG102">
+      <text>
+        <p>Was sollten sie bei der Eintragung der Uhrzeit in das Funktagebuch beachten?</p>
+      </text>
+      <answer correct="yes">Sie sollte in UTC eingetragen werden.</answer>
+      <answer correct="no">Sie sollte in meiner aktuellen Ortszeit eingetragen werden.</answer>
+      <answer correct="no">Sie sollte in der Ortszeit der Gegenstation eingetragen werden.</answer>
+      <answer correct="no">Sie sollte in MEZ erfolgen.</answer>
+    </question>
+    

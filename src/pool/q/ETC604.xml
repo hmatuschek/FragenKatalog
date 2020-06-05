@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC604" name="E/TC604">
+      <text>
+        <p>Bei diesem Bauelement handelt es sich um einen</p>
+        <img src="ETC604" />
+      </text>
+      <answer correct="yes">PNP-Transistor.</answer>
+      <answer correct="no">NPN-Transistor.</answer>
+      <answer correct="no">P-Kanal-FET.</answer>
+      <answer correct="no">N-Kanal-FET.</answer>
+    </question>
+    

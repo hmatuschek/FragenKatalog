@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA206" name="E/TA206">
+      <text>
+        <p>0,22 μF sind</p>
+      </text>
+      <answer correct="yes">220 nF.</answer>
+      <answer correct="no">22 nF.</answer>
+      <answer correct="no">220 pF.</answer>
+      <answer correct="no">22 pF.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI107" name="A/TI107">
+      <text>
+        <p>In etwa welcher Höhe über der Erdoberfläche befindet sich die E-Schicht? Sie befindet sich in ungefähr</p>
+      </text>
+      <answer correct="yes">100 km Höhe.</answer>
+      <answer correct="no">70 km Höhe.</answer>
+      <answer correct="no">360 km Höhe.</answer>
+      <answer correct="no">1500 km Höhe.</answer>
+    </question>
+    

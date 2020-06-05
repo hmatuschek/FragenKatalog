@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK101" name="E/TK101">
+      <text>
+        <p>Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers?</p>
+      </text>
+      <answer correct="yes">Durch den Rückgang der Empfindlichkeit und ggf. das Auftreten von Brodelgeräuschen.</answer>
+      <answer correct="no">Durch Empfindlichkeitssteigerung.</answer>
+      <answer correct="no">Durch das Auftreten von Pfeifstellen im gesamten Abstimmungsbereich.</answer>
+      <answer correct="no">Durch eine zeitweilige Blockierung der Frequenzeinstellung.</answer>
+    </question>
+    

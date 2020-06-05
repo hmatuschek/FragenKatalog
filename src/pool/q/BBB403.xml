@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB403" name="B/BB403">
+      <text>
+        <p>Wie wird "Einseitenbandmodulation mit analogen Signalen für Sprachübertragung" (SSB) bezeichnet?</p>
+      </text>
+      <answer correct="yes">J3E</answer>
+      <answer correct="no">J2E</answer>
+      <answer correct="no">R2A</answer>
+      <answer correct="no">A1A</answer>
+    </question>
+    

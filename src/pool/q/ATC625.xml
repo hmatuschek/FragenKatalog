@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC625" name="A/TC625">
+      <text>
+        <p>Bei folgender Emitterschaltung wird die Schaltung ohne den Emitterkondensator betrieben. Auf welchen Betrag etwa sinkt die Spannungsverstärkung?</p>
+        <img src="Atc625" />
+      </text>
+      <answer correct="yes">10</answer>
+      <answer correct="no">1/10</answer>
+      <answer correct="no">1</answer>
+      <answer correct="no">0</answer>
+    </question>
+    

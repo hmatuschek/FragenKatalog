@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB701" name="E/TB701">
+      <text>
+        <p>Welche Signalform sollte der Träger einer hochfrequenten Schwingung haben?</p>
+      </text>
+      <answer correct="yes">sinusförmig</answer>
+      <answer correct="no">rechteckförmig</answer>
+      <answer correct="no">dreieckförmig</answer>
+      <answer correct="no">kreisförmig</answer>
+    </question>
+    

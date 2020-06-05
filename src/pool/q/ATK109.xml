@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK109" name="A/TK109">
+      <text>
+        <p>HF-Einstrahlung in die ZF-Stufe eines Fernsehempfängers führt in der Regel zu</p>
+      </text>
+      <answer correct="yes">Problemen mit dem Fernsehempfang.</answer>
+      <answer correct="no">mangelhafter Regelung der Stromversorgung.</answer>
+      <answer correct="no">ungesteuertem Kanalwechsel.</answer>
+      <answer correct="no">fehlender Regelspannung für den Tuner.</answer>
+    </question>
+    

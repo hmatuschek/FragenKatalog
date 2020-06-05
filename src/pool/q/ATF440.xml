@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF440" name="A/TF440">
+      <text>
+        <p>Was bedeutet Signal-Rauschabstand (S/N) bei einem VHF-Empfänger?</p>
+      </text>
+      <answer correct="yes">Er gibt an, um wie viel dB das Nutzsignal stärker ist als das Rauschsignal.</answer>
+      <answer correct="no">Er gibt an, um wie viel dB das Rauschsignal stärker ist als das Nutzsignal.</answer>
+      <answer correct="no">Es ist der Abstand in Kilohertz zwischen Empfangssignal und Störsignal.</answer>
+      <answer correct="no">Es ist der Abstand in Kilohertz zwischen Empfangsfrequenz und Spiegelfrequenz.</answer>
+    </question>
+    

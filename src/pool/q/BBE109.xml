@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE109" name="B/BE109">
+      <text>
+        <p>Ihr Rufzeichen sei DH7RW. Sie hören in Telefonie unvollständig "... 7 Romeo Whiskey". Wie reagieren Sie?</p>
+      </text>
+      <answer correct="yes">Ich antworte: "Hier ist DH7RW, wurde ich gerufen?"</answer>
+      <answer correct="no">Ich frage: "Wer hat mich gerufen?"</answer>
+      <answer correct="no">Ich frage erneut: "QRZ?"</answer>
+      <answer correct="no">Ich antworte: "QRZ, wurde ich gerufen?"</answer>
+    </question>
+    

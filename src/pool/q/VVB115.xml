@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB115" name="V/VB115">
+      <text>
+        <p>Aufgrund welcher Regelungen dürfen Funkamateure aus bestimmten Ländern ohne individuelle Gastzulassung vorübergehend in Deutschland Amateurfunk ausüben?</p>
+      </text>
+      <answer correct="yes">Aufgrund der CEPT-Empfehlungen T/R 61-01 und (05)06 und deren Umsetzung in Deutschland.</answer>
+      <answer correct="no">Aufgrund der Statuten der Europäischen Gemeinschaft (EG), aber nur für die Mitgliedsländer, die auch dem Schengener Abkommen beigetreten sind.</answer>
+      <answer correct="no">Aufgrund der Vollzugsordnung für den Funkdienst (VO Funk) als Anlage zum Internationalen Fernmeldevertrag.</answer>
+      <answer correct="no">Aufgrund der Ausführungsbestimmungen zu den Funkparagraphen des Nordatlantik-Vertrages.</answer>
+    </question>
+    

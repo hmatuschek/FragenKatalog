@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG231" name="A/TG231">
+      <text>
+        <p>Welche Filtercharakteristik würde sich am besten für einen Kurzwellen-Mehrband-Sender eignen?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg231a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg231b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg231c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg231d" />
+      </answer>
+    </question>
+    

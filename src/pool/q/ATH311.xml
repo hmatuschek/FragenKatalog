@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH311" name="A/TH311">
+      <text>
+        <p>Welches der folgenden Kabel weist im Kurzwellenbereich den geringsten Verlust auf?</p>
+      </text>
+      <answer correct="yes">Offene Zweidrahtleitung</answer>
+      <answer correct="no">Koaxialkabel mit Vollisolation</answer>
+      <answer correct="no">UKW-Bandleitung</answer>
+      <answer correct="no">Kunststoffisolierte Zweidrahtleitung</answer>
+    </question>
+    

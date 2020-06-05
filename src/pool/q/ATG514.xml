@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG514" name="A/TG514">
+      <text>
+        <p>Um die Gefahr von Eigenschwingungen in HF-Schaltungen zu verringern,</p>
+      </text>
+      <answer correct="yes">sollte jede Stufe gut abgeschirmt sein.</answer>
+      <answer correct="no">sollten die Abschirmungen der einzelnen Stufen nicht miteinander verbunden werden.</answer>
+      <answer correct="no">sollten die Betriebsspannungen den einzelnen Stufen mit koaxialen oder verdrillten Leitungen zugeführt werden.</answer>
+      <answer correct="no">sollte jede Stufe eine eigene stabilisierte Stromversorgung haben.</answer>
+    </question>
+    

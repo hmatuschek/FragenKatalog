@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC602" name="E/TC602">
+      <text>
+        <p>Das Verhältnis von Kollektorstrom zum Basisstrom eines Transistors liegt üblicherweise im Bereich von</p>
+      </text>
+      <answer correct="yes">10 zu 1 bis 900 zu 1.</answer>
+      <answer correct="no">1 zu 50 bis 1 zu 100.</answer>
+      <answer correct="no">1000 zu 1 bis 5000 zu 1.</answer>
+      <answer correct="no">1 zu 100 bis 1 zu 500.</answer>
+    </question>
+    

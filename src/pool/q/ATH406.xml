@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH406" name="A/TH406">
+      <text>
+        <p>Ein Faltdipol mit einem Fußpunktwiderstand von 240 Ω soll mit einer Hühnerleiter gespeist werden, deren Wellenwiderstand 600 Ω beträgt. Zur Anpassung soll ein λ/4-langes Stück Hühnerleiter mit einem anderem Wellenwiderstand verwendet werden. Welchen Wellenwiderstand muss die Transformationsleitung haben?</p>
+      </text>
+      <answer correct="yes">380 Ω</answer>
+      <answer correct="no">420 Ω</answer>
+      <answer correct="no">840 Ω</answer>
+      <answer correct="no">240 Ω</answer>
+    </question>
+    

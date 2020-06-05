@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH103" name="E/TH103">
+      <text>
+        <p>Welche magnetischen Antennen eignen sich für Sendebetrieb und strahlen dabei im Nahfeld ein starkes magnetisches Feld ab?</p>
+      </text>
+      <answer correct="yes">Magnetische Ringantennen mit einem Umfang von etwa λ/10.</answer>
+      <answer correct="no">Ferritstabantennen und magnetische Ringantennen.</answer>
+      <answer correct="no">Rahmenantennen mit mehreren Drahtwindungen.</answer>
+      <answer correct="no">Ferritstabantennen und Rahmenantennen mit mehreren Drahtwindungen.</answer>
+    </question>
+    

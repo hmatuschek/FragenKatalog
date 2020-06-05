@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC202" name="A/TC202">
+      <text>
+        <p>Welchen zeitlichen Verlauf hat die Spannung an einem entladenen Kondensator, wenn dieser über einen Widerstand an eine Gleichspannungsquelle angeschlossen wird?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc202a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202d" />
+      </answer>
+    </question>
+    

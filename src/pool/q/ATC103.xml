@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC103" name="A/TC103">
+      <text>
+        <p>Metalloxidwiderstände</p>
+      </text>
+      <answer correct="yes">sind induktionsarm und eignen sich besonders für den Einsatz bei sehr hohen Frequenzen.</answer>
+      <answer correct="no">haben geringe Toleranzen und Widerstandsänderungen und sind besonders als Präzisionswiderstände in der Messtechnik geeignet.</answer>
+      <answer correct="no">sind besonders als Hochlastwiderstände bei niedrigen Frequenzen geeignet.</answer>
+      <answer correct="no">haben einen extrem stark negativen Temperaturkoeffizienten und sind besonders als NTC-Widerstände (Heißleiter) geeignet.</answer>
+    </question>
+    

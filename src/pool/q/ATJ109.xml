@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ109" name="A/TJ109">
+      <text>
+        <p>
+          Der Messbereich eines Voltmeters mit dem Innenwiderstand R
+          <sub>i</sub>
+           soll um den Faktor 8 erweitert werden. Durch welche Maßnahme ist dies erreichbar?
+        </p>
+      </text>
+      <answer correct="yes">
+        Durch Reihenschaltung mit R
+        <sub>V</sub>
+         = 7·R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        Durch Reihenschaltung mit R
+        <sub>V</sub>
+         = 8·R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        Durch Reihenschaltung mit R
+        <sub>V</sub>
+         = 1/8·R
+        <sub>i</sub>
+      </answer>
+      <answer correct="no">
+        Durch Reihenschaltung mit R
+        <sub>P</sub>
+         = 1/7·R
+        <sub>i</sub>
+      </answer>
+    </question>
+    

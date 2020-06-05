@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB511" name="A/TB511">
+      <text>
+        <p>Eine Yagiantenne mit 12,15 dBi Antennengewinn wird mit 250 W Senderleistung direkt gespeist. Welche elektrische Feldstärke ergibt sich bei Freiraumausbreitung in 30 m Entfernung?</p>
+      </text>
+      <answer correct="yes">11,8 V/m</answer>
+      <answer correct="no">9,2 V/m</answer>
+      <answer correct="no">15,1 V/m</answer>
+      <answer correct="no">353 V/m</answer>
+    </question>
+    

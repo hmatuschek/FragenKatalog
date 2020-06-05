@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB106" name="B/BB106">
+      <text>
+        <p>Sie hören KA2WEU in Morsetelegrafie rufen: "CQ DL CQ DL DE KA2WEU PSE K". Was beabsichtigt er damit?</p>
+      </text>
+      <answer correct="yes">KA2WEU sucht eine Verbindung mit einem Funkamateur aus Deutschland.</answer>
+      <answer correct="no">Der amerikanische Funkamateur sucht Verbindungen mit Funkamateuren, die weit entfernt sind.</answer>
+      <answer correct="no">KA2WEU sucht nur eine Verbindung mit einem Funkamateur, dessen Rufzeichen mit DL beginnt.</answer>
+      <answer correct="no">KA2WEU sucht eine Verbindung mit Stationen, die an einem deutschen Wettbewerb teilnehmen.</answer>
+    </question>
+    

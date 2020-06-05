@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD504" name="A/TD504">
+      <text>
+        <p>Am ZF-Eingang der folgenden Schaltung liegt ein sinusförmig moduliertes AM-Signal. Welches der folgenden Signale zeigt sich dabei an dem mit X bezeichneten Punkt der Schaltung?</p>
+        <img src="Atd504" />
+      </text>
+      <answer correct="yes">
+        Signal 3
+        <img src="Atd503c" />
+      </answer>
+      <answer correct="no">
+        Signal 2
+        <img src="Atd503b" />
+      </answer>
+      <answer correct="no">
+        Signal 1
+        <img src="Atd503a" />
+      </answer>
+      <answer correct="no">
+        Signal 4
+        <img src="Atd503d" />
+      </answer>
+    </question>
+    

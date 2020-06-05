@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG232" name="A/TG232">
+      <text>
+        <p>Welche Filtercharakteristik würde sich am besten für einen 10-m-Band-Sender eignen?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg231d" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg231a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg231b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg232d" />
+      </answer>
+    </question>
+    

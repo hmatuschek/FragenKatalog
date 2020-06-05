@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH127" name="A/TH127">
+      <text>
+        <p>Welches der folgenden Bauteile sollte mit einem 15-m-langen Antennendraht in Reihe geschaltet werden, damit die Resonanz im 3,5-MHz-Bereich erfolgen kann?</p>
+      </text>
+      <answer correct="yes">Spule</answer>
+      <answer correct="no">Parallelkreis mit einer Resonanzfrequenz von 3,5 MHz</answer>
+      <answer correct="no">Kondensator</answer>
+      <answer correct="no">RC-Glied</answer>
+    </question>
+    

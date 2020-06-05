@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB917" name="A/TB917">
+      <text>
+        <p>Eine künstliche 50-Ω-Antenne besteht aus elf 560-Ω-Kohleschichtwiderständen mit einem Belastungsnennwert von jeweils 5 W. Wie hoch ist die zulässige Gesamtleistung die angelegt werden darf?</p>
+      </text>
+      <answer correct="yes">55 W</answer>
+      <answer correct="no">27,5 W</answer>
+      <answer correct="no">750 W</answer>
+      <answer correct="no">5 W</answer>
+    </question>
+    

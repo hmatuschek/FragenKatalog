@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC606" name="A/TC606">
+      <text>
+        <p>Wie bezeichnet man die Anschlüsse 2 und 3 des folgenden Transistors?</p>
+        <img src="Atc606" />
+      </text>
+      <answer correct="yes">2 = Drain, 3 = Source</answer>
+      <answer correct="no">2 = Source, 3 = Drain</answer>
+      <answer correct="no">2 = Drain, 3 = Emitter</answer>
+      <answer correct="no">2 = Gate 2, 3 = Gate 1</answer>
+    </question>
+    

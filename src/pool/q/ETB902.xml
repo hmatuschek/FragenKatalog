@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB902" name="E/TB902">
+      <text>
+        <p>Welcher der nachfolgenden Zusammenhänge ist richtig?</p>
+      </text>
+      <answer correct="yes">U = R · I</answer>
+      <answer correct="no">I = U · R</answer>
+      <answer correct="no">R = I / U</answer>
+      <answer correct="no">I = R / U</answer>
+    </question>
+    

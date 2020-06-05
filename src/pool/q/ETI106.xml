@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI106" name="E/TI106">
+      <text>
+        <p>Welche Schicht ist für die gute Ausbreitung im 10-m-Band in den Sommermonaten verantwortlich?</p>
+      </text>
+      <answer correct="yes">Die E-Schicht</answer>
+      <answer correct="no">Die D-Schicht</answer>
+      <answer correct="no">Die F1-Schicht</answer>
+      <answer correct="no">Die F2-Schicht</answer>
+    </question>
+    

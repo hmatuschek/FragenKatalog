@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC603" name="E/TC603">
+      <text>
+        <p>Bei diesem Bauelement handelt es sich um einen</p>
+        <img src="ETC603" />
+      </text>
+      <answer correct="yes">NPN-Transistor.</answer>
+      <answer correct="no">PNP-Transistor.</answer>
+      <answer correct="no">Sperrschicht-FET.</answer>
+      <answer correct="no">MOSFET.</answer>
+    </question>
+    

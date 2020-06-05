@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG402" name="E/TG402">
+      <text>
+        <p>In welcher der folgenden Antworten sind Betriebsarten üblicher Kurzwellen-Transceiver aufgezählt?</p>
+      </text>
+      <answer correct="yes">USB, LSB, FM, AM, CW</answer>
+      <answer correct="no">USB, PSK31, FM, SSTV, CW</answer>
+      <answer correct="no">USB, LSB, FM, SSTV, CW</answer>
+      <answer correct="no">USB, LSB, Amtor, Pactor, CW</answer>
+    </question>
+    

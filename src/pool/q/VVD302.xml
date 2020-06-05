@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD302" name="V/VD302">
+      <text>
+        <p>Was ist bei der Durchführung von Ausbildungsfunkverkehr zu beachten?</p>
+      </text>
+      <answer correct="yes">Vom Auszubildenden sind Angaben über den Funkverkehr schriftlich festzuhalten und vom Ausbilder zu bestätigen.</answer>
+      <answer correct="no">Beim Ausbildungsfunkverkehr darf nicht an Amateurfunkwettbewerben teilgenommen werden.</answer>
+      <answer correct="no">Der Ausbildungsfunkverkehr darf ausschließlich in Gegenwart des Ausbilders an einer Klub- oder Schulstation durchgeführt werden.</answer>
+      <answer correct="no">Der Ausbildungsfunkverkehr darf ausschließlich in Phonie (SSB oder FM) durchgeführt werden.</answer>
+    </question>
+    

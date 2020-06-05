@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ107" name="A/TJ107">
+      <text>
+        <p>
+          Durch ein Einbauinstrument mit einem Messbereich von 2 V, fließt bei Vollausschlag ein Strom von 2 mA. Das Instrument soll mit einem Vorwiderstand auf einen Messbereich von 20 V Endausschlag erweitert werden. Wie groß ist der Widerstandswert R
+          <sub>V</sub>
+           und die Belastung P
+          <sub>V</sub>
+           des Vorwiderstandes?
+        </p>
+        <img src="Atj107" />
+      </text>
+      <answer correct="yes">
+        <pre>
+          R
+          <sub>V</sub>
+           =  9 kΩ    P
+          <sub>V</sub>
+           =  36 mW
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+          R
+          <sub>V</sub>
+           = 10 kΩ    P
+          <sub>V</sub>
+           =  40 mW
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+          R
+          <sub>V</sub>
+           =  9 kΩ    P
+          <sub>V</sub>
+           =   4 mW
+        </pre>
+      </answer>
+      <answer correct="no">
+        <pre>
+          R
+          <sub>V</sub>
+           =  0,1 MΩ  P
+          <sub>V</sub>
+           = 131 mW
+        </pre>
+      </answer>
+    </question>
+    

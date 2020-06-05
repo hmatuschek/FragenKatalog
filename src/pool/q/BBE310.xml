@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE310" name="B/BE310">
+      <text>
+        <p>Was ist Simplexbetrieb?</p>
+      </text>
+      <answer correct="yes">Senden bzw. Empfangen auf der gleichen Frequenz</answer>
+      <answer correct="no">Senden bzw. Empfangen über kurze Entfernung</answer>
+      <answer correct="no">Senden bzw. Empfangen mit unterschiedlichen Sende- und Empfangsfrequenzen</answer>
+      <answer correct="no">Senden bzw. Empfangen mit minimaler Senderleistung</answer>
+    </question>
+    

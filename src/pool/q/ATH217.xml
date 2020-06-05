@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH217" name="A/TH217">
+      <text>
+        <p>Mit welcher Polarisation wird auf den Kurzwellenbändern meistens gesendet?</p>
+      </text>
+      <answer correct="yes">Es wird meist mit horizontaler oder vertikaler Polarisation gesendet.</answer>
+      <answer correct="no">Es wird meist mit horizontaler oder zirkularer Polarisation gesendet.</answer>
+      <answer correct="no">Es wird meist mit vertikaler oder zirkularer Polarisation gesendet.</answer>
+      <answer correct="no">Es wird nur mit horizontaler Polarisation gesendet.</answer>
+    </question>
+    

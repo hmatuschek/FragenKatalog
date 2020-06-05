@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC527" name="A/TC527">
+      <text>
+        <p>
+          In der folgenden Schaltung werden 3 Siliziumdioden zur Entkopplung dreier Stromversorgungen eingesetzt. Der Sonnenkollektor liefert U
+          <sub>1</sub>
+           = 14,9 V. Der Akkumulator hat U
+          <sub>2</sub>
+           = 13,9 V. Das Netzteil ist auf U
+          <sub>3</sub>
+           = 13,5 V eingestellt. In welcher Zeile ist der sich unter diesen Voraussetzungen einstellende Zustand der 3 Dioden richtig beschrieben?
+        </p>
+        <img src="Atc527" />
+      </text>
+      <answer correct="yes">
+        D
+        <sub>1</sub>
+         leitet. D
+        <sub>2</sub>
+         leitet. D
+        <sub>3</sub>
+         leitet nicht.
+      </answer>
+      <answer correct="no">
+        D
+        <sub>1</sub>
+         leitet. D
+        <sub>2</sub>
+         leitet. D
+        <sub>3</sub>
+         leitet.
+      </answer>
+      <answer correct="no">
+        D
+        <sub>1</sub>
+         leitet. D
+        <sub>2</sub>
+         leitet nicht. D
+        <sub>3</sub>
+         leitet nicht.
+      </answer>
+      <answer correct="no">
+        D
+        <sub>1</sub>
+         leitet nicht. D
+        <sub>2</sub>
+         leitet. D
+        <sub>3</sub>
+         leitet.
+      </answer>
+    </question>
+    

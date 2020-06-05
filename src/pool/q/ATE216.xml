@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE216" name="A/TE216">
+      <text>
+        <p>Wie wird die Empfindlichkeit eines FM-Modulators angegeben?</p>
+      </text>
+      <answer correct="yes">In kHz/V</answer>
+      <answer correct="no">Als Modulationsindex</answer>
+      <answer correct="no">Als Hub</answer>
+      <answer correct="no">In Rad/s</answer>
+    </question>
+    

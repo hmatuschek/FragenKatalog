@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH207" name="A/TH207">
+      <text>
+        <p>Das folgende Bild zeigt das Richtdiagramm einer Dipol- und einer Yagi-Antenne. Das Vor-/Rück-Verhältnis der Yagi-Antenne ist definiert</p>
+        <img src="Ath206" />
+      </text>
+      <answer correct="yes">
+        als das Verhältnis von P
+        <sub>v</sub>
+         zu P
+        <sub>R</sub>
+         .
+      </answer>
+      <answer correct="no">
+        als das Verhältnis von P
+        <sub>D</sub>
+         zu P
+        <sub>R</sub>
+         .
+      </answer>
+      <answer correct="no">
+        als das Verhältnis von P
+        <sub>v</sub>
+         zu P
+        <sub>D</sub>
+         .
+      </answer>
+      <answer correct="no">
+        als das Verhältnis von 0,7·P
+        <sub>v</sub>
+         zu 0,7·P
+        <sub>D</sub>
+         .
+      </answer>
+    </question>
+    

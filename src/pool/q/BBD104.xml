@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD104" name="B/BD104">
+      <text>
+        <p>Was erkennen Sie aus dem Rufzeichen DPØXX?</p>
+      </text>
+      <answer correct="yes">Es handelt sich um eine exterritoriale deutsche Funkstelle des Amateurfunkdienstes oder des Amateurfunkdienstes über Satelliten.</answer>
+      <answer correct="no">Es handelt sich um eine Amateurfunkstelle der Klasse A oder E, die ohne Anzeige nach BEMFV betrieben werden darf.</answer>
+      <answer correct="no">Es handelt sich um ein Klubstationsrufzeichen von Funkamateuren, die Angehörige der Gaststreitkräfte in Deutschland sind.</answer>
+      <answer correct="no">Es handelt sich um ein Ausbildungsrufzeichen der Klasse A für Angehörige der Gaststreitkräfte in Deutschland.</answer>
+    </question>
+    

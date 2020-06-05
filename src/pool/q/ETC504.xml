@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC504" name="E/TC504">
+      <text>
+        <p>Eine in Sperrrichtung betriebene Diode hat</p>
+      </text>
+      <answer correct="yes">einen hohen Widerstand.</answer>
+      <answer correct="no">eine hohe Kapazität.</answer>
+      <answer correct="no">eine geringe Impedanz.</answer>
+      <answer correct="no">eine hohe Induktivität.</answer>
+    </question>
+    

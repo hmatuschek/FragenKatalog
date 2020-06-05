@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD120" name="A/TD120">
+      <text>
+        <p>
+          Wie groß ist die Gesamtkapazität dieser Schaltung, wenn C
+          <sub>1</sub>
+           = 0,1 nF, C
+          <sub>2</sub>
+           = 1,5 nF, C
+          <sub>3</sub>
+           = 220 pF und die Eigenkapazität der Spule 1 pF beträgt?
+        </p>
+        <img src="Atd120" />
+      </text>
+      <answer correct="yes">1821 pF</answer>
+      <answer correct="no">66 pF</answer>
+      <answer correct="no">1,6 nF</answer>
+      <answer correct="no">≈1 pF</answer>
+    </question>
+    

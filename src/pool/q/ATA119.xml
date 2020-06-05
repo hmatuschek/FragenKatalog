@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA119" name="A/TA119">
+      <text>
+        <p>Die Ausbreitungsgeschwindigkeit freier elektromagnetischer Wellen beträgt etwa</p>
+      </text>
+      <answer correct="yes">300000 km/s.</answer>
+      <answer correct="no">3000000 km/s.</answer>
+      <answer correct="no">30000 km/s.</answer>
+      <answer correct="no">3000 km/s.</answer>
+    </question>
+    

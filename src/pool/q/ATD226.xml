@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD226" name="A/TD226">
+      <text>
+        <p>Welche Schaltung stellt ein Hochpassfilter dar?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atd226a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd226b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd226c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd226d" />
+      </answer>
+    </question>
+    

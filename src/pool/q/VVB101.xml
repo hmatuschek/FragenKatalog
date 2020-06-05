@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB101" name="V/VB101">
+      <text>
+        <p>Welche Bedeutung haben die CEPT-Empfehlungen T/R 61-01 und 05(06) für den Amateurfunkdienst?</p>
+      </text>
+      <answer correct="yes">Sie bilden die Grundlagen für eine vereinfachte gegenseitige Gewährung von kurzzeitigen Amateurfunkbetriebsrechten in den beigetretenen Ländern.</answer>
+      <answer correct="no">Sie sind Teil des internationalen Frequenzzuweisungsplanes und beinhalten Regelungen für nationale Frequenzzuweisungen für den Amateurfunkdienst.</answer>
+      <answer correct="no">Sie sind Teil der Radio Regulations (VO Funk) und regeln den Amateurfunkverkehr auf internationaler Basis.</answer>
+      <answer correct="no">Sie bilden die Grundlagen für eine vereinfachte gegenseitige Anerkennung von Amateurfunkprüfungen in den beigetretenen Ländern.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD123" name="V/VD123">
+      <text>
+        <p>Welche Daten sind in der offiziellen Rufzeichenliste der Bundesnetzagentur immer enthalten?</p>
+      </text>
+      <answer correct="yes">Alle zugeteilten Rufzeichen in Verbindung mit dem Namen des Inhabers und die Standorte von Relaisfunkstellen und Funkbaken.</answer>
+      <answer correct="no">Alle zugeteilten Rufzeichen mit den dazugehörigen Standorten der Amateurfunkstellen.</answer>
+      <answer correct="no">Alle zugeteilten Rufzeichen mit den dazugehörigen Rufzeicheninhabern und deren Anschriften.</answer>
+      <answer correct="no">Im Falle eines Widerspruchs keinerlei Angaben, auch kein Rufzeichen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH413" name="A/TH413">
+      <text>
+        <p>Eine Halbwellen-Übertragungsleitung ist an einem Ende mit 50 Ω abgeschlossen. Wie groß ist die Eingangsimpedanz am anderen Ende dieser Leitung?</p>
+      </text>
+      <answer correct="yes">50 Ω</answer>
+      <answer correct="no">25 Ω</answer>
+      <answer correct="no">100 Ω</answer>
+      <answer correct="no">200 Ω</answer>
+    </question>
+    

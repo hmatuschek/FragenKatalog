@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD102" name="E/TD102">
+      <text>
+        <p>
+          Wie groß ist der Ersatzwiderstand der Gesamtschaltung?
+          <br />
+          Gegeben: R
+          <sub>1</sub>
+           = 1 kΩ, R
+          <sub>2</sub>
+           = 2000 Ω und R
+          <sub>3</sub>
+           = 2 kΩ
+        </p>
+        <img src="ETD101" />
+      </text>
+      <answer correct="yes">2 kΩ</answer>
+      <answer correct="no">2,5 kΩ</answer>
+      <answer correct="no">501 Ω</answer>
+      <answer correct="no">5,1 kΩ</answer>
+    </question>
+    

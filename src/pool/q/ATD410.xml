@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD410" name="A/TD410">
+      <text>
+        <p>In welchem Bereich liegt der Wechselstrom- Eingangswiderstand eines Emitterfolgers?</p>
+      </text>
+      <answer correct="yes">10 kΩ ... 200 kΩ</answer>
+      <answer correct="no">1 kΩ ... 10 kΩ</answer>
+      <answer correct="no">100 Ω ... 1 kΩ</answer>
+      <answer correct="no">4 Ω ... 100 Ω</answer>
+    </question>
+    

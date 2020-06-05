@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC205" name="A/TC205">
+      <text>
+        <p>Wie groß ist der kapazitive Widerstand eines 10-pF-Kondensators bei 100 MHz?</p>
+      </text>
+      <answer correct="yes">159 Ω</answer>
+      <answer correct="no">1,59 kΩ</answer>
+      <answer correct="no">318 Ω</answer>
+      <answer correct="no">31,8 Ω</answer>
+    </question>
+    

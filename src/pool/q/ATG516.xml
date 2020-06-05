@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG516" name="A/TG516">
+      <text>
+        <p>Um die Wahrscheinlichkeit von Eigenschwingungen in einem Leistungsverstärker zu verringern,</p>
+      </text>
+      <answer correct="yes">sollten die Ein- und Ausgangsschaltungen gut voneinander entkoppelt werden.</answer>
+      <answer correct="no">sollte Verstärkerausgang und Netzteil möglichst weit voneinander entfernt aufgebaut werden.</answer>
+      <answer correct="no">sollte die Versorgungsspannung über ein Netzfilter zugeführt werden.</answer>
+      <answer correct="no">sollte kein Schaltnetzteil als Stromversorgung verwendet werden.</answer>
+    </question>
+    

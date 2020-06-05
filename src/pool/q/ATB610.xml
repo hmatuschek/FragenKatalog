@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB610" name="A/TB610">
+      <text>
+        <p>
+          Ein sinusförmiger Wechselstrom mit einer Amplitude (I
+          <sub>max</sub>
+          ) von 0,5 Ampere fließt durch einen Widerstand von 20 Ohm. Wie hoch ist die aufgenommene Leistung?
+        </p>
+      </text>
+      <answer correct="yes">2,5 Watt</answer>
+      <answer correct="no">5 Watt</answer>
+      <answer correct="no">10 Watt</answer>
+      <answer correct="no">0,5 Watt</answer>
+    </question>
+    

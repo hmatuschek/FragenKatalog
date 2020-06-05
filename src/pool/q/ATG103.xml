@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG103" name="A/TG103">
+      <text>
+        <p>Das Blockschaltbild stellt einen Mehrbandsender dar. Welche Frequenz entsteht am Ausgang X, wenn der VFO auf 3,51 MHz eingestellt ist?</p>
+        <img src="Atg103" />
+      </text>
+      <answer correct="yes">14,04 MHz</answer>
+      <answer correct="no">7,02 MHz</answer>
+      <answer correct="no">21,06 MHz</answer>
+      <answer correct="no">3,55 MHz</answer>
+    </question>
+    

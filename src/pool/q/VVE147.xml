@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE147" name="V/VE147">
+      <text>
+        <p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 2 MHz bzw. für amplitudenmodulierte Fernsehaussendungen 7 MHz?</p>
+      </text>
+      <answer correct="yes">430 - 440 MHz</answer>
+      <answer correct="no">2320 - 2450 MHz</answer>
+      <answer correct="no">3400 - 3475 MHz</answer>
+      <answer correct="no">10,0 - 10,5 GHz</answer>
+    </question>
+    

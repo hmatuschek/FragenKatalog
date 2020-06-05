@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD103" name="A/TD103">
+      <text>
+        <p>Wie groß ist die Gesamtkapazität von drei parallel geschalteten Kondensatoren von 20 nF, 0,03 μF und 15000 pF?</p>
+      </text>
+      <answer correct="yes">0,065 μF</answer>
+      <answer correct="no">0,650 μF</answer>
+      <answer correct="no">650 nF</answer>
+      <answer correct="no">650 000 pF</answer>
+    </question>
+    

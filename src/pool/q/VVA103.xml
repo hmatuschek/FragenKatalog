@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA103" name="V/VA103">
+      <text>
+        <p>Wozu dient der Amateurfunkdienst über Satelliten nach dem Wortlaut seiner internationalen Begriffsbestimmung in den Radio Regulations (VO Funk)?</p>
+      </text>
+      <answer correct="yes">Der Amateurfunkdienst über Satelliten dient den gleichen Zwecken wie der Amateurfunkdienst, wobei Weltraumfunkstellen auf Erdsatelliten benutzt werden.</answer>
+      <answer correct="no">Der Amateurfunkdienst über Satelliten dient den Funkamateuren zu experimenteller Ermittlung der Ausbreitungsbedingungen im Weltraum.</answer>
+      <answer correct="no">Durch den Amateurfunkdienst über Satelliten können Funkamateure die Dämpfung der ionisierenden Schichten ermitteln.</answer>
+      <answer correct="no">Durch den Amateurfunkdienst über Satelliten können Funkamateure die Dämpfung der reflektierenden Schichten im UHF-Bereich ermitteln.</answer>
+    </question>
+    

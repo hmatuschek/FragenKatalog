@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD206" name="B/BD206">
+      <text>
+        <p>
+          Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?
+          <br />
+          Die Landeskenner OE, OH, OK, OM, ON, OZ entsprechen den Ländern
+        </p>
+      </text>
+      <answer correct="yes">Österreich, Finnland, Tschechien, Slowakei, Belgien, Dänemark.</answer>
+      <answer correct="no">Österreich, Belgien, Tschechien, Slowakei, Finnland, Dänemark.</answer>
+      <answer correct="no">Österreich, Finnland, Tschechien, Belgien, Slowakei, Dänemark.</answer>
+      <answer correct="no">Österreich, Slowakei, Tschechien, Finnland, Belgien, Dänemark.</answer>
+    </question>
+    

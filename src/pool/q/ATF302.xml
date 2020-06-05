@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF302" name="A/TF302">
+      <text>
+        <p>Welche Signale steuern gewöhnlich die Empfängerstummschaltung (Squelch)?</p>
+      </text>
+      <answer correct="yes">Es sind die ZF- oder NF-Signale.</answer>
+      <answer correct="no">Es ist das HF-Signal der Eingangsstufe.</answer>
+      <answer correct="no">Es ist das HF-Signal des VFO.</answer>
+      <answer correct="no">Es ist das ZF-Signal des BFO.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD214" name="V/VD214">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DJ1AA - DJ9ZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Personengebundene Rufzeichen der Klasse A.</answer>
+      <answer correct="no">Ausbildungsrufzeichen.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen.</answer>
+      <answer correct="no">Rufzeichen der Klasse E.</answer>
+    </question>
+    

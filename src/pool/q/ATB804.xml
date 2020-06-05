@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB804" name="A/TB804">
+      <text>
+        <p>Warum wird bei FM senderseitig eine Preemphasis eingesetzt?</p>
+      </text>
+      <answer correct="yes">Um das Signal/Rausch-Verhältnis durch Anheben der Amplituden der höheren Modulationsfrequenzen zu verbessern.</answer>
+      <answer correct="no">Um das breitbandige FM-Signal durch Anheben der Amplituden der höheren Modulationsfrequenzen auf Schmalband FM zu reduzieren.</answer>
+      <answer correct="no">Um die Ausgangsleistung durch Verdichtung des Spektrums der Modulationsfrequenzen zu erhöhen.</answer>
+      <answer correct="no">Um das FM Kanalraster von 25 kHz auf 12,5 kHz durch Reduzierung der Bandbreite zu ermöglichen.</answer>
+    </question>
+    

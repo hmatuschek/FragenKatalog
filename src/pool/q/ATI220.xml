@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI220" name="A/TI220">
+      <text>
+        <p>Unter dem Begriff "short skip" versteht man Funkverbindungen oberhalb 21 MHz mit Sprungentfernungen unter 1000 km, die</p>
+      </text>
+      <answer correct="yes">durch Reflexion an einer sporadisch auftretenden E-Schicht ermöglicht werden.</answer>
+      <answer correct="no">bei entsprechendem Abstrahlwinkel durch Reflexion an der F1-Schicht ermöglicht werden.</answer>
+      <answer correct="no">bei entsprechendem Abstrahlwinkel durch Reflexion an der F2-Schicht ermöglicht werden.</answer>
+      <answer correct="no">durch Reflexion an hochionisierten D-Schichten ermöglicht werden.</answer>
+    </question>
+    

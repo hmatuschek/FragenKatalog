@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD110" name="V/VD110">
+      <text>
+        <p>Was muss der Inhaber einer Amateurfunkzulassung bei der Änderung seines Namens oder seiner Anschrift veranlassen?</p>
+      </text>
+      <answer correct="yes">Er muss die Änderungen der Bundesnetzagentur unverzüglich in schriftlicher oder elektronischer Form mitteilen.</answer>
+      <answer correct="no">Er muss die Änderungen der Bundesnetzagentur im Fall der weiteren Teilnahme am Amateurfunkdienst innerhalb von 4 Wochen in schriftlicher oder elektronischer Form mitteilen.</answer>
+      <answer correct="no">Er muss die Änderungen der Bundesnetzagentur nur beim Umzug ins Ausland oder in den Zuständigkeitsbereich einer anderen Bundesnetzagentur-Außenstelle mitteilen.</answer>
+      <answer correct="no">Er muss die Änderungen 14 Tage vor deren Eintreten der Bundesnetzagentur in schriftlicher oder elektronischer Form mitteilen und seine Funkanlage solange stilllegen, bis er von der Bundesnetzagentur eine entsprechend geänderte Amateurfunkzulassung erhalten hat.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG106" name="B/BG106">
+      <text>
+        <p>Was wird im Amateurfunk unter "SASE" verstanden?</p>
+      </text>
+      <answer correct="yes">Freigemachter und mit eigener Adresse versehener Umschlag</answer>
+      <answer correct="no">Internationaler Antwortschein</answer>
+      <answer correct="no">Adressierter Umschlag</answer>
+      <answer correct="no">Internationale Postwertzeichen</answer>
+    </question>
+    

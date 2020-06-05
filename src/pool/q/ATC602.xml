@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC602" name="A/TC602">
+      <text>
+        <p>Welche Bezeichnungen für die Bauelemente sind richtig?</p>
+        <img src="Atc602" />
+      </text>
+      <answer correct="yes">
+        1: Selbstleitender N-Kanal-Sperrschicht-FET
+        <br />
+        2: Selbstleitender P-Kanal-Sperrschicht-FET
+      </answer>
+      <answer correct="no">
+        1: Selbstsperrender N-Kanal-Sperrschicht-FET
+        <br />
+        2: Selbstsperrender P-Kanal-Sperrschicht-FET
+      </answer>
+      <answer correct="no">
+        1: Selbstleitender P-Kanal-Sperrschicht-FET
+        <br />
+        2: Selbstleitender N-Kanal-Sperrschicht-FET
+      </answer>
+      <answer correct="no">
+        1: Selbstsperrender P-Kanal-Sperrschicht-FET
+        <br />
+        2: Selbstsperrender N-Kanal-Sperrschicht-FET
+      </answer>
+    </question>
+    

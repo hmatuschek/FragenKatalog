@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC712" name="A/TC712">
+      <text>
+        <p>Welche Eigenschaften hat folgende Operationsverstärkerschaltung? In welcher Zeile stimmen alle drei Eigenschaften?</p>
+        <img src="Atc712" />
+      </text>
+      <answer correct="yes">Der Eingangswiderstand ist sehr hoch. Der Ausgangswiderstand ist niedrig. Die Spannungsverstärkung ist gleich eins.</answer>
+      <answer correct="no">Der Eingangswiderstand ist sehr hoch. Der Ausgangswiderstand ist niedrig. Die Spannungsverstärkung ist sehr hoch.</answer>
+      <answer correct="no">Der Eingangswiderstand ist niedrig. Der Ausgangswiderstand ist sehr hoch. Die Spannungsverstärkung ist hoch.</answer>
+      <answer correct="no">Der Eingangswiderstand ist sehr niedrig. Der Ausgangswiderstand ist hoch. Die Spannungsverstärkung ist niedrig.</answer>
+    </question>
+    

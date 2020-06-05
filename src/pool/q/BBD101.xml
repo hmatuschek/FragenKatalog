@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD101" name="B/BD101">
+      <text>
+        <p>Was erkennen Sie aus dem Rufzeichen DO9RST/MM?</p>
+      </text>
+      <answer correct="yes">Die deutsche Amateurfunkstelle wird an Bord eines Wasserfahrzeugs betrieben, das sich auf See befindet.</answer>
+      <answer correct="no">Die deutsche Amateurfunkstelle darf aufgrund einer Sonderzulassung in deutschen Hoheitsgewässern in "maritim mobiler" Weise tragbar betrieben werden.</answer>
+      <answer correct="no">Der Funkamateur DO9RST, der an sein Rufzeichen "MM" anhängt, bringt damit zum Ausdruck, dass er mit anderen Funkamateuren in Kontakt treten möchte, die ihre Funkstelle zur Zeit auch "maritim mobil" betreiben.</answer>
+      <answer correct="no">Die deutsche Amateurfunkstelle DO9RST befindet sich auf einem Landfahrzeug oder auf einem Schiff, das gemäß Schiffssicherheitsverordnung funkausrüstungspflichtig ist.</answer>
+    </question>
+    

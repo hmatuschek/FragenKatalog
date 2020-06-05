@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ831" name="A/TJ831">
+      <text>
+        <p>
+          Bei der folgenden Schaltung besteht R
+          <sub>1</sub>
+           aus einer Zusammenschaltung von Widerständen, die einen Gesamtwidersand von 50,77 Ω hat und etwa 200 Watt aufnehmen kann.
+          <br />
+          D ist eine Siliziumdiode mit U
+          <sub>F</sub>
+           = 0,7V. Am Ausgang wird mit einem Digitalvoltmeter eine Gleichspannung von 14,9 V gemessen. Wie groß ist etwa die HF-Leistung am Eingang der Schaltung?
+        </p>
+        <img src="Atj831" />
+      </text>
+      <answer correct="yes">9,5 Watt</answer>
+      <answer correct="no">37,8 Watt</answer>
+      <answer correct="no">4,7 Watt</answer>
+      <answer correct="no">19 Watt</answer>
+    </question>
+    

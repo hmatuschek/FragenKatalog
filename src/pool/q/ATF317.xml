@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF317" name="A/TF317">
+      <text>
+        <p>Bei der Schaltung handelt es sich um einen</p>
+        <img src="Atf317" />
+      </text>
+      <answer correct="yes">AM-Detektor.</answer>
+      <answer correct="no">FM-Diskriminator.</answer>
+      <answer correct="no">ZF-Modulator.</answer>
+      <answer correct="no">AGC-Gleichrichter.</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD309" name="V/VD309">
+      <text>
+        <p>
+          Welche der nachfolgenden Tätigkeiten fällt
+          <u>nicht</u>
+           unter die Ziel- und Zweckbestimmung des Ausbildungsfunkbetriebs?
+        </p>
+      </text>
+      <answer correct="yes">Das alleinige Vorführen von Amateurfunkverkehr.</answer>
+      <answer correct="no">Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse E.</answer>
+      <answer correct="no">Die praktische Vorbereitung auf das Ablegen der fachlichen Prüfung für Funkamateure der Klasse A.</answer>
+      <answer correct="no">Personen, die nicht Inhaber eines entsprechenden Amateurfunkzeugnisses sind, können unter festgelegten Voraussetzungen am Amateurfunkdienst teilnehmen.</answer>
+    </question>
+    

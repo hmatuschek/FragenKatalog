@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF407" name="E/TF407">
+      <text>
+        <p>Welche Baugruppe könnte in einem Empfänger gegebenenfalls dazu verwendet werden, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen empfangen werden?</p>
+      </text>
+      <answer correct="yes">Notchfilter</answer>
+      <answer correct="no">Noise Filter</answer>
+      <answer correct="no">Störaustaster</answer>
+      <answer correct="no">Die AGC</answer>
+    </question>
+    

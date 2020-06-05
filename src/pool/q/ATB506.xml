@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB506" name="A/TB506">
+      <text>
+        <p>Der Winkel zwischen den E- und H-Feldkomponenten eines elektromagnetischen Feldes beträgt im Fernfeld</p>
+      </text>
+      <answer correct="yes">90°.</answer>
+      <answer correct="no">45°.</answer>
+      <answer correct="no">180°.</answer>
+      <answer correct="no">360°.</answer>
+    </question>
+    

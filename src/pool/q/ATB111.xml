@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB111" name="A/TB111">
+      <text>
+        <p>Das folgende Bild zeigt den prinzipiellen Aufbau einer Halbleiterdiode. Wie entsteht die Sperrschicht?</p>
+        <img src="Atb111" />
+      </text>
+      <answer correct="yes">An der Grenzschicht wandern Elektronen aus dem N-Teil in den P-Teil. Dadurch wird auf der N-Seite der Elektronenüberschuss teilweise abgebaut, auf der P-Seite der Elektronenmangel teilweise neutralisiert. Es bildet sich auf beiden Seiten der Grenzfläche eine isolierende Schicht.</answer>
+      <answer correct="no">An der Grenzschicht wandern Elektronen aus dem P-Teil in den N-Teil. Dadurch wird auf der P-Seite der Elektronenüberschuss teilweise abgebaut, auf der N-Seite der Elektronenmangel teilweise neutralisiert. Es bildet sich auf beiden Seiten der Grenzfläche eine isolierende Schicht.</answer>
+      <answer correct="no">An der Grenzschicht wandern Atome aus der Grenzschicht in den N- und P-Teil. Dadurch wird auf beiden Seiten der Atommangel abgebaut. Es bildet sich auf der P-Seite eine leitende Schicht.</answer>
+      <answer correct="no">An der Grenzschicht wandern Atome aus dem N-Teil in den P-Teil. Dadurch wird auf der N-Seite der Atommangel abgebaut, auf der P-Seite der Atommangel vergrößert. Es bildet sich auf der N-Seite eine leitende Schicht.</answer>
+    </question>
+    

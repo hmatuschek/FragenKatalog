@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC311" name="A/TC311">
+      <text>
+        <p>Wie groß ist die Induktivität einer Spule mit 300 Windungen, die auf einen Kern mit einem AL-Wert von 1250 gewickelt ist?</p>
+      </text>
+      <answer correct="yes">112,5 mH</answer>
+      <answer correct="no">112,5 μH</answer>
+      <answer correct="no">11,25 mH</answer>
+      <answer correct="no">1,125 mH</answer>
+    </question>
+    

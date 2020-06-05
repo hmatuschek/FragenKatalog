@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ604" name="A/TJ604">
+      <text>
+        <p>Mit welchem Messgerät können Harmonische festgestellt werden?</p>
+      </text>
+      <answer correct="yes">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Vielfachmessgerät</answer>
+      <answer correct="no">Frequenzzähler</answer>
+      <answer correct="no">Diodentastkopf</answer>
+    </question>
+    

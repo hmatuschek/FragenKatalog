@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA125" name="A/TA125">
+      <text>
+        <p>Der Verkürzungsfaktor ist</p>
+      </text>
+      <answer correct="yes">das Verhältnis der Ausbreitungsgeschwindigkeit entlang einer Leitung zur Ausbreitungsgeschwindigkeit im Vakuum.</answer>
+      <answer correct="no">das Verhältnis von Durchmesser zur Länge eines Leiters.</answer>
+      <answer correct="no">das Verhältnis des Wellen- bzw. des Strahlungswiderstandes zum Feldwellenwiderstand des freien Raumes.</answer>
+      <answer correct="no">die Wurzel aus dem Verhältnis von Induktivität zur Kapazität einer Leitung.</answer>
+    </question>
+    

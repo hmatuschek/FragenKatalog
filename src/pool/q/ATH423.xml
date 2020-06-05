@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH423" name="A/TH423">
+      <text>
+        <p>Ein Balun ist</p>
+      </text>
+      <answer correct="yes">ein Symmetrierglied.</answer>
+      <answer correct="no">ein Netztransformator.</answer>
+      <answer correct="no">eine Spule mit mindestens trifilarer Wicklung.</answer>
+      <answer correct="no">eine HF-Eichleitung.</answer>
+    </question>
+    

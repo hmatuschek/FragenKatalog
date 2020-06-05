@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG108" name="V/VG108">
+      <text>
+        <p>Durch den Betrieb einer Amateurfunkstelle auf 145,550 MHz wird der UKW-Rundfunkempfang eines Nachbarn gestört. Eine Überprüfung ergibt, dass die Amateurfunkstelle und die Rundfunkempfangsanlage vorschriftsmäßig betrieben werden. Das gestörte Rundfunkgerät hält die nach Norm empfohlene Störfestigkeit ein, der Funkamateur erzeugt jedoch am Ort des gestörten Empfängers eine höhere Feldstärke. Womit muss der Funkamateur rechnen, wenn er seinen Funkbetrieb uneingeschränkt fortsetzt?</p>
+      </text>
+      <answer correct="yes">Mit der Durchführung behördlicher Maßnahmen nach AFuV und EMVG (Überprüfung der Amateurfunkstelle und möglicherweise Betriebseinschränkungen).</answer>
+      <answer correct="no">Mit einer gebührenpflichtigen Betriebseinschränkung oder einem vollständigen Betriebsverbot für seine Amateurfunkstelle.</answer>
+      <answer correct="no">Mit der Durchführung behördlicher Maßnahmen nach dem AFuG, wobei dem Funkamateur die Zulassung zur Teilnahme am Amateurfunkdienst entzogen werden kann.</answer>
+      <answer correct="no">Mit einem Ordnungswidrigkeitenverfahren mit Betriebsverbot und Bußgeld auf der Grundlage der §§ 9 und 11 des AFuG.</answer>
+    </question>
+    

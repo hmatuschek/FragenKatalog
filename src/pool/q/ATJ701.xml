@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ701" name="A/TJ701">
+      <text>
+        <p>Was stellt diese Schaltung dar?</p>
+        <img src="Atj701" />
+      </text>
+      <answer correct="yes">HF-Tastkopf</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Antennenimpedanzmesser</answer>
+      <answer correct="no">HF-Dipmeter</answer>
+    </question>
+    

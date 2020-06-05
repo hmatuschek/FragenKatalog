@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC521" name="A/TC521">
+      <text>
+        <p>Wie verhält sich die Kapazität einer Kapazitätsdiode (Varicap)?</p>
+      </text>
+      <answer correct="yes">Sie nimmt mit abnehmender Sperrspannung zu.</answer>
+      <answer correct="no">Sie erhöht sich mit zunehmender Durchlassspannung.</answer>
+      <answer correct="no">Sie nimmt mit zunehmender Sperrspannung zu.</answer>
+      <answer correct="no">Sie erhöht sich mit zunehmendem Durchlassstrom.</answer>
+    </question>
+    

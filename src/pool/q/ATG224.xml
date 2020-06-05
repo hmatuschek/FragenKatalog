@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG224" name="A/TG224">
+      <text>
+        <p>
+          Welchem Zweck dient die Anzapfung an L
+          <sub>1</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atg222" />
+      </text>
+      <answer correct="yes">Sie dient zur Anpassung der Eingangsimpedanz der Stufe.</answer>
+      <answer correct="no">Sie schützt die Verstärkerstufe vor wilden Schwingungen.</answer>
+      <answer correct="no">Sie bewirkt die notwendige Entkopplung für den Schwingungseinsatz der Oszillatorstufe.</answer>
+      <answer correct="no">Sie dient zur Erhöhung des HF-Wirkungsgrades der Verstärkerstufe.</answer>
+    </question>
+    

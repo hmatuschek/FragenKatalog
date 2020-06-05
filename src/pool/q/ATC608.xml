@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC608" name="A/TC608">
+      <text>
+        <p>Welche Transistortypen sind bipolare Transistoren?</p>
+      </text>
+      <answer correct="yes">NPN- und PNP-Transistoren</answer>
+      <answer correct="no">Dual-Gate-MOS-FETs</answer>
+      <answer correct="no">Isolierschicht FETs</answer>
+      <answer correct="no">Sperrschicht FETs</answer>
+    </question>
+    

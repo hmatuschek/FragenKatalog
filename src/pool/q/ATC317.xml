@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC317" name="A/TC317">
+      <text>
+        <p>Für die Unterdrückung parasitärer Schwingungen kann eine verlustbehaftete Drosselspule verwendet werden. Wie wird eine solche Spule gebaut?</p>
+      </text>
+      <answer correct="yes">Die Spule wird um einen Widerstand mit niedrigem Widerstandswert gewickelt.</answer>
+      <answer correct="no">Es wird eine freitragende Spule aus dickem Kupferdraht, der mit einem Silberbelag versehen ist, hergestellt.</answer>
+      <answer correct="no">Es wird ein dicker Kupferdraht um einen Widerstand mit sehr hohem Widerstandswert gewickelt.</answer>
+      <answer correct="no">Es wird ein Kohleschichtwiderstand mit niedrigem Widerstandswert verwendet.</answer>
+    </question>
+    

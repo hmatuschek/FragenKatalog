@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK306" name="A/TK306">
+      <text>
+        <p>Welches Filter sollte im Störungsfall vor die einzelnen Leitungsanschlüsse eines UKW- oder Fernsehrundfunkgeräts oder angeschlossener Geräte eingeschleift werden, um Kurzwellensignale zu dämpfen?</p>
+      </text>
+      <answer correct="yes">Ein Hochpassfilter vor dem Antennenanschluss und zusätzlich je eine hochpermeable Ferritdrossel vor alle Leitungsanschlüsse der gestörten Geräte.</answer>
+      <answer correct="no">Je ein Tiefpassfilter unmittelbar vor dem Antennenanschluss und in das Netzkabel der gestörten Geräte.</answer>
+      <answer correct="no">Eine Bandsperre für die Fernsehbereiche unmittelbar vor dem Antennenanschluss und ein Tiefpassfilter in das Netzkabel der gestörten Geräte.</answer>
+      <answer correct="no">Ein Bandpassfilter bei 30 MHz unmittelbar vor dem Antennenanschluss und ein Tiefpassfilter in das Netzkabel der gestörten Geräte.</answer>
+    </question>
+    

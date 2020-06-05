@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB401" name="A/TB401">
+      <text>
+        <p>Ein Ringkern hat einen mittleren Durchmesser von 2,6 cm und trägt 6 Windungen Kupferdraht. Wie groß ist die mittlere magnetische Feldstärke im Ringkern, wenn der Strom 2,5 A beträgt?</p>
+        <img src="Atb401" />
+      </text>
+      <answer correct="yes">184 A/m</answer>
+      <answer correct="no">1,8 A/m</answer>
+      <answer correct="no">577 A/m</answer>
+      <answer correct="no">5,8 A/m</answer>
+    </question>
+    

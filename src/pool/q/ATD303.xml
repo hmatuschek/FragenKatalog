@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD303" name="A/TD303">
+      <text>
+        <p>Kann für den Kondensator der folgenden Schaltung ein Elektrolytkondensator verwendet werden?</p>
+        <img src="Atd302" />
+      </text>
+      <answer correct="yes">Ja, wenn der Pluspol des Elektrolytkondensators auf der Seite der Diode liegt.</answer>
+      <answer correct="no">Ja, wenn der Minuspol des Elektrolytkondensators auf der Seite der Diode liegt.</answer>
+      <answer correct="no">Nein, da der Kondensator von Wechselstrom durchflossen wird.</answer>
+      <answer correct="no">Nein, da dies auf Grund der technischen Vorschriften nicht zulässig ist.</answer>
+    </question>
+    

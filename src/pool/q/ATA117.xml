@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA117" name="A/TA117">
+      <text>
+        <p>Eine Genauigkeit von 1 ppm entspricht</p>
+      </text>
+      <answer correct="yes">0,0001 %.</answer>
+      <answer correct="no">0,001 %.</answer>
+      <answer correct="no">0,01 %.</answer>
+      <answer correct="no">0,1 %.</answer>
+    </question>
+    

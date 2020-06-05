@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC402" name="E/TC402">
+      <text>
+        <p>Ein Trafo liegt an 45 Volt und gibt 180 Volt ab. Seine Primärwicklung hat 150 Windungen. Wie groß ist seine Sekundärwindungszahl?</p>
+      </text>
+      <answer correct="yes">600 Windungen</answer>
+      <answer correct="no">850 Windungen</answer>
+      <answer correct="no">46 Windungen</answer>
+      <answer correct="no">30 Windungen</answer>
+    </question>
+    

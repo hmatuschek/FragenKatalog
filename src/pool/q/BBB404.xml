@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB404" name="B/BB404">
+      <text>
+        <p>Wie wird "Morsetelegrafie unter Verwendung eines modulierenden Hilfsträgers" bezeichnet?</p>
+      </text>
+      <answer correct="yes">A2A</answer>
+      <answer correct="no">A2B</answer>
+      <answer correct="no">J2M</answer>
+      <answer correct="no">A2C</answer>
+    </question>
+    

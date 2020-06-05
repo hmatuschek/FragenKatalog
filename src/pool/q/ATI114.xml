@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI114" name="A/TI114">
+      <text>
+        <p>Wie kommt die Fernausbreitung einer Funkwelle auf den Kurzwellenbändern zustande? Sie kommt zustande</p>
+      </text>
+      <answer correct="yes">durch die Reflexion an elektrisch aufgeladenen Luftschichten in der Ionosphäre.</answer>
+      <answer correct="no">durch die Reflexion an Hoch- und Tiefdruckgebieten der hohen Atmosphäre.</answer>
+      <answer correct="no">durch die Reflexion an den Wolken in der niedrigen Atmosphäre.</answer>
+      <answer correct="no">durch die Reflexion an den parasitären Elementen einer Richtantennen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE117" name="B/BE117">
+      <text>
+        <p>Welche Betriebsbedingungen sollten Sie für die Teilnahme an einem internationalen KW-Wettbewerb unbedingt einhalten?</p>
+      </text>
+      <answer correct="yes">Ich arbeite nur in den Frequenzbereichen, die nach dem internationalen Kurzwellenbandplan und der jeweiligen Kontestauschreibung für diesen Wettbewerb vorgesehen sind.</answer>
+      <answer correct="no">Ich nenne mein Rufzeichen nur in größeren Abständen, um die QSO-Anzahl hoch zu halten.</answer>
+      <answer correct="no">Ich lese vorher die Ausschreibungsbedingungen in den Fachzeitschriften und notiere mir die geforderten Angaben.</answer>
+      <answer correct="no">Ich überhole meine Antenneneinrichtungen, stimme die Endstufe sorgfältig ab und optimiere meine Logbuchtechnik.</answer>
+    </question>
+    

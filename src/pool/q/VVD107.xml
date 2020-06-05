@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD107" name="V/VD107">
+      <text>
+        <p>Hat ein Funkamateur Anspruch auf Zuteilung eines bestimmten Rufzeichens?</p>
+      </text>
+      <answer correct="yes">Nein, es besteht kein Anspruch darauf.</answer>
+      <answer correct="no">Ja, aber nur in besonders zu begründenden Fällen.</answer>
+      <answer correct="no">Nein, es sei denn, er kann besondere persönliche Gründe geltend machen und das Rufzeichen frei ist.</answer>
+      <answer correct="no">Ja, wenn es ihm schon einmal zugeteilt war.</answer>
+    </question>
+    

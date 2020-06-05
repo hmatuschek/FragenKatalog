@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ401" name="A/TJ401">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atj401" />
+      </text>
+      <answer correct="yes">ein Reflektometer.</answer>
+      <answer correct="no">ein Impedanzmessgerät.</answer>
+      <answer correct="no">einen Absolutleistungsmesser.</answer>
+      <answer correct="no">einen Absorptionsfrequenzmesser.</answer>
+    </question>
+    

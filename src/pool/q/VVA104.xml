@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA104" name="V/VA104">
+      <text>
+        <p>Welche Aussage über Funkamateure enthält die Begriffsbestimmung des Amateurfunkdienstes in den Radio Regulations (VO Funk)?</p>
+      </text>
+      <answer correct="yes">Funkamateure sind ordnungsgemäß ermächtigte Personen, die sich mit der Funktechnik aus rein persönlicher Neigung und nicht aus geldlichem Interesse befassen.</answer>
+      <answer correct="no">Keine, da es sich um die Definition des Amateurfunkdienstes handelt.</answer>
+      <answer correct="no">Funkamateure sind die Inhaber einer Prüfungsbescheinigung über eine bestandene Amateurfunkprüfung und befassen sich mit der Funktechnik aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichem Interesse.</answer>
+      <answer correct="no">Funkamateure dürfen nur Mitteilungen von geringer Bedeutung übertragen, die es nicht rechtfertigen, öffentliche Telekommunikationsdienste in Anspruch zu nehmen.</answer>
+    </question>
+    

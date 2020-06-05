@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC110" name="E/TC110">
+      <text>
+        <p>Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 221?</p>
+      </text>
+      <answer correct="yes">220 Ω</answer>
+      <answer correct="no">221 Ω</answer>
+      <answer correct="no">22 Ω</answer>
+      <answer correct="no">22 kΩ</answer>
+    </question>
+    

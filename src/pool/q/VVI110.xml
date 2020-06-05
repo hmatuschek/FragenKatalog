@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI110" name="V/VI110">
+      <text>
+        <p>Kann die Bundesnetzagentur für den Betrieb einer ortsfesten Amateurfunkstelle eine Standortbescheinigung fordern?</p>
+      </text>
+      <answer correct="yes">Nur wenn sich am Standort der vorgesehenen ortsfesten Amateurfunkstelle bereits ortsfeste Funkanlagen befinden, die selbst eine Standortbescheinigung benötigen.</answer>
+      <answer correct="no">Nein, für Amateurfunkanlagen gilt das Anzeigeverfahren.</answer>
+      <answer correct="no">Nur wenn die Amateurfunkstelle gewerblich genutzt wird.</answer>
+      <answer correct="no">Ja, wenn die effektive Strahlungsleistung der Amateurfunkstelle 750 Watt überschreitet.</answer>
+    </question>
+    

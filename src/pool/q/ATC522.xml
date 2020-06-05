@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC522" name="A/TC522">
+      <text>
+        <p>Welches sind die Haupteigenschaften einer Schottkydiode?</p>
+      </text>
+      <answer correct="yes">Sehr niedrige Durchlassspannung und sehr hohe Schaltfrequenz.</answer>
+      <answer correct="no">Sehr niedrige Durchlassspannung und sehr niedrige Schaltfrequenz.</answer>
+      <answer correct="no">Sehr hohe Durchlassspannung und sehr hohe Schaltfrequenz.</answer>
+      <answer correct="no">Sehr hohe Durchlassspannung und sehr niedrige Schaltfrequenz.</answer>
+    </question>
+    

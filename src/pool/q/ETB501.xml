@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB501" name="E/TB501">
+      <text>
+        <p>Wodurch entsteht ein elektromagnetisches Feld? Ein elektromagnetisches Feld entsteht,</p>
+      </text>
+      <answer correct="yes">wenn ein zeitlich schnell veränderlicher Strom durch einen elektrischen Leiter fließt, dessen Länge mindestens 1/100 der Wellenlänge ist.</answer>
+      <answer correct="no">wenn durch einen elektrischen Leiter, dessen Länge mindestens 1/100 der Wellenlänge ist, ein konstanter Strom fließt.</answer>
+      <answer correct="no">wenn sich elektrische Ladungen in einem Leiter befinden, dessen Länge mindestens 1/100 der Wellenlänge ist.</answer>
+      <answer correct="no">wenn an einem elektrischen Leiter, dessen Länge mindestens 1/100 der Wellenlänge ist, eine konstante Spannung angelegt wird.</answer>
+    </question>
+    

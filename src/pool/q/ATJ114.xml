@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ114" name="A/TJ114">
+      <text>
+        <p>Welches dieser Messgeräte verfügt normalerweise über die höchste Genauigkeit bei Spannungsmessungen?</p>
+      </text>
+      <answer correct="yes">Digitalvoltmeter</answer>
+      <answer correct="no">Interferenzwellenmesser</answer>
+      <answer correct="no">Digitaloszilloskop</answer>
+      <answer correct="no">Elektronisches Analogvoltmeter</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC211" name="B/BC211">
+      <text>
+        <p>Welche nachstehend aufgeführten Frequenzbereiche des 80-m- und des 15-m-Bandes sollen auf Empfehlung der Internationalen Amateur Radio Union bevorzugt nur für Morsetelegrafie genutzt werden?</p>
+      </text>
+      <answer correct="yes">3500-3580 kHz und 21000-21070 kHz</answer>
+      <answer correct="no">3500-3600 kHz und 21000-21100 kHz</answer>
+      <answer correct="no">3580-3620 kHz und 21080-21120 kHz</answer>
+      <answer correct="no">3500-3540 kHz und 21000-21040 kHz</answer>
+    </question>
+    

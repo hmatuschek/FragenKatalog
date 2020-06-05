@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD413" name="A/TD413">
+      <text>
+        <p>Diese Schaltung kann unter anderem als</p>
+        <img src="Atd408" />
+      </text>
+      <answer correct="yes">Pufferstufe zwischen Oszillator und Last verwendet werden.</answer>
+      <answer correct="no">Spannungsverstärker mit hohem Gewinn verwendet werden.</answer>
+      <answer correct="no">Phasenumkehrstufe verwendet werden.</answer>
+      <answer correct="no">Frequenzvervielfacher verwendet werden.</answer>
+    </question>
+    

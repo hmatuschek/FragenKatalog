@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF432" name="A/TF432">
+      <text>
+        <p>Auf welche Frequenz müsste ein Empfänger eingestellt werden, um die dritte Harmonische einer nahen 7,050-MHz-Aussendung erkennen zu können?</p>
+      </text>
+      <answer correct="yes">21,15 MHz</answer>
+      <answer correct="no">14,050 MHz</answer>
+      <answer correct="no">24,15 MHz</answer>
+      <answer correct="no">28,050 MHz</answer>
+    </question>
+    

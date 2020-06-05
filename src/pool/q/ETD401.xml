@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD401" name="E/TD401">
+      <text>
+        <p>In welcher der folgenden Zeilen werden nur Verstärker-Bauelemente genannt?</p>
+      </text>
+      <answer correct="yes">Transistor, MOSFET, Operationsverstärker, Röhre</answer>
+      <answer correct="no">Transistor, Halbleiterdiode, Operationsverstärker, Röhre</answer>
+      <answer correct="no">Transistor, Varicap-Diode, Operationsverstärker, Röhre</answer>
+      <answer correct="no">Transistor, MOSFET, Halbleiterdiode, Röhre</answer>
+    </question>
+    

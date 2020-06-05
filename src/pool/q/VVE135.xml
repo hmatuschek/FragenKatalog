@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE135" name="V/VE135">
+      <text>
+        <p>Welche Leistungsgrenzen gelten für die Rufzeicheninhaber der Klassen A und E in den Frequenzbereichen 21 - 21,45 MHz und 28 - 29,7 MHz?</p>
+      </text>
+      <answer correct="yes">Maximal 750 Watt PEP für Klasse A und maximal 100 Watt PEP für Klasse E.</answer>
+      <answer correct="no">Maximal 250 Watt PEP für beide Klassen.</answer>
+      <answer correct="no">Maximal 750 Watt PEP für Klasse A, Klasse E darf in dem Frequenzbereich nicht senden.</answer>
+      <answer correct="no">Maximal 75 Watt PEP für beide Klassen.</answer>
+    </question>
+    

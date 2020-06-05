@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB613" name="E/TB613">
+      <text>
+        <p>Ein sinusförmiges Signal hat einen Effektivwert von 12 V. Wie groß ist der Spitzen-Spitzen-Wert?</p>
+      </text>
+      <answer correct="yes">33,9 V</answer>
+      <answer correct="no">24 V</answer>
+      <answer correct="no">16,97 V</answer>
+      <answer correct="no">36,4 V</answer>
+    </question>
+    

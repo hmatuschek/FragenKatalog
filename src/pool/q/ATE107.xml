@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE107" name="A/TE107">
+      <text>
+        <p>Wodurch wird Kreuzmodulation verursacht?</p>
+      </text>
+      <answer correct="yes">Durch Vermischung eines starken unerwünschten Signals mit dem Nutzsignal.</answer>
+      <answer correct="no">Wenn eine Harmonische sich selbst vermischt.</answer>
+      <answer correct="no">Durch die Übermodulation eines Verstärkers.</answer>
+      <answer correct="no">Durch Übermodulation oder zu großem Hub.</answer>
+    </question>
+    

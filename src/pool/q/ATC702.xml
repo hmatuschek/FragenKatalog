@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC702" name="A/TC702">
+      <text>
+        <p>Welche Funktion hat ein Gatter?</p>
+      </text>
+      <answer correct="yes">Ein Gatter verarbeitet binäre Signale nach logischen Grundmustern.</answer>
+      <answer correct="no">Ein Gatter konvertiert digitale Eingangssignale in analoge Ausgangssignale.</answer>
+      <answer correct="no">Ein Gatter ist eine bistabile Kippschaltung, die zwei stabile Zustände (0 und 1) besitzt.</answer>
+      <answer correct="no">Ein Gatter berechnet die Summe oder die Differenz aus zwei binären Ziffern.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE106" name="V/VE106">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (40-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">7,0 MHz - 7,2 MHz</answer>
+      <answer correct="no">7,1 MHz - 7,3 MHz</answer>
+      <answer correct="no">7,0 MHz - 7,3 MHz</answer>
+      <answer correct="no">7,0 MHz - 7,5 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA405" name="V/VA405">
+      <text>
+        <p>Was enthält der "Internationale Frequenzbereichszuweisungsplan"?</p>
+      </text>
+      <answer correct="yes">Er enthält die Frequenzbereichszuweisungen für alle Funkdienste in den verschiedenen Funkregionen der Erde.</answer>
+      <answer correct="no">Er enthält nur die Frequenzbereichszuweisung für die kommerziellen Funkdienste in den verschiedenen Funkregionen der Erde.</answer>
+      <answer correct="no">Er enthält nur die Frequenzbereichszuweisung für die Amateurfunk-Funkdienste in den verschiedenen Funkregionen der Erde.</answer>
+      <answer correct="no">Er enthält nur die Frequenzbereichszuweisung für die Rundfunkdienste in den verschiedenen Funkregionen der Erde.</answer>
+    </question>
+    

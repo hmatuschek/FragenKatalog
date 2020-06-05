@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK318" name="A/TK318">
+      <text>
+        <p>In den nachfolgenden Bildern sind mögliche Signalverläufe des Senderausgangssignals bei der CW-Tastung dargestellt. Welcher Signalverlauf führt zu den geringsten Störungen?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg205a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg205d" />
+      </answer>
+    </question>
+    

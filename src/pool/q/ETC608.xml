@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC608" name="E/TC608">
+      <text>
+        <p>Wie lauten die Bezeichnungen der Anschlüsse eines bipolaren Transistors?</p>
+      </text>
+      <answer correct="yes">Emitter, Basis, Kollektor</answer>
+      <answer correct="no">Emitter, Drain, Source</answer>
+      <answer correct="no">Drain, Source, Kollektor</answer>
+      <answer correct="no">Drain, Gate, Source</answer>
+    </question>
+    

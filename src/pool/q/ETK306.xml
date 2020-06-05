@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK306" name="E/TK306">
+      <text>
+        <p>Die Bemühungen, die durch eine in der Nähe befindliche Amateurfunkstelle hervorgerufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist</p>
+      </text>
+      <answer correct="yes">die zuständige Außenstelle der Bundesnetzagentur um Prüfung der Gegebenheiten zu bitten.</answer>
+      <answer correct="no">der Sender an die Bundesnetzagentur zu senden.</answer>
+      <answer correct="no">die Rückseite des Fernsehgeräts zu entfernen und das Gehäuse zu erden.</answer>
+      <answer correct="no">ein Fernsehtechniker um Prüfung des Fernsehgeräts zu bitten.</answer>
+    </question>
+    

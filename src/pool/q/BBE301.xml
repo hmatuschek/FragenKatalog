@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE301" name="B/BE301">
+      <text>
+        <p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>
+      </text>
+      <answer correct="yes">CW, Pactor, PSK31.</answer>
+      <answer correct="no">RTTY, SSB, CW.</answer>
+      <answer correct="no">Pactor, RTTY, SSB.</answer>
+      <answer correct="no">SSTV, PSK31, AM.</answer>
+    </question>
+    

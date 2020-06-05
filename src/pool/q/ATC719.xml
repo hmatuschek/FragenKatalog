@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC719" name="A/TC719">
+      <text>
+        <p>
+          In folgender Schaltung mit Elektronenröhre wird die Spannung −U
+          <sub>g</sub>
+           am Steuergitter erniedrigt (negativer gemacht). Wie verändert sich der Anodenstrom?
+        </p>
+        <img src="Atc719" />
+      </text>
+      <answer correct="yes">Der Anodenstrom sinkt.</answer>
+      <answer correct="no">Der Anodenstrom steigt.</answer>
+      <answer correct="no">Der Anodenstrom verändert sich nicht.</answer>
+      <answer correct="no">Der Anodenstrom steigt erst und sinkt dann wieder.</answer>
+    </question>
+    

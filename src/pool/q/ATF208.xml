@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF208" name="A/TF208">
+      <text>
+        <p>Diese Schaltung stellt</p>
+        <img src="Atf208" />
+      </text>
+      <answer correct="yes">einen 2-m-Konverter für einen KW-Empfänger dar.</answer>
+      <answer correct="no">Teile von Empfangsstufen eines 10-m-Band-Empfängers dar.</answer>
+      <answer correct="no">einen 2-m-Transverter zur Vorschaltung vor einen KW-Empfänger dar.</answer>
+      <answer correct="no">Teile der Senderaufbereitung für das 10-m-Band dar.</answer>
+    </question>
+    

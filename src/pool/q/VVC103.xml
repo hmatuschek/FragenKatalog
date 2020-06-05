@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC103" name="V/VC103">
+      <text>
+        <p>Welche Behörde nimmt die Aufgaben und Befugnisse in Deutschland wahr, die sich aus dem Amateurfunkgesetz (AFuG) und der Amateurfunkverordnung (AFuV) ergeben?</p>
+      </text>
+      <answer correct="yes">Die Bundesnetzagentur.</answer>
+      <answer correct="no">Die Physikalisch-Technische Bundesanstalt.</answer>
+      <answer correct="no">Die Bundesanstalt für Post und Telekommunikation.</answer>
+      <answer correct="no">Die Polizei.</answer>
+    </question>
+    

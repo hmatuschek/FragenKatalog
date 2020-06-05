@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB909" name="A/TB909">
+      <text>
+        <p>Wie wird die ERP (Effective Radiated Power oder auch Equivalent Radiated Power) berechnet und worauf ist sie bezogen?</p>
+      </text>
+      <answer correct="yes">
+        ERP = (P
+        <sub>sender</sub>
+         - P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+         bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        ERP = (P
+        <sub>sender</sub>
+         · G
+        <sub>Antenne</sub>
+        ) - P
+        <sub>Verluste</sub>
+         bezogen auf einen isotropen Kugelstrahler
+      </answer>
+      <answer correct="no">
+        ERP = (P
+        <sub>sender</sub>
+         + P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+         bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        ERP = P
+        <sub>sender</sub>
+         + P
+        <sub>Verluste</sub>
+         + G
+        <sub>Antenne</sub>
+         bezogen auf einen isotropen Kugelstrahler
+      </answer>
+    </question>
+    

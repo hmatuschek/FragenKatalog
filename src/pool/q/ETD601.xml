@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD601" name="E/TD601">
+      <text>
+        <p>Was verstehen Sie unter einem "Oszillator"?</p>
+      </text>
+      <answer correct="yes">Es ist ein Schwingungserzeuger.</answer>
+      <answer correct="no">Es ist ein sehr schmales Filter.</answer>
+      <answer correct="no">Es ist ein Messgerät zur Anzeige von Schwingungen.</answer>
+      <answer correct="no">Es ist ein FM-Modulator.</answer>
+    </question>
+    

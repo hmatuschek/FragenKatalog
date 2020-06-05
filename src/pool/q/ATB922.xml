@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB922" name="A/TB922">
+      <text>
+        <p>An einem Widerstand R wird die elektrische Leistung P in Wärme umgesetzt. Sie kennen die Größen P und R. Nach welcher der Formeln können Sie die Spannung ermitteln, die an dem Widerstand R anliegt?</p>
+      </text>
+      <answer correct="yes">U = √(P·R)</answer>
+      <answer correct="no">U = R·P</answer>
+      <answer correct="no">U = √(P/R)</answer>
+      <answer correct="no">U = P/R</answer>
+    </question>
+    

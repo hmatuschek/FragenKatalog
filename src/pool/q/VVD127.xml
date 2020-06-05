@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD127" name="V/VD127">
+      <text>
+        <p>Für welche Zwecke sind Zuteilungen mit Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV möglich?</p>
+      </text>
+      <answer correct="yes">Für besondere experimentelle und technischwissenschaftliche Studien mit einer Amateurfunkstelle.</answer>
+      <answer correct="no">Für Übungen zur Abwicklung des Funkverkehrs in Not- und Katastrophenfällen.</answer>
+      <answer correct="no">Für Abgleicharbeiten und Messungen an Sendern ohne Abschlusswiderstand.</answer>
+      <answer correct="no">Für die Nutzung zusätzlicher Frequenzbereiche, die nicht im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesen sind.</answer>
+    </question>
+    

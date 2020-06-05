@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD505" name="V/VD505">
+      <text>
+        <p>Was ist notwendig, damit ein Funkamateur eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle erhalten kann?</p>
+      </text>
+      <answer correct="yes">Eine Amateurfunkzulassung, ein entsprechender Antrag und eine standortbezogene Verträglichkeitsuntersuchung für die beabsichtigten Betriebsfrequenzen.</answer>
+      <answer correct="no">Eine HAREC-Bescheinigung, ein schriftlicher Antrag mit einer Befürwortung durch eine Amateurfunkvereinigung und ein Mindestalter von 13 Jahren.</answer>
+      <answer correct="no">Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch die Bundesnetzagentur und eine Rufzeichenzuteilung nach § 14 der AFuV.</answer>
+      <answer correct="no">Eine Überprüfung der eingesetzten Geräte und Einrichtungen durch Beauftragte der Amateurfunkverbände und die Vorlage des Prüfungsergebnisses bei der Bundesnetzagentur.</answer>
+    </question>
+    

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD207" name="B/BD207">
+      <text>
+        <p>
+          Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?
+          <br />
+           Die Landeskenner LA, LY, LZ, YL entsprechen den Ländern
+        </p>
+      </text>
+      <answer correct="yes">Norwegen, Litauen, Bulgarien, Lettland.</answer>
+      <answer correct="no">Norwegen, Bulgarien, Litauen, Lettland.</answer>
+      <answer correct="no">Litauen, Norwegen, Bulgarien, Lettland.</answer>
+      <answer correct="no">Norwegen, Litauen, Lettland, Bulgarien.</answer>
+    </question>
+    

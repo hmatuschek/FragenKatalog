@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC115" name="A/TC115">
+      <text>
+        <p>Aus welchen Bauteilen sollte eine künstliche Antenne für den VHF-Bereich gebaut werden?</p>
+      </text>
+      <answer correct="yes">Aus induktionsarmen Kohleschichtwiderständen</answer>
+      <answer correct="no">Aus Drahtwiderständen mit kapazitätsarmen Anschlusskappen</answer>
+      <answer correct="no">Aus einem abgestimmten Topfkreis mit induktiver Einkopplung</answer>
+      <answer correct="no">Aus versilberten Kupfer-Rundstäben von 10 mm</answer>
+    </question>
+    

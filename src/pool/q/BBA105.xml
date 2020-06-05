@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA105" name="B/BA105">
+      <text>
+        <p>Wie ist das Rufzeichen DH8DAP unter Zuhilfenahme des Internationalen Buchstabieralphabetes richtig buchstabiert?</p>
+      </text>
+      <answer correct="yes">Delta Hotel acht Delta Alpha Papa</answer>
+      <answer correct="no">Dora Heinrich acht Dora Anton Paula</answer>
+      <answer correct="no">Delta Hotel acht Delta Alpha Portugal</answer>
+      <answer correct="no">Denmark Honolulu acht Delta Alpha Papa</answer>
+    </question>
+    

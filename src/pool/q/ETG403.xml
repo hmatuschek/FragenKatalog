@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG403" name="E/TG403">
+      <text>
+        <p>Wenn man beim Funkbetrieb mit einem Transceiver die Empfangsfrequenz gegenüber der Senderfrequenz geringfügig verstellen möchte, muss man</p>
+      </text>
+      <answer correct="yes">die RIT bedienen.</answer>
+      <answer correct="no">das Notchfilter einschalten.</answer>
+      <answer correct="no">die Passband-Tuning verstellen.</answer>
+      <answer correct="no">die PTT einschalten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB110" name="V/VB110">
+      <text>
+        <p>Sie hören die Amateurfunkstation mit dem Rufzeichen DL/G3MM. Welcher der nachfolgenden Sachverhalte trifft zu?</p>
+      </text>
+      <answer correct="yes">Der englischen Station G3MM ist es aufgrund der CEPT-Empfehlung T/R 61-01 gestattet, vorübergehend von Deutschland aus den Amateurfunk auszuüben.</answer>
+      <answer correct="no">Dem griechischen Funkamateur G3MM ist es aufgrund einer Kurzzeit-Gastzulassung gestattet, von Deutschland aus den Amateurfunk auszuüben.</answer>
+      <answer correct="no">Der Funkamateur G3MM aus Gibraltar hat eine kurzzeitige deutsche Gastlizenz erhalten, was mit dem vorangestellten "DL" als Durchreise-Lizenz deutlich wird.</answer>
+      <answer correct="no">Die Sonderstation G3MM (Maritim Mobile) ist fest auf einem englischen Schiff installiert, und somit berechtigt, auch von fremden Häfen aus betrieben zu werden.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD515" name="A/TD515">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen Modulator zur Erzeugung von</p>
+        <img src="Atd515" />
+      </text>
+      <answer correct="yes">phasenmodulierten Signalen.</answer>
+      <answer correct="no">AM-Signalen mit unterdrücktem Träger.</answer>
+      <answer correct="no">frequenzmodulierten Signalen.</answer>
+      <answer correct="no">AM-Signalen.</answer>
+    </question>
+    

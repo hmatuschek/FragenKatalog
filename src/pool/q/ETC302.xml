@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC302" name="E/TC302">
+      <text>
+        <p>Wie ändert sich die Induktivität einer Spule von 12 μH, wenn die Wicklung auf dem Wickelkörper bei gleicher Windungszahl auf die doppelte Länge auseinander gezogen wird?</p>
+        <img src="ETC301" />
+      </text>
+      <answer correct="yes">Die Induktivität sinkt auf 6 μH.</answer>
+      <answer correct="no">Die Induktivität steigt auf 24 μH.</answer>
+      <answer correct="no">Die Induktivität steigt auf 48 μH.</answer>
+      <answer correct="no">Die Induktivität sinkt auf 3 μH.</answer>
+    </question>
+    

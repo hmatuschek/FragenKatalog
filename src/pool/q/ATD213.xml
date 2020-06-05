@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD213" name="A/TD213">
+      <text>
+        <p>Welche Grenzfrequenz ergibt sich bei einem Tiefpass mit einem Widerstand von 10 kΩ und einem Kondensator von 50 nF?</p>
+        <img src="Atd213" />
+      </text>
+      <answer correct="yes">318 Hz</answer>
+      <answer correct="no">0,32 Hz</answer>
+      <answer correct="no">318 kHz</answer>
+      <answer correct="no">421 Hz</answer>
+    </question>
+    

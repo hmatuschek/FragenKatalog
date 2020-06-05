@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB121" name="V/VB121">
+      <text>
+        <p>Was hat ein Funkamateur zu veranlassen, wenn er eine Amateurfunkstelle anlässlich einer Urlaubsreise in einem Land betreiben will, das die in seiner Amateurfunkzulassung eingetragene CEPT-Empfehlung nicht anwendet?</p>
+      </text>
+      <answer correct="yes">Er muss bei der zuständigen Behörde des Landes eine Gastzulassung beantragen.</answer>
+      <answer correct="no">Er muss eine besondere Genehmigung der Bundesnetzagentur einholen.</answer>
+      <answer correct="no">Nichts, wenn das Gastland die IARU-Empfehlungen anwendet.</answer>
+      <answer correct="no">Nichts, da auf Grund von Gegenseitigkeitsabkommen der vorübergehende Betrieb allgemein genehmigt ist.</answer>
+    </question>
+    

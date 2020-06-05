@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI211" name="A/TI211">
+      <text>
+        <p>Eine Amateurfunkstation in Frankfurt/Main will eine Verbindung nach Tokio auf dem langen Weg herstellen. Auf welchen Winkel gegen Nord (Azimut) muss der Funkamateur seinen Kurzwellenbeam drehen, wenn die Beamrichtung für den kurzen Weg 38° beträgt? Er muss die Antenne drehen auf</p>
+      </text>
+      <answer correct="yes">zirka 218°.</answer>
+      <answer correct="no">zirka 322°.</answer>
+      <answer correct="no">zirka 122°.</answer>
+      <answer correct="no">zirka 308°.</answer>
+    </question>
+    

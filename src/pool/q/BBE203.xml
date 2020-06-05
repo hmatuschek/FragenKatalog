@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE203" name="B/BE203">
+      <text>
+        <p>Was verstehen Sie bei einer seltenen Station unter der Aufforderung zu "Listenbetrieb"?</p>
+      </text>
+      <answer correct="yes">Eine gut hörbare andere Station nimmt anrufenden Stationen in eine Liste und ruft später diese Stationen zur Aufnahme einer Funkverbindung mit der seltenen Station auf.</answer>
+      <answer correct="no">Eine gut hörbare andere Station schickt per Internet Listen anrufender Stationen an die seltene Station.</answer>
+      <answer correct="no">Die seltene Station ruft Stationen nach einer Liste der Landeskenner alphabetisch auf.</answer>
+      <answer correct="no">Die seltene Station oder ihr QSL-Manager veröffentlicht eine Liste der gearbeiteten Stationen in den Amateurfunkzeitschriften.</answer>
+    </question>
+    

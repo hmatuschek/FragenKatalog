@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK302" name="A/TK302">
+      <text>
+        <p>Wie kann man hochfrequente Störungen reduzieren, die durch Harmonische hervorgerufen werden? Sie können reduziert werden durch ein</p>
+      </text>
+      <answer correct="yes">Oberwellenfilter</answer>
+      <answer correct="no">Nachbarkanalfilter</answer>
+      <answer correct="no">ZF-Filter</answer>
+      <answer correct="no">Hochpassfilter</answer>
+    </question>
+    

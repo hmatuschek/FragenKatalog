@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ108" name="E/TJ108">
+      <text>
+        <p>Welches dieser Geräte wird für die Anzeige von NF-Verzerrungen verwendet?</p>
+      </text>
+      <answer correct="yes">Ein Oszilloskop</answer>
+      <answer correct="no">Ein Transistorvoltmeter</answer>
+      <answer correct="no">Ein Vielfachmessgerät</answer>
+      <answer correct="no">Ein Frequenzzähler</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD205" name="A/TD205">
+      <text>
+        <p>Kann die Wicklung eines Übertragers zusammen mit einem Kondensator als Schwingkreis dienen?</p>
+      </text>
+      <answer correct="yes">Ja, die Wicklung des Übertragers dient dann als Schwingkreisinduktivität.</answer>
+      <answer correct="no">Nein, ein Übertrager kann nur Spannungen und Ströme umsetzen.</answer>
+      <answer correct="no">Ja, es geht dann die Summe der Induktivitäten beider Wicklungen des Übertragers ein.</answer>
+      <answer correct="no">Ja, aber zu jeder Wicklung muss ein passend gewählter Kondensator in Reihe geschaltet werden.</answer>
+    </question>
+    

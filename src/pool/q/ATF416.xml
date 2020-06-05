@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF416" name="A/TF416">
+      <text>
+        <p>Beim Empfang einer Funkstelle auf 14,24 MHz, bei der sich die erste ZF des Empfängers auf 10,7 MHz befindet, können Spiegelfrequenzstörungen durch Signale auf</p>
+      </text>
+      <answer correct="yes">35,64 MHz auftreten.</answer>
+      <answer correct="no">10,7 MHz auftreten.</answer>
+      <answer correct="no">3,54 MHz auftreten.</answer>
+      <answer correct="no">24,94 MHz auftreten.</answer>
+    </question>
+    

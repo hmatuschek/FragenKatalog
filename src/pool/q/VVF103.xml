@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF103" name="V/VF103">
+      <text>
+        <p>
+          Wie hat sich ein Funkamateur zu verhalten, der unbeabsichtigt Nachrichten empfängt, die
+          <u>nicht</u>
+           für Funkamateure, die Allgemeinheit oder einen unbestimmten Personenkreis bestimmt sind?
+        </p>
+      </text>
+      <answer correct="yes">Er darf den Inhalt der Nachrichten sowie die Tatsache ihres Empfangs anderen nicht mitteilen.</answer>
+      <answer correct="no">Er darf Dritten zwar die Tatsache des Empfangs mitteilen, aber nicht den Inhalt und die näheren Umstände.</answer>
+      <answer correct="no">Er darf anderen Funkamateuren zwar die Tatsache des Empfangs mitteilen, aber nicht den Inhalt.</answer>
+      <answer correct="no">Er darf den Inhalt und die näheren Umstände nur anderen Funkamateuren mitteilen, da auch diese der Geheimhaltungspflicht unterliegen.</answer>
+    </question>
+    

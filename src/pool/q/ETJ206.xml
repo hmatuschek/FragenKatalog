@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ206" name="E/TJ206">
+      <text>
+        <p>An welcher Stelle einer Antennenanlage muss ein VSWR-Meter eingeschleift werden, um Aussagen über die Antenne selbst machen zu können? Das VSWR-Meter muss eingeschleift werden zwischen</p>
+      </text>
+      <answer correct="yes">Antennenkabel und Antenne.</answer>
+      <answer correct="no">Senderausgang und Antennenkabel.</answer>
+      <answer correct="no">Antennenkabel und Dummy Load.</answer>
+      <answer correct="no">Senderausgang und Antennenanpassgerät.</answer>
+    </question>
+    

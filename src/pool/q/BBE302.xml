@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE302" name="B/BE302">
+      <text>
+        <p>Welche Betriebsarten sind für QRP-DX-Betrieb auf Kurzwelle am besten geeignet?</p>
+      </text>
+      <answer correct="yes">CW, Digimodes</answer>
+      <answer correct="no">RTTY, Hellschreiben</answer>
+      <answer correct="no">ATV, SSTV</answer>
+      <answer correct="no">FM, SSB</answer>
+    </question>
+    

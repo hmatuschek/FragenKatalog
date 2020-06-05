@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD212" name="A/TD212">
+      <text>
+        <p>Bei Resonanz ist die Impedanz dieser Schaltung</p>
+        <img src="Atd210" />
+      </text>
+      <answer correct="yes">gleich dem reellen Widerstand R.</answer>
+      <answer correct="no">unendlich hoch.</answer>
+      <answer correct="no">
+        gleich dem kapazitiven Widerstand X
+        <sub>C</sub>
+        .
+      </answer>
+      <answer correct="no">
+        gleich dem induktiven Widerstand X
+        <sub>L</sub>
+        .
+      </answer>
+    </question>
+    

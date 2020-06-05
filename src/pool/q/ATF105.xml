@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF105" name="A/TF105">
+      <text>
+        <p>Wo wird die Bandbreite eines durchstimmbaren Empfängers festgelegt?</p>
+      </text>
+      <answer correct="yes">Im Filter bei der letzten ZF</answer>
+      <answer correct="no">Im Filter bei der ersten ZF</answer>
+      <answer correct="no">Durch den gegenseitigen Versatz von 2 Filtern bei der zweiten ZF</answer>
+      <answer correct="no">Im NF-Verstärker</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL205" name="A/TL205">
+      <text>
+        <p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 20-m-Band und die Betriebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 300 W über ein Koaxialkabel gespeist wird. Die Kabeldämpfung beträgt 0,5 dB. Wie groß ist der Sicherheitsabstand?</p>
+      </text>
+      <answer correct="yes">4,1 m</answer>
+      <answer correct="no">5,8 m</answer>
+      <answer correct="no">3,4 m</answer>
+      <answer correct="no">1,4 m</answer>
+    </question>
+    

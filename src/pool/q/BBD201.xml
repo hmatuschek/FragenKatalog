@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD201" name="B/BD201">
+      <text>
+        <p>Wo können Sie nachschlagen, in welchem Land sich eine Amateurfunkstelle mit einem Ihnen bislang unbekannten Landeskenner befindet?</p>
+      </text>
+      <answer correct="yes">In der Landeskennerliste der ITU, Amateurfunkhandbüchern und Rufzeichenlisten</answer>
+      <answer correct="no">In der Rufzeichenliste der Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen</answer>
+      <answer correct="no">In den Empfehlungen der IARU</answer>
+      <answer correct="no">Im Frequenzbereichszuweisungsplan der Bundesrepublik Deutschland</answer>
+    </question>
+    

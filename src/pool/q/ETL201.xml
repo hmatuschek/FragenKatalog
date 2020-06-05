@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL201" name="E/TL201">
+      <text>
+        <p>Nach welcher der Antworten kann die ERP (Effective Radiated Power) berechnet werden, und worauf ist die ERP bzw. der zu verwendende Antennengewinn bezogen?</p>
+      </text>
+      <answer correct="yes">
+        P
+        <sub>ERP</sub>
+         = (P
+        <sub>Sender</sub>
+         - P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        P
+        <sub>ERP</sub>
+         = P
+        <sub>Sender</sub>
+         · G
+        <sub>Antenne</sub>
+         - P
+        <sub>Verluste</sub>
+        <br />
+        bezogen auf einen isotropen Kugelstrahler
+      </answer>
+      <answer correct="no">
+        P
+        <sub>ERP</sub>
+         = (P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        P
+        <sub>ERP</sub>
+         = P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste</sub>
+         + G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen isotropen Kugelstrahler
+      </answer>
+    </question>
+    

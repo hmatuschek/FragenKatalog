@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA102" name="V/VA102">
+      <text>
+        <p>Wozu dient der Amateurfunkdienst nach dem Wortlaut seiner internationalen Begriffsbestimmung in den Radio Regulations (VO Funk)?</p>
+      </text>
+      <answer correct="yes">Zur eigenen Ausbildung, für den Funkverkehr der Funkamateure untereinander und für technische Studien.</answer>
+      <answer correct="no">Zur Benutzung von Amateurfunkstellen auf der Erde und im Hauptteil der Erdatmosphäre.</answer>
+      <answer correct="no">Für den Funkverkehr der Funkamateure untereinander sowie für den Funkverkehr über Amateurfunkstellen an Bord von erdumlaufenden Satelliten.</answer>
+      <answer correct="no">Für experimentelle und technischwissenschaftliche Studien, zur Völkerverständigung und zur Unterstützung von Hilfsaktionen in Not- und Katastrophenfällen.</answer>
+    </question>
+    

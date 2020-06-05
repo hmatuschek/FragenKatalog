@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ202" name="E/TJ202">
+      <text>
+        <p>Wie werden elektrische Spannungsmesser an Messobjekte angeschlossen und welche Anforderungen muss das Messgerät erfüllen, damit der Messfehler möglichst gering bleibt?</p>
+      </text>
+      <answer correct="yes">Der Spannungsmesser ist parallel zum Messobjekt anzuschließen und sollte hochohmig sein.</answer>
+      <answer correct="no">Der Spannungsmesser ist in den Stromkreis einzuschleifen und sollte niederohmig sein.</answer>
+      <answer correct="no">Der Spannungsmesser ist parallel zum Messobjekt anzuschließen und sollte niederohmig sein.</answer>
+      <answer correct="no">Der Spannungsmesser ist in den Stromkreis einzuschleifen und sollte hochohmig sein.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA104" name="A/TA104">
+      <text>
+        <p>Die Einheit "Siemens" wird verwendet für die Angabe</p>
+      </text>
+      <answer correct="yes">des Leitwertes eines Widerstands.</answer>
+      <answer correct="no">des ohmschen Widerstands.</answer>
+      <answer correct="no">der Impedanz einer Leitung.</answer>
+      <answer correct="no">der magnetischen Feldstärke.</answer>
+    </question>
+    

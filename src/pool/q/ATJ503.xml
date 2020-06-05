@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ503" name="A/TJ503">
+      <text>
+        <p>Mit einem genauen Frequenzzähler und einem entsprechenden Dämpfungsglied kann</p>
+      </text>
+      <answer correct="yes">die genaue Messung einer Senderfrequenz erfolgen.</answer>
+      <answer correct="no">die genaue Messung der Oberschwingungsanteile eines Senders erfolgen.</answer>
+      <answer correct="no">die Messung des Seitenbandinhalts eines Senders erfolgen.</answer>
+      <answer correct="no">die Messung des Frequenzhubes eines FM-Senders erfolgen.</answer>
+    </question>
+    

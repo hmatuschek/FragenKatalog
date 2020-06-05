@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB103" name="B/BB103">
+      <text>
+        <p>Was bedeuten die gebräuchlichen Abkürzungen "TX", "RX" in dieser Reihenfolge?</p>
+      </text>
+      <answer correct="yes">Sender, Empfänger</answer>
+      <answer correct="no">Empfänger, Sender</answer>
+      <answer correct="no">Tonqualität, Bildqualität</answer>
+      <answer correct="no">Bildqualität, Tonqualität</answer>
+    </question>
+    

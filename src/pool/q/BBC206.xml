@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC206" name="B/BC206">
+      <text>
+        <p>Sie hören eine französische Station auf 10,143 MHz in SSB CQ rufen. Dürfen Sie in SSB antworten?</p>
+      </text>
+      <answer correct="yes">Nein, denn im 30-m-Band ist für deutsche Stationen nur eine Bandbreite bis 800 Hz erlaubt.</answer>
+      <answer correct="no">Ja, denn wenn dort eine Station in SSB ruft, wird SSB auch für deutsche Stationen erlaubt sein.</answer>
+      <answer correct="no">Ja, denn in diesem Bandsektor ist SSB grundsätzlich erlaubt.</answer>
+      <answer correct="no">Nein, der SSB-Bereich ist von 10,100 bis 10,125 MHz.</answer>
+    </question>
+    

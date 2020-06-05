@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC406" name="A/TC406">
+      <text>
+        <p>Für die Anpassung einer 300-Ω-Antenne an eine 75-Ω-Übertragungsleitung kann ein Übertrager mit einem Windungszahlenverhältnis von</p>
+      </text>
+      <answer correct="yes">2:1 verwendet werden.</answer>
+      <answer correct="no">4:1 verwendet werden.</answer>
+      <answer correct="no">8:1 verwendet werden.</answer>
+      <answer correct="no">16:1 verwendet werden.</answer>
+    </question>
+    

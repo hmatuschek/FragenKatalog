@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH232" name="A/TH232">
+      <text>
+        <p>Mit einem Feldstärkemessgerät wurden Vergleichsmessungen zwischen Beam und Dipol durchgeführt. In einem Abstand von 32 m wurden folgende Feldstärken gemessen: Beam vorwärts: 300 μV/m, Beam rückwärts: 20 μV/m, Halbwellendipol in Hauptstrahlrichtung: 128 μV/m. Welcher Gewinn und welches Vor-Rück-Verhältnis ergibt sich daraus für den Beam?</p>
+      </text>
+      <answer correct="yes">Gewinn: 7,4 dBd, Vor-Rück-Verhältnis: 23,5 dB</answer>
+      <answer correct="no">Gewinn: 3,7 dBd, Vor-Rück-Verhältnis: 11,7 dB</answer>
+      <answer correct="no">Gewinn: 9,4 dBd, Vor-Rück-Verhältnis: 23,5 dB</answer>
+      <answer correct="no">Gewinn: 7,4 dBd, Vor-Rück-Verhältnis: 15 dB</answer>
+    </question>
+    

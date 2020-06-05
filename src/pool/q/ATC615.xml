@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC615" name="A/TC615">
+      <text>
+        <p>In einer Schaltung wurden die Spannungen der Transistoranschlüsse gegenüber Massepotenzial gemessen. Bei welchem der folgenden Transistoren fließt Kollektorstrom?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc615a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc615b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc615c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc615d" />
+      </answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC501" name="A/TC501">
+      <text>
+        <p>Wie verhalten sich die Elektronen in einem in Durchlassrichtung betriebenen PN-Übergang?</p>
+      </text>
+      <answer correct="yes">Sie wandern von N nach P.</answer>
+      <answer correct="no">Sie wandern von P nach N.</answer>
+      <answer correct="no">Sie bleiben im N-Bereich.</answer>
+      <answer correct="no">Sie zerfallen beim Übergang.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF424" name="A/TF424">
+      <text>
+        <p>Bei Empfang eines sehr starken Signals verringert die AGC</p>
+      </text>
+      <answer correct="yes">die Verstärkung der HF- und ZF-Stufen.</answer>
+      <answer correct="no">die Versorgungsspannung des VFO.</answer>
+      <answer correct="no">eine Verstärkung der NF-Stufen.</answer>
+      <answer correct="no">eine Filterreaktion.</answer>
+    </question>
+    

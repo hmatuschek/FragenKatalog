@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC217" name="B/BC217">
+      <text>
+        <p>Welche Bereiche des 15-m-, des 20-m- und des 80-m-Bandes stehen nach den Empfehlungen der International Amateur Radio Union ausschließlich für die Betriebsart Telegrafie zur Verfügung?</p>
+      </text>
+      <answer correct="yes">21000-21070 kHz, 14000-14070 kHz und 3500-3580 kHz</answer>
+      <answer correct="no">21000-21050 kHz, 14000-14080 kHz und 3500-3560 kHz</answer>
+      <answer correct="no">21000-21200 kHz, 14000-14100 kHz und 3500-3600 kHz</answer>
+      <answer correct="no">21000-21100 kHz, 14000-14050 kHz und 3500-3620 kHz</answer>
+    </question>
+    

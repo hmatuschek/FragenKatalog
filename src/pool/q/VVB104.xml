@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB104" name="V/VB104">
+      <text>
+        <p>Die deutsche Amateurfunkzulassung der Klasse E entspricht der</p>
+      </text>
+      <answer correct="yes">"CEPT-Novice-Amateurfunkgenehmigung" gemäß der ECC-Empfehlung (05)06.</answer>
+      <answer correct="no">"CEPT-Amateurfunkgenehmigung" gemäß der CEPT-Empfehlung T/R 61-01.</answer>
+      <answer correct="no">"CEPT-Amateurfunkgenehmigung" gemäß dem ERC-Report 32.</answer>
+      <answer correct="no">"CEPT-Novice-Amateurfunkgenehmigung" gemäß der CEPT-Empfehlung T/R 61-02.</answer>
+    </question>
+    

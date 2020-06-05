@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC202" name="E/TC202">
+      <text>
+        <p>Ein Bauelement, bei dem sich Platten auf einer isolierten Achse befinden, die zwischen fest stehende Platten hineingedreht werden können, nennt man</p>
+      </text>
+      <answer correct="yes">Drehkondensator.</answer>
+      <answer correct="no">Tauchkondensator.</answer>
+      <answer correct="no">Keramischer Kondensator.</answer>
+      <answer correct="no">Rotorkondensator.</answer>
+    </question>
+    

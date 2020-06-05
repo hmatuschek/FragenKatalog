@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH415" name="A/TH415">
+      <text>
+        <p>Welche Auswirkungen hat es, wenn eine symmetrische Antenne (Dipol) mit einem Koaxkabel gleicher Impedanz gespeist wird?</p>
+      </text>
+      <answer correct="yes">Die Richtcharakteristik der Antenne wird verformt und es können Mantelwellen auftreten.</answer>
+      <answer correct="no">Es treten keine nennenswerten Auswirkungen auf, da die Antenne angepasst ist und die Speisung über ein Koaxkabel erfolgt, dessen Außenleiter Erdpotential hat.</answer>
+      <answer correct="no">Am Speisepunkt der Antenne treten gegenphasige Spannungen und Ströme gleicher Größe auf, die eine Fehlanpassung hervorrufen.</answer>
+      <answer correct="no">Es treten Polarisationsdrehungen auf, die von der Kabellänge abhängig sind.</answer>
+    </question>
+    

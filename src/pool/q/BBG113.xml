@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG113" name="B/BG113">
+      <text>
+        <p>Was können Sie tun, wenn Sie von einer seltenen DX-Station möglichst schnell eine QSL-Karte erhalten möchten?</p>
+      </text>
+      <answer correct="yes">Ich kann meine QSL-Karte mit Luftpost an den Empfänger schicken und einen Antwortbriefumschlag (SAE) und IRCs beilegen.</answer>
+      <answer correct="no">Ich kann die QSL-Karte an die QSL-Vermittlung meines Verbandes direkt senden.</answer>
+      <answer correct="no">Ich sende die QSL-Karte mit Luftpost an die QSL-Vermittlung des Verbandes der DX-Station und einen Antwortbriefumschlag (SAE) und IRCs beilegen.</answer>
+      <answer correct="no">Ich sende meine QSL-Karte mit Luftpost an den Empfänger, darf aber keine IRCs beilegen.</answer>
+    </question>
+    

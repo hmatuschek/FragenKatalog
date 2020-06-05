@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE105" name="B/BE105">
+      <text>
+        <p>Sollten Sie einen allgemeinen Anruf mit QRZ beginnen?</p>
+      </text>
+      <answer correct="yes">Nein, weil QRZ nach VO Funk nicht die Bedeutung von CQ hat.</answer>
+      <answer correct="no">Ja, weil QRZ? bedeutet: Wer möchte angerufen werden?</answer>
+      <answer correct="no">Ja, weil QRZ nach VO Funk die gleiche Bedeutung wie CQ hat.</answer>
+      <answer correct="no">Nein, weil QRZ nur für einen gezielten Anruf benutzt wird.</answer>
+    </question>
+    

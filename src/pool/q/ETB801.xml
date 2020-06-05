@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB801" name="E/TB801">
+      <text>
+        <p>Was ist der Unterschied zwischen AM und SSB?</p>
+      </text>
+      <answer correct="yes">AM hat einen Träger und zwei Seitenbänder, SSB arbeitet mit Trägerunterdrückung und einem Seitenband.</answer>
+      <answer correct="no">AM hat einen Träger und ein Seitenband, SSB arbeitet mit Trägerunterdrückung und hat zwei Seitenbänder.</answer>
+      <answer correct="no">AM hat keinen Träger und zwei Seitenbänder, SSB arbeitet mit Trägerunterdrückung und einem Seitenband.</answer>
+      <answer correct="no">AM hat keinen Träger und zwei Seitenbänder, SSB arbeitet mit Träger und einem Seitenband.</answer>
+    </question>
+    

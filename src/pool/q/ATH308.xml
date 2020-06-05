@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH308" name="A/TH308">
+      <text>
+        <p>Welche Dämpfung ergibt sich auf der Grundlage des Kabeldämpfungsdiagramms für ein 25-m-langes Koaxialkabel vom Typ RG213 (MIL) bei 145 MHz?</p>
+        <img src="Ath304" />
+      </text>
+      <answer correct="yes">2,2 dB</answer>
+      <answer correct="no">8,7 dB</answer>
+      <answer correct="no">4,4 dB</answer>
+      <answer correct="no">0,9 dB</answer>
+    </question>
+    

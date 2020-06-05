@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE105" name="V/VE105">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (80-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">3,5 MHz - 3,8 MHz</answer>
+      <answer correct="no">3,5 MHz - 3,6 MHz</answer>
+      <answer correct="no">3,5 MHz - 3,9 MHz</answer>
+      <answer correct="no">3,8 MHz - 4,0 MHz</answer>
+    </question>
+    

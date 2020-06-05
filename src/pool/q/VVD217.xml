@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD217" name="V/VD217">
+      <text>
+        <p>Was trifft für die Rufzeichenreihe "DO1AA - DO9ZZZ" zu?</p>
+      </text>
+      <answer correct="yes">Personengebundene Rufzeichen der Klasse E.</answer>
+      <answer correct="no">Ausbildungsrufzeichen.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen.</answer>
+      <answer correct="no">Rufzeichen der Klasse A.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC122" name="V/VC122">
+      <text>
+        <p>Unter welchen Voraussetzungen darf ein Funkamateur Ausbildungsfunkbetrieb durchführen?</p>
+      </text>
+      <answer correct="yes">Wenn der dafür eine gültige Rufzeichenzuteilung der Bundesnetzagentur besitzt.</answer>
+      <answer correct="no">Wenn er Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst ist.</answer>
+      <answer correct="no">Wenn er mindestens 1 Jahr lang Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst ist.</answer>
+      <answer correct="no">Wenn er eine entsprechende Befürwortung einer Amateurfunkvereinigung besitzt.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL101" name="A/TL101">
+      <text>
+        <p>In Bezug auf EMV sollten Vervielfacherstufen</p>
+      </text>
+      <answer correct="yes">gut abgeschirmt werden.</answer>
+      <answer correct="no">eine besonders abgeschirmte Spannungsversorgung erhalten.</answer>
+      <answer correct="no">in Kunststoff eingehüllt werden.</answer>
+      <answer correct="no">nur kapazitive Auskopplungen enthalten.</answer>
+    </question>
+    

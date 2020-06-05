@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH202" name="E/TH202">
+      <text>
+        <p>Welches Strahlungsdiagramm ist der Antenne richtig zugeordnet?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETH202a" />
+        <br />
+        <br />
+           Dipol
+      </answer>
+      <answer correct="no">
+        <img src="ETH202b" />
+        <br />
+        <br />
+           Groundplane
+      </answer>
+      <answer correct="no">
+        <img src="ETH202c" />
+        <br />
+        <br />
+           Yagiantenne
+      </answer>
+      <answer correct="no">
+        <img src="ETH202d" />
+        <br />
+        <br />
+           Faltdipol
+      </answer>
+    </question>
+    

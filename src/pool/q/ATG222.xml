@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG222" name="A/TG222">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um einen</p>
+        <img src="Atg222" />
+      </text>
+      <answer correct="yes">HF-Verstärker.</answer>
+      <answer correct="no">Mischer.</answer>
+      <answer correct="no">NF-Verstärker.</answer>
+      <answer correct="no">Oszillator.</answer>
+    </question>
+    

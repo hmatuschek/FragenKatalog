@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD419" name="A/TD419">
+      <text>
+        <p>
+          Das folgende Bild zeigt eine idealisierte Steuerkennlinie eines Transistors mit vier eingezeichneten Arbeitspunkten P
+          <sub>1</sub>
+           bis P
+          <sub>4</sub>
+          . Welcher Arbeitspunkt ist welcher Verstärkerbetriebsart zuzuordnen?
+        </p>
+        <img src="Atd419" />
+      </text>
+      <answer correct="yes">
+        P
+        <sub>1</sub>
+         entspricht C-Betrieb, P
+        <sub>2</sub>
+         entspricht B-Betrieb, P
+        <sub>3</sub>
+         entspricht AB-Betrieb, P
+        <sub>4</sub>
+         entspricht A-Betrieb.
+      </answer>
+      <answer correct="no">
+        P
+        <sub>2</sub>
+         entspricht C-Betrieb, P
+        <sub>3</sub>
+         entspricht B-Betrieb, P
+        <sub>4</sub>
+         entspricht A-Betrieb, P
+        <sub>1</sub>
+         ist kein geeigneter Verstärkerarbeitspunkt.
+      </answer>
+      <answer correct="no">
+        P
+        <sub>2</sub>
+         entspricht A-Betrieb, P
+        <sub>3</sub>
+         entspricht B-Betrieb, P
+        <sub>4</sub>
+         entspricht C-Betrieb, P
+        <sub>1</sub>
+         ist kein geeigneter Verstärkerarbeitspunkt.
+      </answer>
+      <answer correct="no">
+        P
+        <sub>1</sub>
+         entspricht A-Betrieb, P
+        <sub>2</sub>
+         entspricht AB-Betrieb, P
+        <sub>3</sub>
+         entspricht B-Betrieb, P
+        <sub>4</sub>
+         entspricht C-Betrieb.
+      </answer>
+    </question>
+    

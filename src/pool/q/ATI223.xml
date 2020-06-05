@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI223" name="A/TI223">
+      <text>
+        <p>Die höchste Frequenz, bei der eine zufrieden stellende Kommunikation zwischen zwei Funkstellen im HF-Bereich gewährleistet ist, wird als</p>
+      </text>
+      <answer correct="yes">höchste nutzbare Frequenz bezeichnet (MUF).</answer>
+      <answer correct="no">
+        optimale Arbeitsfrequenz bezeichnet (F
+        <sub>opt</sub>
+        ).
+      </answer>
+      <answer correct="no">
+        kritische Grenzfrequenz bezeichnet (F
+        <sub>krit</sub>
+        ).
+      </answer>
+      <answer correct="no">höchste durchlässige Frequenz bezeichnet (LUF).</answer>
+    </question>
+    

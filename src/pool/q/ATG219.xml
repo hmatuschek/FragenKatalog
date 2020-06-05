@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG219" name="A/TG219">
+      <text>
+        <p>Die richtige Oberwellenauswahl in einer Vervielfachungsstufe lässt sich am leichtesten mit einem</p>
+      </text>
+      <answer correct="yes">Absorptionsfrequenzmesser prüfen.</answer>
+      <answer correct="no">Diodentastkopf prüfen.</answer>
+      <answer correct="no">Universalmessgerät prüfen.</answer>
+      <answer correct="no">Frequenzzähler prüfen.</answer>
+    </question>
+    

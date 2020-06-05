@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG525" name="A/TG525">
+      <text>
+        <p>Wie erfolgt die Messung der Leistungen, die zu unerwünschten Aussendungen führen, in Anlehnung an die EU-Normen?</p>
+      </text>
+      <answer correct="yes">Die Messung erfolgt am Senderausgang unter Einbeziehung des gegebenenfalls verwendeten Stehwellenmessgeräts und des gegebenenfalls verwendeten Tiefpassfilters.</answer>
+      <answer correct="no">Die Messung erfolgt am Fußpunkt der im Funkbetrieb verwendeten Antenne unter Einbeziehung des gegebenenfalls verwendeten Antennenanpassgeräts.</answer>
+      <answer correct="no">Die Messung erfolgt am Ausgang der Antennenleitung unter Einbeziehung des im Funkbetrieb verwendeten Antennenanpassgeräts.</answer>
+      <answer correct="no">Die Messung erfolgt am Senderausgang mit einem hochohmigen HF-Tastkopf und angeschlossenem Transistorvoltmeter.</answer>
+    </question>
+    

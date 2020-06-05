@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH231" name="A/TH231">
+      <text>
+        <p>Eine Langdrahtantenne mit einer senkrechten Speiseleitung in der Nähe eines Hauses</p>
+      </text>
+      <answer correct="yes">kann unerwünschte Signale in TV-Koaxialkabel induzieren.</answer>
+      <answer correct="no">induziert keine Störungen in horizontalen Antennen.</answer>
+      <answer correct="no">erzeugt keine unerwünschten Signale in horizontal verlegten Stromleitungen.</answer>
+      <answer correct="no">erzeugt ein Summen im Stromversorgungsnetz.</answer>
+    </question>
+    

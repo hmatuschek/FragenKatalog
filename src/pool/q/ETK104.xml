@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK104" name="E/TK104">
+      <text>
+        <p>Bei der Überprüfung des Ausgangssignals eines Senders sollte die Dämpfung der Oberwellen mindestens</p>
+      </text>
+      <answer correct="yes">den geltenden Richtwerten entsprechen.</answer>
+      <answer correct="no">30 dB betragen.</answer>
+      <answer correct="no">100 dB betragen.</answer>
+      <answer correct="no">20 dB betragen.</answer>
+    </question>
+    

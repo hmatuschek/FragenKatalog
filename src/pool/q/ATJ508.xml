@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ508" name="A/TJ508">
+      <text>
+        <p>Benutzt man bei einem Frequenzzähler eine Torzeit von 10 s anstelle von 1 s erhöht sich</p>
+      </text>
+      <answer correct="yes">die Auflösung.</answer>
+      <answer correct="no">die Langzeitstabilität.</answer>
+      <answer correct="no">die Messgenauigkeit.</answer>
+      <answer correct="no">die Stabilität.</answer>
+    </question>
+    

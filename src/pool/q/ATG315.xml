@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG315" name="A/TG315">
+      <text>
+        <p>
+          Das folgende Bild zeigt eine HF-Endstufe. Welche Bedeutung und Funktion haben C
+          <sub>1</sub>
+          , C
+          <sub>2</sub>
+           und L
+          <sub>1</sub>
+          ? Wie sind die Bedienknöpfe der beiden Kondensatoren an einer Endstufe wahrscheinlich beschriftet?
+        </p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">
+        An dem Drehknopf für C
+        <sub>1</sub>
+         steht "C
+        <sub>Plate</sub>
+        " oder "Plate", an dem für C
+        <sub>2</sub>
+         steht "C
+        <sub>Load</sub>
+        " oder "Load". Die drei Bauelemente C
+        <sub>1</sub>
+        , C
+        <sub>2</sub>
+         und L
+        <sub>1</sub>
+         bilden zusammen einen so genannten Pi-Tankkreis zur Anpassung der Ausgangsimpedanz der Röhre an die Antennenimpedanz.
+      </answer>
+      <answer correct="no">
+        An dem Drehknopf für C
+        <sub>1</sub>
+         steht "C
+        <sub>Load</sub>
+        " oder "Load", an dem für C
+        <sub>2</sub>
+         steht "C
+        <sub>Plate</sub>
+        " oder "Plate". Die drei Bauelemente C
+        <sub>1</sub>
+        , C
+        <sub>2</sub>
+         und L
+        <sub>1</sub>
+         bilden zusammen ein abstimmbaren Sperrkreis zur Unterdrückung von Harmonischen.
+      </answer>
+      <answer correct="no">
+        An dem Drehknopf für C
+        <sub>1</sub>
+         steht "C
+        <sub>Plate</sub>
+        " oder "Plate", an dem für C
+        <sub>2</sub>
+         steht "C
+        <sub>Load</sub>
+        " oder "Load". Die drei Bauelemente C
+        <sub>1</sub>
+        , C
+        <sub>2</sub>
+         und L
+        <sub>1</sub>
+         bilden zusammen ein abstimmbaren Sperrkreis zur Unterdrückung von Harmonischen.
+      </answer>
+      <answer correct="no">
+        An dem Drehknopf für C
+        <sub>1</sub>
+         steht "C
+        <sub>Load</sub>
+        " oder "Load", an dem für C
+        <sub>2</sub>
+         steht "C
+        <sub>Plate</sub>
+        " oder "Plate". Die drei Bauelemente C
+        <sub>1</sub>
+        , C
+        <sub>2</sub>
+         und L
+        <sub>1</sub>
+         bilden zusammen einen so genannten Pi-Tankkreis zur Anpassung der Ausgangsimpedanz der Röhre an die Antennenimpedanz.
+      </answer>
+    </question>
+    

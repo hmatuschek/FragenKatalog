@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG402" name="A/TG402">
+      <text>
+        <p>In welcher der folgenden Antworten sind Betriebsarten aufgezählt, die man bei einem üblichen Kurzwellentransceiver einstellen kann?</p>
+      </text>
+      <answer correct="yes">USB, LSB, FM, RTTY, CW</answer>
+      <answer correct="no">USB, PSK31, FM, SSTV, CW</answer>
+      <answer correct="no">USB, LSB, FM, SSTV, CW</answer>
+      <answer correct="no">USB, LSB, Amtor, Pactor, CW</answer>
+    </question>
+    

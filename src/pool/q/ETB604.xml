@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB604" name="E/TB604">
+      <text>
+        <p>Eine Wellenlänge von 2,06 m entspricht einer Frequenz von</p>
+      </text>
+      <answer correct="yes">145,631 MHz</answer>
+      <answer correct="no">148,927 MHz</answer>
+      <answer correct="no">150,247 MHz</answer>
+      <answer correct="no">135,754 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE103" name="B/BE103">
+      <text>
+        <p>Auf welche Arten können Sie eine Amateurfunkverbindung zum Beispiel beginnen?</p>
+      </text>
+      <answer correct="yes">Durch Benutzen der internationalen Betriebsabkürzung "CQ", bzw. mit einem allgemeinen Anruf; mit einem gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen allgemeinen Anruf, jeweils mit Nennung des eigenen Rufzeichens.</answer>
+      <answer correct="no">Durch wiederholtes Aussenden der internationalen Q-Gruppe "QRZ?" mit angehängtem eigenen Rufzeichen und dem Abhören der Frequenz in den Sendepausen. Durch einen gezielten Anruf an eine bestimmte Station oder mit einer Antwort auf einen an die eigene Station gerichteten Anruf.</answer>
+      <answer correct="no">Durch mehrmaliges, bei schlechten Ausbreitungsbedingungen häufiges Aussenden der Abkürzung "CQ", des eigenen Rufzeichens und der Q-Gruppe "QTH" mit Zwischenhören.</answer>
+      <answer correct="no">Durch das Aussenden Ihres Rufzeichens und des in der IARU festgelegten Auftast-Tones von 1750 Hz, durch den die abhörenden Stationen Ihren Verbindungswunsch erkennen.</answer>
+    </question>
+    

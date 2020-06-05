@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF104" name="E/TF104">
+      <text>
+        <p>Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszillator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welche Frequenz hat die Spielfrequenz?</p>
+      </text>
+      <answer correct="yes">49,9 MHz</answer>
+      <answer correct="no">48,9 MHz</answer>
+      <answer correct="no">39,2 MHz</answer>
+      <answer correct="no">17,8 MHz</answer>
+    </question>
+    

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH404" name="A/TH404">
+      <text>
+        <p>
+          Einem Ganzwellendipol wird die Sendeleistung über eine abgestimmte λ/2-Speiseleitung zugeführt. Wie groß ist die Impedanz Z
+          <sub>1</sub>
+           am Einspeisepunkt des Dipols? Und wie groß ist die Impedanz Z
+          <sub>2</sub>
+           am Anfang der Speiseleitung?
+        </p>
+        <img src="Ath403" />
+      </text>
+      <answer correct="yes">
+        Z
+        <sub>1</sub>
+         und Z
+        <sub>2</sub>
+         sind hochohmig.
+      </answer>
+      <answer correct="no">
+        Z
+        <sub>1</sub>
+         ist niederohmig und Z
+        <sub>2</sub>
+         hochohmig.
+      </answer>
+      <answer correct="no">
+        Z
+        <sub>1</sub>
+         und Z
+        <sub>2</sub>
+         sind niederohmig.
+      </answer>
+      <answer correct="no">
+        Z
+        <sub>1</sub>
+         ist hochohmig und Z
+        <sub>2</sub>
+         niederohmig.
+      </answer>
+    </question>
+    

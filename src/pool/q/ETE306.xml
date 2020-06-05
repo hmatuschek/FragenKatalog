@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE306" name="E/TE306">
+      <text>
+        <p>Was versteht man unter 1k2-Packet-Radio?</p>
+      </text>
+      <answer correct="yes">Die Übertragung erfolgt mit 1200 Baud.</answer>
+      <answer correct="no">Man arbeitet mit einem einzelnen Ton von 1200 Hz.</answer>
+      <answer correct="no">Die Frequenz am Packet-Radio-Eingang beträgt 1200 Hertz.</answer>
+      <answer correct="no">Die Daten werden in Paketen von 1200 Bits übertragen.</answer>
+    </question>
+    

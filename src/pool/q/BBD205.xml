@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD205" name="B/BD205">
+      <text>
+        <p>
+          Welche Länder (Gebiete) sind der Reihe nach den folgenden Landeskennern zugeordnet?
+          <br />
+          Die Landeskenner 3A, 4U, 9A, 9H entsprechen den Ländern (Gebieten)
+        </p>
+      </text>
+      <answer correct="yes">Monaco, Vereinte Nationen, Kroatien, Malta.</answer>
+      <answer correct="no">Monaco, Vereinte Nationen, Malta, Kroatien.</answer>
+      <answer correct="no">Malta, Vereinte Nationen, Kroatien, Monaco.</answer>
+      <answer correct="no">Monaco, Kroatien, Vereinte Nationen, Malta.</answer>
+    </question>
+    

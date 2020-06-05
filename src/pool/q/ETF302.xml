@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF302" name="E/TF302">
+      <text>
+        <p>Der Begrenzerverstärker eines FM-Empfängers ist ein Verstärker,</p>
+      </text>
+      <answer correct="yes">der sein Ausgangssignal ab einem bestimmten Eingangspegel begrenzt.</answer>
+      <answer correct="no">der zur Verringerung des Vorstufenrauschens dient.</answer>
+      <answer correct="no">der zur Begrenzung des Hubes für den FMDemodulator dient.</answer>
+      <answer correct="no">der den ZF-Träger unabhängig vom Eingangssignal auf niedrigem Pegel konstant hält.</answer>
+    </question>
+    

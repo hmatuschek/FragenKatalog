@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE108" name="A/TE108">
+      <text>
+        <p>Um unnötige Seitenband-Splatter zu vermeiden, sollte der Modulationsgrad eines AM-Signals unter</p>
+      </text>
+      <answer correct="yes">100 % liegen.</answer>
+      <answer correct="no">50 % liegen.</answer>
+      <answer correct="no">75 % liegen.</answer>
+      <answer correct="no">25 % liegen.</answer>
+    </question>
+    

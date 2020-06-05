@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI120" name="V/VI120">
+      <text>
+        <p>Für die Berechnung des Sicherheitsabstandes wird in der Regel der Antennengewinnfaktor (G) verwendet. Der Antennengewinnfaktor G ist</p>
+      </text>
+      <answer correct="yes">der lineare Faktor, aus dem sich durch Multiplikation mit der Antenneneingangsleistung die effektiv abgestrahlte Leistung errechnen lässt.</answer>
+      <answer correct="no">gleich dem Antennengewinn g (in dB).</answer>
+      <answer correct="no">das logarithmische Verhältnis der benutzten Antenne zu einer Referenzantenne.</answer>
+      <answer correct="no">der Kehrwert des Antennengewinns g (in dB).</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI204" name="A/TI204">
+      <text>
+        <p>Unter Sprungentfernung versteht man</p>
+      </text>
+      <answer correct="yes">die Entfernung zwischen dem Sender und dem Punkt, an dem die Raumwelle erstmals zur Erde zurückkehrt.</answer>
+      <answer correct="no">die Entfernung zwischen dem Ende der Bodenwelle und dem Punkt, an dem die Raumwelle erstmals zur Erde zurückkehrt</answer>
+      <answer correct="no">die maximale Entfernung vom Sender, an dem ein Signal empfangen werden kann.</answer>
+      <answer correct="no">die Entfernung, bei dem kein Signal von Empfänger empfangen werden kann.</answer>
+    </question>
+    

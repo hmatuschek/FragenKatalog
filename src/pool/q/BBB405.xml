@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB405" name="B/BB405">
+      <text>
+        <p>Wie wird "Fernschreibtelegrafie unter Verwendung eines modulierenden Hilfsträgers" (RTTY) bezeichnet?</p>
+      </text>
+      <answer correct="yes">J2B</answer>
+      <answer correct="no">A1B</answer>
+      <answer correct="no">F3B</answer>
+      <answer correct="no">A2C</answer>
+    </question>
+    

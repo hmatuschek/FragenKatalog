@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH329" name="A/TH329">
+      <text>
+        <p>Am Eingang einer HF-Übertragungsleitung werden 100 W HF-Leistung bei richtiger Anpassung eingespeist. Die Dämpfung der Leitung beträgt 3 dB. Welche Leistung wird bei Leerlauf oder Kurzschluss am Leitungsende reflektiert, wenn dabei am Leitungsende keine Leistung verbraucht oder abgestrahlt wird?</p>
+      </text>
+      <answer correct="yes">50 Watt</answer>
+      <answer correct="no">25 Watt</answer>
+      <answer correct="no">50 Watt bei Leerlauf und 0 Watt bei Kurzschluss</answer>
+      <answer correct="no">0 Watt bei Leerlauf und 50 Watt bei Kurzschluss</answer>
+    </question>
+    

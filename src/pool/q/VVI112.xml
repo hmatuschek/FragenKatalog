@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI112" name="V/VI112">
+      <text>
+        <p>Welche physikalischen Größen werden für die Angabe der Konfiguration im Rahmen des Anzeigeverfahrens benötigt?</p>
+      </text>
+      <answer correct="yes">Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Antennenhöhe, Abstrahlrichtung, Frequenz, Modulationsverfahren, standortbezogener Sicherheitsabstand.</answer>
+      <answer correct="no">Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Funkgerätetyp, Frequenz, Modulationsverfahren, Korrekturabschläge, Sicherheitsabstände.</answer>
+      <answer correct="no">Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Frequenz, Modulationsverfahren, Antennenwirkungsgrad, Korrekturabschläge, Sicherheitsabstände.</answer>
+      <answer correct="no">Senderausgangsleistung, Verluste zwischen Senderausgang und Antenneneingang, Antennengewinn, Frequenz, Modulationsverfahren, Impedanz des Antennenkabels, Korrekturabschläge, Sicherheitsabstände.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC120" name="V/VC120">
+      <text>
+        <p>Welche Rufzeichenzuteilungsarten gibt es im Amateurfunk?</p>
+      </text>
+      <answer correct="yes">Personengebundenes Rufzeichen, Ausbildungsrufzeichen, Klubstationsrufzeichen, Rufzeichen für fernbediente/automatisch arbeitende Amateurfunkstellen, Rufzeichen gemäß § 16 Abs. 2 AFuV.</answer>
+      <answer correct="no">Personengebundenes Rufzeichen, Familienrufzeichen, Klubstationsrufzeichen, Rufzeichen für fernbediente/automatisch arbeitende Amateurfunkstellen.</answer>
+      <answer correct="no">Personengebundenes Rufzeichen, Ausbildungsrufzeichen, Rufzeichen für Versuchsfunkstellen, Rufzeichen für fernbediente/ automatisch arbeitende Amateurfunkstellen.</answer>
+      <answer correct="no">Personengebundenes Rufzeichen, Ausbildungsrufzeichen, Kontestrufzeichen, Rufzeichen gemäß § 16 Abs. 2 AFuV.</answer>
+    </question>
+    

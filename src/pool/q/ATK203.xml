@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK203" name="A/TK203">
+      <text>
+        <p>Diese Modulationshüllkurve eines CW-Senders sollte vermieden werden, da</p>
+        <img src="Atk203" />
+      </text>
+      <answer correct="yes">wahrscheinlich Tastklicks erzeugt werden.</answer>
+      <answer correct="no">während der Aussetzer Probleme im Leistungsverstärker entstehen könnten.</answer>
+      <answer correct="no">sie schwierig zu interpretieren ist.</answer>
+      <answer correct="no">die Stromversorgung überlastet wird.</answer>
+    </question>
+    

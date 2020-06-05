@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG217" name="A/TG217">
+      <text>
+        <p>Bei dieser Schaltung handelt es sich um</p>
+        <img src="Atg217" />
+      </text>
+      <answer correct="yes">einen Frequenzvervielfacher.</answer>
+      <answer correct="no">einen Oszillator.</answer>
+      <answer correct="no">einen abstimmbaren HF-Verstärker im C-Betrieb.</answer>
+      <answer correct="no">die Pufferstufe für einen Oszillator.</answer>
+    </question>
+    

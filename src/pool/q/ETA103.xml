@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA103" name="E/TA103">
+      <text>
+        <p>100 mW entspricht</p>
+      </text>
+      <answer correct="yes">10<sup>-1</sup>W.</answer>
+      <answer correct="no">0,001 W.</answer>
+      <answer correct="no">0,01 W.</answer>
+      <answer correct="no">10<sup>-2</sup>W.</answer>
+    </question>
+    

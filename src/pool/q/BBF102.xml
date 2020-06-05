@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF102" name="B/BF102">
+      <text>
+        <p>Wie heißt das internationale Notzeichen im Sprechfunk?</p>
+      </text>
+      <answer correct="yes">Mayday</answer>
+      <answer correct="no">Securité</answer>
+      <answer correct="no">Distresse</answer>
+      <answer correct="no">Prudence</answer>
+    </question>
+    

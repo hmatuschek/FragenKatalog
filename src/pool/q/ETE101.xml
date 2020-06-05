@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE101" name="E/TE101">
+      <text>
+        <p>Wie unterscheidet sich SSB (J3E) von AM (A3E) in Bezug auf die Bandbreite?</p>
+      </text>
+      <answer correct="yes">Die Sendeart J3E beansprucht weniger als die halbe Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die Sendeart J3E beansprucht etwas mehr als die halbe Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die Sendeart J3E beansprucht etwa 1/4 Bandbreite der Sendeart A3E.</answer>
+      <answer correct="no">Die unterschiedlichen Modulationsarten lassen keinen Vergleich zu, da sie grundverschieden erzeugt werden.</answer>
+    </question>
+    

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ104" name="A/TJ104">
+      <text>
+        <p>
+          Das Drehspulmesswerk in der folgenden Schaltung hat einen maximalen Messstrom I
+          <sub>M</sub>
+           = 100 μA und einen Messwerkwiderstand R
+          <sub>M</sub>
+           = 1 kΩ.
+          <br />
+          Wie groß muss R
+          <sub>P</sub>
+           gewählt werden, damit das Messwerk in der Gesamtschaltung bei I = 100 mA Vollausschlag anzeigt?
+        </p>
+        <img src="Atj104" />
+      </text>
+      <answer correct="yes">1 Ω</answer>
+      <answer correct="no">10 Ω</answer>
+      <answer correct="no">0,1 Ω</answer>
+      <answer correct="no">100 Ω</answer>
+    </question>
+    

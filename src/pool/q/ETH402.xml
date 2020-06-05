@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH402" name="E/TH402">
+      <text>
+        <p>Fehlanpassungen oder Beschädigungen von HF-Übertragungsleitungen</p>
+      </text>
+      <answer correct="yes">führen zu Reflektionen des übertragenen HF-Signals und einem erhöhten VSWR.</answer>
+      <answer correct="no">führen zur einer Überbeanspruchung der angeschlossenen Antenne.</answer>
+      <answer correct="no">führen zu einem VSWR von kleiner oder gleich 1.</answer>
+      <answer correct="no">führen zur Erzeugung unerwünschter Aussendungen, da innerhalb der erforderlichen Bandbreite keine Anpassung gegeben ist.</answer>
+    </question>
+    

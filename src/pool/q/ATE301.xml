@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE301" name="A/TE301">
+      <text>
+        <p>Wie wird ein Sender mit einem 1200-Bd-Packet-Radio-Signal moduliert? Ein weit verbreitetes Verfahren ist, das Signal</p>
+      </text>
+      <answer correct="yes">im NF-Bereich zu erzeugen und auf den Mikrofoneingang des Senders zu geben.</answer>
+      <answer correct="no">mit einem digitalen Modulator zu erzeugen und auf den ZF-Eingang des Senders zu geben.</answer>
+      <answer correct="no">mit einem digitalen Modulator zu erzeugen und auf den CW-Eingang des Senders zu geben.</answer>
+      <answer correct="no">im NF-Bereich zu erzeugen und auf den PTTEingang des Senders zu geben.</answer>
+    </question>
+    

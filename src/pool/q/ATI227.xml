@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI227" name="A/TI227">
+      <text>
+        <p>
+          Wie groß ist die obere brauchbare Frequenz (MUF) und die optimale Frequenz f
+          <sub>opt</sub>
+           bei Verwendung einer Antenne, die einen Abstrahlwinkel von 45° hat, wenn die kritische Frequenz f
+          <sub>k</sub>
+           mit 3 MHz gemessen wurde?
+        </p>
+      </text>
+      <answer correct="yes">Die MUF liegt bei 4,2 MHz und fopt bei 3,6 MHz.</answer>
+      <answer correct="no">Die MUF liegt bei 2,1 MHz und fopt bei 1,8 MHz.</answer>
+      <answer correct="no">Die MUF liegt bei 2,1 MHz und fopt bei 2,5 MHz.</answer>
+      <answer correct="no">Die MUF liegt bei 4,2 MHz und fopt bei 4,9 MHz.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE217" name="A/TE217">
+      <text>
+        <p>Der typische Hub eines NBFM-Signals (Schmalband-FM) im Amateurfunk beträgt</p>
+      </text>
+      <answer correct="yes">3 kHz.</answer>
+      <answer correct="no">25 kHz.</answer>
+      <answer correct="no">7,5 kHz.</answer>
+      <answer correct="no">500 Hz.</answer>
+    </question>
+    

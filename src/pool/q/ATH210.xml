@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH210" name="A/TH210">
+      <text>
+        <p>Warum ist eine λ-5/8-Antenne besser als eine λ/4-Antenne für VHF-UHF-Mobilbetrieb geeignet?</p>
+      </text>
+      <answer correct="yes">Sie hat mehr Gewinn.</answer>
+      <answer correct="no">Sie verträgt mehr Leistung.</answer>
+      <answer correct="no">Sie ist leichter zu montieren.</answer>
+      <answer correct="no">Sie ist weniger störanfällig.</answer>
+    </question>
+    

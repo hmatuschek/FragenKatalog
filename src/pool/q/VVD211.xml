@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD211" name="V/VD211">
+      <text>
+        <p>Wann muss beim Amateurfunkverkehr das zugeteilte Rufzeichen übermittelt werden?</p>
+      </text>
+      <answer correct="yes">Bei Beginn und Ende jeder Funkverbindung sowie mindestens alle 10 Minuten während des Funkverkehrs.</answer>
+      <answer correct="no">Rufzeichen sind bei Bedarf am Beginn und Ende einer Funkverbindung anzugeben.</answer>
+      <answer correct="no">Rufzeichen sind bei länger andauernden oder ununterbrochenen Aussendungen nach Bedarf in die laufende Übermittlung einzustreuen.</answer>
+      <answer correct="no">Mindestens alle 20 Minuten während des Funkverkehrs.</answer>
+    </question>
+    

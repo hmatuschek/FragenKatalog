@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE109" name="V/VE109">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (17-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">18,068 MHz - 18,168 MHz</answer>
+      <answer correct="no">18,1 MHz - 18,15 MHz</answer>
+      <answer correct="no">18,89 MHz - 18,99 MHz</answer>
+      <answer correct="no">18,68 MHz - 19,99 MHz</answer>
+    </question>
+    

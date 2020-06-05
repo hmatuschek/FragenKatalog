@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE309" name="E/TE309">
+      <text>
+        <p>Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielsweise</p>
+      </text>
+      <answer correct="yes">einen PC mit Soundkarte und entsprechender Software.</answer>
+      <answer correct="no">einen Fernschreiber.</answer>
+      <answer correct="no">einen RTTY-Microcontroller.</answer>
+      <answer correct="no">eine Zusatzeinrichtung, die RTTY-Signale umwandelt und anschließend zwischenspeichert.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK105" name="A/TK105">
+      <text>
+        <p>In einem NF-Verstärker erfolgt die unerwünschte Gleichrichtung eines HF-Signals wahrscheinlich</p>
+      </text>
+      <answer correct="yes">an einem Basis-Emitter-Übergang.</answer>
+      <answer correct="no">an der Lautsprecherleitung.</answer>
+      <answer correct="no">an der Verbindung zweier Widerstände.</answer>
+      <answer correct="no">an einem Kupferdraht.</answer>
+    </question>
+    

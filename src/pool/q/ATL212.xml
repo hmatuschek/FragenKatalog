@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL212" name="A/TL212">
+      <text>
+        <p>Für Ihre Yagi-Antenne, die an einem hohen Mast befestigt ist, beträgt der Sicherheitsabstand in Hauptstrahlrichtung 20 m. Da die Antenne jedoch über gefährdete Orte hinweg strahlt, dringt nur ein Teil des Feldes in den Bereich unterhalb der Antenne. Sie ermitteln einen kritischen Winkel von 40° und ersehen im Strahlungsdiagramm der Antenne eine Winkeldämpfung von 6 dB. Auf welchen Wert verringert sich dann der Sicherheitsabstand?</p>
+      </text>
+      <answer correct="yes">Er verringert sich auf 10 m.</answer>
+      <answer correct="no">Er verringert sich auf 3,33 m.</answer>
+      <answer correct="no">Er verringert sich auf 5,02 m.</answer>
+      <answer correct="no">Er verringert sich nicht.</answer>
+    </question>
+    

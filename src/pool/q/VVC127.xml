@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC127" name="V/VC127">
+      <text>
+        <p>Welche der nachfolgenden Aussagen ist zutreffend?</p>
+      </text>
+      <answer correct="yes">Ein Funkamateur darf nur ein ihm von der Bundesnetzagentur zugeteiltes Rufzeichen benutzen.</answer>
+      <answer correct="no">Eine Amateurfunkstelle darf erst mit dem Erhalt des Amateurfunkzeugnisses betrieben werden.</answer>
+      <answer correct="no">Eine Amateurfunkstelle darf nur aus baumustergeprüften Funkgeräten bestehen.</answer>
+      <answer correct="no">Ein Zulassungsinhaber darf mit seiner Amateurfunkstelle jederzeit Nachrichten für und an Dritte übermitteln, die nicht den Amateurfunkdienst betreffen.</answer>
+    </question>
+    

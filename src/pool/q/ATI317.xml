@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI317" name="A/TI317">
+      <text>
+        <p>Welche Aussage ist für das Sonnenfleckenmaximum richtig?</p>
+      </text>
+      <answer correct="yes">Die MUF ist hoch.</answer>
+      <answer correct="no">Die LUF ist niedrig.</answer>
+      <answer correct="no">UKW-Wellen werden an der F2-Schicht reflektiert.</answer>
+      <answer correct="no">UKW-Wellen werden an der F1-Schicht reflektiert.</answer>
+    </question>
+    

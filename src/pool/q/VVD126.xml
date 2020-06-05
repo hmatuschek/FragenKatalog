@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD126" name="V/VD126">
+      <text>
+        <p>Wann hat ein Funkamateur der Bundesnetzagentur gemäß AFuV technische Unterlagen über seine Sendeanlage vorzulegen?</p>
+      </text>
+      <answer correct="yes">Auf Anforderung der Bundesnetzagentur.</answer>
+      <answer correct="no">Nur im Fall von elektromagnetischen Störungen.</answer>
+      <answer correct="no">Mit dem Erhalt der Amateurfunkzulassung.</answer>
+      <answer correct="no">Immer.</answer>
+    </question>
+    

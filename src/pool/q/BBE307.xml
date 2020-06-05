@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE307" name="B/BE307">
+      <text>
+        <p>Warum soll das "TX-Delay" beim Packet-Radio-Betrieb so kurz wie möglich eingestellt sein?</p>
+      </text>
+      <answer correct="yes">Um die Frequenz möglichst ökonomisch zu nutzen</answer>
+      <answer correct="no">TX-Delay dient zur Bevorzugung von Sendern mit kurzer Umschaltzeit</answer>
+      <answer correct="no">Zur Verlängerung der Akku-Lebensdauer von batteriebetriebenen Geräten</answer>
+      <answer correct="no">Um die Dauer eines QSO zu verkürzen</answer>
+    </question>
+    

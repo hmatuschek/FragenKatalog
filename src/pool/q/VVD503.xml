@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD503" name="V/VD503">
+      <text>
+        <p>Welche der folgenden Begriffsbestimmungen ist gemäß AFuV richtig wiedergegeben?</p>
+      </text>
+      <answer correct="yes">Eine "Funkbake" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die selbsttätig Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt.</answer>
+      <answer correct="no">Eine "fernbediente oder automatisch arbeitende Amateurfunkstelle" ist eine besetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (z.B. Amateurfunkstellen mit digitalen Betriebsarten).</answer>
+      <answer correct="no">Eine "Relaisfunkstelle" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet.</answer>
+      <answer correct="no">Eine "Funkbake" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt.</answer>
+    </question>
+    

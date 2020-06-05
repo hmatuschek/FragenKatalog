@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC306" name="E/TC306">
+      <text>
+        <p>Mit zunehmender Frequenz</p>
+      </text>
+      <answer correct="yes">steigt der Wechselstromwiderstand einer Spule.</answer>
+      <answer correct="no">sinkt der Wechselstromwiderstand einer Spule.</answer>
+      <answer correct="no">sinkt der Wechselstromwiderstand einer Spule bis zu einem Minimum und steigt dann wieder.</answer>
+      <answer correct="no">steigt der Wechselstromwiderstand einer Spule bis zu einem Maximum und sinkt dann wieder.</answer>
+    </question>
+    

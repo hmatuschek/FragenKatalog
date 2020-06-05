@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH414" name="A/TH414">
+      <text>
+        <p>Ein Halbwellendipol hat an seinem Einspeisepunkt eine Impedanz von 70 Ω. Er wird über ein λ/2-langes 300-Ω-Flachbandkabel gespeist. Wie groß ist die Impedanz am Eingang der Speiseleitung?</p>
+      </text>
+      <answer correct="yes">70 Ω.</answer>
+      <answer correct="no">185 Ω.</answer>
+      <answer correct="no">300 Ω.</answer>
+      <answer correct="no">370 Ω.</answer>
+    </question>
+    

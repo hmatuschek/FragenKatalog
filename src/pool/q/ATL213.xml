@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL213" name="A/TL213">
+      <text>
+        <p>Wann hat die folgende Formel zur Berechnung des Sicherheitsabstandes Gültigkeit und was sollten Sie tun, wenn die Gültigkeit nicht mehr sichergestellt ist?</p>
+        <img src="Atl213" />
+      </text>
+      <answer correct="yes"> Die Formel gilt nur für Abstände d&gt;λ/(2·π) bei Dipol-Antennen (Drahtdipole, Yagi-Antennen etc.). Für andere Antennenarten und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen, Nahfeldberechnungen oder Verfahren sein, die die Situation im reaktiven Nahfeld berücksichtigen.</answer>
+      <answer correct="no">Die angegebene Formel gilt nur im Nahfeld der Antenne d. h. für Abstände d&lt;λ/(2·π). Sie kann jedoch auch im Fernfeld verwendet werden, weil die damit errechneten Feldstärken stets höher liegen als die wirklich auftretenden Feldstärken, so dass die Sicherheit immer erhalten bleibt.</answer>
+      <answer correct="no">Im Bereich von Amateurfunkstellen ist der Unterschied zwischen Nah- und Fernfeld so gering, dass obige Formel, die zwar nur im Fernfeld gilt, trotzdem für alle Raumbereiche verwendet werden kann.</answer>
+      <answer correct="no">Die Formel gilt nur für Abstände d&gt;λ/(2·π) bei horizontal polarisierten Antennen. Bei vertikal oder zirkular polarisierten Antennen und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen,  Nahfeldberechnungen oder Verfahren sein, die Situation im reaktiven Nahfeld berücksichtigen.</answer>
+    </question>
+    

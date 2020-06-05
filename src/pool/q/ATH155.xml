@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH155" name="A/TH155">
+      <text>
+        <p>Eine λ/2-Dipol-Antenne soll für 7,1 MHz aus Draht gefertigt werden. Wie lang müssen die beiden Drähte der Dipolantenne sein? Es soll hier mit einem Korrekturfaktor von 0,95 gerechnet werden.</p>
+      </text>
+      <answer correct="yes">Je 10,03 m</answer>
+      <answer correct="no">Je 10,56 m</answer>
+      <answer correct="no">Je 20,07 m</answer>
+      <answer correct="no">Je 21,13 m</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD418" name="A/TD418">
+      <text>
+        <p>Ein HF-Leistungsverstärker hat eine Verstärkung von 16 dB. Welche HF-Ausgangsleistung ist zu erwarten, wenn der Verstärker mit 1 W HF-Eingangsleistung angesteuert wird?</p>
+      </text>
+      <answer correct="yes">40 W</answer>
+      <answer correct="no">4 W</answer>
+      <answer correct="no">16 W</answer>
+      <answer correct="no">1 W</answer>
+    </question>
+    

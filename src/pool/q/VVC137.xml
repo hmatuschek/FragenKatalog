@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC137" name="V/VC137">
+      <text>
+        <p>Kann der Funkamateur eine Standortbescheinigung erhalten?</p>
+      </text>
+      <answer correct="yes">Ja, die Bundesnetzagentur stellt auf Antrag eine Standortbescheinigung aus.</answer>
+      <answer correct="no">Nein, der Funkamateur kann keine Bescheinigung erhalten.</answer>
+      <answer correct="no">Nein, der Funkamateur bekommt keine Standortbescheinigung, da er auf Grund seiner nachgewiesenen technischen Kenntnisse die Berechnung selber anstellen kann.</answer>
+      <answer correct="no">Ja, die Bundesnetzagentur stellt auf Antrag eine Standortbescheinigung aus. Sie tut dies aber ausschließlich, wenn der Funkamateur dazu selbst nicht in der Lage ist.</answer>
+    </question>
+    

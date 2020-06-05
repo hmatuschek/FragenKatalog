@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD507" name="V/VD507">
+      <text>
+        <p>Was gilt gemäß AFuV bei Relaisfunkstellen?</p>
+      </text>
+      <answer correct="yes">Der Inhaber der Rufzeichenzuteilung muss sicherstellen, dass die Relaisfunkstelle jederzeit abgeschaltet werden kann.</answer>
+      <answer correct="no">Ein vorgeschriebenes Mindestalter des Rufzeicheninhabers.</answer>
+      <answer correct="no">Das Rufzeichen der Relaisfunkstelle muss nach einer mehr als 10-minütigen Sendepause wiederholt werden.</answer>
+      <answer correct="no">Ein durchlaufender Betrieb des Senders länger als 10 Minuten ist nicht zulässig.</answer>
+    </question>
+    

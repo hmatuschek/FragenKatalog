@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB119" name="V/VB119">
+      <text>
+        <p>Darf ein Funkamateur mit einer gültigen deutschen Amateurfunkzulassung der Klasse A auch im Gastland Amateurfunkverkehr auf dem 6-m-Band durchführen?</p>
+      </text>
+      <answer correct="yes">Nicht grundsätzlich. Der Funkamateur hat sich generell an die Bestimmungen des Gastlandes im Rahmen seiner CEPT-Amateurfunkgenehmigung zu halten.</answer>
+      <answer correct="no">Ja. Die Genehmigung für den Betrieb im 6-m-Band muss jedoch in seine Amateurfunkzulassung eingetragen sein.</answer>
+      <answer correct="no">Ja, aber nur, wenn der Funkamateur eine CEPT-Amateurfunkgenehmigung besitzt.</answer>
+      <answer correct="no">Nein. Der Betrieb im 6-m-Band ist grundsätzlich unzulässig.</answer>
+    </question>
+    

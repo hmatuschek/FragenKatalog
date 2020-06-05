@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB207" name="B/BB207">
+      <text>
+        <p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen "QRM", "QRN" und "QSB?" ?</p>
+      </text>
+      <answer correct="yes">Ich werde gestört. Ich habe atmosphärische Störungen. Schwankt die Stärke meiner Zeichen?</answer>
+      <answer correct="no">Ich habe Störungen. Sie haben Schwankungen Ihrer Zeichen. Werden Sie gestört?</answer>
+      <answer correct="no">Ich habe atmosphärische Störungen. Ich werde gestört. Schwankt die Stärke meiner Zeichen?</answer>
+      <answer correct="no">Die Stärke Ihrer Zeichen schwankt. Ich werde gestört. Haben Sie atmosphärische Störungen?</answer>
+    </question>
+    

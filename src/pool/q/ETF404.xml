@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF404" name="E/TF404">
+      <text>
+        <p>Ein Funkamateur kommt laut S-Meter mit S7 an. Dann schaltet er seine Endstufe ein und bittet um einen erneuten Rapport. Das S-Meter zeigt S9+8dB. Um welchen Faktor müsste der Funkamateur seine Leistung erhöht haben?</p>
+      </text>
+      <answer correct="yes">100-fach</answer>
+      <answer correct="no">20-fach</answer>
+      <answer correct="no">10-fach</answer>
+      <answer correct="no">120-fach</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH407" name="A/TH407">
+      <text>
+        <p>Ein Dipol mit einem Fußpunktwiderstand von 60 Ω soll über eine λ/4-Transformationsleitung mit einem 240-Ω-Flachbandkabel gespeist werden. Welchen Wellenwiderstand muss die Transformationsleitung haben?</p>
+      </text>
+      <answer correct="yes">120 Ω</answer>
+      <answer correct="no">247 Ω</answer>
+      <answer correct="no">232 Ω</answer>
+      <answer correct="no">300 Ω</answer>
+    </question>
+    

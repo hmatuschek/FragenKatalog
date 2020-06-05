@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH106" name="E/TH106">
+      <text>
+        <p>
+          Welche Antenne gehört
+          <u>nicht</u>
+           zu den symmetrischen Antennen?
+        </p>
+      </text>
+      <answer correct="yes">Groundplane</answer>
+      <answer correct="no">Faltdipol</answer>
+      <answer correct="no">Yagi</answer>
+      <answer correct="no">λ/2-Dipol</answer>
+    </question>
+    

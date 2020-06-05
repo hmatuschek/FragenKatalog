@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ210" name="A/TJ210">
+      <text>
+        <p>Mit einem Dipmeter soll auf indirektem Wege eine Induktivität gemessen werden. Die Spule wurde zu einem Kondensator von 330 pF parallel geschaltet und bei 5,5 MHz Resonanz festgestellt. Welche Induktivität hat die Spule?</p>
+      </text>
+      <answer correct="yes">2,5 μH</answer>
+      <answer correct="no">5,7 mH</answer>
+      <answer correct="no">2,5 mH</answer>
+      <answer correct="no">5,7 μH</answer>
+    </question>
+    

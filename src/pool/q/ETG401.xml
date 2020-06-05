@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG401" name="E/TG401">
+      <text>
+        <p>Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist?</p>
+      </text>
+      <answer correct="yes">Leiser ins Mikrofon sprechen</answer>
+      <answer correct="no">Mehr Leistung verwenden</answer>
+      <answer correct="no">Weniger Leistung verwenden</answer>
+      <answer correct="no">Lauter ins Mikrofon sprechen</answer>
+    </question>
+    

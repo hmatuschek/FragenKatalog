@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ304" name="A/TJ304">
+      <text>
+        <p>Welches Gerät kann für die Prüfung einer Signalform verwendet werden?</p>
+      </text>
+      <answer correct="yes">Oszilloskop</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Frequenzzähler</answer>
+      <answer correct="no">Dipmeter</answer>
+    </question>
+    

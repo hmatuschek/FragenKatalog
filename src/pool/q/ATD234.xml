@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD234" name="A/TD234">
+      <text>
+        <p>Ein Quarzfilter mit einer der 3-dB-Bandbreite von 500 Hz eignet sich besonders zur Verwendung in einem Sendeempfänger für</p>
+      </text>
+      <answer correct="yes">CW.</answer>
+      <answer correct="no">SSB.</answer>
+      <answer correct="no">AM.</answer>
+      <answer correct="no">FM.</answer>
+    </question>
+    

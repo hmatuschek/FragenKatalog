@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVK102" name="V/VK102">
+      <text>
+        <p>Welche regelmäßigen Beiträge hat der Funkamateur zu entrichten?</p>
+      </text>
+      <answer correct="yes">Frequenznutzungsbeitrag und EMV-Beitrag.</answer>
+      <answer correct="no">Beiträge nach Anlage 3 der Amateurfunkverordnung.</answer>
+      <answer correct="no">Den monatlichen Genehmigungsbeitrag.</answer>
+      <answer correct="no">Keine Beiträge.</answer>
+    </question>
+    

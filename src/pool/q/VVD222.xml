@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD222" name="V/VD222">
+      <text>
+        <p>Was trifft für das Rufzeichen "DA5AA" zu?</p>
+      </text>
+      <answer correct="yes">Rufzeichen für Zuteilungen gemäß § 16 Abs. 2 der AFuV.</answer>
+      <answer correct="no">Rufzeichen für exterritoriale Standorte.</answer>
+      <answer correct="no">Rufzeichen für Personal der Gaststreitkräfte.</answer>
+      <answer correct="no">Rufzeichen für Klubstationen.</answer>
+    </question>
+    

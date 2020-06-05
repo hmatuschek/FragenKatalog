@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD201" name="E/TD201">
+      <text>
+        <p>Der Impedanzfrequenzgang in der Abbildung zeigt die Kennlinie</p>
+        <img src="ETD201" />
+      </text>
+      <answer correct="yes">eines Serienschwingkreises.</answer>
+      <answer correct="no">eines Parallelschwingkreises.</answer>
+      <answer correct="no">einer Induktivität.</answer>
+      <answer correct="no">einer Kapazität.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE112" name="B/BE112">
+      <text>
+        <p>Was ist beim Morsetelegrafie-Funkverkehr mit einem offensichtlichen Anfänger zu beachten?</p>
+      </text>
+      <answer correct="yes">Ich passe mich bei der Verkehrsabwicklung dem Gebetempo des Anfängers an.</answer>
+      <answer correct="no">Ich führe nur eine kurze Verbindung um ihn nicht zu sehr zu belasten.</answer>
+      <answer correct="no">Ich gebe alle Zeichen doppelt.</answer>
+      <answer correct="no">Ich wiederhole alle Angaben dreimal mit langsamem Gebetempo.</answer>
+    </question>
+    

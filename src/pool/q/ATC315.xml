@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC315" name="A/TC315">
+      <text>
+        <p>Was verstehen Sie unter dem technischen Ausdruck Skin-Effekt?</p>
+      </text>
+      <answer correct="yes">Als Skin-Effekt bezeichnet man die Erscheinung, dass sich mit steigender Frequenz der Elektronenstrom mehr und mehr zur Oberfläche eines Leiters hin verlagert. Dadurch erhöht sich mit steigender Frequenz der ohmsche Leiterwiderstand.</answer>
+      <answer correct="no">Als Skin-Effekt bezeichnet man die Erscheinung, dass sich mit steigender Frequenz der Elektronenstrom mehr und mehr zu den Kanten eines Kondensators hin verlagert. Dadurch erhöht sich mit steigender Frequenz die Kapazität.</answer>
+      <answer correct="no">Als Skin-Effekt bezeichnet man die Erscheinung, dass sich mit steigender Frequenz die Induktivität und die Kapazität eines Leiters erhöht. Dadurch erhöht sich mit steigendem Leiterwiderstand die Resonanzfrequenz.</answer>
+      <answer correct="no">Als Skin-Effekt bezeichnet man die Erscheinung, dass sich mit steigender Frequenz der Elektronenstrom mehr und mehr zur Leitermitte hin verlagert. Dadurch erhöht sich der ohmsche Leiterwiderstand bei hohem Wechselstromanteil.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG515" name="A/TG515">
+      <text>
+        <p>Die Ausgangsleistungsanzeige eines HF-Verstärkers zeigt beim Abstimmen geringfügige sprunghafte Schwankungen. Wodurch werden diese Schwankungen möglicherweise hervorgerufen? Sie werden möglicherweise hervorgerufen durch</p>
+      </text>
+      <answer correct="yes">parasitäre Schwingungen.</answer>
+      <answer correct="no">die Stromversorgung.</answer>
+      <answer correct="no">Temperaturschwankungen im Netzteil.</answer>
+      <answer correct="no">vom Wind verursachte Bewegungen der Antenne.</answer>
+    </question>
+    

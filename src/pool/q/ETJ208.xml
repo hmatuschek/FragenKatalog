@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ208" name="E/TJ208">
+      <text>
+        <p>Welches dieser Messgeräte ist für genaue Frequenzmessungen am besten geeignet?</p>
+      </text>
+      <answer correct="yes">Ein Frequenzzähler</answer>
+      <answer correct="no">Ein Resonanzwellenmesser</answer>
+      <answer correct="no">Ein Oszilloskop</answer>
+      <answer correct="no">Ein Universalmessgerät</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE304" name="A/TE304">
+      <text>
+        <p>Wie erfolgt die Datenübertragung bei Packet-Radio?</p>
+      </text>
+      <answer correct="yes">Die Daten werden paketweise gesendet. Der Beginn eines Paketes wird durch ein Synchronisationszeichen eingeleitet. Der Takt wird im Empfänger aus den Daten zurückgewonnen.</answer>
+      <answer correct="no">Die Daten werden paketweise gesendet. Am Anfang erfolgt ein Startzeichen und am Ende ein Stoppzeichen.</answer>
+      <answer correct="no">Die Daten werden parallel ausgesendet. Der Takt wird im Empfänger aus den Daten zurückgewonnen.</answer>
+      <answer correct="no">Die Daten werden seriell ausgesendet. Es ist ein asynchrones Verfahren.</answer>
+    </question>
+    

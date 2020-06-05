@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD321" name="A/TD321">
+      <text>
+        <p>Welche Grundfrequenz hat die Ausgangsspannung eines Vollweggleichrichters, der an eine 50-Hz-Versorgung angeschlossen ist?</p>
+      </text>
+      <answer correct="yes">100 Hz</answer>
+      <answer correct="no">50 Hz</answer>
+      <answer correct="no">25 Hz</answer>
+      <answer correct="no">200 Hz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI218" name="A/TI218">
+      <text>
+        <p>Backscatter oder Rückstreuung kann auftreten, wenn</p>
+      </text>
+      <answer correct="yes">Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz weit über der MUF liegt.</answer>
+      <answer correct="no">Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz etwas oberhalb der MUF liegt.</answer>
+      <answer correct="no">Inhomogenitäten in der Ionosphäre oder Troposphäre auftreten und die Betriebsfrequenz etwas oberhalb der LUF liegt.</answer>
+      <answer correct="no">intensive Korpuskularstrahlung in der Exosphäre eine ionisierte Schicht aufbaut und die Betriebsfrequenz etwas unterhalb der MUF liegt.</answer>
+    </question>
+    

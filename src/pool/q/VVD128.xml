@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD128" name="V/VD128">
+      <text>
+        <p>Rufzeichenzuteilungen für besondere experimentelle und technisch-wissenschaftliche Studien gemäß § 16 Abs. 2 der AFuV sind Zuteilungen,</p>
+      </text>
+      <answer correct="yes">die Ausnahmen von den technischen und betrieblichen Rahmenbedingungen der AFuV zulassen.</answer>
+      <answer correct="no">die Ausnahmen vom Rufzeichenplan zulassen.</answer>
+      <answer correct="no">die Ausnahmen im Ausbildungsfunkbetrieb zulassen.</answer>
+      <answer correct="no">die Ausnahmen zur Nutzung von gewerblichwirtschaftlichen Zwecken zulassen.</answer>
+    </question>
+    

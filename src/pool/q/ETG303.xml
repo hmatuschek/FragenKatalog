@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG303" name="E/TG303">
+      <text>
+        <p>Die Ausgangsleistung eines Senders ist</p>
+      </text>
+      <answer correct="yes">die unmittelbar nach dem Senderausgang messbare Leistung, bevor sie Zusatzgeräte (z.B. Anpassgeräte) durchläuft.</answer>
+      <answer correct="no">die unmittelbar nach dem Senderausgang gemessene Differenz aus vorlaufender und rücklaufender Leistung.</answer>
+      <answer correct="no">die unmittelbar nach den erforderlichen Zusatzgeräten (z.B. Anpassgeräte) messbare Leistung.</answer>
+      <answer correct="no">die unmittelbar nach dem Senderausgang gemessene Summe aus vorlaufender und rücklaufender Leistung.</answer>
+    </question>
+    

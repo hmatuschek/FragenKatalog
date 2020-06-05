@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH110" name="E/TH110">
+      <text>
+        <p>
+          Sie wollen eine Zweibandantenne für 160 und 80 m selbst bauen. Welche der folgenden Antworten enthält die richtige Drahtlänge l zwischen den Schwingkreisen und die richtige Resonanzfrequenz f
+          <sub>res</sub>
+           der Kreise?
+        </p>
+        <img src="ETH110" />
+      </text>
+      <answer correct="yes">
+        l beträgt zirka 40 m, f
+        <sub>res</sub>
+         liegt bei zirka 3,65 MHz.
+      </answer>
+      <answer correct="no">
+        l beträgt zirka 80 m, f
+        <sub>res</sub>
+         liegt bei zirka 3,65 MHz.
+      </answer>
+      <answer correct="no">
+        l beträgt zirka 40 m, f
+        <sub>res</sub>
+         liegt bei zirka 1,85 MHz.
+      </answer>
+      <answer correct="no">
+        l beträgt zirka 80 m, f
+        <sub>res</sub>
+         liegt bei zirka 1,85 MHz.
+      </answer>
+    </question>
+    

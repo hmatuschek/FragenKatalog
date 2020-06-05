@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF202" name="A/TF202">
+      <text>
+        <p>In dieser Schaltung können bei einer Empfangsfrequenz von 28,3 MHz und einer Oszillatorfrequenz von 39 MHz Spiegelfrequenzstörungen bei</p>
+        <img src="Atf202" />
+      </text>
+      <answer correct="yes">49,7 MHz auftreten.</answer>
+      <answer correct="no">39 MHz auftreten.</answer>
+      <answer correct="no">67,3 MHz auftreten.</answer>
+      <answer correct="no">17,6 MHz auftreten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVK105" name="V/VK105">
+      <text>
+        <p>Darf eine Amateurfunkstelle auch an Bord eines Luftfahrzeuges betrieben werden?</p>
+      </text>
+      <answer correct="yes">Ja, beispielsweise mit der Zustimmung des verantwortlichen Luftfahrzeugführers oder der zuständigen Luftfahrtbehörde.</answer>
+      <answer correct="no">Ja, die Zulassung zur Teilnahme am Amateurfunkdienst gilt für alle portablen und mobilen Einsätze von Amateurfunkstellen.</answer>
+      <answer correct="no">Ja, mit einer entsprechenden Sondergenehmigung der Bundesnetzagentur.</answer>
+      <answer correct="no">Ja, aber nur von Zulassungsinhabern der Klasse A, wenn für den Funkverkehr eine schon in das Luftfahrzeug installierte Funkstelle verwendet wird.</answer>
+    </question>
+  

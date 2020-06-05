@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD504" name="V/VD504">
+      <text>
+        <p>Was ist notwendig, damit ein Funkamateur eine Amateurfunkstelle als Relaisfunkstelle oder Funkbake betreiben darf?</p>
+      </text>
+      <answer correct="yes">Eine Rufzeichenzuteilung für den Betrieb einer fernbedienten oder automatisch arbeitenden Amateurfunkstelle.</answer>
+      <answer correct="no">Die Meldung des Standortes bei der Bundesnetzagentur, sofern die Relaisfunkstelle oder Funkbake nicht an einem bereits gemeldeten Standort betrieben wird.</answer>
+      <answer correct="no">Für den Betrieb einer Relaisfunkstelle oder Funkbake ist der mindestens 2-jährige Besitz einer gültigen Amateurfunkzulassung erforderlich.</answer>
+      <answer correct="no">Der Betrieb sowie die technischen Parameter müssen der Bundesnetzagentur vor der Betriebsaufnahme schriftlich mitgeteilt werden.</answer>
+    </question>
+    

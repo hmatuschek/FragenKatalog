@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH303" name="A/TH303">
+      <text>
+        <p>Im Amateurfunk übliche Koaxialkabel weisen typischerweise Wellenwiderstände von</p>
+      </text>
+      <answer correct="yes">50, 60 und 75 Ω auf.</answer>
+      <answer correct="no">50, 300 und 600 Ω auf.</answer>
+      <answer correct="no">60, 120 und 240 Ω auf.</answer>
+      <answer correct="no">50, 75 und 240 Ω auf.</answer>
+    </question>
+    

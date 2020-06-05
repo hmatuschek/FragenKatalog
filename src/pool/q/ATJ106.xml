@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ106" name="A/TJ106">
+      <text>
+        <p>
+          Wie groß muss R
+          <sub>P</sub>
+           bei der folgenden Schaltung gewählt werden, wenn I = 1 A zum Vollausschlag des Instruments mit 300 Ω Innenwiderstand führen soll?
+        </p>
+        <img src="Atj105" />
+      </text>
+      <answer correct="yes">0,3 Ω</answer>
+      <answer correct="no">0,03 Ω</answer>
+      <answer correct="no">3 Ω</answer>
+      <answer correct="no">30 Ω</answer>
+    </question>
+    

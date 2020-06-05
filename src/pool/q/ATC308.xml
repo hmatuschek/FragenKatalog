@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC308" name="A/TC308">
+      <text>
+        <p>Hat ein gerades Leiterstück eine Induktivität?</p>
+      </text>
+      <answer correct="yes">Ja, jeder Leiter, gleich welche Form er hat, weist eine Induktivität auf.</answer>
+      <answer correct="no">Nein, der Leiter muss wenigstens eine Krümmung (eine viertel, halbe oder ganze Windung) aufweisen.</answer>
+      <answer correct="no">Ja, aber die Größe der Induktivität hängt vom spezifischen Widerstand des Leitermaterials ab.</answer>
+      <answer correct="no">Ja, aber nicht immer, denn abgeschirmte Leiter, beispielsweise Koaxialkabel und Streifenleitungen, weisen nur eine Kapazität auf.</answer>
+    </question>
+    

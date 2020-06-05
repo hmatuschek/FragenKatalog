@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD704" name="A/TD704">
+      <text>
+        <p>Welche Baugruppen muss eine Phasenregelschleife (PLL) mindestens enthalten?</p>
+      </text>
+      <answer correct="yes">Einen VCO, einen Tiefpass und einen Phasenvergleicher</answer>
+      <answer correct="no">Einen VCO, einen Hochpass und einen Phasenvergleicher</answer>
+      <answer correct="no">Einen Phasenvergleicher, einen Tiefpass und einen Frequenzteiler</answer>
+      <answer correct="no">Einen Phasenvergleicher, einen Hochpass und einen Frequenzteiler</answer>
+    </question>
+    

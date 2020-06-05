@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC720" name="A/TC720">
+      <text>
+        <p>Berechnen Sie den dezimalen Wert der 8-Bit-Dualzahl 10001110. Die Dezimalzahl lautet</p>
+      </text>
+      <answer correct="yes">142.</answer>
+      <answer correct="no">78.</answer>
+      <answer correct="no">156.</answer>
+      <answer correct="no">248.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF442" name="A/TF442">
+      <text>
+        <p>Was bedeutet die Rauschzahl von 1,8 dB bei einem UHF-Vorverstärker? Das Ausgangssignal des Vorverstärkers hat ein</p>
+      </text>
+      <answer correct="yes">um 1,8 dB geringeres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um 1,8 dB höheres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um etwa 151 % höheres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+      <answer correct="no">um etwa 66 % geringeres Signal-Rauschverhältnis als das Eingangssignal.</answer>
+    </question>
+    

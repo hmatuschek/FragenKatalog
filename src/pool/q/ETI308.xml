@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI308" name="E/TI308">
+      <text>
+        <p>Welche Betriebsart eignet sich am besten für Auroraverbindungen?</p>
+      </text>
+      <answer correct="yes">CW</answer>
+      <answer correct="no">SSB</answer>
+      <answer correct="no">FM</answer>
+      <answer correct="no">PSK31</answer>
+    </question>
+    

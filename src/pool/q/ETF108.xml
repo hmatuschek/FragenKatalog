@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF108" name="E/TF108">
+      <text>
+        <p>Eine schmale Empfängerbandbreite führt im allgemeinen zu einer</p>
+      </text>
+      <answer correct="yes">hohen Trennschärfe.</answer>
+      <answer correct="no">fehlenden Trennschärfe.</answer>
+      <answer correct="no">unzulänglichen Trennschärfe.</answer>
+      <answer correct="no">schlechten Demodulation.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF420" name="A/TF420">
+      <text>
+        <p>Welchem Zweck dient ein BFO in einem Empfänger?</p>
+      </text>
+      <answer correct="yes">Zur Trägererzeugung, um A1A-Signale hörbar zu machen.</answer>
+      <answer correct="no">Zur Mischung mit einem Empfangssignal zur Erzeugung der ZF.</answer>
+      <answer correct="no">Zur Unterdrückung der Amplitudenüberlagerung.</answer>
+      <answer correct="no">Um FM-Signale zu unterdrücken.</answer>
+    </question>
+    

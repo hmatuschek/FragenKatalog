@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH102" name="A/TH102">
+      <text>
+        <p>Welche Aussage zur Strom- und Spannungsverteilung auf einem Dipol ist richtig?</p>
+      </text>
+      <answer correct="yes">An den Enden eines Dipols entsteht immer ein Stromknoten und ein Spannungsbauch.</answer>
+      <answer correct="no">An den Enden eines Dipols entsteht immer ein Spannungsknoten und ein Strombauch.</answer>
+      <answer correct="no">Am Einspeisepunkt eines Dipols entsteht immer ein Spannungsknoten und ein Strombauch.</answer>
+      <answer correct="no">Am Einspeisepunkt eines Dipols entsteht immer ein Spannungsbauch und ein Stromknoten.</answer>
+    </question>
+    

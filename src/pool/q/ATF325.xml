@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF325" name="A/TF325">
+      <text>
+        <p>Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC?</p>
+      </text>
+      <answer correct="yes">Automatische Verstärkungsregelung</answer>
+      <answer correct="no">Hilfspegelbegrenzung</answer>
+      <answer correct="no">Automatische Gleichlaufsteuerung</answer>
+      <answer correct="no">Wechselstromverstärkung</answer>
+    </question>
+    

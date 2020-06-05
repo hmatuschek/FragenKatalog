@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATL215" name="A/TL215">
+      <text>
+        <p>Sie betreiben eine Amateurfunkstelle auf dem 2-m-Band mit einer Rundstrahlantenne mit 6 dB Gewinn über dem Dipol. Wie hoch darf die maximale Ausgangsleistung Ihres Senders unter Vernachlässigung der Kabeldämpfung sein, wenn der Grenzwert für den Personenschutz 28 V/m und der zur Verfügung stehende Sicherheitsabstand 5 m beträgt.</p>
+      </text>
+      <answer correct="yes">ca. 100 Watt</answer>
+      <answer correct="no">ca. 75 Watt</answer>
+      <answer correct="no">ca. 160 Watt</answer>
+      <answer correct="no">ca. 265 Watt</answer>
+    </question>
+    

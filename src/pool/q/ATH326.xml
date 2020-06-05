@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH326" name="A/TH326">
+      <text>
+        <p>Was zeigt diese Darstellung?</p>
+        <img src="Ath326" />
+      </text>
+      <answer correct="yes">Sie zeigt die Strom- und Spannungsverteilung an einer offenen λ/4-Lecherleitung. Sie wirkt als Reihenschwingkreis.</answer>
+      <answer correct="no">Sie zeigt die Strom- und Spannungsverteilung an einer Antennenspeiseleitung. Die Antenne arbeitet als Serienresonanzkreis.</answer>
+      <answer correct="no">Sie zeigt die Strom- und Spannungsverteilung an einer Antenne. Die Antenne arbeitet als Groundplane mit Verkürzungskondensator.</answer>
+      <answer correct="no">Sie zeigt die Strom- und Spannungsverteilung an den Radialen einer Groundplane. Die Antenne arbeitet mit Verlängerungsspule zur Resonanzanpassung.</answer>
+    </question>
+    

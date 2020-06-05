@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD102" name="V/VD102">
+      <text>
+        <p>Welche der folgenden Begriffsbestimmungen ist entsprechend der AFuV richtig wiedergegeben?</p>
+      </text>
+      <answer correct="yes">Eine "fernbediente oder automatisch arbeitende Amateurfunkstelle" ist eine unbesetzt betriebene Amateurfunkstelle, die fernbedient oder selbsttätig Aussendungen erzeugt (Relaisfunkstellen, Digipeater, Funkbaken usw.).</answer>
+      <answer correct="no">Eine "Klubstation" ist eine Amateurfunkstelle einer Amateurfunkvereinigung, die von deren Mitgliedern unter dem zugeteilten Rufzeichen besetzt oder unbesetzt betrieben werden kann.</answer>
+      <answer correct="no">Eine "Relaisfunkstelle" ist eine automatisch arbeitende Amateurfunk-Sendeanlage (auch in Satelliten), die Amateurfunkaussendungen, Teile davon oder sonstige eingespeiste oder eingespeicherte Signale automatisch aussendet.</answer>
+      <answer correct="no">Eine "Funkbake" ist eine fernbediente Amateurfunkstelle (auch in Satelliten), die ferngesteuert Aussendungen zur Feldstärkebeobachtung oder zu Empfangsversuchen erzeugt.</answer>
+    </question>
+    

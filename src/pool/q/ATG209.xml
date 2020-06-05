@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG209" name="A/TG209">
+      <text>
+        <p>Beim Bau eines VFO sollte die Spule</p>
+      </text>
+      <answer correct="yes">in einer Position angeordnet werden, die möglichst geringen Temperaturschwankungen unterworfen ist.</answer>
+      <answer correct="no">locker um einen Keramikkern gewickelt werden.</answer>
+      <answer correct="no">neben einem Ventilator angebracht werden um sie zu kühlen.</answer>
+      <answer correct="no">so fest wie möglich um einen Kern aus rostfreiem Stahl gewickelt werden.</answer>
+    </question>
+    

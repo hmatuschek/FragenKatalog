@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK115" name="A/TK115">
+      <text>
+        <p>Während des Betriebs eines tragbaren KW-Transceivers mit Batterieversorgung treten zu Hause und unter Verwendung der ortsfesten Antenne bei einer elektronischen Orgel Störungen auf. Eine mögliche Ursache hierfür</p>
+      </text>
+      <answer correct="yes">ist unzureichende HF-Erdung.</answer>
+      <answer correct="no">ist die Erzeugung von Subharmonischen am Sender.</answer>
+      <answer correct="no">sind sehr starke Empfangssignale.</answer>
+      <answer correct="no">ist die mangelhafte Stromversorgung des Senders.</answer>
+    </question>
+    

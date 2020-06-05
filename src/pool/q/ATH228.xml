@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH228" name="A/TH228">
+      <text>
+        <p>An einen Sender mit 100 W Ausgangsleistung ist eine Antenne mit einem Gewinn von 11 dBi angeschlossen. Die Dämpfung des Kabels beträgt 1 dB. Wie hoch ist die äquivalente Strahlungsleistung (EIRP)?</p>
+      </text>
+      <answer correct="yes">1000 Watt</answer>
+      <answer correct="no">100 Watt</answer>
+      <answer correct="no">111 Watt</answer>
+      <answer correct="no">1110 Watt</answer>
+    </question>
+    

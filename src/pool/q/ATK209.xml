@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK209" name="A/TK209">
+      <text>
+        <p>Um Bandbreite einzusparen sollte der Frequenzumfang eines NF-Sprachsignals, das an einen Modulator angelegt wird,</p>
+      </text>
+      <answer correct="yes">3 kHz nicht überschreiten.</answer>
+      <answer correct="no">1 kHz nicht überschreiten.</answer>
+      <answer correct="no">800 Hz nicht überschreiten.</answer>
+      <answer correct="no">15 kHz nicht überschreiten.</answer>
+    </question>
+    

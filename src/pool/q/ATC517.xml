@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC517" name="A/TC517">
+      <text>
+        <p>Folgende Schaltung einer Stabilisierungsschaltung mit Z-Diode ist gegeben. Der Strom durch die Z-Diode soll 25 mA betragen und der Laststrom ist 20 mA. Der Wert des notwendigen Vorwiderstandes beträgt</p>
+        <img src="Atc517" />
+      </text>
+      <answer correct="yes">202 Ω.</answer>
+      <answer correct="no">364 Ω.</answer>
+      <answer correct="no">188 Ω.</answer>
+      <answer correct="no">235 Ω.</answer>
+    </question>
+    

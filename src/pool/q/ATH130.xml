@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH130" name="A/TH130">
+      <text>
+        <p>Wie wird die folgende Antenne in der Amateurfunkliteratur bezeichnet?</p>
+        <img src="Ath130" />
+      </text>
+      <answer correct="yes">Sie wird Windom-Antenne genannt.</answer>
+      <answer correct="no">Sie wird Fuchs-Antenne genannt.</answer>
+      <answer correct="no">Sie wird Zeppelin-Antenne genannt.</answer>
+      <answer correct="no">Sie wird Marconi-Antenne genannt.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ816" name="A/TJ816">
+      <text>
+        <p>Wenn ein Frequenzzähler für die Überprüfung der Frequenz eines Senders verwendet wird, ist</p>
+      </text>
+      <answer correct="yes">ein Träger ohne Modulation zu verwenden.</answer>
+      <answer correct="no">der Zähler an den Netztransformator zu synchronisieren.</answer>
+      <answer correct="no">der Zähler mit der Sendefrequenz zu synchronisieren.</answer>
+      <answer correct="no">eine analoge Modulation des Trägers zu verwenden.</answer>
+    </question>
+    

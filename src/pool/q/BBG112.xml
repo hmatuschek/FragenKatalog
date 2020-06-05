@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG112" name="B/BG112">
+      <text>
+        <p>HZ1AB sagte Ihnen "QSL via K8PYD". Was würden Sie tun, um die QSL-Karte von HZ1AB zu erhalten?</p>
+      </text>
+      <answer correct="yes">Ich sende meine QSL-Karte an K8PYD, weil dieser der QSL-Manager von HZ1AB ist.</answer>
+      <answer correct="no">Ich muss meine QSL-Karte an HZ1AB senden, weil K8PYD der QSO-Partner war.</answer>
+      <answer correct="no">Ich schaue im Callbook nach der Adresse von HZ1AB und schicke ihm die Karte direkt.</answer>
+      <answer correct="no">Ich warte, bis HZ1AB die Karte an K8PYD geschickt hat.</answer>
+    </question>
+    

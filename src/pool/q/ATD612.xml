@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD612" name="A/TD612">
+      <text>
+        <p>Wie verhält sich die Frequenz eines Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg ebenfalls ansteigt?</p>
+      </text>
+      <answer correct="yes">Die Frequenz verringert sich.</answer>
+      <answer correct="no">Die Schwingungen reißen ab (Aussetzer).</answer>
+      <answer correct="no">Die Frequenz erhöht sich.</answer>
+      <answer correct="no">Die Frequenz bleibt stabil .</answer>
+    </question>
+    

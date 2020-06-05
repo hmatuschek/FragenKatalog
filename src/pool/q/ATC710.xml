@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC710" name="A/TC710">
+      <text>
+        <p>In welchem Versorgungsspannungsbereich können CMOS-ICs betrieben werden?</p>
+      </text>
+      <answer correct="yes">+3 V bis +15 V</answer>
+      <answer correct="no">+2,5 V bis +5,5 V</answer>
+      <answer correct="no">±2,5 bis ±5,5 V</answer>
+      <answer correct="no">± 5 V</answer>
+    </question>
+    

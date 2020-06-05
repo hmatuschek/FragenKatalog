@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC305" name="A/TC305">
+      <text>
+        <p>Wie groß ist der Wechselstromwiderstand einer Spule mit 3 μH Induktivität bei einer Frequenz von 100 MHz?</p>
+      </text>
+      <answer correct="yes">1885 Ω</answer>
+      <answer correct="no">942 Ω</answer>
+      <answer correct="no">1885 kΩ</answer>
+      <answer correct="no">1,9 Ω</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ405" name="A/TJ405">
+      <text>
+        <p>Welches dieser Instrumente kann für die Anzeige der Anpassung zwischen einem UHF-Sender und der Speiseleitung verwendet werden?</p>
+      </text>
+      <answer correct="yes">Reflektometer</answer>
+      <answer correct="no">Universalmessgerät mit Widerstandsanzeige</answer>
+      <answer correct="no">Interferometer</answer>
+      <answer correct="no">Anpassungsübertrager</answer>
+    </question>
+    

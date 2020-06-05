@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC109" name="E/TC109">
+      <text>
+        <p>Welche Bauart von Widerstand folgender Auswahl ist am besten für eine künstliche Antenne (Dummy Load) geeignet?</p>
+      </text>
+      <answer correct="yes">Ein Metalloxidwiderstand</answer>
+      <answer correct="no">Ein Kohleschichtwiderstand</answer>
+      <answer correct="no">Ein keramischer Drahtwiderstand</answer>
+      <answer correct="no">Ein frei gewickelter Drahtwiderstand aus Kupferdraht</answer>
+    </question>
+    

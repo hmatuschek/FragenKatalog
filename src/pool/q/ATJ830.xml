@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ830" name="A/TJ830">
+      <text>
+        <p>
+          Dem Eingang der folgenden Messschaltung wird eine HF-Leistung von 1 Watt zugeführt.
+          <br />
+          D ist eine Schottkydiode mit U
+          <sub>F</sub>
+           = 0,23V. Welche Spannung U
+          <sub>A</sub>
+           ist am Ausgang A zu erwarten, wenn die Messung mit einem hochohmigen Voltmeter erfolgt?
+        </p>
+        <img src="Atj830" />
+      </text>
+      <answer correct="yes">4,8 V</answer>
+      <answer correct="no">3,3 V</answer>
+      <answer correct="no">7,1 V</answer>
+      <answer correct="no">9,8 V</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG216" name="A/TG216">
+      <text>
+        <p>Die Stufen mit Frequenzvervielfachung in einer Sendeeinrichtung sollten idealerweise</p>
+      </text>
+      <answer correct="yes">gut abgeschirmt sein, um unerwünschte Abstrahlungen zu minimieren.</answer>
+      <answer correct="no">frequenzmoduliert werden.</answer>
+      <answer correct="no">in PTFE eingehüllt werden.</answer>
+      <answer correct="no">sehr gut gekühlt werden.</answer>
+    </question>
+    

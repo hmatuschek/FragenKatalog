@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG317" name="A/TG317">
+      <text>
+        <p>
+          Welchem Zweck dient R
+          <sub>1</sub>
+           in der folgenden Schaltung? R
+          <sub>1</sub>
+           dient
+        </p>
+        <img src="Atg313" />
+      </text>
+      <answer correct="yes">als Katodenwiderstand zur Erzeugung einer negativen Gittervorspannung.</answer>
+      <answer correct="no">zur Bedämpfung des Eingangskreises um Schwingneigung zu verhindern.</answer>
+      <answer correct="no">als Vorwiderstand für den Heizfaden.</answer>
+      <answer correct="no">zur Ableitung von Störeinflüssen durch die Heizspannung.</answer>
+    </question>
+    

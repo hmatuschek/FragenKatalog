@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG108" name="B/BG108">
+      <text>
+        <p>Was ist bei der Erstellung eines "Computer-Logbuchs" bei angeordneter Logbuchführung zu beachten?</p>
+      </text>
+      <answer correct="yes">Die Daten müssen, wie auch beim Papierlogbuch, über eine bestimmte Zeit einsehbar sein.</answer>
+      <answer correct="no">Es dürfen ausschließlich IBM-Kompatible PCs verwendet werden.</answer>
+      <answer correct="no">Es muss zusätzlich ein herkömmliches Papierlogbuch geführt werden.</answer>
+      <answer correct="no">Es muss jederzeit ein Ausdruck des Logbuches vorhanden sein.</answer>
+    </question>
+    

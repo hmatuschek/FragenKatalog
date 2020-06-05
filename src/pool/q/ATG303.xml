@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG303" name="A/TG303">
+      <text>
+        <p>Ein HF-Leistungsverstärker für einen SSB-Sender kann ein Verstärker im</p>
+      </text>
+      <answer correct="yes">A-, AB- oder B-Betrieb sein</answer>
+      <answer correct="no">AB-, B- oder C-Betrieb sein</answer>
+      <answer correct="no">B- oder C-Betrieb sein</answer>
+      <answer correct="no">A-, AB-, B- oder C-Betrieb sein</answer>
+    </question>
+    

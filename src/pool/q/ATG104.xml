@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG104" name="A/TG104">
+      <text>
+        <p>Am Ausgang X dieser Senderaufbereitung wird eine Frequenz von 21,360 MHz gemessen. Welche Frequenz hat der VFO?</p>
+        <img src="Atg104" />
+      </text>
+      <answer correct="yes">3,560 MHz</answer>
+      <answer correct="no">4,272 MHz</answer>
+      <answer correct="no">7,120 MHz</answer>
+      <answer correct="no">5,340 MHz</answer>
+    </question>
+    

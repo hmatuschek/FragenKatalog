@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB123" name="V/VB123">
+      <text>
+        <p>Wozu dient eine HAREC?</p>
+      </text>
+      <answer correct="yes">Sie wird benötigt zur Beantragung einer Amateurfunkzulassung oder einer ausländischen Amateurfunkgenehmigung in Staaten, die die CEPT-Empfehlung T/R 61-02 anwenden.</answer>
+      <answer correct="no">Sie berechtigt den Funkamateur zur Durchführung von Amateurfunkbetrieb nach der CEPT-Empfehlung T/R 61-01.</answer>
+      <answer correct="no">Sie berechtigt Inhaber einer deutschen Amateurfunkzulassung zur Beantragung eines ausländischen Rufzeichens für den vorübergehenden Aufenthalt in allen CEPT-Ländern.</answer>
+      <answer correct="no">Die HAREC-Bescheinigung berechtigt den Funkamateur zur Abwicklung von Amateurfunkverkehr in allen CEPT-Ländern.</answer>
+    </question>
+    

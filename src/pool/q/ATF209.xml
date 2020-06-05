@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF209" name="A/TF209">
+      <text>
+        <p>Welchen Vorteil haben Kurzwellen-Empfänger mit einer sehr hohen ersten ZF-Frequenz (z.B. 50 MHz)?</p>
+        <img src="Atf209" />
+      </text>
+      <answer correct="yes">Die Spiegelfrequenz liegt sehr weit außerhalb des Empfangsbereichs.</answer>
+      <answer correct="no">Filter für 50 MHz haben eine höhere Trennschärfe.</answer>
+      <answer correct="no">Ein solcher Empfänger hat eine höhere Großsignalfestigkeit.</answer>
+      <answer correct="no">Man erhält einen Empfänger für Kurzwelle und gleichzeitig für Ultrakurzwelle.</answer>
+    </question>
+    

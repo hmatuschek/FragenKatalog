@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF408" name="A/TF408">
+      <text>
+        <p>Um Einrichtungen mit einem Klappdeckel aus Metall möglichst gut abzuschirmen, empfiehlt es sich, das Scharnier</p>
+      </text>
+      <answer correct="yes">mit einem guten Erdband zu überbrücken.</answer>
+      <answer correct="no">das Halteband mit einer Ferritperle zu versehen.</answer>
+      <answer correct="no">mit einem Polystyrol-Kondensator abzublocken.</answer>
+      <answer correct="no">mit einem Kunststoffhalter zu versehen.</answer>
+    </question>
+    

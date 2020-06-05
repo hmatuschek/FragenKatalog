@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE130" name="V/VE130">
+      <text>
+        <p>Wie hoch ist die maximal zulässige Senderausgangsleistung für Rufzeicheninhaber der Klasse A in den Frequenzbereichen 3,5 - 3,8 MHz und 7,0 - 7,1 MHz?</p>
+      </text>
+      <answer correct="yes">750 Watt</answer>
+      <answer correct="no">75 Watt</answer>
+      <answer correct="no">150 Watt</answer>
+      <answer correct="no">100 Watt</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG505" name="A/TG505">
+      <text>
+        <p>Wie kann sich die mangelhafte Frequenzstabilität eines Senders bei dessen Betrieb auswirken?</p>
+      </text>
+      <answer correct="yes">Durch mögliche Aussendungen außerhalb der Bandgrenzen.</answer>
+      <answer correct="no">Durch Spannungsüberschläge in der Endstufe des Senders.</answer>
+      <answer correct="no">Durch Überlastung der Endstufe des Senders.</answer>
+      <answer correct="no">Durch überhöhte Stromentnahme aus der Stromversorgungsquelle.</answer>
+    </question>
+    

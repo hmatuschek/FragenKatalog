@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG503" name="E/TG503">
+      <text>
+        <p>Um Nachbarkanalstörungen zu minimieren, sollte die Übertragungsbandbreite bei SSB</p>
+      </text>
+      <answer correct="yes">höchstens 3 kHz betragen.</answer>
+      <answer correct="no">höchstens 5 kHz betragen.</answer>
+      <answer correct="no">höchstens 10 kHz betragen.</answer>
+      <answer correct="no">höchstens 15 kHz betragen.</answer>
+    </question>
+    

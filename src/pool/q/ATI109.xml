@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI109" name="A/TI109">
+      <text>
+        <p>Zu welcher Jahres- und Tageszeit hat die F2-Schicht ihre größte Höhe? Sie hat ihre größte Höhe</p>
+      </text>
+      <answer correct="yes">im Sommer zur Mittagszeit.</answer>
+      <answer correct="no">im Sommer um Mitternacht.</answer>
+      <answer correct="no">im Frühjahr und Herbst zur Dämmerungszeit.</answer>
+      <answer correct="no">im Winter zur Mittagszeit.</answer>
+    </question>
+    

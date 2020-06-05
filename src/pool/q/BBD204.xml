@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD204" name="B/BD204">
+      <text>
+        <p>
+          Welche Länder sind der Reihe nach den folgenden Ländern zugeordnet?
+          <br />
+          Die Landeskenner OE, PA, HBØ, YL, LX entsprechen den Ländern
+        </p>
+      </text>
+      <answer correct="yes">Österreich, Niederlande, Liechtenstein, Lettland, Luxemburg.</answer>
+      <answer correct="no">Österreich, Niederlande, Schweiz, Lettland, Luxemburg.</answer>
+      <answer correct="no">Österreich, Polen, Liechtenstein, Lettland, Luxemburg.</answer>
+      <answer correct="no">Österreich, Niederlande, Liechtenstein, Luxemburg, Lettland.</answer>
+    </question>
+    

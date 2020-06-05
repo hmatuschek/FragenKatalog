@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH312" name="E/TH312">
+      <text>
+        <p>Welches der folgenden Koaxsteckverbindersysteme ist für sehr hohe Frequenzen (70-cm-Band) und hohe Leistungen am besten geeignet?</p>
+      </text>
+      <answer correct="yes">N</answer>
+      <answer correct="no">SMA</answer>
+      <answer correct="no">UHF</answer>
+      <answer correct="no">BNC</answer>
+    </question>
+    

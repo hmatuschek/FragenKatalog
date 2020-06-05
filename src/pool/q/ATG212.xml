@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG212" name="A/TG212">
+      <text>
+        <p>Dieser Schaltungsauszug ist Teil eines Senders. Welche Funktion hat die Diode?</p>
+        <img src="Atg212" />
+      </text>
+      <answer correct="yes">Sie beeinflusst die Resonanzfrequenz des Schwingkreises in Abhängigkeit von den Frequenzen im Basisband und moduliert so die Oszillatorfrequenz.</answer>
+      <answer correct="no">Sie richtet das Eingangssignal gleich und erzeugt so die Betriebsspannung für den Oszillator, um diesen von der Stromversorgung der anderen Stufen zu entkoppeln.</answer>
+      <answer correct="no">Sie begrenzt die Amplituden des Eingangssignals und vermeidet so die Übersteuerung der Oszillatorstufe.</answer>
+      <answer correct="no">Sie dient zur Erzeugung von Amplitudenmodulation und zur Abstimmung der Oszillatorfrequenz.</answer>
+    </question>
+    

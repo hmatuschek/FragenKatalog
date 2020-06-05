@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE205" name="A/TE205">
+      <text>
+        <p>Theoretisch arbeitet die Frequenzmodulation mit</p>
+      </text>
+      <answer correct="yes">einer unendlichen Anzahl von Seitenfrequenzen.</answer>
+      <answer correct="no">nur zwei Seitenbändern.</answer>
+      <answer correct="no">keinen Seitenbändern.</answer>
+      <answer correct="no">nur einem Seitenband.</answer>
+    </question>
+    

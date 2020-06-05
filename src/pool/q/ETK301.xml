@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK301" name="E/TK301">
+      <text>
+        <p>Durch welche Maßnahme kann die übermäßige Bandbreite einer 2-m-FM-Übertragung verringert werden? Sie kann verringert werden durch die Änderung der</p>
+      </text>
+      <answer correct="yes">Hubeinstellung</answer>
+      <answer correct="no">HF-Begrenzereigenschaften</answer>
+      <answer correct="no">Vorspannungsreglereinstellung</answer>
+      <answer correct="no">Trägerfrequenz</answer>
+    </question>
+    

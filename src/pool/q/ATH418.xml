@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH418" name="A/TH418">
+      <text>
+        <p>Ein symmetrischer Halbwellendipol wird direkt über ein Koaxialkabel von einem Sender gespeist. Das Kabel ist senkrecht am Haus entlang verlegt und verursacht geringe Störungen. Um das Problem weiter zu verringern, empfiehlt es sich</p>
+      </text>
+      <answer correct="yes">den Dipol über ein Symmetrierglied zu speisen.</answer>
+      <answer correct="no">das Koaxialkabel durch eine Eindrahtspeiseleitung zu ersetzen.</answer>
+      <answer correct="no">beim Koaxialkabel alle 5 m eine Schleife mit 3 Windungen einzulegen.</answer>
+      <answer correct="no">das Koaxialkabel in einem Kunststoffrohr zur mechanischen Schirmung unterzubringen.</answer>
+    </question>
+    

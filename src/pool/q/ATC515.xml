@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC515" name="A/TC515">
+      <text>
+        <p>In welcher der folgenden Schaltungen ist die Z-Diode zur Spannungsstabilisierung richtig eingesetzt?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc515a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc514b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc514c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc514d" />
+      </answer>
+    </question>
+    

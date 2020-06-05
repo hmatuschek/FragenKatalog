@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATA110" name="A/TA110">
+      <text>
+        <p>Der Pegelwert 120 dBμV/m entspricht einer elektrischen Feldstärke von</p>
+      </text>
+      <answer correct="yes">1 V/m.</answer>
+      <answer correct="no">10 V/m.</answer>
+      <answer correct="no">1000 V/m.</answer>
+      <answer correct="no">1000 kV/m.</answer>
+    </question>
+    

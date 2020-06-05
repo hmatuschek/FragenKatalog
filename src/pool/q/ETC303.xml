@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC303" name="E/TC303">
+      <text>
+        <p>Wie kann man die Induktivität einer Spule vergrößern?</p>
+      </text>
+      <answer correct="yes">Durch Stauchen der Spule (Verkürzen der Spulenlänge).</answer>
+      <answer correct="no">Durch Auseinanderziehen der Spule (Vergrößerung der Spulenlänge).</answer>
+      <answer correct="no">Durch Einführen eines Kupferkerns in die Spule.</answer>
+      <answer correct="no">Durch Einbau der Spule in einen Abschirmbecher.</answer>
+    </question>
+    

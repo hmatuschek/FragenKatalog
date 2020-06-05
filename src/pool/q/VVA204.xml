@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA204" name="V/VA204">
+      <text>
+        <p>
+          Bei welcher der genannten Einrichtungen handelt es sich um
+          <u>keine</u>
+           Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?
+        </p>
+      </text>
+      <answer correct="yes">Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz.</answer>
+      <answer correct="no">Je eine Funkbake im 70-cm-, 23-cm- und 13-cm-Band mit gemeinsam gleichen Rufzeichen am gleichen Standort.</answer>
+      <answer correct="no">Ein Digipeater im 70-cm-Band mit DX-Cluster und Mailbox-Dienst, wobei der für den Digipeater-Betrieb notwendige Datenrechner nicht am Standort des Digipeaters steht.</answer>
+      <answer correct="no">Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet.</answer>
+    </question>
+    

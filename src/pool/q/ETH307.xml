@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH307" name="E/TH307">
+      <text>
+        <p>Der Wellenwiderstand einer Leitung</p>
+      </text>
+      <answer correct="yes">ist im HF-Bereich in etwa konstant und unabhängig vom Leitungsabschluss.</answer>
+      <answer correct="no">ist völlig frequenzunabhängig.</answer>
+      <answer correct="no">hängt von der Beschaltung am Leitungsende ab.</answer>
+      <answer correct="no">hängt von der Leitungslänge und der Beschaltung am Leitungsende ab.</answer>
+    </question>
+    

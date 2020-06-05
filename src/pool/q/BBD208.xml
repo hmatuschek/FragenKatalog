@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD208" name="B/BD208">
+      <text>
+        <p>
+          Welche Länder sind der Reihe nach den folgenden Landeskennern zugeordnet?
+          <br />
+          Die Landeskenner SM, S5, SP, SV entsprechen den Ländern
+        </p>
+      </text>
+      <answer correct="yes">Schweden, Slowenien, Polen, Griechenland.</answer>
+      <answer correct="no">Schweden, Slowakei, Polen, Griechenland.</answer>
+      <answer correct="no">Slowenien, Griechenland, Polen, Schweden.</answer>
+      <answer correct="no">Schweden, Slowenien, Griechenland, Polen.</answer>
+    </question>
+    

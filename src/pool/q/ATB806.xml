@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB806" name="A/TB806">
+      <text>
+        <p>Zwei in etwa pegelgleiche Aussendungen können an einer nichtlinear arbeitenden Empfängerstufe</p>
+      </text>
+      <answer correct="yes">Intermodulationsprodukte erzeugen.</answer>
+      <answer correct="no">Frequenzmodulation hervorrufen.</answer>
+      <answer correct="no">zwei gleiche Seitenbänder produzieren.</answer>
+      <answer correct="no">einen so genannten Dopplereffekt hervorrufen.</answer>
+    </question>
+    

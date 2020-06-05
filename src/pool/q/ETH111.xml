@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH111" name="E/TH111">
+      <text>
+        <p>Die elektrischen Gegengewichte einer Groundplane-Antenne bezeichnet man auch als</p>
+      </text>
+      <answer correct="yes">Radiale.</answer>
+      <answer correct="no">Reflektoren.</answer>
+      <answer correct="no">Parasitärstrahler.</answer>
+      <answer correct="no">Erdelemente.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ806" name="A/TJ806">
+      <text>
+        <p>Mit einem Voltmeter der Klasse 2.5, das einen Skalenendwert von 20 Volt hat, messen Sie an einer Spannungsquelle 12,6 Volt. In welchem Bereich liegt der wahre Wert?</p>
+      </text>
+      <answer correct="yes">Er liegt zwischen 12,1 und 13,1 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 12,3 und 12,9 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 12,55 und 12,65 Volt.</answer>
+      <answer correct="no">Er liegt zwischen 12,57 und 12,63 Volt.</answer>
+    </question>
+    

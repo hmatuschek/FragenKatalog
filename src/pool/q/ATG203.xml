@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG203" name="A/TG203">
+      <text>
+        <p>Um Splatter bei Telefonie auf ein Mindestmaß zu begrenzen, sollte die NF-Bandbreite auf etwa</p>
+      </text>
+      <answer correct="yes">3 kHz beschränkt werden.</answer>
+      <answer correct="no">12,5 kHz beschränkt werden.</answer>
+      <answer correct="no">25 kHz beschränkt werden.</answer>
+      <answer correct="no">455 kHz beschränkt werden.</answer>
+    </question>
+    

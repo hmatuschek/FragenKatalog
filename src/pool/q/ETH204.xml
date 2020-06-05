@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH204" name="E/TH204">
+      <text>
+        <p>Die Impedanz in der Mitte eines Halbwellendipols beträgt je nach Aufbauhöhe ungefähr</p>
+      </text>
+      <answer correct="yes">40 bis 80 Ω.</answer>
+      <answer correct="no">60 bis 120 Ω.</answer>
+      <answer correct="no">120 bis 240 Ω.</answer>
+      <answer correct="no">240 bis 600 Ω.</answer>
+    </question>
+    

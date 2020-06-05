@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF106" name="B/BF106">
+      <text>
+        <p>Sie haben auf einer Amateurfunkfrequenz eine Notmeldung von einem Schiff in Seenot empfangen. Wie verhalten Sie sich?</p>
+      </text>
+      <answer correct="yes">Ich beobachte die Frequenz und achte darauf, ob die Notmeldung von einer Rettungsorganisation bestätigt wird. Wenn dies innerhalb einer kurzen Zeit nicht geschieht, rufe ich die Station an und biete meine Hilfe an.</answer>
+      <answer correct="no">Ich rufe die Station sofort an und biete meine Hilfe an.</answer>
+      <answer correct="no">Da es sich nicht um Amateurfunkverkehr handelt verlasse ich die Frequenz.</answer>
+      <answer correct="no">Ich wiederhole umgehend die Notmeldung auf der gleichen Frequenz.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD120" name="V/VD120">
+      <text>
+        <p>Was ist bei Abgleicharbeiten und Messungen an Sendern im Hinblick auf die Aussendung zu beachten?</p>
+      </text>
+      <answer correct="yes">Sie sind an einem Abschlusswiderstand durchzuführen.</answer>
+      <answer correct="no">Das Sendergehäuse darf nicht geöffnet werden.</answer>
+      <answer correct="no">Das Antennenkabel muss fest angeschlossen sein.</answer>
+      <answer correct="no">Es darf nur mit halber Sendeleistung gesendet werden.</answer>
+    </question>
+    

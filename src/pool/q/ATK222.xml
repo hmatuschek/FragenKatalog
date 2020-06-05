@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK222" name="A/TK222">
+      <text>
+        <p>Eine 435-MHz-Sendeantenne mit 1 kW ERP ist unmittelbar auf die Fernsehantenne des Nachbarn gerichtet. Dies führt gegebenenfalls</p>
+      </text>
+      <answer correct="yes">zur Übersteuerung der Vorstufe des Fernsehers.</answer>
+      <answer correct="no">zur Erzeugung von parasitären Schwingungen.</answer>
+      <answer correct="no">zu unerwünschten Reflexionen des Sendesignals.</answer>
+      <answer correct="no">zu Zeilenfrequenzstörungen beim 435-MHz-Empfang.</answer>
+    </question>
+    

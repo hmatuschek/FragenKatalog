@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL202" name="E/TL202">
+      <text>
+        <p>Nach welcher der Antworten kann die EIRP berechnet werden, und worauf ist die EIRP bzw. der zu verwendende Antennengewinn bezogen?</p>
+      </text>
+      <answer correct="yes">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>Sender</sub>
+         - P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen isotropen Kugelstrahler
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>Sender</sub>
+         · G
+        <sub>Antenne</sub>
+        ) - P
+        <sub>Verluste</sub>
+        <br />
+        bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste</sub>
+        ) · G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen Halbwellendipol
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste</sub>
+         + G
+        <sub>Antenne</sub>
+        <br />
+        bezogen auf einen isotropen Kugelstrahler
+      </answer>
+    </question>
+    

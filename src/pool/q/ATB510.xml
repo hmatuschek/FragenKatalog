@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB510" name="A/TB510">
+      <text>
+        <p>Eine vertikale Dipolantenne wird mit 10 W Senderleistung direkt gespeist. Welche elektrische Feldstärke ergibt sich bei Freiraumausbreitung in 10 m Entfernung?</p>
+      </text>
+      <answer correct="yes">2,2 V/m</answer>
+      <answer correct="no">8,9 V/m</answer>
+      <answer correct="no">0,4 V/m</answer>
+      <answer correct="no">5,5 V/m</answer>
+    </question>
+    

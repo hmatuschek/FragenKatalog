@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF305" name="A/TF305">
+      <text>
+        <p>Welcher Mischertyp ist am besten geeignet, um ein Doppelseitenbandsignal mit unterdrücktem Träger zu erzeugen? Am besten geeignet ist ein</p>
+      </text>
+      <answer correct="yes">Balancemischer.</answer>
+      <answer correct="no">Mischer mit einem einzelnen FET.</answer>
+      <answer correct="no">Mischer mit einer Varaktordiode.</answer>
+      <answer correct="no">quarzgesteuerter Mischer.</answer>
+    </question>
+    

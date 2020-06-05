@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC136" name="V/VC136">
+      <text>
+        <p>Aus welcher Vorschrift ergibt sich die Pflicht, die Einhaltung der Personenschutzgrenzwerte zu dokumentieren?</p>
+      </text>
+      <answer correct="yes">Aus dem Amateurfunkgesetz (AFuG).</answer>
+      <answer correct="no">Aus der Amateurfunkverordnung (AFuV).</answer>
+      <answer correct="no">Aus den Radio Regulations (VO Funk).</answer>
+      <answer correct="no">Aus dem Gesetz über die elektromagnetische Verträglichkeit von Geräten (EMVG).</answer>
+    </question>
+    

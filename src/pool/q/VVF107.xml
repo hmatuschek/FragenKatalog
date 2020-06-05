@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVF107" name="V/VF107">
+      <text>
+        <p>Bei welcher der genannten Apparaturen sind nach dem TKG auch der Besitz und die Herstellung verboten und mit erheblichen Strafen bewehrt?</p>
+      </text>
+      <answer correct="yes">Eine Sendeanlage, die einen anderen Gegenstand vortäuscht und somit zum Abhören des nicht öffentlich gesprochenen Wortes brauchbar ist.</answer>
+      <answer correct="no">Ein Scanner, der ein breitbandiges Abhören nicht öffentlicher Funkdienste im Funkspektrum ermöglicht.</answer>
+      <answer correct="no">Ein Richtmikrophon, das in besonderer Weise geeignet ist, das nicht öffentlich gesprochene Wort eines anderen unbemerkt abzuhören.</answer>
+      <answer correct="no">Ein Babyphon.</answer>
+    </question>
+    

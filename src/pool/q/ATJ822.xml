@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ822" name="A/TJ822">
+      <text>
+        <p>Ein Stehwellenmessgerät wird bei Sendern zur Messung</p>
+      </text>
+      <answer correct="yes">der Antennenanpassung eingesetzt.</answer>
+      <answer correct="no">der Oberwellenausgangsleistung eingesetzt.</answer>
+      <answer correct="no">der Bandbreite eingesetzt.</answer>
+      <answer correct="no">des Wirkungsgrades eingesetzt.</answer>
+    </question>
+    

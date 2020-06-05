@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVH103" name="V/VH103">
+      <text>
+        <p>Welche Vorschriften müssen im Handel erhältliche Empfangsfunkanlagen einhalten, die dem Amateurfunk zugewiesene Frequenzen empfangen können?</p>
+      </text>
+      <answer correct="yes">Es sind die Bestimmungen des FTEG einzuhalten. Dies ist an der CE-Kennzeichnung des Gerätes und den Angaben zum bestimmungsgemäßen Betrieb in den Begleitpapieren zu erkennen.</answer>
+      <answer correct="no">Amateurfunkempfänger brauchen grundsätzlich keinerlei Bestimmungen einzuhalten.</answer>
+      <answer correct="no">Grundlegende Anforderungen an Amateurfunkempfänger sind in der Amateurfunkverordnung geregelt.</answer>
+      <answer correct="no">Amateurfunkempfänger dürfen ausschließlich von Funkamateuren betrieben werden; darüber hinaus gibt es keine weiteren Vorschriften.</answer>
+    </question>
+    

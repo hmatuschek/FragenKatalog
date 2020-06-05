@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD123" name="A/TD123">
+      <text>
+        <p>
+          Wie groß ist der Gesamtwiderstand dieser Schaltung, wenn R
+          <sub>1</sub>
+           = 30 kΩ, R
+          <sub>2</sub>
+           = 15 kΩ, R
+          <sub>3</sub>
+           = 30 kΩ und R
+          <sub>4</sub>
+           = 2,7 kΩ betragen?
+        </p>
+        <img src="Atd123" />
+      </text>
+      <answer correct="yes">10,2 kΩ</answer>
+      <answer correct="no">82,7 kΩ</answer>
+      <answer correct="no">12,7 kΩ</answer>
+      <answer correct="no">4,5 kΩ</answer>
+    </question>
+    

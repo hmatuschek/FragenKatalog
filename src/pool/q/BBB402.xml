@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB402" name="B/BB402">
+      <text>
+        <p>Wie wird "Frequenzmodulation mit analogen Signalen, für Sprachübertragung" bezeichnet?</p>
+      </text>
+      <answer correct="yes">F3E</answer>
+      <answer correct="no">A3E</answer>
+      <answer correct="no">A2A</answer>
+      <answer correct="no">R3E</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD604" name="A/TD604">
+      <text>
+        <p>Bei dieser Oszillatorschaltung handelt es sich um einen kapazitiv rückgekoppelten Quarz-Oszillator in</p>
+        <img src="Atd604" />
+      </text>
+      <answer correct="yes">Kollektorschaltung, in der der Quarz in seiner Grundschwingung betrieben wird.</answer>
+      <answer correct="no">Kollektorschaltung, in der der Quarz in der 3. Oberschwingung betrieben wird.</answer>
+      <answer correct="no">Basisschaltung, in der der Quarz in Parallelresonanz betrieben wird.</answer>
+      <answer correct="no">Basisschaltung, in der der Quarz in Serienresonanz betrieben wird.</answer>
+    </question>
+    

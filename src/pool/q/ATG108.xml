@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG108" name="A/TG108">
+      <text>
+        <p>Die typische Bandbreite des in der Blockschaltung dargestellten NF-Verstärkers ist</p>
+        <img src="Atg106" />
+      </text>
+      <answer correct="yes">ca. 2,5 kHz.</answer>
+      <answer correct="no">ca. 6 kHz.</answer>
+      <answer correct="no">ca. 1000 Hz.</answer>
+      <answer correct="no">ca. 9,0 MHz.</answer>
+    </question>
+    

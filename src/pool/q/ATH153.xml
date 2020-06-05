@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH153" name="A/TH153">
+      <text>
+        <p>Welcher Standort ist für eine HF-Richtantenne am besten geeignet, um mögliche Beeinflussungen bei den Geräten des Nachbarn zu vermeiden?</p>
+      </text>
+      <answer correct="yes">So hoch und weit weg wie möglich.</answer>
+      <answer correct="no">An der Seitenwand zum Nachbarn.</answer>
+      <answer correct="no">Auf dem Dach, wobei die Dachfläche des Nachbarn mit abgedeckt werden sollte.</answer>
+      <answer correct="no">So niedrig und nah am Haus wie möglich.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE137" name="V/VE137">
+      <text>
+        <p>Was gilt für die Nutzung des Frequenzbereichs 50,08 - 51 MHz?</p>
+      </text>
+      <answer correct="yes">Nutzung nur durch Rufzeicheninhaber der Klasse A. Die Nutzung ist auf feste Amateurfunkstellen beschränkt. Die Betriebsorte müssen bei der Bundesnetzagentur angezeigt werden.</answer>
+      <answer correct="no">Nutzung durch alle Rufzeicheninhaber der Klassen A und E mit einer 50-MHz-Sonderzuteilung. Es dürfen keine Amateurfunkwettbewerbe durchgeführt werden.</answer>
+      <answer correct="no">Nutzung durch alle Rufzeicheninhaber der Klassen A und E, die den Betriebsort der 50-MHz-Nutzung bei der Bundesnetzagentur angemeldet haben.</answer>
+      <answer correct="no">Nutzung nur durch Rufzeicheninhaber der Klasse A, die sich in den Schutzzonen der Fernsehsender auf dem TV-Kanal 2 befinden.</answer>
+    </question>
+    

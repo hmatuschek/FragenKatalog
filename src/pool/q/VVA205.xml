@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA205" name="V/VA205">
+      <text>
+        <p>Bei welcher der genannten Einrichtungen handelt es sich um eine Amateurfunkstelle nach der Definition der Radio Regulations (VO Funk) und des AFuG?</p>
+      </text>
+      <answer correct="yes">Ein Fuchsjagdsender im 80-m-Band mit weniger als 5 Watt Senderleistung, der kein Rufzeichen, aber die Peilkennungen MO, MOE, MOI oder MOS aussendet.</answer>
+      <answer correct="no">Eine Versuchsfunkstelle, die auf mindestens einer dem Amateurfunkdienst zugewiesenen Frequenzen betrieben wird.</answer>
+      <answer correct="no">Ein LPD-Funkgerät, das im 70-cm-Amateurfunkband im Rahmen des nicht öffentlichen mobilen Landfunks betrieben wird.</answer>
+      <answer correct="no">Ein FM-Relais mit Sender und Empfänger am gleichen Standort sowie getrennter Ein- und Ausgabefrequenz zwischen 27120 und 27410 kHz.</answer>
+    </question>
+    

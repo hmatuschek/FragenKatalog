@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE107" name="B/BE107">
+      <text>
+        <p>Sie hören DH8DAP/p in Morsetelegrafie rufen: "CQ FD CQ FD de DH8DAP/p". Was bedeutet das?</p>
+      </text>
+      <answer correct="yes">DH8DAP/p nimmt an einem Fieldday-Kontest teil und sucht vornehmlich Verbindungen mit Stationen, die sich ebenfalls an diesem Kontest beteiligen.</answer>
+      <answer correct="no">DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements).</answer>
+      <answer correct="no">DH8DAP/p sucht Verbindungen mit Stationen aus dem Autokennzeichenbezirk Fulda.</answer>
+      <answer correct="no">DH8DAP/p sucht Verbindungen mit Stationen aus französischen Überseegebieten (French Departements), die für den Portabel-Kontest gewertet werden können.</answer>
+    </question>
+    

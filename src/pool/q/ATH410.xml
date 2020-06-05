@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH410" name="A/TH410">
+      <text>
+        <p>Eine Viertelwellen-Übertragungsleitung ist an einem Ende offen. Die Impedanz am anderen Ende</p>
+      </text>
+      <answer correct="yes">beträgt nahezu Null.</answer>
+      <answer correct="no">ist gleich dem Wellenwiderstand.</answer>
+      <answer correct="no">beträgt das Dreifache des Wellenwiderstandes.</answer>
+      <answer correct="no">ist nahezu unendlich hoch.</answer>
+    </question>
+    

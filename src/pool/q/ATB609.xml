@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB609" name="A/TB609">
+      <text>
+        <p>Der Spitzen-Spitzen-Wert der häuslichen 230-V-Stromversorgung ist</p>
+      </text>
+      <answer correct="yes">650 Volt.</answer>
+      <answer correct="no">163 Volt.</answer>
+      <answer correct="no">325 Volt.</answer>
+      <answer correct="no">460 Volt.</answer>
+    </question>
+    

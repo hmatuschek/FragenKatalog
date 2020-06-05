@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF203" name="E/TF203">
+      <text>
+        <p>Was bewirkt die AGC (automatic gain control) bei einem starken Eingangssignal?</p>
+      </text>
+      <answer correct="yes">Sie reduziert die Verstärkung der HF- und ZFStufen.</answer>
+      <answer correct="no">Sie reduziert die Amplitude des VFO.</answer>
+      <answer correct="no">Sie reduziert die Amplitude des BFO.</answer>
+      <answer correct="no">Sie reduziert die Höhe der Versorgungsspannungen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA106" name="B/BA106">
+      <text>
+        <p>Wie wird das Rufzeichen DL2KCI mit dem internationalen Buchstabieralphabet richtig buchstabiert?</p>
+      </text>
+      <answer correct="yes">Delta Lima zwo Kilo Charlie India</answer>
+      <answer correct="no">Dora Ludwig zwei Kaufmann Cäsar Ida</answer>
+      <answer correct="no">Delta Lima zwo Kilo Charlie Italy</answer>
+      <answer correct="no">Deutschland London zwo Kilo Charlie India</answer>
+    </question>
+    

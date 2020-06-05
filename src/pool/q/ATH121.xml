@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH121" name="A/TH121">
+      <text>
+        <p>Welche Antenne gehört nicht zu den symmetrischen Antennen?</p>
+      </text>
+      <answer correct="yes">Groundplane</answer>
+      <answer correct="no">Faltdipol</answer>
+      <answer correct="no">Yagi</answer>
+      <answer correct="no">λ/2-Dipol</answer>
+    </question>
+    

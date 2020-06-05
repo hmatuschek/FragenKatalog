@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK208" name="A/TK208">
+      <text>
+        <p>Parasitäre Schwingungen können Störungen hervorrufen. Man erkennt sie auch daran, dass sie</p>
+      </text>
+      <answer correct="yes">keinen festen Bezug zur Betriebsfrequenz haben.</answer>
+      <answer correct="no">bei ungeradzahligen Vielfachen der Betriebsfrequenz auftreten.</answer>
+      <answer correct="no">bei geradzahligen Vielfachen der Betriebsfrequenz auftreten.</answer>
+      <answer correct="no">bei ganzzahligen Vielfachen der Betriebsfrequenz auftreten.</answer>
+    </question>
+    

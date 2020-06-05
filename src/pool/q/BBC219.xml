@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC219" name="B/BC219">
+      <text>
+        <p>In welchem Bereich des 2-m-Bandes dürfen Sie keinen Sendebetrieb machen, weil dort Funkbaken senden? Es ist der Frequenzbereich</p>
+      </text>
+      <answer correct="yes">144,400 bis 144,490 MHz</answer>
+      <answer correct="no">145,400 bis 145,490 MHz</answer>
+      <answer correct="no">144,300 bis 144,400 MHz</answer>
+      <answer correct="no">145,300 bis 145,400 MHz</answer>
+    </question>
+    

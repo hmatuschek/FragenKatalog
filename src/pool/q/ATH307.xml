@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH307" name="A/TH307">
+      <text>
+        <p>Welche Dämpfung ergibt sich auf der Grundlage des Kabeldämpfungsdiagramms für ein 25-m-langes Koaxialkabel vom Typ RG213U-S100 bei 29 MHz?</p>
+        <img src="Ath304" />
+      </text>
+      <answer correct="yes">0,5 dB</answer>
+      <answer correct="no">2,1 dB</answer>
+      <answer correct="no">1,1 dB</answer>
+      <answer correct="no">0,2 dB</answer>
+    </question>
+    

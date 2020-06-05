@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH417" name="A/TH417">
+      <text>
+        <p>Auf einem Ferritkern sind etliche Windungen Koaxialkabel aufgewickelt. Diese Anordnung kann dazu dienen</p>
+        <img src="Atb401" />
+      </text>
+      <answer correct="yes">Mantelwellen zu dämpfen.</answer>
+      <answer correct="no">statische Aufladungen zu verhindern.</answer>
+      <answer correct="no">eine Antennenleitung abzustimmen.</answer>
+      <answer correct="no">Oberwellen zu unterdrücken.</answer>
+    </question>
+    

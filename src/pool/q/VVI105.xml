@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI105" name="V/VI105">
+      <text>
+        <p>In welcher gesetzlichen Regelung ist das Verfahren zum Schutz von Personen in elektromagnetischen Feldern ortsfester Amateurfunkstellen festgelegt?</p>
+      </text>
+      <answer correct="yes">In der Verordnung über das Nachweisverfahren zur Begrenzung elektromagnetischer Felder (BEMFV).</answer>
+      <answer correct="no">In der 26. Verordnung zum Bundesimmissionsschutzgesetz.</answer>
+      <answer correct="no">In der VO Funk.</answer>
+      <answer correct="no">Im Bundesimmissionsschutzgesetz.</answer>
+    </question>
+    

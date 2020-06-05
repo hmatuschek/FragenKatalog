@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETA208" name="E/TA208">
+      <text>
+        <p>Welche Einheit wird für die Kapazität verwendet?</p>
+      </text>
+      <answer correct="yes">Farad (F)</answer>
+      <answer correct="no">Ohm (Ω)</answer>
+      <answer correct="no">Siemens (S)</answer>
+      <answer correct="no">Henry (H)</answer>
+    </question>
+    

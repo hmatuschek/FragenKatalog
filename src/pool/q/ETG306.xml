@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG306" name="E/TG306">
+      <text>
+        <p>Die Ausgangsleistung eines FM-Senders</p>
+      </text>
+      <answer correct="yes">wird nicht durch die Modulation beeinflusst.</answer>
+      <answer correct="no">ändert sich durch die Modulation.</answer>
+      <answer correct="no">beträgt bei fehlender Modulation Null.</answer>
+      <answer correct="no">verringert sich durch Modulation auf 70 %.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ825" name="A/TJ825">
+      <text>
+        <p>Welches Messgerät könnte für den Nachweis von Harmonischen einer Aussendung verwendet werden?</p>
+      </text>
+      <answer correct="yes">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Stehwellenmessgerät</answer>
+      <answer correct="no">Frequenzzähler</answer>
+      <answer correct="no">HF-Leistungsmesser</answer>
+    </question>
+    

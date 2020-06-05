@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ810" name="A/TJ810">
+      <text>
+        <p>Eine künstliche Antenne von 50 Ω verfügt über eine Anzapfung bei 5 Ω vom erdnahen Ende. Diese Anzapfung ermöglicht die</p>
+      </text>
+      <answer correct="yes">Messung der Ausgangsleistung.</answer>
+      <answer correct="no">Änderung der Antennenanpassung.</answer>
+      <answer correct="no">Erhöhung des Lastwirkungsgrades.</answer>
+      <answer correct="no">Einstellung der SWR-Messbrücke auf Null.</answer>
+    </question>
+    

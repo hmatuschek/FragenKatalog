@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVG102" name="V/VG102">
+      <text>
+        <p>Darf der Funkamateur von den grundlegenden Anforderungen zur Störfestigkeit im Sinne des Gesetzes über die elektromagnetische Verträglichkeit von Geräten abweichen?</p>
+      </text>
+      <answer correct="yes">Ja, er kann den Grad der Störfestigkeit seiner Geräte selbst bestimmen.</answer>
+      <answer correct="no">Ja, aber nur in Richtung Verbesserung der Störfestigkeit.</answer>
+      <answer correct="no">Nein, die Störfestigkeit ist vorgegeben und muss eingehalten werden.</answer>
+      <answer correct="no">Nein, die Störfestigkeit spielt bei Amateurfunkgeräten keine Rolle.</answer>
+    </question>
+    

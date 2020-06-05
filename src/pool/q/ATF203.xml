@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF203" name="A/TF203">
+      <text>
+        <p>Folgende Schaltung stellt einen Doppelsuper dar. Welche Funktion haben die drei mit X, Y und Z gekennzeichneten Blöcke?</p>
+        <img src="Atf203" />
+      </text>
+      <answer correct="yes">X und Y sind Mischer, Z ist ein Produktdetektor</answer>
+      <answer correct="no">X ist ein Mischer, Y ist ein Produktdetektor, Z ist ein Mischer</answer>
+      <answer correct="no">X und Y sind Produktdetektoren, Z ist ein HF-Mischer</answer>
+      <answer correct="no">X und Y sind Balancemischer, Z ist ein ZF-Verstärker</answer>
+    </question>
+    

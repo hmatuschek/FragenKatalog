@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVI117" name="V/VI117">
+      <text>
+        <p>Was hat ein Funkamateur zu beachten, nachdem er seine ortsfeste Amateurfunkstelle bei der Bundesnetzagentur gemäß BEMFV angezeigt hat?</p>
+      </text>
+      <answer correct="yes">Er hat eine Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen bereitzuhalten und fortlaufend zu prüfen, ob die Bedingungen unter denen die Anzeige durchgeführt wurde noch zutreffend sind. Bei Änderungen, die einen größeren Sicherheitsabstand erforderlich machen oder bei der Aufnahme des Sendebetriebs bei zusätzlichen Frequenzen, ist die Amateurfunkstelle erneut anzuzeigen.</answer>
+      <answer correct="no">Mit der Anzeige seiner ortsfesten Amateurfunkstelle ist ein Funkamateur seinen Verpflichtungen zum Schutz von Personen in elektromagnetischen Feldern nachgekommen und muss diesbezüglich nichts weiter beachten.</answer>
+      <answer correct="no">Das Anzeigeverfahren ist jedes Jahr erneut durchzuführen, um die Aktualität zu gewährleisten.</answer>
+      <answer correct="no">Nachdem die ortsfeste Amateurfunkstelle in Betrieb genommen wurde, ist die Dokumentation über die Einhaltung der Anforderungen mit allen erforderlichen Unterlagen der zuständigen Außenstelle der Bundesnetzagentur vorzulegen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG208" name="A/TG208">
+      <text>
+        <p>Um Frequenzstabilität in einem Sender zu gewährleisten, sollte der VFO</p>
+      </text>
+      <answer correct="yes">mit einer stabilen Gleichstromversorgung betrieben werden.</answer>
+      <answer correct="no">in einem Kunststoffbehälter untergebracht werden.</answer>
+      <answer correct="no">mit einer stabilisierten Wechselstromversorgung betrieben werden.</answer>
+      <answer correct="no">die Frequenz in Abhängigkeit der Temperatur verändern.</answer>
+    </question>
+    

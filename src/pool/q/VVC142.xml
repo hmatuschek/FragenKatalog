@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC142" name="V/VC142">
+      <text>
+        <p>Wann handelt ein Funkamateur ordnungswidrig im Sinne des Amateurfunkgesetzes?</p>
+      </text>
+      <answer correct="yes">Beim Betrieb zum geschäftsmäßigen Erbringen von Telekommunikationsdiensten.</answer>
+      <answer correct="no">Bei dauerhafter Verlegung seiner Amateurfunkstelle an einen anderen Standort.</answer>
+      <answer correct="no">Bei unzureichender Rufzeichennennung.</answer>
+      <answer correct="no">Bei der Abwicklung von Funkbetrieb mit anderen als Amateurfunkstellen.</answer>
+    </question>
+    

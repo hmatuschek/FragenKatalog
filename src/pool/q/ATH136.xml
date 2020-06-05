@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH136" name="A/TH136">
+      <text>
+        <p>Das folgende Bild stellt einen Dreiband-Dipol für die Frequenzbänder 20, 15 und 10 Meter dar. Die mit B gekennzeichneten Schwingkreise sind auf</p>
+        <img src="Ath136" />
+      </text>
+      <answer correct="yes">29,0 MHz abgestimmt.</answer>
+      <answer correct="no">10,1 MHz abgestimmt.</answer>
+      <answer correct="no">14,2 MHz abgestimmt.</answer>
+      <answer correct="no">21,2 MHz abgestimmt.</answer>
+    </question>
+    

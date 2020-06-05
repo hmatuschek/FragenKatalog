@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK202" name="A/TK202">
+      <text>
+        <p>In HF-Schaltungen können Nebenresonanzen durch die</p>
+      </text>
+      <answer correct="yes">Eigenresonanz der HF-Drosseln hervorgerufen werden.</answer>
+      <answer correct="no">Stromversorgung hervorgerufen werden.</answer>
+      <answer correct="no">Sättigung der Kerne der HF-Spulen hervorgerufen werden.</answer>
+      <answer correct="no">Widerstandseigenschaft einer Drossel hervorgerufen werden.</answer>
+    </question>
+    

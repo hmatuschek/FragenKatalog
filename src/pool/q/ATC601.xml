@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC601" name="A/TC601">
+      <text>
+        <p>Welche Bezeichnungen für die Bauelemente sind richtig?</p>
+        <img src="Atc601" />
+      </text>
+      <answer correct="yes">
+        <pre>1: NPN-Transistor       2: PNP-Transistor</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1: PNP-Transistor       2: NPN-Transistor</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1: N-Kanal-Transistor   2: P-Kanal-Transistor</pre>
+      </answer>
+      <answer correct="no">
+        <pre>1: P-Kanal-Transistor   2: N-Kanal-Transistor</pre>
+      </answer>
+    </question>
+    

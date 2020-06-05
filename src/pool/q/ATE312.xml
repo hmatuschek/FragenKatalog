@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE312" name="A/TE312">
+      <text>
+        <p>Was versteht man unter "DAMA" bei der Betriebsart Packet-Radio?</p>
+      </text>
+      <answer correct="yes">Anforderungsbezogener Mehrfachzugriff. Die TNC der Teilnehmer werden vom Netzknoten gepollt (angesprochen) und gehen nur nach Aufforderung des Netzknotens auf Sendung.</answer>
+      <answer correct="no">Automatische Bitratenerkennung. Ein Netzknoten stellt sich automatisch auf die Bitrate des Anwenders ein.</answer>
+      <answer correct="no">Automatische Speicherbereichszuweisung bei Digipeatern. Nach Verbindungsaufbau wird der Speicher für Store &amp; Forward Betrieb bereitgestellt.</answer>
+      <answer correct="no">Asynchrone Zusammenführung der Netzzugänge. Die Signale der Teilnehmer und Linkstrecken werden dem Netzknoten asynchron zugeführt.</answer>
+    </question>
+    

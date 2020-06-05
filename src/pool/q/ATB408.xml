@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB408" name="A/TB408">
+      <text>
+        <p>Welches sind die richtigen Einheiten der elektrischen und der magnetischen Feldstärke?</p>
+      </text>
+      <answer correct="yes">
+        Elektrische Feldstärke: Volt pro Meter
+        <br />
+        Magnetische Feldstärke: Ampere pro Meter
+      </answer>
+      <answer correct="no">
+        Elektrische Feldstärke: Ampere pro Meter
+        <br />
+        Magnetische Feldstärke: Volt pro Meter
+      </answer>
+      <answer correct="no">
+        Elektrische Feldstärke: Volt mal Meter
+        <br />
+        Magnetische Feldstärke: Ampere mal Meter
+      </answer>
+      <answer correct="no">
+        Elektrische Feldstärke: Ampere mal Meter
+        <br />
+        Magnetische Feldstärke: Volt mal Meter
+      </answer>
+    </question>
+    

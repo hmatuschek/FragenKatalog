@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI205" name="E/TI205">
+      <text>
+        <p>Von welchem der genannten Parameter ist die Sprungdistanz abhängig, die ein KW-Signal auf der Erdoberfläche überbrücken kann? Sie ist abhängig</p>
+      </text>
+      <answer correct="yes">vom Abstrahlwinkel der Antenne.</answer>
+      <answer correct="no">von der Polarisation der Antenne.</answer>
+      <answer correct="no">von der Sendeleistung.</answer>
+      <answer correct="no">vom Antennengewinn.</answer>
+    </question>
+    

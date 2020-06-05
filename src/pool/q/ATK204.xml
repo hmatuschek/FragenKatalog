@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK204" name="A/TK204">
+      <text>
+        <p>Bei einem Sender mit mehr als 2,5 mW Ausgangsleistung sollte die Dämpfung der Oberwellen im Frequenzbereich 1,7-35 MHz mindestens</p>
+      </text>
+      <answer correct="yes">40 dB betragen.</answer>
+      <answer correct="no">60 dB betragen.</answer>
+      <answer correct="no">100 dB betragen.</answer>
+      <answer correct="no">20 dB betragen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI235" name="A/TI235">
+      <text>
+        <p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: "Während der Tagesstunden können nur relativ geringe Entfernungen überbrückt werden, weil die Wellen von der D-Schicht stark absorbiert werden. Im Winter sind die Tagesreichweiten größer als im Sommer, maximal etwa 400 km. Nach Sonnenuntergang steigen die Reichweiten wegen des Abbaus der dämpfenden D-Schicht an. Während des Sonnenfleckenminimums ist in den Morgenstunden oft interkontinentaler Funkverkehr möglich. Die Sprungsdistanz kann dabei auf bis zu 1000 km ansteigen." Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>
+      </text>
+      <answer correct="yes">80-m-Band.</answer>
+      <answer correct="no">20-m-Band.</answer>
+      <answer correct="no">30-m-Band.</answer>
+      <answer correct="no">40-m-Band.</answer>
+    </question>
+    

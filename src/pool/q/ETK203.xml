@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK203" name="E/TK203">
+      <text>
+        <p>Die Übersteuerung eines Leistungsverstärkers führt zu</p>
+      </text>
+      <answer correct="yes">einem hohen Nebenwellenanteil.</answer>
+      <answer correct="no">lediglich geringen Verzerrungen beim Empfang.</answer>
+      <answer correct="no">einer besseren Verständlichkeit am Empfangsort.</answer>
+      <answer correct="no">einer Verringerung der Ausgangsleistung.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI232" name="A/TI232">
+      <text>
+        <p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: "Die Ausbreitungsbedingungen auf diesem Band sind stark von den Sonnenfleckenzyklen abhängig. Während des Sonnenfleckenmaximums ist das Band fast durchgehend für den DX-Verkehr geöffnet. Im Sonnenfleckenminimum ist das Band bestenfalls in den Sommermonaten tagsüber und meist nur kurzzeitig für den DX-Verkehr brauchbar." Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>
+      </text>
+      <answer correct="yes">15-m-Band.</answer>
+      <answer correct="no">80-m-Band.</answer>
+      <answer correct="no">20-m-Band.</answer>
+      <answer correct="no">40-m-Band.</answer>
+    </question>
+    

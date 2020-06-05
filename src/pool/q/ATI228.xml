@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI228" name="A/TI228">
+      <text>
+        <p>Was bedeutet die Aussage: "Die kritische Frequenz liegt bei 22 MHz"?</p>
+      </text>
+      <answer correct="yes">Bei Einstrahlung in die Ionosphäre unter einem Winkel von 90° liegt die höchste noch reflektierte Signalfrequenz bei 22 MHz.</answer>
+      <answer correct="no">Bei Einstrahlung in die Ionosphäre unter einem Winkel von 90° liegt die niedrigste noch reflektierte Signalfrequenz bei 22 MHz.</answer>
+      <answer correct="no">Bei Einstrahlung in die Ionosphäre unter einem Winkel von 45° liegt die höchste noch reflektierte Signalfrequenz bei 22 MHz.</answer>
+      <answer correct="no">Bei Einstrahlung in die Ionosphäre unter einem Winkel von 45° liegt die niedrigste noch reflektierte Signalfrequenz bei 22 MHz.</answer>
+    </question>
+    

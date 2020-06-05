@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE116" name="V/VE116">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (23-cm-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">1240 - 1300 MHz</answer>
+      <answer correct="no">1240 - 1290 MHz</answer>
+      <answer correct="no">1220 - 1300 MHz</answer>
+      <answer correct="no">1220 - 1290 MHz</answer>
+    </question>
+    

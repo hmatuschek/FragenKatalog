@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG225" name="A/TG225">
+      <text>
+        <p>
+          Welchem Zweck dient C
+          <sub>2</sub>
+           in der folgenden Schaltung?
+        </p>
+        <img src="Atg222" />
+      </text>
+      <answer correct="yes">Zur Festlegung der HF-Kopplung</answer>
+      <answer correct="no">Zur Verhinderung der Schwingneigung</answer>
+      <answer correct="no">Zur Gleichstromentkopplung</answer>
+      <answer correct="no">Zur Unterdrückung von Oberwellen</answer>
+    </question>
+    

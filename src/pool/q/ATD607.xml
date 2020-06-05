@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD607" name="A/TD607">
+      <text>
+        <p>Was ist ein VCO und wie funktioniert er?</p>
+      </text>
+      <answer correct="yes">Ein VCO ist ein spannungsgesteuerter Oszillator [voltage controlled oscillator]. Die Frequenzvariation erfolgt mittels einer spannungsgesteuerten Kapazitätsvariationsdiode.</answer>
+      <answer correct="no">Ein VCO ist ein variabler Steueroszillator [variable control oscillator]. Die Frequenzvariation erfolgt mittels eines Drehkondensators.</answer>
+      <answer correct="no">Ein VCO ist ein von einem Referenzoszillator mitgezogener Oszillator [variable controlled oscillator]. Die Frequenzvariation erfolgt durch Umschaltung der Frequenz des Referenzoszillators.</answer>
+      <answer correct="no">Ein VCO ist ein variabler Quarzoszillator [variable controlled oscillator]. Die Frequenzvariation erfolgt durch Veränderung (ziehen) der Quarzfrequenz mit Abstimmitteln.</answer>
+    </question>
+    

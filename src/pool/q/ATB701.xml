@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB701" name="A/TB701">
+      <text>
+        <p>Ein symmetrisches Rechtecksignal hat eine Grundfrequenz von 1500 Hz. Welche Frequenzen sind in diesem Signal enthalten?</p>
+        <img src="Atb701" />
+      </text>
+      <answer correct="yes">1500 Hz, 4500 Hz, 7500 Hz und höher</answer>
+      <answer correct="no">1500 Hz, 3000 Hz, 4500 Hz und höher</answer>
+      <answer correct="no">1500 Hz, 2250 Hz, 3000 Hz und höher</answer>
+      <answer correct="no">1500 Hz, 3000 Hz, 6000 Hz und höher</answer>
+    </question>
+    

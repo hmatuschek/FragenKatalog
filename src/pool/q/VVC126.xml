@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC126" name="V/VC126">
+      <text>
+        <p>Darf die Amateurfunkstelle zu gewerblichwirtschaftlichen Zwecken in kleinem Rahmen mitbenutzt werden?</p>
+      </text>
+      <answer correct="yes">Nein, alle gewerblich-wirtschaftlichen Zwecke sind nach dem AFuG ausgeschlossen.</answer>
+      <answer correct="no">Ja, aber nur wenn es sich dabei um den Bereich des Amateurfunks selbst handelt wie z. B. Angebote über preisgünstige Amateurfunkausrüstung, Amateurfunkkurse von Fernschulen, organisierte Fachreisen für Funkamateure usw.</answer>
+      <answer correct="no">Ja, wenn alle an der Maßnahme Beteiligten selbst Funkamateure sind.</answer>
+      <answer correct="no">Ja, wenn die Maßnahme mit öffentlichen Mitteln gefördert wird (z. B. auch im Rahmen von ABM).</answer>
+    </question>
+    

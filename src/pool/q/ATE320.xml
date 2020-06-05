@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE320" name="A/TE320">
+      <text>
+        <p>Der Baudot-Code ist ein</p>
+      </text>
+      <answer correct="yes">5-Bit-Code mit zusätzlichen Start- und Stoppbits.</answer>
+      <answer correct="no">Fernschreibcode, der Fehlerkorrektur verwendet.</answer>
+      <answer correct="no">7-Bit-Code mit Start-, Stopp- und Paritybits.</answer>
+      <answer correct="no">Fernschreibcode, der "Mark" und "Space" verwendet.</answer>
+    </question>
+    

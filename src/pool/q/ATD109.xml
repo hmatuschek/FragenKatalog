@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD109" name="A/TD109">
+      <text>
+        <p>
+          Wie teilt sich die Spannung an zwei in Reihe geschalteten Widerständen auf, wenn R
+          <sub>1</sub>
+           = 1/6 mal so groß ist wie R
+          <sub>2</sub>
+          ?
+        </p>
+        <img src="Atd108" />
+      </text>
+      <answer correct="yes">
+        U
+        <sub>1</sub>
+         = U
+        <sub>2</sub>
+         / 6
+      </answer>
+      <answer correct="no">
+        U
+        <sub>1</sub>
+         = 6 · U
+        <sub>2</sub>
+      </answer>
+      <answer correct="no">
+        U
+        <sub>1</sub>
+         = U
+        <sub>2</sub>
+         / 5
+      </answer>
+      <answer correct="no">
+        U
+        <sub>1</sub>
+         = 5 · U
+        <sub>2</sub>
+      </answer>
+    </question>
+    

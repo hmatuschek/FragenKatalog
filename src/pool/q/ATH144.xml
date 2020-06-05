@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH144" name="A/TH144">
+      <text>
+        <p>Durch den Einbau zusätzlicher Direktoren in eine Richtstrahlantenne wird deren</p>
+      </text>
+      <answer correct="yes">Keulenbreite verringert.</answer>
+      <answer correct="no">Keulenbreite erhöht.</answer>
+      <answer correct="no">Strahlungswiderstand erhöht.</answer>
+      <answer correct="no">Vor-Rück-Verhältnis verringert.</answer>
+    </question>
+    

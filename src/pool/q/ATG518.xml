@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG518" name="A/TG518">
+      <text>
+        <p>Bei Aussendungen im Frequenzbereich 1,81 bis 2,0 MHz können Spiegelfrequenzstörungen im</p>
+      </text>
+      <answer correct="yes">MW-Bereich auftreten.</answer>
+      <answer correct="no">FM-Rundfunkbereich auftreten.</answer>
+      <answer correct="no">LW-Bereich auftreten.</answer>
+      <answer correct="no">10-m-Amateurfunkband auftreten.</answer>
+    </question>
+    

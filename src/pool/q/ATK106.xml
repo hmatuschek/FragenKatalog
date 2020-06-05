@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK106" name="A/TK106">
+      <text>
+        <p>Alle Geräte, die HF-Ströme übertragen, sollten</p>
+      </text>
+      <answer correct="yes">möglichst gut geschirmt sein.</answer>
+      <answer correct="no">nicht geerdet sein.</answer>
+      <answer correct="no">über das Stromversorgungsnetz geerdet sein.</answer>
+      <answer correct="no">durch Kunststoffabdeckungen geschützt sein.</answer>
+    </question>
+    

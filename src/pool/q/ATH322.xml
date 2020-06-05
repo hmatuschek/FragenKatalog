@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH322" name="A/TH322">
+      <text>
+        <p>Welche mechanische Länge hat ein λ/4-langes Koaxkabel mit Vollpolyethylenisolierung bei 145 MHz?</p>
+      </text>
+      <answer correct="yes">34,2 cm</answer>
+      <answer correct="no">51,7 cm</answer>
+      <answer correct="no">103 cm</answer>
+      <answer correct="no">17 cm</answer>
+    </question>
+    

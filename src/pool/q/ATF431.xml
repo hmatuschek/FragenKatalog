@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF431" name="A/TF431">
+      <text>
+        <p>Die Ungenauigkeit der digitalen Anzeige eines Empfängers beträgt 0,01 %. Bei welcher Entfernung zur unteren Bandgrenze ist im 10-m-Bereich noch gewährleistet, dass der Träger sich innerhalb des zugelassenen Bandes befindet?</p>
+      </text>
+      <answer correct="yes">2800 Hz</answer>
+      <answer correct="no">280 Hz</answer>
+      <answer correct="no">28 MHz</answer>
+      <answer correct="no">28 kHz</answer>
+    </question>
+    

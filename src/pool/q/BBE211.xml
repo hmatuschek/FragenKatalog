@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE211" name="B/BE211">
+      <text>
+        <p>Was meint ein Funkamateur damit, wenn er angibt, dass auf dem 2-m-Band "Sporadic-E-Bedingungen" herrschen? Er meint damit, dass derzeit</p>
+      </text>
+      <answer correct="yes">Stationen aus Entfernungen von 1000 bis 2000 km zu hören sind, die über Reflexionen an der sporadischen E-Schicht empfangen werden.</answer>
+      <answer correct="no">außereuropäische Stationen zu hören sind, die über Reflexionen an der sporadischen E-Schicht empfangen werden.</answer>
+      <answer correct="no">außereuropäische Stationen zu hören sind, die über Reflexion an Ionisationserscheinungen des Polarkreises empfangen werden.</answer>
+      <answer correct="no">Stationen aus Entfernungen von 1000 bis 2000 km zu hören sind, die über Reflexion an Ionisationserscheinungen des Polarkreises empfangen werden.</answer>
+    </question>
+    

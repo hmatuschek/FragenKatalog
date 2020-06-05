@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE110" name="V/VE110">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (15-m-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">21 MHz - 21,45 MHz</answer>
+      <answer correct="no">21 MHz - 21,35 MHz</answer>
+      <answer correct="no">21 MHz - 21,5 MHz</answer>
+      <answer correct="no">21 MHz - 21,7 MHz</answer>
+    </question>
+    

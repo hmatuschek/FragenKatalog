@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH303" name="E/TH303">
+      <text>
+        <p>Eine HF-Ausgangleistung von 100 W wird in eine angepasste Übertragungsleitung eingespeist. Am antennenseitigen Ende der Leitung beträgt die Leistung 50 W bei einem Stehwellenverhältnis von 1:1. Wie hoch ist die Leitungsdämpfung?</p>
+      </text>
+      <answer correct="yes">3 dB</answer>
+      <answer correct="no">-6 dB</answer>
+      <answer correct="no">-3 dB</answer>
+      <answer correct="no">6 dBm</answer>
+    </question>
+    

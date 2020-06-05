@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ506" name="A/TJ506">
+      <text>
+        <p>Welches der folgenden Geräte kann in der Regel nicht für die Prüfung von Harmonischen verwendet werden?</p>
+      </text>
+      <answer correct="yes">Frequenzzähler</answer>
+      <answer correct="no">Interferenzwellenmesser</answer>
+      <answer correct="no">Absorptionsfrequenzmesser</answer>
+      <answer correct="no">Spektrumanalysator</answer>
+    </question>
+    

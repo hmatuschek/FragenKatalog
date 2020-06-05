@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL210" name="E/TL210">
+      <text>
+        <p>Sie möchten den Personenschutz-Sicherheitsabstand für die Antenne Ihrer Amateurfunkstelle für das 10-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein?</p>
+      </text>
+      <answer correct="yes">5,01 m</answer>
+      <answer correct="no">3,91 m</answer>
+      <answer correct="no">2,50 m</answer>
+      <answer correct="no">20,70 m</answer>
+    </question>
+    

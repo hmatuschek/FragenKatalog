@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD112" name="A/TD112">
+      <text>
+        <p>
+          Wie groß ist der Strom durch R
+          <sub>3</sub>
+          , wenn U = 15 V und alle Widerstände R
+          <sub>1</sub>
+           bis R
+          <sub>3</sub>
+           je 10 kΩ betragen?
+        </p>
+        <img src="Atd111" />
+      </text>
+      <answer correct="yes">0,5 mA</answer>
+      <answer correct="no">1,0 mA</answer>
+      <answer correct="no">1,6 mA</answer>
+      <answer correct="no">4,5 mA</answer>
+    </question>
+    

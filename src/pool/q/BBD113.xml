@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD113" name="B/BD113">
+      <text>
+        <p>Rufzeichen, die mit DFØ, DKØ oder DLØ beginnen, sind zumeist</p>
+      </text>
+      <answer correct="yes">Klubstationsrufzeichen der Klasse A.</answer>
+      <answer correct="no">Ausbildungsrufzeichen der Klasse E.</answer>
+      <answer correct="no">Personengebundene Rufzeichen der Klasse A.</answer>
+      <answer correct="no">Rufzeichen für automatisch arbeitende Stationen der Klasse E.</answer>
+    </question>
+    

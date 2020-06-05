@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB305" name="A/TB305">
+      <text>
+        <p>Wie nennt man das Feld zwischen zwei parallelen Kondensatorplatten bei Anschluss einer Gleichspannung?</p>
+        <img src="Atb305" />
+      </text>
+      <answer correct="yes">Homogenes elektrisches Feld</answer>
+      <answer correct="no">Homogenes magnetisches Feld</answer>
+      <answer correct="no">Polarisiertes elektrisches Feld</answer>
+      <answer correct="no">Polarisiertes magnetisches Feld</answer>
+    </question>
+    

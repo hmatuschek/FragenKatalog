@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC306" name="A/TC306">
+      <text>
+        <p>Was versteht man unter dem Blindwiderstand einer Spule und von welchen physikalischen Größen hängt er ab?</p>
+      </text>
+      <answer correct="yes">Der Blindwiderstand ist der Wechselstromwiderstand einer Spule. Er ist abhängig von der Induktivität der Spule und der anliegenden Frequenz. Im Blindwiderstand entstehen keine Wärmeverluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der Gleichstromwiderstand einer Spule. Er ist abhängig vom Isolationsmaterial der Spule und der anliegenden Spannung. Auch im Blindwiderstand entstehen Wärmeverluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der Wechselstromwiderstand einer Spule. Er ist abhängig von der Blindinduktivität der Spule und der anliegenden Spannung. Im Blindwiderstand entstehen hohe Verluste.</answer>
+      <answer correct="no">Der Blindwiderstand ist der HFGleichstromwiderstand einer Spule. Er wird mit steigender Induktivität sowie bei erhöhtem Wechselstromanteil und steigender Frequenz größer. Je tiefer die Frequenz umso eher wandern die Elektronen an den Spulenrand (Skin- Effekt).</answer>
+    </question>
+    

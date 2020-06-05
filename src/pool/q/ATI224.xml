@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI224" name="A/TI224">
+      <text>
+        <p>Die MUF für eine Funkstrecke ist</p>
+      </text>
+      <answer correct="yes">die höchste brauchbare Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können.</answer>
+      <answer correct="no">der Mittelwert aus der höchsten und niedrigsten brauchbaren Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können.</answer>
+      <answer correct="no">die niedrigste brauchbaren Frequenz, bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können.</answer>
+      <answer correct="no">die vorgeschriebene nutzbare Frequenz bei der sich elektromagnetische Wellen zwischen zwei Orten durch ionosphärische Brechung ausbreiten können.</answer>
+    </question>
+    

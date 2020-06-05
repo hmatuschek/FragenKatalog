@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH122" name="A/TH122">
+      <text>
+        <p>Eine Marconi-Antenne ist</p>
+      </text>
+      <answer correct="yes">eine gegen Erde erregte λ/4-Vertikalantenne.</answer>
+      <answer correct="no">eine Groundplane-Antenne mit abgestimmten Radials.</answer>
+      <answer correct="no">eine horizontale λ/2-Langdrahtantenne.</answer>
+      <answer correct="no">eine vertikale Halbwellenantenne.</answer>
+    </question>
+    

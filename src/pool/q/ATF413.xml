@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF413" name="A/TF413">
+      <text>
+        <p>Für eine optimale Stabilität sollte auch ein bereits temperaturkompensierter VFO</p>
+      </text>
+      <answer correct="yes">in möglichst großem Abstand zu Wärmequellen aufgebaut sein.</answer>
+      <answer correct="no">auf einem eigenen Kühlkörper montiert sein.</answer>
+      <answer correct="no">auf dem gleichen Kühlkörper wie der Leistungsverstärker montiert sein.</answer>
+      <answer correct="no">über eine separate Luftkühlung durch einen kleinen Ventilator verfügen.</answer>
+    </question>
+    

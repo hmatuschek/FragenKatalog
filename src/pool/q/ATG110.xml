@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG110" name="A/TG110">
+      <text>
+        <p>
+          Im folgenden Blockschaltbild ist die Frequenzaufbereitung für einen Amateurfunk-Transceiver dargestellt. Welche Frequenz erzeugt der Sender, wenn VCO
+          <sub>1</sub>
+           auf 2,651 MHz eingestellt und VCO
+          <sub>2</sub>
+           auf 6 MHz eingerastet ist?
+        </p>
+        <img src="Atg110" />
+      </text>
+      <answer correct="yes">3,651 MHz</answer>
+      <answer correct="no">6,651 MHz</answer>
+      <answer correct="no">8,651 MHz</answer>
+      <answer correct="no">14,351 MHz</answer>
+    </question>
+    

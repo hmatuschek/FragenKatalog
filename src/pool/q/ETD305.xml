@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD305" name="E/TD305">
+      <text>
+        <p>Berechnen Sie die Leerlaufausgangsspannung dieser Schaltung für ein Transformationsverhältnis von 8:1.</p>
+        <img src="ETD304" />
+      </text>
+      <answer correct="yes">Zirka 40 Volt</answer>
+      <answer correct="no">Zirka 46 Volt</answer>
+      <answer correct="no">Zirka 65 Volt</answer>
+      <answer correct="no">Zirka 28 Volt</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD316" name="A/TD316">
+      <text>
+        <p>Bei der Verbindung der Stromversorgung mit HF-Leistungsverstärkern ist</p>
+      </text>
+      <answer correct="yes">eine genügende HF-Filterung vorzusehen.</answer>
+      <answer correct="no">eine separate Erdung vorzusehen.</answer>
+      <answer correct="no">eine zusätzliche Schmelzsicherung vorzusehen.</answer>
+      <answer correct="no">eine Schutzdiode vorzusehen.</answer>
+    </question>
+    

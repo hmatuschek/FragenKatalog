@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH110" name="A/TH110">
+      <text>
+        <p>Das folgende Bild zeigt die Stromverteilungen A bis D auf einem Dipol, der auf verschiedenen Resonanzfrequenzen erregt werden kann. Für welche Erregerfrequenz gilt die Stromkurve nach C?</p>
+        <img src="Ath108" />
+      </text>
+      <answer correct="yes">Sie gilt für eine Erregung auf 7 MHz.</answer>
+      <answer correct="no">Sie gilt für eine Erregung auf 28 MHz.</answer>
+      <answer correct="no">Sie gilt für eine Erregung auf 14 MHz.</answer>
+      <answer correct="no">Sie gilt für eine Erregung auf 3,5 MHz.</answer>
+    </question>
+    

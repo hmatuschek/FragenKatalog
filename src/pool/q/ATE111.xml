@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE111" name="A/TE111">
+      <text>
+        <p>Das folgende Oszillogramm zeigt ein AM-Signal. Der Modulationsgrad beträgt hier ca.</p>
+        <img src="Ate111" />
+      </text>
+      <answer correct="yes">50 %.</answer>
+      <answer correct="no">33 %.</answer>
+      <answer correct="no">67 %.</answer>
+      <answer correct="no">75 %.</answer>
+    </question>
+    

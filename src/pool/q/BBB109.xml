@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB109" name="B/BB109">
+      <text>
+        <p>Was bedeutet die Betriebsabkürzung "BK" in Telegrafie?</p>
+      </text>
+      <answer correct="yes">Signal zur Unterbrechung der Sendung</answer>
+      <answer correct="no">Alles richtig verstanden</answer>
+      <answer correct="no">Bitte warten!</answer>
+      <answer correct="no">Beendigung des Funkverkehrs</answer>
+    </question>
+    

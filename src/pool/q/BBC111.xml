@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC111" name="B/BC111">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 30-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">10100 - 10150 kHz</answer>
+      <answer correct="no">21000 - 21450 kHz</answer>
+      <answer correct="no">14000 - 14350 kHz</answer>
+      <answer correct="no">18068 - 18168 kHz</answer>
+    </question>
+    

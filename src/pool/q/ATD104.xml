@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD104" name="A/TD104">
+      <text>
+        <p>Wie groß ist die Gesamtinduktivität von drei in Reihe geschalteten Spulen von 2000 nH, 0,03 mH und 1500 μH?</p>
+      </text>
+      <answer correct="yes">1532 μH</answer>
+      <answer correct="no">1503 μH</answer>
+      <answer correct="no">1873 nH</answer>
+      <answer correct="no">1873 μH</answer>
+    </question>
+    

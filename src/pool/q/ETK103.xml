@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK103" name="E/TK103">
+      <text>
+        <p>Welche Reaktion ist angebracht, wenn Störungen im TV-Rundfunk beim Nachbarn nicht mit den zur Verfügung stehenden Mitteln beseitigt werden können?</p>
+      </text>
+      <answer correct="yes">Sie empfehlen dem Nachbarn höflich, sich an die Bundesnetzagentur zur Prüfung der Störungsursache zu wenden.</answer>
+      <answer correct="no">Der Nachbar sollte höflich darauf hingewiesen werden, dass es an seiner eigenen Einrichtung liegt.</answer>
+      <answer correct="no">Der Nachbar sollte darauf hingewiesen werden, dass Sie hierfür nicht zuständig sind.</answer>
+      <answer correct="no">Sie benachrichtigen ihren Amateurfunkverband.</answer>
+    </question>
+    

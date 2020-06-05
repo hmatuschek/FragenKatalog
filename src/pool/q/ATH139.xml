@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH139" name="A/TH139">
+      <text>
+        <p>Die Radiale einer Groundplane-Antenne bezeichnet man auch als</p>
+      </text>
+      <answer correct="yes">Gegengewichte.</answer>
+      <answer correct="no">künstliche Strahler.</answer>
+      <answer correct="no">Parasitärstrahler.</answer>
+      <answer correct="no">Blitzschutzelemente.</answer>
+    </question>
+    

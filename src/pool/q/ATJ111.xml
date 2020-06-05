@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ111" name="A/TJ111">
+      <text>
+        <p>Mit welchem Strom zeigt ein 20-kΩ/V-Instrument Vollausschlag?</p>
+      </text>
+      <answer correct="yes">50 μA</answer>
+      <answer correct="no">5 mA</answer>
+      <answer correct="no">50 mA</answer>
+      <answer correct="no">500 μA</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETL213" name="E/TL213">
+      <text>
+        <p>Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Sicherheitsabstand zu ermitteln?</p>
+      </text>
+      <answer correct="yes">Mit dem Mittelwert der Ausgangsleistung gemittelt über ein Intervall von 6 Minuten.</answer>
+      <answer correct="no">Mit der größten Ausgangsleistung des Transceivers zuzüglich Antennengewinn, korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart.</answer>
+      <answer correct="no">Mit der durchschnittlich benutzten Ausgangsleistung gemittelt über den Betriebszeitraum und korrigiert um den Gewichtungsfaktor für die verwendete Betriebsart.</answer>
+      <answer correct="no">Mit der maximalen Ausgangsleistung des verwendeten Senders zuzüglich 3 dB Messfehler.</answer>
+    </question>
+    

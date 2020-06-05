@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ209" name="E/TJ209">
+      <text>
+        <p>
+          Wie misst man das Stehwellenverhältnis?
+          <br />
+          Man misst es
+        </p>
+      </text>
+      <answer correct="yes">mit einer VSWR-Messbrücke.</answer>
+      <answer correct="no">mit einem Absorptionswellenmesser oder einem Dipmeter.</answer>
+      <answer correct="no">durch Strommessung am Anfang und am Ende der Speiseleitung.</answer>
+      <answer correct="no">durch Spannungsmessung am Anfang und am Ende der Speiseleitung.</answer>
+    </question>
+    

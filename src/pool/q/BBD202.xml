@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD202" name="B/BD202">
+      <text>
+        <p>Welche Antwort enthält nur Landeskenner von Ländern, die an die Bundesrepublik Deutschland grenzen?</p>
+      </text>
+      <answer correct="yes">F, HB, OZ, SP</answer>
+      <answer correct="no">EA, GM, OE, ON</answer>
+      <answer correct="no">SM, LA, LZ, HB</answer>
+      <answer correct="no">CT, I, LX, OK</answer>
+    </question>
+    

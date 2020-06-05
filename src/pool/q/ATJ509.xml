@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ509" name="A/TJ509">
+      <text>
+        <p>Was stellt die mit X gekennzeichnete Stelle der folgenden Anzeige eines Frequenzzählers dar?</p>
+        <img src="Atj509" />
+      </text>
+      <answer correct="yes">Kilohertz</answer>
+      <answer correct="no">Hertz</answer>
+      <answer correct="no">Hundertfache Hertz</answer>
+      <answer correct="no">Zehnfache Hertz</answer>
+    </question>
+    

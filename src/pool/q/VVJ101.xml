@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVJ101" name="V/VJ101">
+      <text>
+        <p>Nach welchen Vorschriften müssen Außenantennenanlagen errichtet werden?</p>
+      </text>
+      <answer correct="yes">Nach den geltenden Bauordnungen des jeweiligen Bundeslandes.</answer>
+      <answer correct="no">Nach den Bestimmungen des AFuG.</answer>
+      <answer correct="no">Nach den Empfehlungen der Amateurfunkvereine.</answer>
+      <answer correct="no">Es müssen keine besonderen Vorschriften beachtet werden, da es sich um eine Amateurfunkanlage handelt.</answer>
+    </question>
+    

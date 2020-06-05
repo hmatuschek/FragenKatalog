@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC203" name="B/BC203">
+      <text>
+        <p>Auf welcher Frequenz würden Sie im 2-Meter-Band ein Telefonie QSO führen und zwar 1. in SSB und 2. in FM?</p>
+      </text>
+      <answer correct="yes">SSB: 144,250 MHz, FM: 145,450 MHz</answer>
+      <answer correct="no">SSB: 144,250 MHz, FM: 144,450 MHz</answer>
+      <answer correct="no">SSB: 144,300 MHz, FM: 145,050 MHz</answer>
+      <answer correct="no">SSB: 145,250 MHz, FM: 144,350 MHz</answer>
+    </question>
+    

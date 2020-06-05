@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE102" name="E/TE102">
+      <text>
+        <p>Welches der nachfolgenden Modulationsverfahren hat die geringste Störanfälligkeit bei Funkanlagen in Kraftfahrzeugen?</p>
+      </text>
+      <answer correct="yes">FM</answer>
+      <answer correct="no">SSB</answer>
+      <answer correct="no">DSB</answer>
+      <answer correct="no">AM</answer>
+    </question>
+    

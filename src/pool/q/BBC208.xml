@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC208" name="B/BC208">
+      <text>
+        <p>Ist die Annahme richtig, dass man in den Satellitenbereichen z.B. des 2-m- oder 70-cm-Bandes mit einem Handfunkgerät lokalen Funkverkehr in F3E (FM) abwickeln kann, weil die Reichweite zu gering ist, einen Satelliten zu stören?</p>
+      </text>
+      <answer correct="yes">Nein, weil besonders die niedrig fliegenden Amateurfunksatelliten wegen der hindernisfreien direkten "Sichtverbindung" sehr stark gestört würden.</answer>
+      <answer correct="no">Ja, weil Amateurfunksatelliten dadurch nicht gestört werden.</answer>
+      <answer correct="no">Ja, weil Amateurfunksatelliten in anderen als den benutzten Frequenzbereichen arbeiten und deshalb trotz der direkten "Sichtverbindung" nicht gestört werden.</answer>
+      <answer correct="no">Nein, weil besonders niedrig fliegende Amateurfunksatelliten wegen der hindernisfreien direkten "Sichtverbindung" zu Ihnen sehr stark stören könnten.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD216" name="A/TD216">
+      <text>
+        <p>Welche Bandbreite B hat die Reihenschaltung einer Spule von 100 μH mit einem Kondensator von 0,01 μF und einem Widerstand von 10 Ω?</p>
+      </text>
+      <answer correct="yes">15,9 kHz</answer>
+      <answer correct="no">159,1 kHz</answer>
+      <answer correct="no">1,59 kHz</answer>
+      <answer correct="no">159 Hz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI316" name="A/TI316">
+      <text>
+        <p>In welcher Region der Erde kommt "Sporadic-E" am häufigsten vor? Sie kommt am häufigsten vor</p>
+      </text>
+      <answer correct="yes">in der nördlichen Hemisphäre.</answer>
+      <answer correct="no">in Äquatornähe.</answer>
+      <answer correct="no">in der arktischen Region.</answer>
+      <answer correct="no">in den Polregionen.</answer>
+    </question>
+    

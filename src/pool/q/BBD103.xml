@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD103" name="B/BD103">
+      <text>
+        <p>Was erkennen Sie aus dem Rufzeichen DAØXX?</p>
+      </text>
+      <answer correct="yes">Es handelt sich um eine Zuteilung für eine Kurzzeitklubstation.</answer>
+      <answer correct="no">Es handelt sich um eine Zuteilung für besondere technisch-wissenschaftliche Studien der Zuteilungsklasse A.</answer>
+      <answer correct="no">Es handelt sich um eine Zuteilung für Gaststreitkräfte.</answer>
+      <answer correct="no">Es handelt sich um die Zuteilung eines Ausbildungsrufzeichens für Gaststreitkräfte.</answer>
+    </question>
+    

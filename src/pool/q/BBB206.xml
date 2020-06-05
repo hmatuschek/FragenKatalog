@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB206" name="B/BB206">
+      <text>
+        <p>Welche Bedeutung haben in der gleichen Reihenfolge gelesen die Q-Gruppen "QRO?", "QSO?" und "QRX?" ?</p>
+      </text>
+      <answer correct="yes">Soll ich die Sendeleistung erhöhen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?</answer>
+      <answer correct="no">Soll ich meine Sendeleistung erhöhen? Haben Sie noch etwas für mich vorliegen? Werden Sie mich wieder rufen?</answer>
+      <answer correct="no">Soll ich die Sendeleistung erniedrigen? Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ?</answer>
+      <answer correct="no">Haben Sie noch etwas für mich vorliegen? Können Sie direkt Funkverkehr aufnehmen mit ? Wann werden Sie mich wieder rufen?</answer>
+    </question>
+    

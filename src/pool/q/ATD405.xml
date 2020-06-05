@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD405" name="A/TD405">
+      <text>
+        <p>
+          Welche Funktion haben die Kondensatoren C
+          <sub>1</sub>
+           und C
+          <sub>2</sub>
+           in der folgenden Schaltung? Sie dienen zur
+        </p>
+        <img src="Atd405" />
+      </text>
+      <answer correct="yes">Wechselstromkopplung.</answer>
+      <answer correct="no">Festlegung der oberen Grenzfrequenz.</answer>
+      <answer correct="no">Erzeugung der erforderlichen Phasenverschiebung.</answer>
+      <answer correct="no">Anhebung niederfrequenter Signalanteile.</answer>
+    </question>
+    

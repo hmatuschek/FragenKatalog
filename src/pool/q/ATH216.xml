@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH216" name="A/TH216">
+      <text>
+        <p>Die Polarisation einer Antenne</p>
+      </text>
+      <answer correct="yes">wird nach der Ausrichtung der elektrischen Feldkomponente in der Hauptstrahlrichtung in Bezug zur Erdoberfläche angegeben.</answer>
+      <answer correct="no">wird nach der Ausrichtung der magnetischen Feldkomponente in der Hauptstrahlrichtung in Bezug zur Erdoberfläche angegeben.</answer>
+      <answer correct="no">entspricht der Richtung der magnetischen Feldkomponente des empfangenen oder ausgesendeten Feldes in Bezug auf die Nordrichtung (Azimut).</answer>
+      <answer correct="no">entspricht der Richtung der elektrischen Feldkomponente des empfangenen oder ausgesendeten Feldes in Bezug auf die Nordrichtung (Azimut).</answer>
+    </question>
+    

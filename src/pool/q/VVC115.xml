@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC115" name="V/VC115">
+      <text>
+        <p>Welches der nachfolgend genannten Dokumente benötigt man, um ein Funkamateur im Sinne des AFuG zu sein?</p>
+      </text>
+      <answer correct="yes">Ein Amateurfunkzeugnis oder eine harmonisierte Amateurfunkprüfungsbescheinigung.</answer>
+      <answer correct="no">Ein Führungszeugnis aus dem hervorgeht, dass man nicht vorbestraft ist.</answer>
+      <answer correct="no">Einen gültigen Personal- oder Reisepass, aus dem hervorgeht, dass man seinen Wohnsitz in der Bundesrepublik hat.</answer>
+      <answer correct="no">Eine Bescheinigung darüber, dass man am Ausbildungsfunkverkehr erfolgreich teilgenommen hat.</answer>
+    </question>
+    

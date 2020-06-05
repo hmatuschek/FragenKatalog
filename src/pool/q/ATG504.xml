@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG504" name="A/TG504">
+      <text>
+        <p>Wie ist der Wirkungsgrad eines HF-Generators definiert?</p>
+      </text>
+      <answer correct="yes">Als Verhältnis der HF-Ausgangsleistung zu der zugeführten Gleichstromleistung.</answer>
+      <answer correct="no">Als Verhältnis der Stärke der erwünschten Aussendung zur Stärke der unerwünschten Aussendungen.</answer>
+      <answer correct="no">Als Verhältnis der HF-Leistung zu der Verlustleistung der Endstufenröhre bzw. des Endstufentransistors.</answer>
+      <answer correct="no">Als Erhöhung der Ausgangsleistung in der Endstufe bezogen auf die Eingangsleistung.</answer>
+    </question>
+    

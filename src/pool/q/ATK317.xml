@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK317" name="A/TK317">
+      <text>
+        <p>Um etwaige Funkstörungen auf Nachbarfrequenzen zu begrenzen, sollte bei Telefonie die höchste zu übertragende NF-Frequenz</p>
+      </text>
+      <answer correct="yes">unter 3 kHz liegen.</answer>
+      <answer correct="no">unter 1 kHz liegen.</answer>
+      <answer correct="no">unter 5 kHz liegen.</answer>
+      <answer correct="no">unter 10 kHz liegen.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE141" name="V/VE141">
+      <text>
+        <p>Was gilt für die Rufzeicheninhaber der Klassen A und E im Frequenzbereich 10 - 10,5 GHz?</p>
+      </text>
+      <answer correct="yes">Maximal 75 Watt PEP für Klasse A und 5 Watt PEP für Klasse E.</answer>
+      <answer correct="no">Maximal 75 Watt PEP für Klasse A und &lt;10 Watt EIRP für Klasse E.</answer>
+      <answer correct="no">Maximal 750 Watt PEP für Klasse A, Klasse E darf in dem Frequenzbereich nicht senden.</answer>
+      <answer correct="no">Maximal 75 Watt PEP für beide Klassen.</answer>
+    </question>
+    

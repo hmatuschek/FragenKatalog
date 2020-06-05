@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD308" name="V/VD308">
+      <text>
+        <p>Wird das Ausbildungsrufzeichen auf unbegrenzte Zeit erteilt?</p>
+      </text>
+      <answer correct="yes">Ja, bis auf Ausnahmen wird es in der Regel unbefristet erteilt.</answer>
+      <answer correct="no">Nein, es ist auf 2 Jahre befristet.</answer>
+      <answer correct="no">Nein, es ist nach einem Jahr neu zu beantragen.</answer>
+      <answer correct="no">Nein, es verfällt, wenn es ein Jahr nicht benutzt wurde.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF403" name="A/TF403">
+      <text>
+        <p>Welche Baugruppe eines Empfängers bestimmt die Trennschärfe?</p>
+      </text>
+      <answer correct="yes">Die Filter im ZF-Verstärker</answer>
+      <answer correct="no">Die Vorkreise in der Vorstufe</answer>
+      <answer correct="no">Der Oszillatorschwingkreis in der Mischstufe</answer>
+      <answer correct="no">Die PLL-Frequenzaufbereitung</answer>
+    </question>
+    

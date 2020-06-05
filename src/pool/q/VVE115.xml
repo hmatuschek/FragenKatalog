@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE115" name="V/VE115">
+      <text>
+        <p>Welche Antwort enthält die richtige Anfangs- und Endfrequenz eines für den Amateurfunkdienst in Deutschland ausgewiesenen Frequenzbereichs (70-cm-Amateurfunkband)?</p>
+      </text>
+      <answer correct="yes">430 - 440 MHz</answer>
+      <answer correct="no">430 - 438 MHz</answer>
+      <answer correct="no">432 - 440 MHz</answer>
+      <answer correct="no">432 - 438 MHz</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA101" name="B/BA101">
+      <text>
+        <p>Wie soll im Telefoniefunkverkehr verhindert werden, dass ähnlich lautende Rufzeichen verwechselt oder missverstanden werden können? Dies wird verhindert durch</p>
+      </text>
+      <answer correct="yes">die Verwendung der internationalen Buchstabiertafel nach den Radio Regulations (VO Funk).</answer>
+      <answer correct="no">die Überprüfung des Rufzeichens in einer Liste.</answer>
+      <answer correct="no">Beachtung der Vorschriften zur AFuV.</answer>
+      <answer correct="no">mehrmalige Wiederholungen.</answer>
+    </question>
+    

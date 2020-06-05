@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB108" name="V/VB108">
+      <text>
+        <p>Wie muss die Rufzeichennennung von DO1XYZ bei der Nutzung der CEPT-Novice-Amateurfunkgenehmigung in der Schweiz erfolgen?</p>
+      </text>
+      <answer correct="yes">HB3/DO1XYZ</answer>
+      <answer correct="no">DO1XYZ/HB3</answer>
+      <answer correct="no">Die Nennung von DO1XYZ ist ausreichend.</answer>
+      <answer correct="no">DO1XYZ-HB9/portabel oder DO1XYZ-HB9/mobil.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG506" name="A/TG506">
+      <text>
+        <p>Bei digitalen Betriebsarten bis 9600 Bd sollte die Bandbreite der Signale 6 kHz nicht überschreiten. Geben Sie die richtige Begründung für diese Empfehlung an:</p>
+      </text>
+      <answer correct="yes">Um möglichst sparsam mit der Bandbreite umzugehen.</answer>
+      <answer correct="no">Um die Oberwellen zu verringern.</answer>
+      <answer correct="no">Um die Sendeleistung zu reduzieren.</answer>
+      <answer correct="no">Um die Gefahr der Selbsterregung zu verringern.</answer>
+    </question>
+    

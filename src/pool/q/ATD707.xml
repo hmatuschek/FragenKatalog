@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD707" name="A/TD707">
+      <text>
+        <p>Wie groß muss bei der folgenden Schaltung die Frequenz an Punkt A sein, wenn bei der versechsfachten Ausgangsfrequenz ein Kanalabstand von 25 kHz benötigt wird?</p>
+        <img src="Atd701" />
+      </text>
+      <answer correct="yes">ca. 4,167 kHz</answer>
+      <answer correct="no">25 kHz</answer>
+      <answer correct="no">300 kHz</answer>
+      <answer correct="no">150 kHz</answer>
+    </question>
+    

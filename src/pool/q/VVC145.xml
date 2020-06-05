@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC145" name="V/VC145">
+      <text>
+        <p>Ein Funkamateur übermittelt unter Benutzung seiner Amateurfunkstelle rechtswidrig Nachrichten an Dritte. Wie hoch kann das Bußgeld für diese Ordnungswidrigkeit sein?</p>
+      </text>
+      <answer correct="yes">Bis zu 5.000 EURO.</answer>
+      <answer correct="no">Bis zu 10.000 EURO.</answer>
+      <answer correct="no">Maximal das 20-fache des Frequenznutzungsbeitrags.</answer>
+      <answer correct="no">50 bis 100 EURO je nach Zeugnisklasse.</answer>
+    </question>
+    

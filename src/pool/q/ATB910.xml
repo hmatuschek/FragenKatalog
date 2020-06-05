@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB910" name="A/TB910">
+      <text>
+        <p>Wie wird die EIRP ermittelt?</p>
+      </text>
+      <answer correct="yes">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>Sender</sub>
+         - P
+        <sub>Verluste)</sub>
+         · G
+        <sub>Antenne</sub>
+         bezogen auf den isotropen Kugelstrahler
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>sender</sub>
+         · G
+        <sub>Antenne)</sub>
+         - P
+        <sub>Verluste</sub>
+         bezogen auf den Halbwellendipol
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = (P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste)</sub>
+         · G
+        <sub>Antenne</sub>
+         bezogen auf den isotropen Kugelstrahler
+      </answer>
+      <answer correct="no">
+        P
+        <sub>EIRP</sub>
+         = P
+        <sub>Sender</sub>
+         + P
+        <sub>Verluste</sub>
+         + G
+        <sub>Antenne</sub>
+         bezogen auf den Halbwellendipol
+      </answer>
+    </question>
+    

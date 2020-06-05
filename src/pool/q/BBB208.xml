@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB208" name="B/BB208">
+      <text>
+        <p>Wie verhalten Sie sich, wenn Sie von der Gegenstation aufgefordert werden: "pse qsy"?</p>
+      </text>
+      <answer correct="yes">Sie wechseln die Frequenz.</answer>
+      <answer correct="no">Sie erhöhen die Sendeleistung.</answer>
+      <answer correct="no">Sie verringern die Sendeleistung.</answer>
+      <answer correct="no">Sie senden eine Bestätigungskarte an die Gegenstation.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ826" name="A/TJ826">
+      <text>
+        <p>Wann sollten mögliche Oberwellenausstrahlungen überprüft werden?</p>
+      </text>
+      <answer correct="yes">Gelegentlich</answer>
+      <answer correct="no">Nur im Falle einer Beschwerde</answer>
+      <answer correct="no">Bei Empfang eines Störsignals</answer>
+      <answer correct="no">Täglich</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG509" name="A/TG509">
+      <text>
+        <p>Was für ein Filter muss man zwischen Senderausgang und Antenne einschleifen, um die Abstrahlung von Oberwellen zu reduzieren?</p>
+      </text>
+      <answer correct="yes">Ein Tiefpassfilter</answer>
+      <answer correct="no">Ein Hochpassfilter</answer>
+      <answer correct="no">Ein Antennenfilter</answer>
+      <answer correct="no">Ein Sperrkreisfilter</answer>
+    </question>
+    

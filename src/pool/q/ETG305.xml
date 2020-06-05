@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG305" name="E/TG305">
+      <text>
+        <p>Eine Verdopplung der Leistung entspricht wie viel dB?</p>
+      </text>
+      <answer correct="yes">3 dB</answer>
+      <answer correct="no">6 dB</answer>
+      <answer correct="no">1,5 dB</answer>
+      <answer correct="no">12 dB</answer>
+    </question>
+    

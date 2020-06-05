@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB911" name="E/TB911">
+      <text>
+        <p>Welche Belastbarkeit muss ein Vorwiderstand haben, an dem bei einem Strom von 50 mA eine Spannung von 50 V abfallen soll?</p>
+      </text>
+      <answer correct="yes">2,5 W</answer>
+      <answer correct="no">1 W</answer>
+      <answer correct="no">25 W</answer>
+      <answer correct="no">250 mW</answer>
+    </question>
+    

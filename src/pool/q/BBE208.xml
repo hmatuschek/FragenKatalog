@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE208" name="B/BE208">
+      <text>
+        <p>Was versteht man unter "Split-Verkehr"?</p>
+      </text>
+      <answer correct="yes">Senden und Empfangen erfolgt nicht wie sonst üblich auf der gleichen Frequenz, sondern auf verschiedenen Frequenzen des gleichen Amateurfunkbandes.</answer>
+      <answer correct="no">Zwei Relaisfunkstellen, die sich im gleichen Versorgungsgebiet die gleiche Frequenz zeitlich teilen müssen.</answer>
+      <answer correct="no">Wegen örtlicher Funkstörprobleme benutzen beide Funkamateure bei ihrer Funkverbindung unterschiedliche Betriebsarten, z. B. Morsen und Sprechfunk.</answer>
+      <answer correct="no">Senden und Empfangen erfolgt in zwei unterschiedlichen Amateurfunkgeräten.</answer>
+    </question>
+    

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD108" name="E/TD108">
+      <text>
+        <p>
+          Die Gesamtspannung U an folgendem Spannungsteiler beträgt 12,2 V.
+          <br />
+          Die Widerstände haben die Werte R
+          <sub>1</sub>
+           = 10 kΩ und R
+          <sub>2</sub>
+           = 2,2 kΩ.
+          <br />
+          Wie groß ist die Teilspannung U
+          <sub>2</sub>
+          ?
+        </p>
+        <img src="ETD108" />
+      </text>
+      <answer correct="yes">2,20 V</answer>
+      <answer correct="no">2,64 V</answer>
+      <answer correct="no">10,0 V</answer>
+      <answer correct="no">1,22 V</answer>
+    </question>
+    

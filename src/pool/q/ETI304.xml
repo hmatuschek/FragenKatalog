@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETI304" name="E/TI304">
+      <text>
+        <p>Was ist die "Troposphäre"? Die Troposphäre ist der</p>
+      </text>
+      <answer correct="yes">untere Teil der Atmosphäre, in der die Erscheinungen des Wetters stattfinden.</answer>
+      <answer correct="no">untere Teil der Atmosphäre, der sich nördlich und südlich des Äquators über die Tropen erstreckt.</answer>
+      <answer correct="no">obere Teil der Atmosphäre, in der es zur Bildung sporadischer E-Schichten kommen kann.</answer>
+      <answer correct="no">obere Teil der Atmosphäre, in welcher Aurora-Erscheinungen auftreten können.</answer>
+    </question>
+    

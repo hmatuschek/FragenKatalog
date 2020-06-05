@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD402" name="E/TD402">
+      <text>
+        <p>Was versteht man in der Elektronik unter Verstärkung? Man spricht von Verstärkung, wenn</p>
+      </text>
+      <answer correct="yes">das Ausgangssignal gegenüber dem Eingangssignal in der Leistung größer ist.</answer>
+      <answer correct="no">das Eingangssignal gegenüber dem Ausgangssignal in der Leistung größer ist.</answer>
+      <answer correct="no">z.B. bei einem Transformator die Ausgangsspannung größer ist als die Eingangsspannung.</answer>
+      <answer correct="no">das Eingangssignal gegenüber dem Ausgangssignal in der Spannung größer ist.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF103" name="A/TF103">
+      <text>
+        <p>Eine hohe erste Zwischenfrequenz</p>
+      </text>
+      <answer correct="yes">ermöglicht bei großem Abstand zur Empfangsfrequenz eine hohe Spiegelfrequenzunterdrückung.</answer>
+      <answer correct="no">trägt dazu bei, mögliche Beeinflussungen des lokalen Oszillators durch Empfangssignale zu reduzieren.</answer>
+      <answer correct="no">sollte möglichst nahe an der Empfangsfrequenz liegen, um eine gute Spiegelfrequenzunterdrückung zu erreichen.</answer>
+      <answer correct="no">verhindert auf Grund ihrer Höhe, dass durch die Umsetzung auf die zweite Zwischenfrequenz Spiegelfrequenzen auftreten.</answer>
+    </question>
+    

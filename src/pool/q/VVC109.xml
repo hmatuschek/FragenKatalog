@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC109" name="V/VC109">
+      <text>
+        <p>Dürfen Sie mit Ihrem Amateurfunktransceiver im 70-cm-Band am LPD-Funkverkehr (LPD = Low Power Devices) teilnehmen?</p>
+      </text>
+      <answer correct="yes">Nein.</answer>
+      <answer correct="no">Ja, weil die LPDs auch innerhalb des Amateurfunkbandes arbeiten.</answer>
+      <answer correct="no">Ja, wenn ich meine Sendeleistung auf 10 mW begrenze.</answer>
+      <answer correct="no">Ja, aber ohne Anwendung meines Rufzeichens.</answer>
+    </question>
+    

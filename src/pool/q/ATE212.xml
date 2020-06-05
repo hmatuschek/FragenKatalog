@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE212" name="A/TE212">
+      <text>
+        <p>Größerer Frequenzhub führt bei einem FM-Sender zu</p>
+      </text>
+      <answer correct="yes">einer größeren HF-Bandbreite.</answer>
+      <answer correct="no">einer Erhöhung der Senderausgangsleistung.</answer>
+      <answer correct="no">einer Erhöhung der Amplitude der Trägerfrequenz.</answer>
+      <answer correct="no">einer Reduktion der Amplituden der Seitenbänder.</answer>
+    </question>
+    

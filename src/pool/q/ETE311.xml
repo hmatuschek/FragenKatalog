@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE311" name="E/TE311">
+      <text>
+        <p>Welches der folgenden digitalen Übertragungsverfahren hat die geringste Bandbreite?</p>
+      </text>
+      <answer correct="yes">PSK31</answer>
+      <answer correct="no">RTTY</answer>
+      <answer correct="no">Pactor</answer>
+      <answer correct="no">Packet Radio</answer>
+    </question>
+    

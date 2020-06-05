@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG309" name="A/TG309">
+      <text>
+        <p>Welche Funktion hat das Ausgangs-Pi-Filter eines HF-Senders?</p>
+      </text>
+      <answer correct="yes">Es dient der Anpassung der Last und verbessert die Unterdrückung von Oberwellen.</answer>
+      <answer correct="no">Es dient der Verbesserung des Stehwellenverhältnisses bei nicht resonanter Antenne.</answer>
+      <answer correct="no">Es dient der Verbesserung des Wirkungsgrads der Endstufe durch Änderung der ALC.</answer>
+      <answer correct="no">Es dient dem Schutz der Endstufe bei offener oder kurzgeschlossener Antennenbuchse.</answer>
+    </question>
+    

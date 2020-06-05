@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK312" name="E/TK312">
+      <text>
+        <p>Um die Störwahrscheinlichkeit im eigenen Haus zu verringern, empfiehlt es sich vorzugsweise</p>
+      </text>
+      <answer correct="yes">eine getrennte HF-Erdleitung zu verwenden.</answer>
+      <answer correct="no">Antennen auf dem Dachboden zu errichten.</answer>
+      <answer correct="no">die Amateurfunkgeräte mit einem Wasserrohr zu verbinden.</answer>
+      <answer correct="no">die Amateurfunkgeräte mittels des Schutzleiters zu erden.</answer>
+    </question>
+    

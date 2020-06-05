@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK108" name="A/TK108">
+      <text>
+        <p>Ein unselektiver TV-Vorverstärker wird am wahrscheinlichsten</p>
+      </text>
+      <answer correct="yes">durch Übersteuerung mit dem Signal eines nahen Sender störend beeinflusst.</answer>
+      <answer correct="no">auf Grund von Netzeinwirkungen beim Betrieb eines nahen Senders störend beeinflusst.</answer>
+      <answer correct="no">durch Einwirkungen auf die Gleichstromversorgung beim Betrieb eines nahen Senders störend beeinflusst.</answer>
+      <answer correct="no">auf Grund seiner zu niedrigen Verstärkung beim Betrieb eines nahen Senders störend beeinflusst.</answer>
+    </question>
+    

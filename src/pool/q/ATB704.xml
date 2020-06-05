@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB704" name="A/TB704">
+      <text>
+        <p>Die dritte Oberwelle einer Frequenz ist</p>
+      </text>
+      <answer correct="yes">die vierte Harmonische der Frequenz.</answer>
+      <answer correct="no">die dritte Harmonische der Frequenz.</answer>
+      <answer correct="no">die zweite Harmonische der Frequenz.</answer>
+      <answer correct="no">die zweite ungeradzahlige Harmonische der Frequenz.</answer>
+    </question>
+    

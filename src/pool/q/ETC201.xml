@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC201" name="E/TC201">
+      <text>
+        <p>Welche Aussage zur Kapazität eines Plattenkondensators ist richtig?</p>
+      </text>
+      <answer correct="yes">Je größer der Plattenabstand ist, desto kleiner ist die Kapazität.</answer>
+      <answer correct="no">Je größer die angelegte Spannung ist, desto kleiner ist die Kapazität.</answer>
+      <answer correct="no">Je größer die Plattenoberfläche ist, desto kleiner ist die Kapazität.</answer>
+      <answer correct="no">Je größer die Dielektrizitätszahl ist, desto kleiner ist die Kapazität.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE304" name="B/BE304">
+      <text>
+        <p>Was ist mit dem Begriff "monitoring" in Packet Radio (PR) gemeint?</p>
+      </text>
+      <answer correct="yes">Eine Empfangsstation zeigt alle Nachrichten auf einer PR-Frequenz an.</answer>
+      <answer correct="no">Die Bandwacht beobachtet den Datenaustausch auf einer PR-Frequenz.</answer>
+      <answer correct="no">Die Bundesnetzagentur zeichnet den Datenaustausch auf einer PR-Frequenz auf.</answer>
+      <answer correct="no">Eine Empfangsstation zeigt nur fehlerhafte Pakete von Nachrichten auf einer PR-Frequenz an.</answer>
+    </question>
+    

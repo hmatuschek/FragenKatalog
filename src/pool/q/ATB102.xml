@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB102" name="A/TB102">
+      <text>
+        <p>Welchen Widerstand hat eine Kupferdrahtwicklung, wenn der verwendete Draht eine Länge von 1,8 m und einen Durchmesser von 0,2 mm hat?</p>
+      </text>
+      <answer correct="yes">1 Ω</answer>
+      <answer correct="no">56 Ω</answer>
+      <answer correct="no">0,05 Ω</answer>
+      <answer correct="no">5,6 Ω</answer>
+    </question>
+    

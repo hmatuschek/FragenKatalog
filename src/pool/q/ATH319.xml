@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH319" name="A/TH319">
+      <text>
+        <p>Der Verkürzungsfaktor einer luftisolierten Paralleldrahtleitung ist</p>
+      </text>
+      <answer correct="yes">ungefähr 1.</answer>
+      <answer correct="no">0,1.</answer>
+      <answer correct="no">0,66.</answer>
+      <answer correct="no">unbestimmt.</answer>
+    </question>
+    

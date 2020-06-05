@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF104" name="B/BF104">
+      <text>
+        <p>Dürfen Sie im Notfall eines der Notzeichen SOS oder Mayday gebrauchen?</p>
+      </text>
+      <answer correct="yes">Nein, niemals</answer>
+      <answer correct="no">Unter Umständen schon, wenn ich beispielsweise ein Schiff untergehen sehe</answer>
+      <answer correct="no">Ja, aber nicht auf der internationalen Notruffrequenz</answer>
+      <answer correct="no">SOS nicht, aber Mayday im Notfall</answer>
+    </question>
+    

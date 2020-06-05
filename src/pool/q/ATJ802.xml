@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ802" name="A/TJ802">
+      <text>
+        <p>Wie sollten Strom- und Spannungsmesser zur Feststellung der Gleichstrom-Eingangsleistung des dargestellten Endverstärkers (PA) angeordnet werden?</p>
+        <img src="Atj802" />
+      </text>
+      <answer correct="yes">Spannungsmesser bei 1, Amperemeter bei 3.</answer>
+      <answer correct="no">Spannungsmesser bei 1, Amperemeter bei 2.</answer>
+      <answer correct="no">Spannungsmesser bei 3, Amperemeter bei 1.</answer>
+      <answer correct="no">Spannungsmesser bei 3, Amperemeter bei 4.</answer>
+    </question>
+    

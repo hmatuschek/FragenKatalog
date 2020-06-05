@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC403" name="E/TC403">
+      <text>
+        <p>Die Primärspule eines Übertragers hat die fünffache Anzahl von Windungen der Sekundärspule. Wie hoch ist die erwartete Sekundärspannung, wenn die Primärspule an eine 230-V-Stromversorgung angeschlossen wird?</p>
+      </text>
+      <answer correct="yes">46 Volt</answer>
+      <answer correct="no">9,2 Volt</answer>
+      <answer correct="no">23 Volt</answer>
+      <answer correct="no">1150 Volt</answer>
+    </question>
+    

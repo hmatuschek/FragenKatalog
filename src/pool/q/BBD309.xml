@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD309" name="B/BD309">
+      <text>
+        <p>In welcher Zeile stehen nur Rufzeichen aus den Vereinigten Staaten von Amerika (USA)?</p>
+      </text>
+      <answer correct="yes">K2ABC, W3DEF, N4GHI, AB5JKL, KA7MNO, WB7PQR</answer>
+      <answer correct="no">W3DEF, N4GHI, VE5JKL, KA7MNO, WB7PQR, K2ABC</answer>
+      <answer correct="no">N4GHI, AB5JKL, KA7MNO, WB7PQR, US2ABC, W3DEF</answer>
+      <answer correct="no">AB5JKL, KA7MNO, WB7PQR, K2ABC, UA3DEF, N4GHI</answer>
+    </question>
+    

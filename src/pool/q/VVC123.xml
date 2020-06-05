@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC123" name="V/VC123">
+      <text>
+        <p>Unter welchen Voraussetzungen darf ein Funkamateur eine Amateurfunkstelle als Klubstation betreiben?</p>
+      </text>
+      <answer correct="yes">Wenn der dafür eine gültige Rufzeichenzuteilung der Bundesnetzagentur besitzt.</answer>
+      <answer correct="no">Wenn er Inhaber einer Zulassung zur Teilnahme am Amateurfunkdienst ist.</answer>
+      <answer correct="no">Wenn er mindestens 20 Unterschriften als Beweis der Notwendigkeit vorlegen kann.</answer>
+      <answer correct="no">Wenn er eine entsprechende Befürwortung einer Amateurfunkvereinigung besitzt.</answer>
+    </question>
+    

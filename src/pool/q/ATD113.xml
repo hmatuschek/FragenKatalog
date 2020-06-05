@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD113" name="A/TD113">
+      <text>
+        <p>
+          Welche Leistung tritt in R
+          <sub>2</sub>
+           auf, wenn U = 15 V und alle Widerstände R
+          <sub>1</sub>
+           bis R
+          <sub>3</sub>
+           je 10 kΩ betragen?
+        </p>
+        <img src="Atd111" />
+      </text>
+      <answer correct="yes">2,5 mW</answer>
+      <answer correct="no">5,0 mW</answer>
+      <answer correct="no">1,5 mW</answer>
+      <answer correct="no">0,15 W</answer>
+    </question>
+    

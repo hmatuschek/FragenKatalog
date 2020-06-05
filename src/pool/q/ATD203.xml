@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD203" name="A/TD203">
+      <text>
+        <p>Was ist im Resonanzfall bei der Reihenschaltung einer Induktivität mit einer Kapazität erfüllt?</p>
+      </text>
+      <answer correct="yes">Der Betrag des induktiven Widerstands ist dann gleich dem Betrag des kapazitiven Widerstands.</answer>
+      <answer correct="no">Der Wert des Verlustwiderstands der Spule ist dann gleich dem Wert des Verlustwiderstands des Kondensators.</answer>
+      <answer correct="no">Die Größe des elektrischen Feldes in der Spule ist dann gleich der Größe des elektrischen Feldes im Kondensators.</answer>
+      <answer correct="no">Die Größe des magnetischen Feldes in der Spule ist dann gleich der Größe des magnetischen Feldes im Kondensator.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD115" name="B/BD115">
+      <text>
+        <p>Woraus setzen sich die personengebundenen Rufzeichen deutscher Funkamateure zusammen? Sie setzen sich zusammen aus</p>
+      </text>
+      <answer correct="yes">zwei Buchstaben als Präfix, einer Ziffer und 1-3 Buchstaben als Suffix.</answer>
+      <answer correct="no">zwei Buchstaben als Präfix, zwei Ziffer und zwei Buchstaben als Suffix.</answer>
+      <answer correct="no">einem Buchstaben als Präfix, einer Ziffer und zwei bis drei Buchstaben als Suffix.</answer>
+      <answer correct="no">zwei Buchstaben oder Ziffern und zwei bis drei Buchstaben als Suffix.</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC304" name="E/TC304">
+      <text>
+        <p>Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus</p>
+        <img src="ETC304" />
+      </text>
+      <answer correct="yes">Ferrit bestehen.</answer>
+      <answer correct="no">Kunststoff bestehen.</answer>
+      <answer correct="no">Stahl bestehen.</answer>
+      <answer correct="no">aus gut leitendem Material bestehen.</answer>
+    </question>
+    

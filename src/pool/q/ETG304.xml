@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG304" name="E/TG304">
+      <text>
+        <p>Die Spitzenleistung eines Senders ist die</p>
+      </text>
+      <answer correct="yes">HF-Leistung bei der höchsten Spitze der Hüllkurve.</answer>
+      <answer correct="no">Durchschnittsleistung einer SSB-Übertragung.</answer>
+      <answer correct="no">Spitzen-Spitzen-Leistung bei den höchsten Spitzen der Modulationshüllkurve.</answer>
+      <answer correct="no">Mindestleistung bei der Modulationsspitze.</answer>
+    </question>
+    

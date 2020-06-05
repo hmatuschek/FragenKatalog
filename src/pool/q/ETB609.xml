@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB609" name="E/TB609">
+      <text>
+        <p>Das 70-cm-Band befindet sich im</p>
+      </text>
+      <answer correct="yes">UHF-Bereich.</answer>
+      <answer correct="no">VHF-Bereich.</answer>
+      <answer correct="no">SHF-Bereich.</answer>
+      <answer correct="no">EHF-Bereich.</answer>
+    </question>
+    

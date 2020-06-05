@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC301" name="A/TC301">
+      <text>
+        <p>An eine Spule wird über einen Widerstand eine Gleichspannung angelegt. Welches der nachfolgenden Diagramme zeigt den zeitlichen Verlauf der Spannung über der Spule?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atc202b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atc202d" />
+      </answer>
+    </question>
+    

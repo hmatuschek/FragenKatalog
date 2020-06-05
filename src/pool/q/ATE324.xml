@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE324" name="A/TE324">
+      <text>
+        <p>Pactor ist ein digitales Übertragungsverfahren</p>
+      </text>
+      <answer correct="yes">für Texte und Daten.</answer>
+      <answer correct="no">nur für Texte.</answer>
+      <answer correct="no">für bewegte Bilder.</answer>
+      <answer correct="no">für Audio-Streams.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG304" name="A/TG304">
+      <text>
+        <p>Welche Betriebsart der Leistungsverstärkerstufe eines Senders erzeugt grundsätzlich den größten Oberschwingungsanteil?</p>
+      </text>
+      <answer correct="yes">C-Betrieb</answer>
+      <answer correct="no">B-Betrieb</answer>
+      <answer correct="no">AB-Betrieb</answer>
+      <answer correct="no">A-Betrieb</answer>
+    </question>
+    

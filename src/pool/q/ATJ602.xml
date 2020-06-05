@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ602" name="A/TJ602">
+      <text>
+        <p>Ein Absorptionsfrequenzmesser hat normalerweise eine Genauigkeit von etwa</p>
+      </text>
+      <answer correct="yes">5 %.</answer>
+      <answer correct="no">1 %.</answer>
+      <answer correct="no">0,05 %.</answer>
+      <answer correct="no">0,001 %.</answer>
+    </question>
+    

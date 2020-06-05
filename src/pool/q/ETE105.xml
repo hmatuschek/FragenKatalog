@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETE105" name="E/TE105">
+      <text>
+        <p>Das folgende Oszillogramm zeigt</p>
+        <img src="ETE105" />
+      </text>
+      <answer correct="yes">ein typisches Zweiton-SSB-Testsignal.</answer>
+      <answer correct="no">ein typisches Einton-FM-Testsignal.</answer>
+      <answer correct="no">ein typisches 100%-AM-Signal.</answer>
+      <answer correct="no">ein typisches CW-Signal.</answer>
+    </question>
+    

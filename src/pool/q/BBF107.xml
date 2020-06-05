@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBF107" name="B/BF107">
+      <text>
+        <p>Sie empfangen einen Notruf einer havarierten privaten Segelyacht auf 14320 kHz. Wie verhalten Sie sich?</p>
+      </text>
+      <answer correct="yes">Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach informiere ich die Polizei und bitte um Weitergabe der Information an die zuständigen Rettungsorganisationen.</answer>
+      <answer correct="no">Ich nehme Kontakt mit anderen Amateurfunkstationen auf, um gemeinsam eine Rettung zu organisieren.</answer>
+      <answer correct="no">Ich beobachte die Frequenz weiter, um festzustellen ob sich Stationen melden, die sich näher am Standort des Havaristen befinden.</answer>
+      <answer correct="no">Ich nehme Kontakt mit der Segelyacht auf, um die Position zu erfahren. Danach verständige ich die örtliche Presse und das Lokalradio und bitte um Mithilfe.</answer>
+    </question>
+    

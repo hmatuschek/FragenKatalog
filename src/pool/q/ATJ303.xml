@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ303" name="A/TJ303">
+      <text>
+        <p>Um auf dem Bildschirm eines Oszilloskops ein stehendes Bild statt durchlaufender Wellenzüge zu erhalten muss, das Oszilloskop</p>
+      </text>
+      <answer correct="yes">eine Triggereinrichtung haben.</answer>
+      <answer correct="no">einen X-Vorteiler haben.</answer>
+      <answer correct="no">einen Y-Vorteiler haben.</answer>
+      <answer correct="no">einen Frequenzmarken-Generator haben.</answer>
+    </question>
+    

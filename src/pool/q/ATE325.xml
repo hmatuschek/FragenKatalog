@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE325" name="A/TE325">
+      <text>
+        <p>Die theoretische Bandbreite bei PSK31 beträgt</p>
+      </text>
+      <answer correct="yes">31 Hz</answer>
+      <answer correct="no">500 Hz</answer>
+      <answer correct="no">2,4 kHz</answer>
+      <answer correct="no">3,1 kHz</answer>
+    </question>
+    

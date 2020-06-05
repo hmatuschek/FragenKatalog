@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ824" name="A/TJ824">
+      <text>
+        <p>Zur Überprüfung eines Stehwellenmessgerätes wird dessen Ausgang mit einem 150-Ω-Widerstand abgeschlossen. Welches Stehwellenverhältnis muss das Messgerät anzeigen, wenn die Impedanz von Messgerät und Sender 50 Ω beträgt?</p>
+      </text>
+      <answer correct="yes">3</answer>
+      <answer correct="no">2,5</answer>
+      <answer correct="no">3,33</answer>
+      <answer correct="no">2</answer>
+    </question>
+    

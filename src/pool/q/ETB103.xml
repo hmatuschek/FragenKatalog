@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB103" name="E/TB103">
+      <text>
+        <p>Welches der genannten Metalle hat die schlechteste elektrische Leitfähigkeit?</p>
+      </text>
+      <answer correct="yes">Zinn</answer>
+      <answer correct="no">Kupfer</answer>
+      <answer correct="no">Gold</answer>
+      <answer correct="no">Aluminium</answer>
+    </question>
+    

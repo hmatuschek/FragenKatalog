@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB110" name="A/TB110">
+      <text>
+        <p>Was versteht man unter Dotierung zu N-leitendem Halbleitermaterial bei Halbleiterwerkstoffen?</p>
+      </text>
+      <answer correct="yes">Zugabe von fünfwertigen Stoffen zum vierwertigen Halbleitergrundstoff</answer>
+      <answer correct="no">Zugabe von dreiwertigen Stoffen zum vierwertigen Halbleitergrundstoff</answer>
+      <answer correct="no">Zugabe von Germaniumatomen zum Siliziumgrundwerkstoff</answer>
+      <answer correct="no">Zugabe von Siliziumatomen zum Germaniumgrundwerkstoff</answer>
+    </question>
+    

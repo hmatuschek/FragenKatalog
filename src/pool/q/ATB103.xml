@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB103" name="A/TB103">
+      <text>
+        <p>Zwischen den Enden eines Kupferdrahtes mit einem Querschnitt von 0,5 mm² messen Sie einen Widerstand von 1,5 Ohm. Wie lang ist der Draht?</p>
+      </text>
+      <answer correct="yes">42,1 m</answer>
+      <answer correct="no">25,3 m</answer>
+      <answer correct="no">4,2 m</answer>
+      <answer correct="no">168,5 m</answer>
+    </question>
+    

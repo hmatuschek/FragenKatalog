@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG201" name="A/TG201">
+      <text>
+        <p>Welche Schaltung könnte für die Tiefpassfilterung in einem Mikrofonverstärker eingesetzt werden?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atg201a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg201b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg201c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atg201d" />
+      </answer>
+    </question>
+    

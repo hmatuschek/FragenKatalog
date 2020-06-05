@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETH207" name="E/TH207">
+      <text>
+        <p>Welcher Prozentsatz entspricht dem Korrekturfaktor, der üblicherweise für die Berechnung der Länge einer Drahtantenne verwendet wird?</p>
+      </text>
+      <answer correct="yes">95 %</answer>
+      <answer correct="no">75 %</answer>
+      <answer correct="no">66 %</answer>
+      <answer correct="no">100 %</answer>
+    </question>
+    

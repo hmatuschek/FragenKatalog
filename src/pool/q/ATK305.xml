@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK305" name="A/TK305">
+      <text>
+        <p>Was sollte zur Herabsetzung starker Signale eines 21-MHz-Senders in das Fernseh-Antennenzuführungskabel eingeschleift werden?</p>
+      </text>
+      <answer correct="yes">Hochpassfilter</answer>
+      <answer correct="no">Tiefpassfilter</answer>
+      <answer correct="no">UHF-Abschwächer</answer>
+      <answer correct="no">UHF-Bandsperre</answer>
+    </question>
+    

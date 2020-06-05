@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETC106" name="E/TC106">
+      <text>
+        <p>Welches der folgenden Bauteile ist ein NTC?</p>
+      </text>
+      <answer correct="yes">
+        <img src="ETC105" />
+      </answer>
+      <answer correct="no">
+        <img src="ETC106b" />
+      </answer>
+      <answer correct="no">
+        <img src="ETC106c" />
+      </answer>
+      <answer correct="no">
+        <img src="ETC106d" />
+      </answer>
+    </question>
+    

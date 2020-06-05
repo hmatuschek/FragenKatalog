@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE305" name="B/BE305">
+      <text>
+        <p>Wozu dient ein "Auto-Router" im Packet- Radio-Betrieb?</p>
+      </text>
+      <answer correct="yes">Eine Einrichtung, die es ermöglicht automatisch ein Zielrufzeichen zu erreichen.</answer>
+      <answer correct="no">Automatische Streckenplanung vom Urlaubsort zum Heimat-Digipeater.</answer>
+      <answer correct="no">Automatische Streckenführung einer mobilen PR-Station zum Digipeater.</answer>
+      <answer correct="no">Automatische Rubrikzuweisung von in Mailboxen eingehenden Nachrichten.</answer>
+    </question>
+    

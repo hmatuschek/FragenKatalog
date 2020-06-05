@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH113" name="A/TH113">
+      <text>
+        <p>Die Impedanz eines Halbwellendipols bei mindestens einer Wellenlänge über dem Boden beträgt ungefähr</p>
+      </text>
+      <answer correct="yes">75 Ω.</answer>
+      <answer correct="no">50 Ω.</answer>
+      <answer correct="no">30 Ω.</answer>
+      <answer correct="no">600 Ω.</answer>
+    </question>
+    

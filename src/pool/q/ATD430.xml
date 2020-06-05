@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD430" name="A/TD430">
+      <text>
+        <p>Welche Art von Schaltung wird im folgenden Bild dargestellt? Es handelt sich um einen</p>
+        <img src="Atd430" />
+      </text>
+      <answer correct="yes">Breitband-Gegentaktverstärker.</answer>
+      <answer correct="no">selektiven Hochfrequenzverstärker.</answer>
+      <answer correct="no">steuerbaren Zwischenfrequenzverstärker.</answer>
+      <answer correct="no">einstellbaren Frequenzverdoppler.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ208" name="A/TJ208">
+      <text>
+        <p>Um wie viele Kilohertz kann die Frequenz abweichen, wenn mit einem Dipmeter eine Resonanzfrequenz von 4,5 MHz gemessen wurde und die Genauigkeit mit ±3 % angenommen wird?</p>
+      </text>
+      <answer correct="yes">± 135 kHz</answer>
+      <answer correct="no">± 13,5 kHz</answer>
+      <answer correct="no">± 213 kHz</answer>
+      <answer correct="no">± 213 Hz</answer>
+    </question>
+    

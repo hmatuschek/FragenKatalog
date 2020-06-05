@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH206" name="A/TH206">
+      <text>
+        <p>Das folgende Bild zeigt das Richtdiagramm einer Dipol- und einer Yagi-Antenne. Der Antennengewinn der Yagi-Antenne über dem Dipol ist definiert als</p>
+        <img src="Ath206" />
+      </text>
+      <answer correct="yes">
+        das Verhältnis von P
+        <sub>v</sub>
+         zu P
+        <sub>D</sub>
+         .
+      </answer>
+      <answer correct="no">
+        das Verhältnis von P
+        <sub>D</sub>
+         zu P
+        <sub>R</sub>
+         .
+      </answer>
+      <answer correct="no">
+        das Verhältnis von P
+        <sub>v</sub>
+         zu P
+        <sub>R</sub>
+         .
+      </answer>
+      <answer correct="no">
+        das Verhältnis von 0,7·P
+        <sub>v</sub>
+         zu 0,7·P
+        <sub>R</sub>
+         .
+      </answer>
+    </question>
+    

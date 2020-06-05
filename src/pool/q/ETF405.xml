@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETF405" name="E/TF405">
+      <text>
+        <p>Ein Funkamateur hat eine Endstufe, welche die Leistung verzehnfacht (von 10 auf 100 Watt). Ohne seine Endstufe zeigt Ihr S-Meter genau S8. Auf welchen Wert müsste die Anzeige Ihres S-Meters ansteigen, wenn er die Endstufe dazuschaltet?</p>
+      </text>
+      <answer correct="yes">S9+4dB</answer>
+      <answer correct="no">S18</answer>
+      <answer correct="no">S10+10 dB</answer>
+      <answer correct="no">S9+9 dB</answer>
+    </question>
+    

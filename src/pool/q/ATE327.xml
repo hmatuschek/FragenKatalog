@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE327" name="A/TE327">
+      <text>
+        <p>Was ist ein Unterschied zwischen den Betriebsarten ATV und SSTV?</p>
+      </text>
+      <answer correct="yes">SSTV überträgt Standbilder, ATV bewegte Bilder.</answer>
+      <answer correct="no">SSTV wird auf UKW, ATV auf Kurzwelle verwendet.</answer>
+      <answer correct="no">SSTV belegt eine größere Bandbreite als ATV.</answer>
+      <answer correct="no">SSTV ist schwarzweiß, ATV in Farbe.</answer>
+    </question>
+    

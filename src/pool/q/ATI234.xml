@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI234" name="A/TI234">
+      <text>
+        <p>Die Ausbreitungsbedingungen für ein Amateurfunkband werden folgendermaßen beschrieben: "In diesem Band ist die Tagesdämpfung durch die D-Schicht noch erheblich. Die Tagesreichweite geht bis zu 1000 km. Die tote Zone beträgt am Tage etwa 100 km. Nachts und während der Wintermonate vergrößert sich die Sprungdistanz mit einem Maximum um Mitternacht. Größte Reichweiten treten auf, wenn sich der gesamt Ausbreitungspfad auf der Nachtseite der Erde befindet." Welches KW-Band wurde hier beschrieben? Beschrieben wurde das</p>
+      </text>
+      <answer correct="yes">40-m-Band.</answer>
+      <answer correct="no">20-m-Band.</answer>
+      <answer correct="no">30-m-Band.</answer>
+      <answer correct="no">80-m-Band.</answer>
+    </question>
+    

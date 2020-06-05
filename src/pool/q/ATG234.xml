@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG234" name="A/TG234">
+      <text>
+        <p>Stromversorgungskabel in einem Sender sollten</p>
+      </text>
+      <answer correct="yes">gegen HF-Einstrahlung gut entkoppelt sein.</answer>
+      <answer correct="no">gegen Erde HF-Potential aufweisen.</answer>
+      <answer correct="no">über das Leistungsverstärkergehäuse geführt werden.</answer>
+      <answer correct="no">HF-Schwingungen aufweisen.</answer>
+    </question>
+    

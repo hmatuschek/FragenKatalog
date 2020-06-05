@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ819" name="A/TJ819">
+      <text>
+        <p>Ein Quarznormal hat einen relativen Fehler von F = +/- 0,001 %. Wie genau können Sie eine Frequenz von f = 14100 kHz bestimmen?</p>
+      </text>
+      <answer correct="yes">F = ±141 Hz</answer>
+      <answer correct="no">F = ±1,41 Hz</answer>
+      <answer correct="no">F = ±14,1 Hz</answer>
+      <answer correct="no">F = ±1410 Hz</answer>
+    </question>
+    

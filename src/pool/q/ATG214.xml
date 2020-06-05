@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG214" name="A/TG214">
+      <text>
+        <p>Für die Erzeugung eines SSB-Signals wird ein Gegentaktmodulator verwendet. Das zur Unterdrückung eines Seitenbandes nachgeschaltete Filter sollte über</p>
+      </text>
+      <answer correct="yes">2,4 kHz Bandbreite verfügen.</answer>
+      <answer correct="no">800 Hz Bandbreite verfügen.</answer>
+      <answer correct="no">455 kHz Bandbreite verfügen.</answer>
+      <answer correct="no">10,7 MHz Bandbreite verfügen.</answer>
+    </question>
+    

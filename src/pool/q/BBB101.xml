@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBB101" name="B/BB101">
+      <text>
+        <p>Warum werden in Telegrafie- und Fernschreib-Betriebsarten Betriebsabkürzungen und Q-Gruppen verwendet?</p>
+      </text>
+      <answer correct="yes">Durch die Verwendung von Betriebsabkürzungen und Q-Gruppen wird der Betriebsablauf vereinfacht und der übertragende Informationsgehalt pro Zeiteinheit optimiert.</answer>
+      <answer correct="no">Durch die Verwendung von Betriebsabkürzungen und Q-Gruppen wird der Informationsgehalt einer Aussendung verschleiert und damit für Unbeteiligte nicht verständlich.</answer>
+      <answer correct="no">Betriebsabkürzungen und Q-Gruppen werden nur bei besonderen Betriebsbedingungen verwendet,um z.B. den Einfluss von Fading oder Aurora auszugleichen.</answer>
+      <answer correct="no">Ein Betriebsverfahren, bei dem jeweils manuell auf Empfang geschaltet werden muss.</answer>
+    </question>
+    

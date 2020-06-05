@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATF304" name="A/TF304">
+      <text>
+        <p>Welches sind die wichtigsten Ausgangsfrequenzen, die bei der Mischung einer Frequenz von 30 MHz mit einer Frequenz von 39 MHz entstehen?</p>
+      </text>
+      <answer correct="yes">9 MHz und 69 MHz</answer>
+      <answer correct="no">9 MHz und 39 MHz</answer>
+      <answer correct="no">30 MHz und 39 MHz</answer>
+      <answer correct="no">39 MHz und 69 MHz</answer>
+    </question>
+    

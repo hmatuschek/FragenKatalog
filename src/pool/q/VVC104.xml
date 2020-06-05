@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC104" name="V/VC104">
+      <text>
+        <p>Wie ist der Begriff "Funkamateur" nach dem AFuG zu verstehen?</p>
+      </text>
+      <answer correct="yes">Ein Funkamateur ist der Inhaber eines Amateurfunkzeugnisses oder einer harmonisierten Prüfungsbescheinigung, der sich mit dem Amateurfunkdienst aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichem Interesse befasst.</answer>
+      <answer correct="no">Funkamateur ist jede natürliche Person, die Funkanlagen zu experimentellen und technischwissenschaftlichen Studien, zur eigenen Weiterbildung, aber nicht zu gewerblichwirtschaftlichen Zwecken betreibt.</answer>
+      <answer correct="no">Funkamateur ist jeder, der Amateurfunkgeräte besitzt und Amateurfunkaussendungen aus persönlicher Neigung empfängt.</answer>
+      <answer correct="no">Im Sinne des AFuG sind Funkamateure nur die Inhaber einer Zulassung zum Amateurfunkdienst mit mindestens einem zugeteilten, personengebundenen Rufzeichen.</answer>
+    </question>
+    

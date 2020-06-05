@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG221" name="A/TG221">
+      <text>
+        <p>Auf welcher Frequenz muss der Quarzoszillator schwingen, damit nach dem Blockschaltbild von der PA die Frequenz 145,000 MHz verstärkt wird?</p>
+        <img src="Atg221" />
+      </text>
+      <answer correct="yes">12,083333 MHz</answer>
+      <answer correct="no">36,250000 MHz</answer>
+      <answer correct="no">20,714285 MHz</answer>
+      <answer correct="no">24,166666 MHz</answer>
+    </question>
+    

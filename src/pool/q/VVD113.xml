@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVD113" name="V/VD113">
+      <text>
+        <p>Zu welchen Zwecken kann die Bundesnetzagentur schriftliche Nachweise über den Funkbetrieb verlangen?</p>
+      </text>
+      <answer correct="yes">Zur Untersuchung elektromagnetischer Unverträglichkeit oder zur Klärung frequenztechnischer Fragen.</answer>
+      <answer correct="no">Zur Überprüfung der fachlichen Qualitäten des Funkamateurs und des Inhalts der Sendungen.</answer>
+      <answer correct="no">Als Kontroll-Nachweis für EMVU-Verträglichkeit.</answer>
+      <answer correct="no">Als Kontrolllogs bei Amateurfunkwettbewerben oder zur Abrechnung der Beiträge.</answer>
+    </question>
+    

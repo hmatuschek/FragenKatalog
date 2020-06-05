@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA406" name="V/VA406">
+      <text>
+        <p>In welchem Regelungswerk ist die Bedeutung der "Q-Gruppen" festgelegt?</p>
+      </text>
+      <answer correct="yes">In den Radio Regulations der ITU (Internationale Fernmeldeunion).</answer>
+      <answer correct="no">In den Empfehlungen der IARU (International Amateur Radio Union).</answer>
+      <answer correct="no">In den Standards der ETSI (European Telecommunications Standards Institute).</answer>
+      <answer correct="no">In den Anhängen der AFuV (Amateurfunkverordnung).</answer>
+    </question>
+    

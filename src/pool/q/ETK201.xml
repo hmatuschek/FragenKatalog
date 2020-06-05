@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETK201" name="E/TK201">
+      <text>
+        <p>Wie kommen Geräusche aus den Lautsprechern einer abgeschalteten Stereoanlage möglicherweise zustande?</p>
+      </text>
+      <answer correct="yes">Durch Gleichrichtung starker HF-Signale in der NF-Endstufe der Stereoanlage.</answer>
+      <answer correct="no">Durch Gleichrichtung der ins Stromnetz eingestrahlten HF-Signale an den Dioden des Netzteils.</answer>
+      <answer correct="no">Durch Gleichrichtung abgestrahlter HF-Signale an PN-Übergängen in der NF-Vorstufe.</answer>
+      <answer correct="no">Durch eine Übersteuerung des Tuners mit dem über die Antennenzuleitung aufgenommenen HF-Signal.</answer>
+    </question>
+    

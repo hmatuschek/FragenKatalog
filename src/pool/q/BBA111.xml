@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBA111" name="B/BA111">
+      <text>
+        <p>Wie ist das Rufzeichen "HB0/DK1DN/p" mit dem internationalen Buchstabieralphabet richtig zu buchstabieren?</p>
+      </text>
+      <answer correct="yes">Hotel Bravo null Strich Delta Kilo eins Delta November Strich portabel</answer>
+      <answer correct="no">Heinrich Berta null Strich Dora Kaufmann eins Dora Nordpol Strich portabel</answer>
+      <answer correct="no">Honolulu Baltimore null Strich Dänemark Kanada eins Dänemark Norwegen Strich portabel</answer>
+      <answer correct="no">Hotel Bravo null Strich Delta Kilo eins Delta Norway Strich portabel</answer>
+    </question>
+    

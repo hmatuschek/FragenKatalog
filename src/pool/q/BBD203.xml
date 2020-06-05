@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD203" name="B/BD203">
+      <text>
+        <p>Welche Gruppe gibt die Landeskenner der Länder Rumänien, Bulgarien, Spanien, Norwegen, Polen für ihre Amateurfunkstellen richtig wieder?</p>
+      </text>
+      <answer correct="yes">YO, LZ, EA, LA, SP</answer>
+      <answer correct="no">YO, LZ, SP, LA, PO</answer>
+      <answer correct="no">YO, BL, EA, LA, SP</answer>
+      <answer correct="no">RO, LA, SP, LZ, SP</answer>
+    </question>
+    

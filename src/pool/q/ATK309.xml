@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK309" name="A/TK309">
+      <text>
+        <p>Erdleitungen sollten immer</p>
+      </text>
+      <answer correct="yes">über eine niedrige Impedanz verfügen.</answer>
+      <answer correct="no">über eine hohe Reaktanz verfügen.</answer>
+      <answer correct="no">über eine hohe Impedanz verfügen.</answer>
+      <answer correct="no">induktiv gekoppelt sein.</answer>
+    </question>
+    

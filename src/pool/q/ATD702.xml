@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD702" name="A/TD702">
+      <text>
+        <p>Ein Frequenzsynthesizer soll eine einstellbare Frequenz mit hoher Frequenzgenauigkeit erzeugen. Die Genauigkeit und Stabilität der Ausgangsfrequenz eines Frequenzsynthesizers wird hauptsächlich bestimmt von</p>
+      </text>
+      <answer correct="yes">den Eigenschaften des eingesetzten Quarzgenerators.</answer>
+      <answer correct="no">der Genauigkeit und Stabilität des verwendeten spannungsgesteuerten Oszillators (VCO).</answer>
+      <answer correct="no">der Genauigkeit der eingesetzten Frequenzteiler.</answer>
+      <answer correct="no">den Eigenschaften des eingesetzten Phasenvergleichers.</answer>
+    </question>
+    

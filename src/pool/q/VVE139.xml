@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE139" name="V/VE139">
+      <text>
+        <p>Wie hoch ist die maximal zulässige Sendeleistung für Rufzeicheninhaber der Klasse A im Frequenzbereich 1240 - 1300 MHz?</p>
+      </text>
+      <answer correct="yes">750 Watt PEP, jedoch nur maximal 5 Watt EIRP im Teilbereich 1247 - 1263 MHz.</answer>
+      <answer correct="no">100 Watt PEP</answer>
+      <answer correct="no">250 Watt PEP</answer>
+      <answer correct="no">75 Watt PEP, jedoch nur maximal 5 Watt EIRP im Teilbereich 1247 - 1263 MHz.</answer>
+    </question>
+    

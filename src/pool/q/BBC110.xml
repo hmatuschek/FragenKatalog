@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBC110" name="B/BC110">
+      <text>
+        <p>Welchen Frequenzbereich umfasst das 20-m-Amateurfunkband in Deutschland?</p>
+      </text>
+      <answer correct="yes">14000 - 14350 kHz</answer>
+      <answer correct="no">21000 - 21450 kHz</answer>
+      <answer correct="no">24890 - 24990 kHz</answer>
+      <answer correct="no">18068 - 18168 kHz</answer>
+    </question>
+    

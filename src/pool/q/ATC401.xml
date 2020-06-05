@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC401" name="A/TC401">
+      <text>
+        <p>Ein Trafo liegt an 230 Volt und gibt 11,5 Volt ab. Seine Primärwicklung hat 600 Windungen. Wie groß ist seine Sekundärwindungszahl?</p>
+      </text>
+      <answer correct="yes">30 Windungen</answer>
+      <answer correct="no">20 Windungen</answer>
+      <answer correct="no">52 Windungen</answer>
+      <answer correct="no">180 Windungen</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD322" name="A/TD322">
+      <text>
+        <p>Welche der dargestellten Schaltungen könnte in den Netzeingang eines Geräts eingebaut werden, um HF-Rückfluss in das Stromversorgungsnetz zu verringern?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Atd322a" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd322b" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd322c" />
+      </answer>
+      <answer correct="no">
+        <img src="Atd322d" />
+      </answer>
+    </question>
+    

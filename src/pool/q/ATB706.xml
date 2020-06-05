@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB706" name="A/TB706">
+      <text>
+        <p>Welche Schwingungen sind in der folgenden Wechselspannung enthalten, wenn die Grundwelle 2 kHz beträgt?</p>
+        <img src="Atb706" />
+      </text>
+      <answer correct="yes">2 kHz und 6 kHz</answer>
+      <answer correct="no">4 kHz und 6 kHz</answer>
+      <answer correct="no">2 kHz und 4 kHz</answer>
+      <answer correct="no">4 kHz allein</answer>
+    </question>
+    

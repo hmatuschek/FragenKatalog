@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB611" name="A/TB611">
+      <text>
+        <p>
+          Welche Antwort enthält die richtigen Phasenwinkel einer sinusförmigen Wechselspannung an der mit X
+          <sub>3</sub>
+           bezeichneten Stelle?
+        </p>
+        <img src="Atb611" />
+      </text>
+      <answer correct="yes"> 3π/2; 270°</answer>
+      <answer correct="no">π/3; 270°</answer>
+      <answer correct="no">3π; 180°</answer>
+      <answer correct="no">3π/4; 135°</answer>
+    </question>
+    

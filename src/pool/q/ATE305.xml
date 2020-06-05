@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE305" name="A/TE305">
+      <text>
+        <p>Wie erfolgt die synchrone Datenübertragung?</p>
+      </text>
+      <answer correct="yes">Eine Übertragung wird durch eine Synchronisationssequenz eingeleitet. Nach erfolgreicher Synchronisation werden die Pakete aus dem Binärstrom gelesen.</answer>
+      <answer correct="no">Sende- und Empfangsstelle werden mit Hilfe der Netzfrequenz in Gleichtakt gebracht.</answer>
+      <answer correct="no">Sender und Empfänger werden nach jedem einzelnen Zeichen aufeinander synchronisiert. Die Zeichen enthalten Start- und Stoppbit, die zur Synchronisation dienen.</answer>
+      <answer correct="no">Sender und Empfänger synchronisieren ihre Taktfrequenzen mit einem Normalfrequenzsender.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETG105" name="E/TG105">
+      <text>
+        <p>Was bewirkt eine zu geringe Mikrofonverstärkung bei einem SSB-Transceiver?</p>
+      </text>
+      <answer correct="yes">geringe Ausgangsleistung</answer>
+      <answer correct="no">Störungen von Stationen, die auf einem anderen Frequenzband arbeiten</answer>
+      <answer correct="no">Verringerung der Modulationsqualität</answer>
+      <answer correct="no">Splatter bei Stationen, die auf dem Nachbarkanal arbeiten</answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG106" name="A/TG106">
+      <text>
+        <p>Die folgende Blockschaltung zeigt eine SSB-Aufbereitung mit einem 9-MHz-Quarzfilter. Welche Frequenz wird in der Schalterstellung USB mit der NF gemischt?</p>
+        <img src="Atg106" />
+      </text>
+      <answer correct="yes">8,9985 MHz</answer>
+      <answer correct="no">8,9970 MHz</answer>
+      <answer correct="no">9,0000 MHz</answer>
+      <answer correct="no">9,0030 MHz</answer>
+    </question>
+    

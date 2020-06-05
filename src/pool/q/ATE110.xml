@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE110" name="A/TE110">
+      <text>
+        <p>In welcher Abbildung ist AM mit einem Modulationsgrad von 100 % dargestellt?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Ate105b" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate110b" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate110c" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate105d" />
+      </answer>
+    </question>
+    

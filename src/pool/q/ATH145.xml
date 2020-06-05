@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH145" name="A/TH145">
+      <text>
+        <p>Die Impedanz des Strahlers eines Multibandbeams richtet sich auch nach</p>
+      </text>
+      <answer correct="yes">den Abständen zwischen den Direktoren und Reflektoren.</answer>
+      <answer correct="no">dem Strahlungswiderstand des Reflektors.</answer>
+      <answer correct="no">dem Widerstand des Zuführungskabels.</answer>
+      <answer correct="no">den Ausbreitungsbedingungen.</answer>
+    </question>
+    

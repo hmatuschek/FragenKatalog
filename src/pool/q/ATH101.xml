@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH101" name="A/TH101">
+      <text>
+        <p>Welche elektrische Länge muss eine Dipolantenne haben, damit sie in Resonanz ist?</p>
+      </text>
+      <answer correct="yes">Die elektrische Länge muss ein ganzzahliges Vielfaches von λ/2 betragen (n·λ/2, n=1,2,3...).</answer>
+      <answer correct="no">Die elektrische Länge muss ein ganzzahliges Vielfaches von λ/4 betragen (n·λ/4, n=1,2,3...).</answer>
+      <answer correct="no">Die elektrische Länge muss 5/8·λ, λ/4 oder deren ganzzahlige Vielfache betragen.</answer>
+      <answer correct="no">Die elektrische Länge muss ein ganzzahliges Vielfaches von λ betragen (n·λ, n=1,2,3...).</answer>
+    </question>
+    

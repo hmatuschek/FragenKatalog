@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ818" name="A/TJ818">
+      <text>
+        <p>Ein RTTY-Signal benötigt eine Bandbreite von ±3 kHz. Ein Frequenzzähler mit einer Genauigkeit von 1 ppm wird für die Prüfung der Frequenzanzeige eines 145-MHz-Senders verwendet. Wie klein darf der Mindestabstand zur oberen Bandgrenze sein, damit die Aussendung innerhalb des Bandes stattfindet?</p>
+      </text>
+      <answer correct="yes">3,145 kHz</answer>
+      <answer correct="no">6,30 kHz</answer>
+      <answer correct="no">4,45 kHz</answer>
+      <answer correct="no">6,00 kHz</answer>
+    </question>
+    

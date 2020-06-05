@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE213" name="A/TE213">
+      <text>
+        <p>Bei der FM-Übertragung werden Preemphasis und Deemphasis eingesetzt,</p>
+      </text>
+      <answer correct="yes">um den Signalrauschabstand am Ausgang zu erhöhen.</answer>
+      <answer correct="no">um die erforderliche Übertragungsbandbreite zu reduzieren.</answer>
+      <answer correct="no">um die tiefen Frequenzen anzuheben.</answer>
+      <answer correct="no">um die hohen Frequenzanteile zu unterdrücken.</answer>
+    </question>
+    

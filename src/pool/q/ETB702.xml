@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB702" name="E/TB702">
+      <text>
+        <p>Ein periodische Schwingung, die wie das folgende Signal aussieht, besteht</p>
+        <img src="ETB702" />
+      </text>
+      <answer correct="yes">aus der Grundwelle mit ganzzahligen Vielfachen dieser Frequenz (Oberwellen).</answer>
+      <answer correct="no">aus der Grundwelle und Teilen dieser Frequenz (Unterwellen).</answer>
+      <answer correct="no">aus nur einer einzigen Frequenz.</answer>
+      <answer correct="no">aus der Grundwelle mit vielen Nebenfrequenzen.</answer>
+    </question>
+    

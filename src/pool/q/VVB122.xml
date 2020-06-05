@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVB122" name="V/VB122">
+      <text>
+        <p>Was ist eine HAREC?</p>
+      </text>
+      <answer correct="yes">Eine harmonisierte Amateurfunkprüfungsbescheinigung gemäß der CEPT-Empfehlung T/R 61-02 und ein Amateurfunkzeugnis der Klasse A.</answer>
+      <answer correct="no">Eine CEPT-Amateurfunkgenehmigung gemäß der CEPT-Empfehlung T/R 61-01.</answer>
+      <answer correct="no">Eine CEPT-Novice-Amateurfunk-Prüfungsbescheinigung gemäß dem ERC-Report 32 und ein Amateurfunkzeugnis der Klasse E.</answer>
+      <answer correct="no">Eine CEPT-Novice-Amateurfunkgenehmigung gemäß der ECC-Empfehlung (05)06.</answer>
+    </question>
+    

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVC105" name="V/VC105">
+      <text>
+        <p>Nach dem Amateurfunkgesetz ist ein Funkamateur der Inhaber eines Amateurfunkzeugnisses oder einer harmonisierten Prüfungsbescheinigung der sich</p>
+      </text>
+      <answer correct="yes">lediglich aus persönlicher Neigung und nicht aus gewerblich-wirtschaftlichem Interesse mit dem Amateurfunkdienst befasst.</answer>
+      <answer correct="no">aus persönlicher Neigung und in Verfolgung anderer Zwecke mit dem Amateurfunkdienst befasst.</answer>
+      <answer correct="no">aus persönlicher Neigung mit dem Amateurfunkdienst zu wirtschaftlichen Zwecken befasst.</answer>
+      <answer correct="no">nicht aus persönlicher Neigung mit Funktechnik und Funkbetrieb befasst und sich hierzu keiner kommerziellen Technik bedient.</answer>
+    </question>
+    

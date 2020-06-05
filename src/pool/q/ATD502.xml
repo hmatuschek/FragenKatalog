@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD502" name="A/TD502">
+      <text>
+        <p>Bei dieser Schaltung ist der mit X bezeichnete Anschluss</p>
+        <img src="Atd502" />
+      </text>
+      <answer correct="yes">der Ausgang für eine Regelspannung.</answer>
+      <answer correct="no">der Ausgang für das NF-Signal.</answer>
+      <answer correct="no">der Ausgang für das Oszillatorsignal.</answer>
+      <answer correct="no">der Ausgang für das ZF-Signal.</answer>
+    </question>
+    

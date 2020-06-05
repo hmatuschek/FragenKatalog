@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE306" name="B/BE306">
+      <text>
+        <p>Was versteht man unter "Forwarding" im Packet-Radio-Betrieb?</p>
+      </text>
+      <answer correct="yes">Automatisches Weiterleiten von Nachrichten an andere Mailboxen</answer>
+      <answer correct="no">Das Übersenden von QSL-Karten</answer>
+      <answer correct="no">Bevorzugtes Weiterleiten der eigenen Nachrichten</answer>
+      <answer correct="no">Bevorzugtes Weiterleiten von Nachrichten in englischer Sprache</answer>
+    </question>
+    

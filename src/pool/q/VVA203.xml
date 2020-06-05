@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVA203" name="V/VA203">
+      <text>
+        <p>Was ist eine Amateurfunkstelle im Sinne der Radio Regulations (VO Funk)?</p>
+      </text>
+      <answer correct="yes">Eine Funkstelle, die im Rahmen der Definition und der Regelungen des Amateurfunkdienstes in der VO Funk von einem Funkamateur betrieben wird.</answer>
+      <answer correct="no">Jede Funkstelle, die auf einer der im Frequenznutzungsplan für den Amateurfunkdienst ausgewiesenen Frequenzen betrieben werden kann.</answer>
+      <answer correct="no">Eine Funkstelle, die aus einer oder mehreren Sendefunkanlagen-, Empfangsfunkanlagen-, Antennenanlagen und Zusatzeinrichtungen besteht.</answer>
+      <answer correct="no">Jede Funkstelle, die von einer Person betrieben wird, die auch Funkamateur ist.</answer>
+    </question>
+    

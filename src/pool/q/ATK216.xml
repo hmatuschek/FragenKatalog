@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK216" name="A/TK216">
+      <text>
+        <p>Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden</p>
+      </text>
+      <answer correct="yes">mit keiner höheren Leistung zu senden, als für eine sichere Kommunikation unbedingt erforderlich ist.</answer>
+      <answer correct="no">nur mit effektiver Leistung zu senden.</answer>
+      <answer correct="no">die Benutzung der Fernseh-Frequenzbereiche zu vermeiden.</answer>
+      <answer correct="no">die Antenne unterhalb der Dachhöhe herabzulassen.</answer>
+    </question>
+    

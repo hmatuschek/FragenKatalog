@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD305" name="A/TD305">
+      <text>
+        <p>
+          Wie groß ist die Spannung am Siebkondensator C
+          <sub>s</sub>
+           im Leerlauf, wenn die primäre Trafospannung 230 Volt und das Windungsverhältnis 8:1 beträgt?
+          <br />
+          Die Spannung beträgt etwa
+        </p>
+        <img src="Atd305" />
+      </text>
+      <answer correct="yes">40,7 Volt.</answer>
+      <answer correct="no">20,3 Volt.</answer>
+      <answer correct="no">28,8 Volt.</answer>
+      <answer correct="no">57,5 Volt.</answer>
+    </question>
+    

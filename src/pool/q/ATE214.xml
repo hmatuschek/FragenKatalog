@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE214" name="A/TE214">
+      <text>
+        <p>Am Spektrumanalysator zeigt ein FM-Sender bei der Modulation mit einem 1-kHz-Ton die erste Trägernullstelle. Wie groß ist der Spitzenhub?</p>
+      </text>
+      <answer correct="yes">2,4 kHz</answer>
+      <answer correct="no">1,7 kHz</answer>
+      <answer correct="no">4,8 kHz</answer>
+      <answer correct="no">3,4 kHz</answer>
+    </question>
+    

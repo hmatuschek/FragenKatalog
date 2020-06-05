@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="VVE145" name="V/VE145">
+      <text>
+        <p>In welchem Amateurfunkfrequenzbereich beträgt die maximal zulässige belegte Bandbreite einer Aussendung 7 kHz?</p>
+      </text>
+      <answer correct="yes">28000 - 29700 kHz</answer>
+      <answer correct="no">14000 - 14350 kHz</answer>
+      <answer correct="no">21000 - 21450 kHz</answer>
+      <answer correct="no">10100 - 10150 kHz</answer>
+    </question>
+    

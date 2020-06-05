@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETB601" name="E/TB601">
+      <text>
+        <p>Welches ist die Einheit der Wellenlänge?</p>
+      </text>
+      <answer correct="yes">m</answer>
+      <answer correct="no">m/s</answer>
+      <answer correct="no">Hz</answer>
+      <answer correct="no">s/m</answer>
+    </question>
+    

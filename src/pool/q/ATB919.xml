@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB919" name="A/TB919">
+      <text>
+        <p>Ein HF-Verstärker ist an eine 12,5-V-Gleichstrom-Versorgung angeschlossen. Wenn die HF-Ausgangsleistung des Verstärkers 90 W beträgt, zeigt das an die Stromversorgung angeschlossene Amperemeter 16 A an. Der Wirkungsgrad des Verstärkers beträgt</p>
+      </text>
+      <answer correct="yes">45 %.</answer>
+      <answer correct="no">55 %.</answer>
+      <answer correct="no">100 %.</answer>
+      <answer correct="no">222 %.</answer>
+    </question>
+    

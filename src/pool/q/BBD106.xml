@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBD106" name="B/BD106">
+      <text>
+        <p>Was bedeuten die Rufzeichenzusätze "/p" und "/m" bei einer Amateurfunkstelle?</p>
+      </text>
+      <answer correct="yes">"/p" bedeutet, dass es sich um eine tragbare oder vorübergehend ortsfest betriebene Amateurfunkstelle handelt, und "/m" bedeutet, dass es sich um eine bewegliche Amateurfunkstelle in einem Landfahrzeug oder an Bord eines Wasserfahrzeugs auf Binnengewässern handelt.</answer>
+      <answer correct="no">"/p" bedeutet, dass es sich um eine tragbare Amateurfunkstelle handelt, und "/m" bedeutet, dass die Amateurfunkstelle vorübergehend ortsfest betrieben wird.</answer>
+      <answer correct="no">"/p" bedeutet, dass die Amateurfunkstelle tragbar oder vorübergehend ortsfest an einem Ort mit exterritorialem Status betrieben wird, und "/m" bedeutet, dass die Amateurfunkstelle an Bord eines Wasserfahrzeuges betrieben wird, das sich auf See auf Binnengewässern befindet.</answer>
+      <answer correct="no">"/p" bedeutet, dass die Amateurfunkstelle vorübergehend ortsfest im benachbarten Ausland betrieben wird, und "/m" bedeutet, dass die Amateurfunkstelle an Bord eines Wasserfahrzeugs betrieben wird, das sich auf See oder in einem Landfahrzeug befindet.</answer>
+    </question>
+    

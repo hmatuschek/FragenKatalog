@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATG215" name="A/TG215">
+      <text>
+        <p>Wie arbeitet die Frequenzvervielfachung?</p>
+      </text>
+      <answer correct="yes">Das Signal wird einer nicht linearen Verzerrerstufe zugeführt und die gewünschte Oberwelle beziehungsweise Harmonische ausgefiltert.</answer>
+      <answer correct="no">Das jeweils um plus und minus 90° phasenverschobene Signal wird einem additiven Mischer zugeführt, der die gewünschte Oberwelle beziehungsweise Harmonische erzeugt.</answer>
+      <answer correct="no">Das Signal wird gefiltert und einem Ringmischer zugeführt, der die gewünschte Oberwelle beziehungsweise Harmonische erzeugt.</answer>
+      <answer correct="no">Das jeweils um plus und minus 90° phasenverschobene Signal wird einem multiplikativen Mischer zugeführt, der die gewünschte Oberwelle beziehungsweise Harmonische erzeugt.</answer>
+    </question>
+    

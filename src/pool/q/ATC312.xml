@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATC312" name="A/TC312">
+      <text>
+        <p>Wie groß ist die Induktivität einer Spule mit 14 Windungen, die auf einen Kern mit einem AL-Wert von 1,5 gewickelt ist?</p>
+      </text>
+      <answer correct="yes">0,294 μH</answer>
+      <answer correct="no">2,94 μH</answer>
+      <answer correct="no">29,4 nH</answer>
+      <answer correct="no">2,94 nH</answer>
+    </question>
+    

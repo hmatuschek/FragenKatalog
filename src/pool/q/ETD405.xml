@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETD405" name="E/TD405">
+      <text>
+        <p>Worauf beruht die Verstärkerwirkung von Elektronenröhren?</p>
+      </text>
+      <answer correct="yes">Das von der Gitterspannung hervorgerufene elektrische Feld steuert den Anodenstrom.</answer>
+      <answer correct="no">Die Anodenspannung steuert das magnetische Feld an der Anode und damit den Anodenstrom.</answer>
+      <answer correct="no">Die Heizspannung steuert das elektrische Feld an der Kathode und damit den Anodenstrom.</answer>
+      <answer correct="no">Die Katodenvorspannung steuert das magnetische Feld an der Kathode und damit den Gitterstrom.</answer>
+    </question>
+    

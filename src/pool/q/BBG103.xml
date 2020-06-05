@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBG103" name="B/BG103">
+      <text>
+        <p>Was verstehen Funkamateure unter einem Logbuch (logbook)?</p>
+      </text>
+      <answer correct="yes">Es ist das Stationstagebuch, das ein Funkamateur freiwillig führt oder in besonderen Fällen führen muss.</answer>
+      <answer correct="no">Es ist das Stationstagebuch, das jeder Funkamateur führen muss.</answer>
+      <answer correct="no">Es ist die Dokumentation aller Geräte und Antennen des Funkamateurs.</answer>
+      <answer correct="no">Es ist die Dokumentation über die Einhaltung der Sicherheitsabstände bezüglich des Personenschutzes.</answer>
+    </question>
+    

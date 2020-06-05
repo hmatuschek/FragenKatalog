@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD406" name="A/TD406">
+      <text>
+        <p>
+          Was lässt sich über die Wechselspannungsverstärkung v
+          <sub>U</sub>
+           und die Phasenverschiebung φ zwischen Ausgangs- und Eingangsspannung dieser Schaltung aussagen?
+        </p>
+        <img src="Atd401" />
+      </text>
+      <answer correct="yes">
+        v
+        <sub>U</sub>
+         ist groß (z.B. 100 ... 300) und φ=180°.
+      </answer>
+      <answer correct="no">
+        v
+        <sub>U</sub>
+         ist groß (z.B. 100 ... 300) und φ=0°.
+      </answer>
+      <answer correct="no">
+        v
+        <sub>U</sub>
+         ist klein (z.B. 0,9 .... 0,98) und φ=180°.
+      </answer>
+      <answer correct="no">
+        v
+        <sub>U</sub>
+         ist klein (z.B. 0,9 .... 0,98) und φ=0°.
+      </answer>
+    </question>
+    

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD312" name="A/TD312">
+      <text>
+        <p>Die Ausgangsspannung zwischen A und B in der Schaltung beträgt ungefähr</p>
+        <img src="Atd312" />
+      </text>
+      <answer correct="yes">5 Volt.</answer>
+      <answer correct="no">11,2 Volt.</answer>
+      <answer correct="no">6,2 Volt.</answer>
+      <answer correct="no">5,6 Volt.</answer>
+    </question>
+    

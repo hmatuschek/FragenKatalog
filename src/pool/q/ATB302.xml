@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATB302" name="A/TB302">
+      <text>
+        <p>Eine Blockbatterie hat eine Klemmenspannung von 9 V (EMK). Wie groß ist die elektrische Feldstärke zwischen den beiden Polen der Batterie bei einem Polabstand von 0,6 cm?</p>
+      </text>
+      <answer correct="yes">Zirka 1500 V/m</answer>
+      <answer correct="no">Zirka 150 V/m</answer>
+      <answer correct="no">Zirka 15 V/m</answer>
+      <answer correct="no">Zirka 5,4 V/m</answer>
+    </question>
+    

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATE105" name="A/TE105">
+      <text>
+        <p>Welches Bild stellt die Übermodulation eines AM-Signals dar?</p>
+      </text>
+      <answer correct="yes">
+        <img src="Ate105a" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate105b" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate105c" />
+      </answer>
+      <answer correct="no">
+        <img src="Ate105d" />
+      </answer>
+    </question>
+    

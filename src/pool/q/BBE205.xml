@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="BBE205" name="B/BE205">
+      <text>
+        <p>Eine "seltene" Station, die auf 14205 kHz "CQ" gerufen hat, sagt am Ende ihres CQ-Rufes "tuning 290-300 up". Was tun Sie,wenn Sie diese Station anrufen wollen?</p>
+      </text>
+      <answer correct="yes">Ich muss zwischen 14290 und 14300 kHz rufen.</answer>
+      <answer correct="no">Ich sende auf 14205 kHz und höre auf 14290 kHz.</answer>
+      <answer correct="no">Die Funkstelle stimmt auf 14290 kHz ab.</answer>
+      <answer correct="no">Ich muss auf 14290 kHz oder darüber hören.</answer>
+    </question>
+    

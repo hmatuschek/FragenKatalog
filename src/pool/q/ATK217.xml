@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATK217" name="A/TK217">
+      <text>
+        <p>Falls sich eine Sendeantenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Freileitung befindet,</p>
+      </text>
+      <answer correct="yes">können HF-Spannungen ins Netz einkoppeln.</answer>
+      <answer correct="no">können harmonische Schwingungen erzeugt werden.</answer>
+      <answer correct="no">könnte erhebliche Überspannung im Netz erzeugt werden.</answer>
+      <answer correct="no">kann 50-Hz-Modulation beim Sendesignal auftreten.</answer>
+    </question>
+    

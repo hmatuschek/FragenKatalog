@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATD229" name="A/TD229">
+      <text>
+        <p>Das folgende Bild zeigt ein induktiv gekoppeltes Bandfilter und vier seiner möglichen Übertragungskurven (a bis d). Welche der folgenden Aussagen ist richtig?</p>
+        <img src="Atd229" />
+      </text>
+      <answer correct="yes">Bei der c-Kurve ist die Kopplung loser als bei der a-Kurve.</answer>
+      <answer correct="no">Bei der b-Kurve ist die Kopplung loser als bei der c-Kurve.</answer>
+      <answer correct="no">Bei der a-Kurve ist die Kopplung loser als bei der c-Kurve.</answer>
+      <answer correct="no">Bei der b-Kurve ist die Kopplung loser als bei der d-Kurve.</answer>
+    </question>
+    

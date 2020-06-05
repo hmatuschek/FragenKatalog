@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATI222" name="A/TI222">
+      <text>
+        <p>
+          Die kritische Grenzfrequenz (F
+          <sub>krit</sub>
+          ) ist die
+        </p>
+      </text>
+      <answer correct="yes">höchste Frequenz, die bei senkrechter Abstrahlung von der Ionosphäre noch reflektiert wird.</answer>
+      <answer correct="no">niedrigste Frequenz, die bei senkrechter Abstrahlung von der Ionosphäre noch reflektiert wird.</answer>
+      <answer correct="no">höchste Frequenz, die bei waagerechter Abstrahlung von der Ionosphäre noch reflektiert wird.</answer>
+      <answer correct="no">niedrigste Frequenz, die bei waagerechter Abstrahlung von der Ionosphäre noch reflektiert wird.</answer>
+    </question>
+    

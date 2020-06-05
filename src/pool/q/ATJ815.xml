@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATJ815" name="A/TJ815">
+      <text>
+        <p>Welches Hilfsmittel sollten Sie bei präzisen Frequenzmessungen benutzen?</p>
+      </text>
+      <answer correct="yes">Einen Frequenzzähler mit stabiler Zeitbasis.</answer>
+      <answer correct="no">Einen KW-Empfänger mit Frequenzanzeige.</answer>
+      <answer correct="no">Ein Digital-Multimeter in der Stellung Frequenzmessung.</answer>
+      <answer correct="no">Einen Absorptionsfrequenzmesser oder ein Dipmeter.</answer>
+    </question>
+    

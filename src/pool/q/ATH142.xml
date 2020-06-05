@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ATH142" name="A/TH142">
+      <text>
+        <p>An welchem Element einer Yagi-Antenne erfolgt die Energieeinspeisung? Sie erfolgt</p>
+      </text>
+      <answer correct="yes">am Dipol.</answer>
+      <answer correct="no">am Direktor.</answer>
+      <answer correct="no">am Reflektor.</answer>
+      <answer correct="no">an Dipol und Reflektor.</answer>
+    </question>
+    

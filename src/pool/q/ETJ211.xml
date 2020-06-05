@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<question id="ETJ211" name="E/TJ211">
+      <text>
+        <p>An welchem Punkt sollte das Stehwellenmessgerät eingeschleift werden, um zu prüfen, ob der Sender gut an die Antennenanlage angepasst ist?</p>
+        <img src="ETJ211" />
+      </text>
+      <answer correct="yes">Punkt 1</answer>
+      <answer correct="no">Punkt 2</answer>
+      <answer correct="no">Punkt 3</answer>
+      <answer correct="no">Punkt 4</answer>
+    </question>
+    
