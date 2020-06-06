@@ -10,7 +10,7 @@
   <xsl:template match="/">
   <quiz>
     <question type="category"><category><text>$course$/<xsl:copy-of select="$chapter"/></text></category></question>
-    <xsl:apply-templates select="/AfuP/catalog[@id='moltrecht']/catalog[@id=$book]/catalog[@id=$chapter]"/>
+    <xsl:apply-templates select="/AfuP/catalog[@id='Moltrecht']/catalog[@id=$book]/catalog[@id=$chapter]"/>
   </quiz>
   </xsl:template>
 </xsl:stylesheet>

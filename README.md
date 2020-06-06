@@ -10,10 +10,10 @@ Des weiteren werden XSLT-Templates für verschiedene Ausgabeformate angeboten.
   ausgeben können
   * JSON, unter `/json` finden Sie Templates, die den Fragenkatalog in JSON wandeln. Dies ist vor
   allem für JS Answendungen und den Datenbankimport interessant.
-  * Moodle, unter `\moodle` finden Sie die Templates, die den Fragenkatalog in das Moodle-Quiz XML
+  * Moodle, unter `/moodle` finden Sie die Templates, die den Fragenkatalog in das Moodle-Quiz XML
   format übertragen. Damit lassen sich die Prüfungsfragen als Fragesammlung in Moodle importieren
   und nutzen. Dies ist vor allem für Hochschulamateurfunkkurse interessant.
-  
+
 ## Deployment
 Die Anwendungen sind alle statische HTML/JS Webseiten. Ein beherztes
 ```
