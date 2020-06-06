@@ -1,5 +1,8 @@
 all: genA genE genBV
 
+clean:
+	rm -f *.xml
+
 genE: E01.xml E02.xml E03.xml E04.xml E05.xml E06.xml E07.xml E08.xml E09.xml \
 	E10.xml E11.xml E12.xml E13.xml E14.xml E15.xml E16.xml E17.xml E18.xml
 

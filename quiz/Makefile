@@ -1,5 +1,9 @@
 all: deploy
 
+clean:
+	rm -f deploy/*.json
+	rm -f deploy/mithril.js
+
 deployE: E01.json E02.json E03.json E04.json E05.json E06.json E07.json E08.json E09.json \
 		E10.json E11.json E12.json E13.json E14.json E15.json E16.json E17.json E18.json
 
