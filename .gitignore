@@ -1,3 +1,4 @@
 *.json
 quiz/deploy/mithril.js
+moodle/*.xml
 fragen.xml
