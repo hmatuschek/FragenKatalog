@@ -8,4 +8,3 @@
       <answer correct="no">Es muss über einen Anschluss für Mikrofon und Lautsprecher verfügen, an dem ein Terminal-Node-Controller (TNC) oder Modem für 9600 Baud angeschlossen werden kann.</answer>
       <answer correct="no">Es muss den NF-Frequenzbereich um 9600 Hz linear übertragen können und ein TX-Delay von kleiner 1 ms haben.</answer>
     </question>
-    

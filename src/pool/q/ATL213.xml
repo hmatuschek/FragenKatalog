@@ -9,4 +9,3 @@
       <answer correct="no">Im Bereich von Amateurfunkstellen ist der Unterschied zwischen Nah- und Fernfeld so gering, dass obige Formel, die zwar nur im Fernfeld gilt, trotzdem für alle Raumbereiche verwendet werden kann.</answer>
       <answer correct="no">Die Formel gilt nur für Abstände d&gt;λ/(2·π) bei horizontal polarisierten Antennen. Bei vertikal oder zirkular polarisierten Antennen und in kürzerem Abstand zur Antenne muss der Sicherheitsabstand durch andere Methoden ermittelt werden. Dies können Messungen, Simulationsrechnungen,  Nahfeldberechnungen oder Verfahren sein, die Situation im reaktiven Nahfeld berücksichtigen.</answer>
     </question>
-    

@@ -13,7 +13,7 @@ for img in root.findall("./pool/img"):
     if exists(fn):
         print("Warning overriding image {0}".format(fn))
     f = open(fn, "wb")
-    f.write(b64decode(img.text));
+    f.write(b64decode(img.text[2:-1]));
     f.close();
 
 for q in root.findall("./pool/question"):
@@ -22,16 +22,5 @@ for q in root.findall("./pool/question"):
         print("Warning overriding question {0}".format(fn))
     ET.ElementTree(q).write(fn, encoding="utf-8", xml_declaration=True)
 
-def recCatWalker(cat, p):
-    np = join(p, cat.attrib["id"])
-    makedirs(np, exist_ok=True)
-    for q in cat.findall("q"):
-        src = relpath(join(path, "pool", "q", q.attrib["ref"]+".xml"), np)
-        dest = join(np, q.attrib["ref"]+".xml")
-        if not exists(dest):
-            symlink(src, dest)
-    for c in cat.findall("catalog"):
-        recCatWalker(c, np)
-
-for cat in root.findall("./catalog"):
-    recCatWalker(cat, join(path,"catalog"))
+for cat in root.findall("./catalog/catalog"):
+    ET.ElementTree(cat).write(join(path,"catalog",cat.get("id")+".xml"), encoding="utf-8", xml_declaration=True)

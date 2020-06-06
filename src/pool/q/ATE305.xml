@@ -8,4 +8,3 @@
       <answer correct="no">Sender und Empfänger werden nach jedem einzelnen Zeichen aufeinander synchronisiert. Die Zeichen enthalten Start- und Stoppbit, die zur Synchronisation dienen.</answer>
       <answer correct="no">Sender und Empfänger synchronisieren ihre Taktfrequenzen mit einem Normalfrequenzsender.</answer>
     </question>
-    

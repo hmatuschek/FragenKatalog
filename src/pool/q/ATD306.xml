@@ -9,4 +9,3 @@
       <answer correct="no">Sinkt die Ausgangsspannung, so fließt durch Transistor T1 weniger Strom. Durch den sich vermindernden Kollektorstrom von T1 steigt aber der Spannungsabfall an R1/R2 und die Basisspannung von T2 über die Z-Diode Z1. Somit steigt auch die Emitterspannung von T1.</answer>
       <answer correct="no">Sinkt die Ausgangsspannung bei Belastung, so fließt durch den Transistor T1 mehr Belastungsstrom. Der Transistor T2 erhält über Z1 weniger Spannung und der Spannungsabfall am Spannungsteiler R1/R2 nimmt zu. Dabei sinkt die Basisspannung von T1 und die Emitterspannung steigt wieder.</answer>
     </question>
-    

@@ -8,4 +8,3 @@
       <answer correct="no">Bei zu hoher Grenzfrequenz stellt sich die Ausgangsfrequenz bei einer Frequenzumschaltung zu langsam, bzw. erst nach mehreren Überschwingern richtig ein. Dies tritt z.B. bei unterschiedlicher Sende- und Empfangsfrequenz beim Betrieb über Relais- oder Digipeater auf.</answer>
       <answer correct="no">Der Tiefpass in einer PLL kann keinen Einfluss auf das Ausgangssignal ausüben, weil er nur gleichspannungsseitig eingesetzt ist und daher nur auf die Regelspannung wirken kann.</answer>
     </question>
-    

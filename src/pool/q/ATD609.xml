@@ -8,4 +8,3 @@
       <answer correct="no">Die Schleifenverstärkung des Signalwegs im Oszillator muss kleiner als 1 sein, und das entstehende Oszillatorsignal darf auf dem Rückkopplungsweg nicht in der Phase gedreht werden.</answer>
       <answer correct="no">Die Schleifenverstärkung des Signalwegs im Oszillator muss größer als 1 sein, und das Ausgangssignal muss über den Rückkopplungsweg in der Phase so gedreht werden, dass es gegenphasig zum Ausgangspunkt zurückgeführt wird.</answer>
     </question>
-    

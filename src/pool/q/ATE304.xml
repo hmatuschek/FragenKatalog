@@ -8,4 +8,3 @@
       <answer correct="no">Die Daten werden parallel ausgesendet. Der Takt wird im Empfänger aus den Daten zurückgewonnen.</answer>
       <answer correct="no">Die Daten werden seriell ausgesendet. Es ist ein asynchrones Verfahren.</answer>
     </question>
-    
