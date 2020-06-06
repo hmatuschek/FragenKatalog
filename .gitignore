@@ -1,3 +1,4 @@
 *.json
 quiz/deploy/mithril.js
 fragen.xml
+fragen.in.xml

@@ -11,9 +11,11 @@ if len(argv) < 2:
     print("USAGE combine.py OUTPUT.xml")
     sys.exit(-1)
 
-path = abspath(dirname(__name__))
+path = abspath(dirname(__file__))
 root = ET.Element("AfuP");
 pool = ET.SubElement(root, "pool")
+
+print ("Exec combine in {0}".format(path))
 
 for img in glob(join(path, "pool", "img", "*.*")):
     fname = basename(img)
