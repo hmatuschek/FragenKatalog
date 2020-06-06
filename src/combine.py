@@ -23,23 +23,14 @@ for img in glob(join(path, "pool", "img", "*.*")):
     el.set("id",fname.split(".")[0])
     el.set("type", fname.split(".")[1])
     data = open(img, "rb").read();
-    el.text = str(b64encode(data));
+    el.text = b64encode(data).decode("utf-8");
 
 for q in glob(join(path, "pool", "q", "*.xml")):
     el = ET.parse(q).getroot()
     pool.append(el)
 
-def recGenCat(parent, p):
-    name = basename(p);
-    cat = ET.SubElement(parent, "catalog")
-    cat.set("id", name)
-    # process questions
-    for e in listdir(p):
-        if islink(join(p,e)):
-            el = ET.SubElement(cat, "q");
-            el.set("ref", basename(e).split(".")[0])
-        if isdir(join(p,e)):
-            recGenCat(cat, join(p, e))
-recGenCat(root, join(path,"catalog"))
+for cat in glob(join(path, "catalog", "*.xml")):
+    el = ET.parse(cat).getroot()
+    root.append(el)
 
 ET.ElementTree(root).write(argv[1], encoding="utf-8", xml_declaration=True)
