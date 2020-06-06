@@ -13,4 +13,4 @@ genBV: BV01.xml BV02.xml BV03.xml BV04.xml BV05.xml BV06.xml BV07.xml BV08.xml B
 	BV10.xml BV11.xml BV12.xml BV13.xml BV14.xml
 
 %.xml:
-	xsltproc --stringparam catalog moltrecht --stringparam chapter $(basename $(notdir $@)) -o $@ moodle.xslt ../fragen.xml
+	xsltproc --stringparam catalog Moltrecht --stringparam chapter $(basename $(notdir $@)) -o $@ moodle.xslt ../fragen.xml
